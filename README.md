@@ -5,7 +5,7 @@ This project makes use of code to transform data between different geographies w
 
 # Victorian Districts
 
-If you are looking for census data by 2022 Victorian Districts, click (here)[https://github.com/jaketclarke/census-2021/census-data-sed-victoria]
+If you are looking for census data by 2022 Victorian Districts, click (here)[https://github.com/jaketclarke/census-2021/tree/main/census-data-sed-victoria]
 
 The sed-victoria directory includes files calculated for the districts which will be used for the 2022 election.
 
