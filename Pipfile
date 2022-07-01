@@ -8,6 +8,7 @@ six = "*"
 pyfiglet = "*"
 termcolor = "*"
 pandas = "*"
+numpy = "*"
 
 [dev-packages]
 
