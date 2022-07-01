@@ -33,25 +33,29 @@ def copy_files(tableid, destination):
     shutil.copyfile(source, destination)
 
 # copy single files
-# for tableid in ('G05','G13','G16','G17','G18','G19','G20','G22','G23','G25','G27'
-# ):
-#     copy_files(tableid, 'census-data-sed-victoria-input/P_Tot_Tot/')
+for tableid in ('G05','G13','G16','G17','G18','G19','G20','G22','G23','G25','G27'
+):
+    copy_files(tableid, 'census-data-sed-victoria-input/P_Tot_Tot/')
 
-# combine doubles
-# for tableid in ('G09A', 'G09B', 'G09C') # loop like this for ease later
-
-# import pandas pandas. merge dedup sa1 column 
-
-tableid='G09'
 tableids = ['G09A', 'G09B', 'G09C', 'G09D', 'G09E', 'G09F', 'G09G', 'G09H']
 
-# get all dataframes in a list
-dataframes = []
-for id in tableids:
-    path = get_source_table(id)
-    data = pd.read_csv(path)
-    dataframes.append(data)
+def combine_tables(tableids):
+    # get the combined table name eg G09 from G09A
+    tableid = tableids[0][:-1]
+    print(tableid)
+    
+    # get all dataframes in a list
+    dataframes = []
+    for id in tableids:
+        path = get_source_table(id)
+        data = pd.read_csv(path)
+        dataframes.append(data)
 
-# merge together on sa1 column
-merge = ft.reduce(lambda left, right: pd.merge(left, right, on='SA1_CODE_2021'), dataframes)
-merge.to_csv(get_destination_table(tableid), index=False)
+    # merge together on sa1 column
+    merge = ft.reduce(lambda left, right: pd.merge(left, right, on='SA1_CODE_2021'), dataframes)
+    merge.to_csv(get_destination_table(tableid), index=False)
+
+    print(f'output table {tableid}\r\n')
+
+# run merge for multiple tables
+combine_tables(tableids)
