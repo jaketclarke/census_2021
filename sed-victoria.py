@@ -60,21 +60,33 @@ if not os.path.exists(f'census-data{os.sep}SA1{os.sep}AUS{os.sep}2021Census_G01_
     print('The census folder is likely empty')
 
 # tables with P_Tot_Tot as proportions
-
 total_name = 'P_Tot_Tot'
 
 # single tables we just need to copy
-for tableid in ('G05','G18','G22','G23','G25'):
+for tableid in (['G05','G18','G22','G23','G25']):
     copy_files(tableid, total_name)
     print(f'output table {tableid}\r\n')
-
 
 # tables split across multiple files
 # we combine together so the weighter has the denominator columnn for all of them
 combine_tables(['G09A', 'G09B', 'G09C', 'G09D', 'G09E', 'G09F', 'G09G', 'G09H'], total_name)
-combine_tables(['G13A', 'G13B', 'G13C', 'G13D', 'G13E'], total_name) ## come and check this one something odd going on
+combine_tables(['G13A', 'G13B', 'G13C', 'G13D', 'G13E'], total_name)
 combine_tables(['G16A', 'G16B'], total_name)
 combine_tables(['G17A', 'G17B', 'G17C'], total_name)
 combine_tables(['G19A', 'G19B', 'G19C'], total_name)
 combine_tables(['G20A', 'G20B'], total_name)
-combine_tables(['G27A', 'G27B'], total_name) # come back and check
+combine_tables(['G27A', 'G27B'], total_name)
+
+
+# tables with P_Tot_Tot as proportions
+total_name = 'P_Tot_Total'
+
+# single tables we just need to copy
+for tableid in (['G06']):
+    copy_files(tableid, total_name)
+    print(f'output table {tableid}\r\n')
+
+# tables split across multiple files
+# we combine together so the weighter has the denominator columnn for all of them
+combine_tables(['G24A', 'G24B'], total_name)
+combine_tables(['G26A', 'G26B'], total_name)
