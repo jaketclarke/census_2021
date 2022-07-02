@@ -1,0 +1,1497 @@
+district,census_variable,value
+Albert Park,Intct_fam_no_otr_chld_pre_Fam_n,4897.0
+Ashwood,Intct_fam_no_otr_chld_pre_Fam_n,10645.0
+Bass,Intct_fam_no_otr_chld_pre_Fam_n,6059.0
+Bayswater,Intct_fam_no_otr_chld_pre_Fam_n,8290.0
+Bellarine,Intct_fam_no_otr_chld_pre_Fam_n,6573.0
+Benambra,Intct_fam_no_otr_chld_pre_Fam_n,6031.0
+Bendigo East,Intct_fam_no_otr_chld_pre_Fam_n,6859.0
+Bendigo West,Intct_fam_no_otr_chld_pre_Fam_n,5273.0
+Bentleigh,Intct_fam_no_otr_chld_pre_Fam_n,10247.0
+Berwick,Intct_fam_no_otr_chld_pre_Fam_n,11948.0
+Box Hill,Intct_fam_no_otr_chld_pre_Fam_n,9613.0
+Brighton,Intct_fam_no_otr_chld_pre_Fam_n,7559.0
+Broadmeadows,Intct_fam_no_otr_chld_pre_Fam_n,8573.0
+Brunswick,Intct_fam_no_otr_chld_pre_Fam_n,5081.0
+Bulleen,Intct_fam_no_otr_chld_pre_Fam_n,9326.0
+Bundoora,Intct_fam_no_otr_chld_pre_Fam_n,8212.0
+Carrum,Intct_fam_no_otr_chld_pre_Fam_n,8515.0
+Caulfield,Intct_fam_no_otr_chld_pre_Fam_n,7288.0
+Clarinda,Intct_fam_no_otr_chld_pre_Fam_n,8821.0
+Cranbourne,Intct_fam_no_otr_chld_pre_Fam_n,11183.0
+Croydon,Intct_fam_no_otr_chld_pre_Fam_n,8344.0
+Dandenong,Intct_fam_no_otr_chld_pre_Fam_n,9230.0
+Eildon,Intct_fam_no_otr_chld_pre_Fam_n,6127.0
+Eltham,Intct_fam_no_otr_chld_pre_Fam_n,9094.0
+Essendon,Intct_fam_no_otr_chld_pre_Fam_n,7568.0
+Eureka,Intct_fam_no_otr_chld_pre_Fam_n,7486.0
+Euroa,Intct_fam_no_otr_chld_pre_Fam_n,5310.0
+Evelyn,Intct_fam_no_otr_chld_pre_Fam_n,8454.0
+Footscray,Intct_fam_no_otr_chld_pre_Fam_n,7172.0
+Frankston,Intct_fam_no_otr_chld_pre_Fam_n,5874.0
+Geelong,Intct_fam_no_otr_chld_pre_Fam_n,6857.0
+Gippsland East,Intct_fam_no_otr_chld_pre_Fam_n,4857.0
+Gippsland South,Intct_fam_no_otr_chld_pre_Fam_n,5444.0
+Glen Waverley,Intct_fam_no_otr_chld_pre_Fam_n,11159.0
+Greenvale,Intct_fam_no_otr_chld_pre_Fam_n,10746.0
+Hastings,Intct_fam_no_otr_chld_pre_Fam_n,6903.0
+Hawthorn,Intct_fam_no_otr_chld_pre_Fam_n,7739.0
+Ivanhoe,Intct_fam_no_otr_chld_pre_Fam_n,7841.0
+Kalkallo,Intct_fam_no_otr_chld_pre_Fam_n,13997.0
+Kew,Intct_fam_no_otr_chld_pre_Fam_n,9703.0
+Kororoit,Intct_fam_no_otr_chld_pre_Fam_n,11348.0
+Lara,Intct_fam_no_otr_chld_pre_Fam_n,6294.0
+Laverton,Intct_fam_no_otr_chld_pre_Fam_n,11257.0
+Lowan,Intct_fam_no_otr_chld_pre_Fam_n,5687.0
+Macedon,Intct_fam_no_otr_chld_pre_Fam_n,7151.0
+Malvern,Intct_fam_no_otr_chld_pre_Fam_n,6683.0
+Melbourne,Intct_fam_no_otr_chld_pre_Fam_n,4839.0
+Melton,Intct_fam_no_otr_chld_pre_Fam_n,9154.0
+Mildura,Intct_fam_no_otr_chld_pre_Fam_n,5786.0
+Mill Park,Intct_fam_no_otr_chld_pre_Fam_n,9209.0
+Monbulk,Intct_fam_no_otr_chld_pre_Fam_n,7962.0
+Mordialloc,Intct_fam_no_otr_chld_pre_Fam_n,9688.0
+Mornington,Intct_fam_no_otr_chld_pre_Fam_n,7351.0
+Morwell,Intct_fam_no_otr_chld_pre_Fam_n,5637.0
+Mulgrave,Intct_fam_no_otr_chld_pre_Fam_n,8716.0
+Murray Plains,Intct_fam_no_otr_chld_pre_Fam_n,5479.0
+Narracan,Intct_fam_no_otr_chld_pre_Fam_n,6583.0
+Narre Warren North,Intct_fam_no_otr_chld_pre_Fam_n,9937.0
+Narre Warren South,Intct_fam_no_otr_chld_pre_Fam_n,12413.0
+Nepean,Intct_fam_no_otr_chld_pre_Fam_n,4709.0
+Niddrie,Intct_fam_no_otr_chld_pre_Fam_n,8761.0
+Northcote,Intct_fam_no_otr_chld_pre_Fam_n,6987.0
+Oakleigh,Intct_fam_no_otr_chld_pre_Fam_n,9167.0
+Ovens Valley,Intct_fam_no_otr_chld_pre_Fam_n,5196.0
+Pakenham,Intct_fam_no_otr_chld_pre_Fam_n,8925.0
+Pascoe Vale,Intct_fam_no_otr_chld_pre_Fam_n,7780.0
+Point Cook,Intct_fam_no_otr_chld_pre_Fam_n,13387.0
+Polwarth,Intct_fam_no_otr_chld_pre_Fam_n,6945.0
+Prahran,Intct_fam_no_otr_chld_pre_Fam_n,3479.0
+Preston,Intct_fam_no_otr_chld_pre_Fam_n,7375.0
+Richmond,Intct_fam_no_otr_chld_pre_Fam_n,4008.0
+Ringwood,Intct_fam_no_otr_chld_pre_Fam_n,9788.0
+Ripon,Intct_fam_no_otr_chld_pre_Fam_n,5823.0
+Rowville,Intct_fam_no_otr_chld_pre_Fam_n,10030.0
+Sandringham,Intct_fam_no_otr_chld_pre_Fam_n,7615.0
+Shepparton,Intct_fam_no_otr_chld_pre_Fam_n,6740.0
+South Barwon,Intct_fam_no_otr_chld_pre_Fam_n,8038.0
+South-West Coast,Intct_fam_no_otr_chld_pre_Fam_n,6286.0
+St Albans,Intct_fam_no_otr_chld_pre_Fam_n,7562.0
+Sunbury,Intct_fam_no_otr_chld_pre_Fam_n,7234.0
+Sydenham,Intct_fam_no_otr_chld_pre_Fam_n,11284.0
+Tarneit,Intct_fam_no_otr_chld_pre_Fam_n,12787.0
+Thomastown,Intct_fam_no_otr_chld_pre_Fam_n,9815.0
+Warrandyte,Intct_fam_no_otr_chld_pre_Fam_n,10286.0
+Wendouree,Intct_fam_no_otr_chld_pre_Fam_n,5659.0
+Werribee,Intct_fam_no_otr_chld_pre_Fam_n,10045.0
+Williamstown,Intct_fam_no_otr_chld_pre_Fam_n,7879.0
+Yan Yean,Intct_fam_no_otr_chld_pre_Fam_n,9956.0
+Albert Park,Intct_fam_no_otr_chld_pre_Fam_pc,0.9082
+Ashwood,Intct_fam_no_otr_chld_pre_Fam_pc,0.9461
+Bass,Intct_fam_no_otr_chld_pre_Fam_pc,0.8537
+Bayswater,Intct_fam_no_otr_chld_pre_Fam_pc,0.8988
+Bellarine,Intct_fam_no_otr_chld_pre_Fam_pc,0.874
+Benambra,Intct_fam_no_otr_chld_pre_Fam_pc,0.849
+Bendigo East,Intct_fam_no_otr_chld_pre_Fam_pc,0.8547
+Bendigo West,Intct_fam_no_otr_chld_pre_Fam_pc,0.8637
+Bentleigh,Intct_fam_no_otr_chld_pre_Fam_pc,0.9315
+Berwick,Intct_fam_no_otr_chld_pre_Fam_pc,0.9015
+Box Hill,Intct_fam_no_otr_chld_pre_Fam_pc,0.9371
+Brighton,Intct_fam_no_otr_chld_pre_Fam_pc,0.9213
+Broadmeadows,Intct_fam_no_otr_chld_pre_Fam_pc,0.9341
+Brunswick,Intct_fam_no_otr_chld_pre_Fam_pc,0.933
+Bulleen,Intct_fam_no_otr_chld_pre_Fam_pc,0.9338
+Bundoora,Intct_fam_no_otr_chld_pre_Fam_pc,0.9253
+Carrum,Intct_fam_no_otr_chld_pre_Fam_pc,0.8646
+Caulfield,Intct_fam_no_otr_chld_pre_Fam_pc,0.9388
+Clarinda,Intct_fam_no_otr_chld_pre_Fam_pc,0.9061
+Cranbourne,Intct_fam_no_otr_chld_pre_Fam_pc,0.8808
+Croydon,Intct_fam_no_otr_chld_pre_Fam_pc,0.883
+Dandenong,Intct_fam_no_otr_chld_pre_Fam_pc,0.9001
+Eildon,Intct_fam_no_otr_chld_pre_Fam_pc,0.8604
+Eltham,Intct_fam_no_otr_chld_pre_Fam_pc,0.912
+Essendon,Intct_fam_no_otr_chld_pre_Fam_pc,0.9385
+Eureka,Intct_fam_no_otr_chld_pre_Fam_pc,0.8626
+Euroa,Intct_fam_no_otr_chld_pre_Fam_pc,0.8476
+Evelyn,Intct_fam_no_otr_chld_pre_Fam_pc,0.8761
+Footscray,Intct_fam_no_otr_chld_pre_Fam_pc,0.9311
+Frankston,Intct_fam_no_otr_chld_pre_Fam_pc,0.8561
+Geelong,Intct_fam_no_otr_chld_pre_Fam_pc,0.9008
+Gippsland East,Intct_fam_no_otr_chld_pre_Fam_pc,0.8563
+Gippsland South,Intct_fam_no_otr_chld_pre_Fam_pc,0.858
+Glen Waverley,Intct_fam_no_otr_chld_pre_Fam_pc,0.9438
+Greenvale,Intct_fam_no_otr_chld_pre_Fam_pc,0.9306
+Hastings,Intct_fam_no_otr_chld_pre_Fam_pc,0.8573
+Hawthorn,Intct_fam_no_otr_chld_pre_Fam_pc,0.9491
+Ivanhoe,Intct_fam_no_otr_chld_pre_Fam_pc,0.9336
+Kalkallo,Intct_fam_no_otr_chld_pre_Fam_pc,0.9188
+Kew,Intct_fam_no_otr_chld_pre_Fam_pc,0.9483
+Kororoit,Intct_fam_no_otr_chld_pre_Fam_pc,0.9003
+Lara,Intct_fam_no_otr_chld_pre_Fam_pc,0.8583
+Laverton,Intct_fam_no_otr_chld_pre_Fam_pc,0.9188
+Lowan,Intct_fam_no_otr_chld_pre_Fam_pc,0.8693
+Macedon,Intct_fam_no_otr_chld_pre_Fam_pc,0.9061
+Malvern,Intct_fam_no_otr_chld_pre_Fam_pc,0.9429
+Melbourne,Intct_fam_no_otr_chld_pre_Fam_pc,0.9431
+Melton,Intct_fam_no_otr_chld_pre_Fam_pc,0.8594
+Mildura,Intct_fam_no_otr_chld_pre_Fam_pc,0.8555
+Mill Park,Intct_fam_no_otr_chld_pre_Fam_pc,0.9161
+Monbulk,Intct_fam_no_otr_chld_pre_Fam_pc,0.8897
+Mordialloc,Intct_fam_no_otr_chld_pre_Fam_pc,0.9179
+Mornington,Intct_fam_no_otr_chld_pre_Fam_pc,0.8976
+Morwell,Intct_fam_no_otr_chld_pre_Fam_pc,0.8229
+Mulgrave,Intct_fam_no_otr_chld_pre_Fam_pc,0.9148
+Murray Plains,Intct_fam_no_otr_chld_pre_Fam_pc,0.8617
+Narracan,Intct_fam_no_otr_chld_pre_Fam_pc,0.8493
+Narre Warren North,Intct_fam_no_otr_chld_pre_Fam_pc,0.9076
+Narre Warren South,Intct_fam_no_otr_chld_pre_Fam_pc,0.8971
+Nepean,Intct_fam_no_otr_chld_pre_Fam_pc,0.8795
+Niddrie,Intct_fam_no_otr_chld_pre_Fam_pc,0.9283
+Northcote,Intct_fam_no_otr_chld_pre_Fam_pc,0.9387
+Oakleigh,Intct_fam_no_otr_chld_pre_Fam_pc,0.9419
+Ovens Valley,Intct_fam_no_otr_chld_pre_Fam_pc,0.8624
+Pakenham,Intct_fam_no_otr_chld_pre_Fam_pc,0.8693
+Pascoe Vale,Intct_fam_no_otr_chld_pre_Fam_pc,0.946
+Point Cook,Intct_fam_no_otr_chld_pre_Fam_pc,0.9071
+Polwarth,Intct_fam_no_otr_chld_pre_Fam_pc,0.8915
+Prahran,Intct_fam_no_otr_chld_pre_Fam_pc,0.9345
+Preston,Intct_fam_no_otr_chld_pre_Fam_pc,0.9242
+Richmond,Intct_fam_no_otr_chld_pre_Fam_pc,0.925
+Ringwood,Intct_fam_no_otr_chld_pre_Fam_pc,0.9289
+Ripon,Intct_fam_no_otr_chld_pre_Fam_pc,0.8415
+Rowville,Intct_fam_no_otr_chld_pre_Fam_pc,0.9175
+Sandringham,Intct_fam_no_otr_chld_pre_Fam_pc,0.9272
+Shepparton,Intct_fam_no_otr_chld_pre_Fam_pc,0.8705
+South Barwon,Intct_fam_no_otr_chld_pre_Fam_pc,0.8904
+South-West Coast,Intct_fam_no_otr_chld_pre_Fam_pc,0.8697
+St Albans,Intct_fam_no_otr_chld_pre_Fam_pc,0.8882
+Sunbury,Intct_fam_no_otr_chld_pre_Fam_pc,0.8887
+Sydenham,Intct_fam_no_otr_chld_pre_Fam_pc,0.9125
+Tarneit,Intct_fam_no_otr_chld_pre_Fam_pc,0.9103
+Thomastown,Intct_fam_no_otr_chld_pre_Fam_pc,0.9182
+Warrandyte,Intct_fam_no_otr_chld_pre_Fam_pc,0.9301
+Wendouree,Intct_fam_no_otr_chld_pre_Fam_pc,0.8565
+Werribee,Intct_fam_no_otr_chld_pre_Fam_pc,0.8856
+Williamstown,Intct_fam_no_otr_chld_pre_Fam_pc,0.9268
+Yan Yean,Intct_fam_no_otr_chld_pre_Fam_pc,0.8901
+Albert Park,Step_fam_no_otr_chld_pre_Fam_n,418.0
+Ashwood,Step_fam_no_otr_chld_pre_Fam_n,327.0
+Bass,Step_fam_no_otr_chld_pre_Fam_n,584.0
+Bayswater,Step_fam_no_otr_chld_pre_Fam_n,557.0
+Bellarine,Step_fam_no_otr_chld_pre_Fam_n,612.0
+Benambra,Step_fam_no_otr_chld_pre_Fam_n,510.0
+Bendigo East,Step_fam_no_otr_chld_pre_Fam_n,650.0
+Bendigo West,Step_fam_no_otr_chld_pre_Fam_n,463.0
+Bentleigh,Step_fam_no_otr_chld_pre_Fam_n,406.0
+Berwick,Step_fam_no_otr_chld_pre_Fam_n,771.0
+Box Hill,Step_fam_no_otr_chld_pre_Fam_n,392.0
+Brighton,Step_fam_no_otr_chld_pre_Fam_n,388.0
+Broadmeadows,Step_fam_no_otr_chld_pre_Fam_n,288.0
+Brunswick,Step_fam_no_otr_chld_pre_Fam_n,197.0
+Bulleen,Step_fam_no_otr_chld_pre_Fam_n,391.0
+Bundoora,Step_fam_no_otr_chld_pre_Fam_n,375.0
+Carrum,Step_fam_no_otr_chld_pre_Fam_n,800.0
+Caulfield,Step_fam_no_otr_chld_pre_Fam_n,320.0
+Clarinda,Step_fam_no_otr_chld_pre_Fam_n,468.0
+Cranbourne,Step_fam_no_otr_chld_pre_Fam_n,713.0
+Croydon,Step_fam_no_otr_chld_pre_Fam_n,588.0
+Dandenong,Step_fam_no_otr_chld_pre_Fam_n,503.0
+Eildon,Step_fam_no_otr_chld_pre_Fam_n,528.0
+Eltham,Step_fam_no_otr_chld_pre_Fam_n,512.0
+Essendon,Step_fam_no_otr_chld_pre_Fam_n,328.0
+Eureka,Step_fam_no_otr_chld_pre_Fam_n,632.0
+Euroa,Step_fam_no_otr_chld_pre_Fam_n,522.0
+Evelyn,Step_fam_no_otr_chld_pre_Fam_n,729.0
+Footscray,Step_fam_no_otr_chld_pre_Fam_n,305.0
+Frankston,Step_fam_no_otr_chld_pre_Fam_n,645.0
+Geelong,Step_fam_no_otr_chld_pre_Fam_n,514.0
+Gippsland East,Step_fam_no_otr_chld_pre_Fam_n,472.0
+Gippsland South,Step_fam_no_otr_chld_pre_Fam_n,544.0
+Glen Waverley,Step_fam_no_otr_chld_pre_Fam_n,400.0
+Greenvale,Step_fam_no_otr_chld_pre_Fam_n,420.0
+Hastings,Step_fam_no_otr_chld_pre_Fam_n,656.0
+Hawthorn,Step_fam_no_otr_chld_pre_Fam_n,269.0
+Ivanhoe,Step_fam_no_otr_chld_pre_Fam_n,330.0
+Kalkallo,Step_fam_no_otr_chld_pre_Fam_n,672.0
+Kew,Step_fam_no_otr_chld_pre_Fam_n,324.0
+Kororoit,Step_fam_no_otr_chld_pre_Fam_n,591.0
+Lara,Step_fam_no_otr_chld_pre_Fam_n,566.0
+Laverton,Step_fam_no_otr_chld_pre_Fam_n,474.0
+Lowan,Step_fam_no_otr_chld_pre_Fam_n,385.0
+Macedon,Step_fam_no_otr_chld_pre_Fam_n,422.0
+Malvern,Step_fam_no_otr_chld_pre_Fam_n,253.0
+Melbourne,Step_fam_no_otr_chld_pre_Fam_n,171.0
+Melton,Step_fam_no_otr_chld_pre_Fam_n,692.0
+Mildura,Step_fam_no_otr_chld_pre_Fam_n,516.0
+Mill Park,Step_fam_no_otr_chld_pre_Fam_n,411.0
+Monbulk,Step_fam_no_otr_chld_pre_Fam_n,575.0
+Mordialloc,Step_fam_no_otr_chld_pre_Fam_n,543.0
+Mornington,Step_fam_no_otr_chld_pre_Fam_n,525.0
+Morwell,Step_fam_no_otr_chld_pre_Fam_n,650.0
+Mulgrave,Step_fam_no_otr_chld_pre_Fam_n,394.0
+Murray Plains,Step_fam_no_otr_chld_pre_Fam_n,506.0
+Narracan,Step_fam_no_otr_chld_pre_Fam_n,621.0
+Narre Warren North,Step_fam_no_otr_chld_pre_Fam_n,505.0
+Narre Warren South,Step_fam_no_otr_chld_pre_Fam_n,722.0
+Nepean,Step_fam_no_otr_chld_pre_Fam_n,419.0
+Niddrie,Step_fam_no_otr_chld_pre_Fam_n,400.0
+Northcote,Step_fam_no_otr_chld_pre_Fam_n,269.0
+Oakleigh,Step_fam_no_otr_chld_pre_Fam_n,287.0
+Ovens Valley,Step_fam_no_otr_chld_pre_Fam_n,449.0
+Pakenham,Step_fam_no_otr_chld_pre_Fam_n,698.0
+Pascoe Vale,Step_fam_no_otr_chld_pre_Fam_n,313.0
+Point Cook,Step_fam_no_otr_chld_pre_Fam_n,705.0
+Polwarth,Step_fam_no_otr_chld_pre_Fam_n,510.0
+Prahran,Step_fam_no_otr_chld_pre_Fam_n,168.0
+Preston,Step_fam_no_otr_chld_pre_Fam_n,330.0
+Richmond,Step_fam_no_otr_chld_pre_Fam_n,245.0
+Ringwood,Step_fam_no_otr_chld_pre_Fam_n,405.0
+Ripon,Step_fam_no_otr_chld_pre_Fam_n,524.0
+Rowville,Step_fam_no_otr_chld_pre_Fam_n,557.0
+Sandringham,Step_fam_no_otr_chld_pre_Fam_n,364.0
+Shepparton,Step_fam_no_otr_chld_pre_Fam_n,488.0
+South Barwon,Step_fam_no_otr_chld_pre_Fam_n,589.0
+South-West Coast,Step_fam_no_otr_chld_pre_Fam_n,488.0
+St Albans,Step_fam_no_otr_chld_pre_Fam_n,479.0
+Sunbury,Step_fam_no_otr_chld_pre_Fam_n,544.0
+Sydenham,Step_fam_no_otr_chld_pre_Fam_n,578.0
+Tarneit,Step_fam_no_otr_chld_pre_Fam_n,605.0
+Thomastown,Step_fam_no_otr_chld_pre_Fam_n,375.0
+Warrandyte,Step_fam_no_otr_chld_pre_Fam_n,431.0
+Wendouree,Step_fam_no_otr_chld_pre_Fam_n,527.0
+Werribee,Step_fam_no_otr_chld_pre_Fam_n,692.0
+Williamstown,Step_fam_no_otr_chld_pre_Fam_n,410.0
+Yan Yean,Step_fam_no_otr_chld_pre_Fam_n,681.0
+Albert Park,Step_fam_no_otr_chld_pre_Fam_pc,0.0775
+Ashwood,Step_fam_no_otr_chld_pre_Fam_pc,0.0291
+Bass,Step_fam_no_otr_chld_pre_Fam_pc,0.0823
+Bayswater,Step_fam_no_otr_chld_pre_Fam_pc,0.0604
+Bellarine,Step_fam_no_otr_chld_pre_Fam_pc,0.0814
+Benambra,Step_fam_no_otr_chld_pre_Fam_pc,0.0718
+Bendigo East,Step_fam_no_otr_chld_pre_Fam_pc,0.081
+Bendigo West,Step_fam_no_otr_chld_pre_Fam_pc,0.0758
+Bentleigh,Step_fam_no_otr_chld_pre_Fam_pc,0.0369
+Berwick,Step_fam_no_otr_chld_pre_Fam_pc,0.0582
+Box Hill,Step_fam_no_otr_chld_pre_Fam_pc,0.0382
+Brighton,Step_fam_no_otr_chld_pre_Fam_pc,0.0473
+Broadmeadows,Step_fam_no_otr_chld_pre_Fam_pc,0.0314
+Brunswick,Step_fam_no_otr_chld_pre_Fam_pc,0.0362
+Bulleen,Step_fam_no_otr_chld_pre_Fam_pc,0.0392
+Bundoora,Step_fam_no_otr_chld_pre_Fam_pc,0.0423
+Carrum,Step_fam_no_otr_chld_pre_Fam_pc,0.0812
+Caulfield,Step_fam_no_otr_chld_pre_Fam_pc,0.0412
+Clarinda,Step_fam_no_otr_chld_pre_Fam_pc,0.0481
+Cranbourne,Step_fam_no_otr_chld_pre_Fam_pc,0.0562
+Croydon,Step_fam_no_otr_chld_pre_Fam_pc,0.0622
+Dandenong,Step_fam_no_otr_chld_pre_Fam_pc,0.0491
+Eildon,Step_fam_no_otr_chld_pre_Fam_pc,0.0741
+Eltham,Step_fam_no_otr_chld_pre_Fam_pc,0.0513
+Essendon,Step_fam_no_otr_chld_pre_Fam_pc,0.0407
+Eureka,Step_fam_no_otr_chld_pre_Fam_pc,0.0728
+Euroa,Step_fam_no_otr_chld_pre_Fam_pc,0.0833
+Evelyn,Step_fam_no_otr_chld_pre_Fam_pc,0.0755
+Footscray,Step_fam_no_otr_chld_pre_Fam_pc,0.0396
+Frankston,Step_fam_no_otr_chld_pre_Fam_pc,0.094
+Geelong,Step_fam_no_otr_chld_pre_Fam_pc,0.0675
+Gippsland East,Step_fam_no_otr_chld_pre_Fam_pc,0.0832
+Gippsland South,Step_fam_no_otr_chld_pre_Fam_pc,0.0857
+Glen Waverley,Step_fam_no_otr_chld_pre_Fam_pc,0.0338
+Greenvale,Step_fam_no_otr_chld_pre_Fam_pc,0.0364
+Hastings,Step_fam_no_otr_chld_pre_Fam_pc,0.0815
+Hawthorn,Step_fam_no_otr_chld_pre_Fam_pc,0.033
+Ivanhoe,Step_fam_no_otr_chld_pre_Fam_pc,0.0393
+Kalkallo,Step_fam_no_otr_chld_pre_Fam_pc,0.0441
+Kew,Step_fam_no_otr_chld_pre_Fam_pc,0.0317
+Kororoit,Step_fam_no_otr_chld_pre_Fam_pc,0.0469
+Lara,Step_fam_no_otr_chld_pre_Fam_pc,0.0772
+Laverton,Step_fam_no_otr_chld_pre_Fam_pc,0.0387
+Lowan,Step_fam_no_otr_chld_pre_Fam_pc,0.0589
+Macedon,Step_fam_no_otr_chld_pre_Fam_pc,0.0535
+Malvern,Step_fam_no_otr_chld_pre_Fam_pc,0.0357
+Melbourne,Step_fam_no_otr_chld_pre_Fam_pc,0.0333
+Melton,Step_fam_no_otr_chld_pre_Fam_pc,0.065
+Mildura,Step_fam_no_otr_chld_pre_Fam_pc,0.0763
+Mill Park,Step_fam_no_otr_chld_pre_Fam_pc,0.0409
+Monbulk,Step_fam_no_otr_chld_pre_Fam_pc,0.0643
+Mordialloc,Step_fam_no_otr_chld_pre_Fam_pc,0.0514
+Mornington,Step_fam_no_otr_chld_pre_Fam_pc,0.0641
+Morwell,Step_fam_no_otr_chld_pre_Fam_pc,0.0949
+Mulgrave,Step_fam_no_otr_chld_pre_Fam_pc,0.0414
+Murray Plains,Step_fam_no_otr_chld_pre_Fam_pc,0.0796
+Narracan,Step_fam_no_otr_chld_pre_Fam_pc,0.0801
+Narre Warren North,Step_fam_no_otr_chld_pre_Fam_pc,0.0461
+Narre Warren South,Step_fam_no_otr_chld_pre_Fam_pc,0.0522
+Nepean,Step_fam_no_otr_chld_pre_Fam_pc,0.0783
+Niddrie,Step_fam_no_otr_chld_pre_Fam_pc,0.0424
+Northcote,Step_fam_no_otr_chld_pre_Fam_pc,0.0361
+Oakleigh,Step_fam_no_otr_chld_pre_Fam_pc,0.0295
+Ovens Valley,Step_fam_no_otr_chld_pre_Fam_pc,0.0745
+Pakenham,Step_fam_no_otr_chld_pre_Fam_pc,0.068
+Pascoe Vale,Step_fam_no_otr_chld_pre_Fam_pc,0.0381
+Point Cook,Step_fam_no_otr_chld_pre_Fam_pc,0.0478
+Polwarth,Step_fam_no_otr_chld_pre_Fam_pc,0.0655
+Prahran,Step_fam_no_otr_chld_pre_Fam_pc,0.0451
+Preston,Step_fam_no_otr_chld_pre_Fam_pc,0.0414
+Richmond,Step_fam_no_otr_chld_pre_Fam_pc,0.0565
+Ringwood,Step_fam_no_otr_chld_pre_Fam_pc,0.0384
+Ripon,Step_fam_no_otr_chld_pre_Fam_pc,0.0757
+Rowville,Step_fam_no_otr_chld_pre_Fam_pc,0.051
+Sandringham,Step_fam_no_otr_chld_pre_Fam_pc,0.0443
+Shepparton,Step_fam_no_otr_chld_pre_Fam_pc,0.063
+South Barwon,Step_fam_no_otr_chld_pre_Fam_pc,0.0652
+South-West Coast,Step_fam_no_otr_chld_pre_Fam_pc,0.0675
+St Albans,Step_fam_no_otr_chld_pre_Fam_pc,0.0563
+Sunbury,Step_fam_no_otr_chld_pre_Fam_pc,0.0668
+Sydenham,Step_fam_no_otr_chld_pre_Fam_pc,0.0467
+Tarneit,Step_fam_no_otr_chld_pre_Fam_pc,0.0431
+Thomastown,Step_fam_no_otr_chld_pre_Fam_pc,0.0351
+Warrandyte,Step_fam_no_otr_chld_pre_Fam_pc,0.039
+Wendouree,Step_fam_no_otr_chld_pre_Fam_pc,0.0798
+Werribee,Step_fam_no_otr_chld_pre_Fam_pc,0.061
+Williamstown,Step_fam_no_otr_chld_pre_Fam_pc,0.0482
+Yan Yean,Step_fam_no_otr_chld_pre_Fam_pc,0.0609
+Albert Park,Blnd_fam_no_otr_chld_pre_Fam_n,82.0
+Ashwood,Blnd_fam_no_otr_chld_pre_Fam_n,132.0
+Bass,Blnd_fam_no_otr_chld_pre_Fam_n,280.0
+Bayswater,Blnd_fam_no_otr_chld_pre_Fam_n,228.0
+Bellarine,Blnd_fam_no_otr_chld_pre_Fam_n,186.0
+Benambra,Blnd_fam_no_otr_chld_pre_Fam_n,298.0
+Bendigo East,Blnd_fam_no_otr_chld_pre_Fam_n,294.0
+Bendigo West,Blnd_fam_no_otr_chld_pre_Fam_n,202.0
+Bentleigh,Blnd_fam_no_otr_chld_pre_Fam_n,149.0
+Berwick,Blnd_fam_no_otr_chld_pre_Fam_n,361.0
+Box Hill,Blnd_fam_no_otr_chld_pre_Fam_n,96.0
+Brighton,Blnd_fam_no_otr_chld_pre_Fam_n,83.0
+Broadmeadows,Blnd_fam_no_otr_chld_pre_Fam_n,101.0
+Brunswick,Blnd_fam_no_otr_chld_pre_Fam_n,37.0
+Bulleen,Blnd_fam_no_otr_chld_pre_Fam_n,104.0
+Bundoora,Blnd_fam_no_otr_chld_pre_Fam_n,139.0
+Carrum,Blnd_fam_no_otr_chld_pre_Fam_n,299.0
+Caulfield,Blnd_fam_no_otr_chld_pre_Fam_n,46.0
+Clarinda,Blnd_fam_no_otr_chld_pre_Fam_n,183.0
+Cranbourne,Blnd_fam_no_otr_chld_pre_Fam_n,513.0
+Croydon,Blnd_fam_no_otr_chld_pre_Fam_n,232.0
+Dandenong,Blnd_fam_no_otr_chld_pre_Fam_n,179.0
+Eildon,Blnd_fam_no_otr_chld_pre_Fam_n,243.0
+Eltham,Blnd_fam_no_otr_chld_pre_Fam_n,125.0
+Essendon,Blnd_fam_no_otr_chld_pre_Fam_n,60.0
+Eureka,Blnd_fam_no_otr_chld_pre_Fam_n,383.0
+Euroa,Blnd_fam_no_otr_chld_pre_Fam_n,227.0
+Evelyn,Blnd_fam_no_otr_chld_pre_Fam_n,303.0
+Footscray,Blnd_fam_no_otr_chld_pre_Fam_n,70.0
+Frankston,Blnd_fam_no_otr_chld_pre_Fam_n,243.0
+Geelong,Blnd_fam_no_otr_chld_pre_Fam_n,158.0
+Gippsland East,Blnd_fam_no_otr_chld_pre_Fam_n,250.0
+Gippsland South,Blnd_fam_no_otr_chld_pre_Fam_n,235.0
+Glen Waverley,Blnd_fam_no_otr_chld_pre_Fam_n,69.0
+Greenvale,Blnd_fam_no_otr_chld_pre_Fam_n,175.0
+Hastings,Blnd_fam_no_otr_chld_pre_Fam_n,364.0
+Hawthorn,Blnd_fam_no_otr_chld_pre_Fam_n,32.0
+Ivanhoe,Blnd_fam_no_otr_chld_pre_Fam_n,53.0
+Kalkallo,Blnd_fam_no_otr_chld_pre_Fam_n,299.0
+Kew,Blnd_fam_no_otr_chld_pre_Fam_n,57.0
+Kororoit,Blnd_fam_no_otr_chld_pre_Fam_n,291.0
+Lara,Blnd_fam_no_otr_chld_pre_Fam_n,260.0
+Laverton,Blnd_fam_no_otr_chld_pre_Fam_n,169.0
+Lowan,Blnd_fam_no_otr_chld_pre_Fam_n,231.0
+Macedon,Blnd_fam_no_otr_chld_pre_Fam_n,199.0
+Malvern,Blnd_fam_no_otr_chld_pre_Fam_n,33.0
+Melbourne,Blnd_fam_no_otr_chld_pre_Fam_n,19.0
+Melton,Blnd_fam_no_otr_chld_pre_Fam_n,435.0
+Mildura,Blnd_fam_no_otr_chld_pre_Fam_n,272.0
+Mill Park,Blnd_fam_no_otr_chld_pre_Fam_n,213.0
+Monbulk,Blnd_fam_no_otr_chld_pre_Fam_n,222.0
+Mordialloc,Blnd_fam_no_otr_chld_pre_Fam_n,181.0
+Mornington,Blnd_fam_no_otr_chld_pre_Fam_n,190.0
+Morwell,Blnd_fam_no_otr_chld_pre_Fam_n,377.0
+Mulgrave,Blnd_fam_no_otr_chld_pre_Fam_n,145.0
+Murray Plains,Blnd_fam_no_otr_chld_pre_Fam_n,250.0
+Narracan,Blnd_fam_no_otr_chld_pre_Fam_n,422.0
+Narre Warren North,Blnd_fam_no_otr_chld_pre_Fam_n,195.0
+Narre Warren South,Blnd_fam_no_otr_chld_pre_Fam_n,398.0
+Nepean,Blnd_fam_no_otr_chld_pre_Fam_n,171.0
+Niddrie,Blnd_fam_no_otr_chld_pre_Fam_n,89.0
+Northcote,Blnd_fam_no_otr_chld_pre_Fam_n,54.0
+Oakleigh,Blnd_fam_no_otr_chld_pre_Fam_n,34.0
+Ovens Valley,Blnd_fam_no_otr_chld_pre_Fam_n,214.0
+Pakenham,Blnd_fam_no_otr_chld_pre_Fam_n,433.0
+Pascoe Vale,Blnd_fam_no_otr_chld_pre_Fam_n,81.0
+Point Cook,Blnd_fam_no_otr_chld_pre_Fam_n,328.0
+Polwarth,Blnd_fam_no_otr_chld_pre_Fam_n,179.0
+Prahran,Blnd_fam_no_otr_chld_pre_Fam_n,18.0
+Preston,Blnd_fam_no_otr_chld_pre_Fam_n,77.0
+Richmond,Blnd_fam_no_otr_chld_pre_Fam_n,32.0
+Ringwood,Blnd_fam_no_otr_chld_pre_Fam_n,105.0
+Ripon,Blnd_fam_no_otr_chld_pre_Fam_n,343.0
+Rowville,Blnd_fam_no_otr_chld_pre_Fam_n,163.0
+Sandringham,Blnd_fam_no_otr_chld_pre_Fam_n,79.0
+Shepparton,Blnd_fam_no_otr_chld_pre_Fam_n,299.0
+South Barwon,Blnd_fam_no_otr_chld_pre_Fam_n,278.0
+South-West Coast,Blnd_fam_no_otr_chld_pre_Fam_n,252.0
+St Albans,Blnd_fam_no_otr_chld_pre_Fam_n,204.0
+Sunbury,Blnd_fam_no_otr_chld_pre_Fam_n,264.0
+Sydenham,Blnd_fam_no_otr_chld_pre_Fam_n,231.0
+Tarneit,Blnd_fam_no_otr_chld_pre_Fam_n,272.0
+Thomastown,Blnd_fam_no_otr_chld_pre_Fam_n,150.0
+Warrandyte,Blnd_fam_no_otr_chld_pre_Fam_n,120.0
+Wendouree,Blnd_fam_no_otr_chld_pre_Fam_n,294.0
+Werribee,Blnd_fam_no_otr_chld_pre_Fam_n,316.0
+Williamstown,Blnd_fam_no_otr_chld_pre_Fam_n,106.0
+Yan Yean,Blnd_fam_no_otr_chld_pre_Fam_n,367.0
+Albert Park,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0152
+Ashwood,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0117
+Bass,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0395
+Bayswater,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0247
+Bellarine,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0247
+Benambra,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0419
+Bendigo East,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0366
+Bendigo West,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0331
+Bentleigh,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0135
+Berwick,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0272
+Box Hill,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0094
+Brighton,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0101
+Broadmeadows,Blnd_fam_no_otr_chld_pre_Fam_pc,0.011
+Brunswick,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0068
+Bulleen,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0104
+Bundoora,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0157
+Carrum,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0304
+Caulfield,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0059
+Clarinda,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0188
+Cranbourne,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0404
+Croydon,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0246
+Dandenong,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0175
+Eildon,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0341
+Eltham,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0125
+Essendon,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0074
+Eureka,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0441
+Euroa,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0362
+Evelyn,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0314
+Footscray,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0091
+Frankston,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0354
+Geelong,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0208
+Gippsland East,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0441
+Gippsland South,Blnd_fam_no_otr_chld_pre_Fam_pc,0.037
+Glen Waverley,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0058
+Greenvale,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0152
+Hastings,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0452
+Hawthorn,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0039
+Ivanhoe,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0063
+Kalkallo,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0196
+Kew,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0056
+Kororoit,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0231
+Lara,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0355
+Laverton,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0138
+Lowan,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0353
+Macedon,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0252
+Malvern,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0047
+Melbourne,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0037
+Melton,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0408
+Mildura,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0402
+Mill Park,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0212
+Monbulk,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0248
+Mordialloc,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0171
+Mornington,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0232
+Morwell,Blnd_fam_no_otr_chld_pre_Fam_pc,0.055
+Mulgrave,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0152
+Murray Plains,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0393
+Narracan,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0544
+Narre Warren North,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0178
+Narre Warren South,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0288
+Nepean,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0319
+Niddrie,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0094
+Northcote,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0073
+Oakleigh,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0035
+Ovens Valley,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0355
+Pakenham,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0422
+Pascoe Vale,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0098
+Point Cook,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0222
+Polwarth,Blnd_fam_no_otr_chld_pre_Fam_pc,0.023
+Prahran,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0048
+Preston,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0096
+Richmond,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0074
+Ringwood,Blnd_fam_no_otr_chld_pre_Fam_pc,0.01
+Ripon,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0496
+Rowville,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0149
+Sandringham,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0096
+Shepparton,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0386
+South Barwon,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0308
+South-West Coast,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0349
+St Albans,Blnd_fam_no_otr_chld_pre_Fam_pc,0.024
+Sunbury,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0324
+Sydenham,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0187
+Tarneit,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0194
+Thomastown,Blnd_fam_no_otr_chld_pre_Fam_pc,0.014
+Warrandyte,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0109
+Wendouree,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0445
+Werribee,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0279
+Williamstown,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0125
+Yan Yean,Blnd_fam_no_otr_chld_pre_Fam_pc,0.0328
+Albert Park,Intct_fam_othr_child_pres_Fam_n,0.0
+Ashwood,Intct_fam_othr_child_pres_Fam_n,17.0
+Bass,Intct_fam_othr_child_pres_Fam_n,17.0
+Bayswater,Intct_fam_othr_child_pres_Fam_n,18.0
+Bellarine,Intct_fam_othr_child_pres_Fam_n,12.0
+Benambra,Intct_fam_othr_child_pres_Fam_n,21.0
+Bendigo East,Intct_fam_othr_child_pres_Fam_n,26.0
+Bendigo West,Intct_fam_othr_child_pres_Fam_n,14.0
+Bentleigh,Intct_fam_othr_child_pres_Fam_n,9.0
+Berwick,Intct_fam_othr_child_pres_Fam_n,68.0
+Box Hill,Intct_fam_othr_child_pres_Fam_n,6.0
+Brighton,Intct_fam_othr_child_pres_Fam_n,6.0
+Broadmeadows,Intct_fam_othr_child_pres_Fam_n,42.0
+Brunswick,Intct_fam_othr_child_pres_Fam_n,0.0
+Bulleen,Intct_fam_othr_child_pres_Fam_n,30.0
+Bundoora,Intct_fam_othr_child_pres_Fam_n,27.0
+Carrum,Intct_fam_othr_child_pres_Fam_n,16.0
+Caulfield,Intct_fam_othr_child_pres_Fam_n,0.0
+Clarinda,Intct_fam_othr_child_pres_Fam_n,70.0
+Cranbourne,Intct_fam_othr_child_pres_Fam_n,121.0
+Croydon,Intct_fam_othr_child_pres_Fam_n,27.0
+Dandenong,Intct_fam_othr_child_pres_Fam_n,93.0
+Eildon,Intct_fam_othr_child_pres_Fam_n,8.0
+Eltham,Intct_fam_othr_child_pres_Fam_n,10.0
+Essendon,Intct_fam_othr_child_pres_Fam_n,7.0
+Eureka,Intct_fam_othr_child_pres_Fam_n,32.0
+Euroa,Intct_fam_othr_child_pres_Fam_n,28.0
+Evelyn,Intct_fam_othr_child_pres_Fam_n,46.0
+Footscray,Intct_fam_othr_child_pres_Fam_n,11.0
+Frankston,Intct_fam_othr_child_pres_Fam_n,19.0
+Geelong,Intct_fam_othr_child_pres_Fam_n,7.0
+Gippsland East,Intct_fam_othr_child_pres_Fam_n,15.0
+Gippsland South,Intct_fam_othr_child_pres_Fam_n,11.0
+Glen Waverley,Intct_fam_othr_child_pres_Fam_n,35.0
+Greenvale,Intct_fam_othr_child_pres_Fam_n,57.0
+Hastings,Intct_fam_othr_child_pres_Fam_n,39.0
+Hawthorn,Intct_fam_othr_child_pres_Fam_n,4.0
+Ivanhoe,Intct_fam_othr_child_pres_Fam_n,4.0
+Kalkallo,Intct_fam_othr_child_pres_Fam_n,87.0
+Kew,Intct_fam_othr_child_pres_Fam_n,15.0
+Kororoit,Intct_fam_othr_child_pres_Fam_n,126.0
+Lara,Intct_fam_othr_child_pres_Fam_n,54.0
+Laverton,Intct_fam_othr_child_pres_Fam_n,137.0
+Lowan,Intct_fam_othr_child_pres_Fam_n,11.0
+Macedon,Intct_fam_othr_child_pres_Fam_n,17.0
+Malvern,Intct_fam_othr_child_pres_Fam_n,0.0
+Melbourne,Intct_fam_othr_child_pres_Fam_n,0.0
+Melton,Intct_fam_othr_child_pres_Fam_n,106.0
+Mildura,Intct_fam_othr_child_pres_Fam_n,29.0
+Mill Park,Intct_fam_othr_child_pres_Fam_n,59.0
+Monbulk,Intct_fam_othr_child_pres_Fam_n,11.0
+Mordialloc,Intct_fam_othr_child_pres_Fam_n,28.0
+Mornington,Intct_fam_othr_child_pres_Fam_n,0.0
+Morwell,Intct_fam_othr_child_pres_Fam_n,22.0
+Mulgrave,Intct_fam_othr_child_pres_Fam_n,91.0
+Murray Plains,Intct_fam_othr_child_pres_Fam_n,17.0
+Narracan,Intct_fam_othr_child_pres_Fam_n,19.0
+Narre Warren North,Intct_fam_othr_child_pres_Fam_n,55.0
+Narre Warren South,Intct_fam_othr_child_pres_Fam_n,139.0
+Nepean,Intct_fam_othr_child_pres_Fam_n,6.0
+Niddrie,Intct_fam_othr_child_pres_Fam_n,17.0
+Northcote,Intct_fam_othr_child_pres_Fam_n,0.0
+Oakleigh,Intct_fam_othr_child_pres_Fam_n,3.0
+Ovens Valley,Intct_fam_othr_child_pres_Fam_n,18.0
+Pakenham,Intct_fam_othr_child_pres_Fam_n,36.0
+Pascoe Vale,Intct_fam_othr_child_pres_Fam_n,4.0
+Point Cook,Intct_fam_othr_child_pres_Fam_n,41.0
+Polwarth,Intct_fam_othr_child_pres_Fam_n,9.0
+Prahran,Intct_fam_othr_child_pres_Fam_n,0.0
+Preston,Intct_fam_othr_child_pres_Fam_n,19.0
+Richmond,Intct_fam_othr_child_pres_Fam_n,5.0
+Ringwood,Intct_fam_othr_child_pres_Fam_n,10.0
+Ripon,Intct_fam_othr_child_pres_Fam_n,21.0
+Rowville,Intct_fam_othr_child_pres_Fam_n,26.0
+Sandringham,Intct_fam_othr_child_pres_Fam_n,0.0
+Shepparton,Intct_fam_othr_child_pres_Fam_n,28.0
+South Barwon,Intct_fam_othr_child_pres_Fam_n,18.0
+South-West Coast,Intct_fam_othr_child_pres_Fam_n,13.0
+St Albans,Intct_fam_othr_child_pres_Fam_n,130.0
+Sunbury,Intct_fam_othr_child_pres_Fam_n,10.0
+Sydenham,Intct_fam_othr_child_pres_Fam_n,56.0
+Tarneit,Intct_fam_othr_child_pres_Fam_n,154.0
+Thomastown,Intct_fam_othr_child_pres_Fam_n,81.0
+Warrandyte,Intct_fam_othr_child_pres_Fam_n,18.0
+Wendouree,Intct_fam_othr_child_pres_Fam_n,23.0
+Werribee,Intct_fam_othr_child_pres_Fam_n,76.0
+Williamstown,Intct_fam_othr_child_pres_Fam_n,20.0
+Yan Yean,Intct_fam_othr_child_pres_Fam_n,31.0
+Albert Park,Intct_fam_othr_child_pres_Fam_pc,0.0
+Ashwood,Intct_fam_othr_child_pres_Fam_pc,0.0015
+Bass,Intct_fam_othr_child_pres_Fam_pc,0.0024
+Bayswater,Intct_fam_othr_child_pres_Fam_pc,0.002
+Bellarine,Intct_fam_othr_child_pres_Fam_pc,0.0016
+Benambra,Intct_fam_othr_child_pres_Fam_pc,0.003
+Bendigo East,Intct_fam_othr_child_pres_Fam_pc,0.0032
+Bendigo West,Intct_fam_othr_child_pres_Fam_pc,0.0023
+Bentleigh,Intct_fam_othr_child_pres_Fam_pc,0.0008
+Berwick,Intct_fam_othr_child_pres_Fam_pc,0.0051
+Box Hill,Intct_fam_othr_child_pres_Fam_pc,0.0006
+Brighton,Intct_fam_othr_child_pres_Fam_pc,0.0007
+Broadmeadows,Intct_fam_othr_child_pres_Fam_pc,0.0046
+Brunswick,Intct_fam_othr_child_pres_Fam_pc,0.0
+Bulleen,Intct_fam_othr_child_pres_Fam_pc,0.003
+Bundoora,Intct_fam_othr_child_pres_Fam_pc,0.003
+Carrum,Intct_fam_othr_child_pres_Fam_pc,0.0016
+Caulfield,Intct_fam_othr_child_pres_Fam_pc,0.0
+Clarinda,Intct_fam_othr_child_pres_Fam_pc,0.0072
+Cranbourne,Intct_fam_othr_child_pres_Fam_pc,0.0095
+Croydon,Intct_fam_othr_child_pres_Fam_pc,0.0029
+Dandenong,Intct_fam_othr_child_pres_Fam_pc,0.0091
+Eildon,Intct_fam_othr_child_pres_Fam_pc,0.0011
+Eltham,Intct_fam_othr_child_pres_Fam_pc,0.001
+Essendon,Intct_fam_othr_child_pres_Fam_pc,0.0009
+Eureka,Intct_fam_othr_child_pres_Fam_pc,0.0037
+Euroa,Intct_fam_othr_child_pres_Fam_pc,0.0045
+Evelyn,Intct_fam_othr_child_pres_Fam_pc,0.0048
+Footscray,Intct_fam_othr_child_pres_Fam_pc,0.0014
+Frankston,Intct_fam_othr_child_pres_Fam_pc,0.0028
+Geelong,Intct_fam_othr_child_pres_Fam_pc,0.0009
+Gippsland East,Intct_fam_othr_child_pres_Fam_pc,0.0026
+Gippsland South,Intct_fam_othr_child_pres_Fam_pc,0.0017
+Glen Waverley,Intct_fam_othr_child_pres_Fam_pc,0.003
+Greenvale,Intct_fam_othr_child_pres_Fam_pc,0.0049
+Hastings,Intct_fam_othr_child_pres_Fam_pc,0.0048
+Hawthorn,Intct_fam_othr_child_pres_Fam_pc,0.0005
+Ivanhoe,Intct_fam_othr_child_pres_Fam_pc,0.0005
+Kalkallo,Intct_fam_othr_child_pres_Fam_pc,0.0057
+Kew,Intct_fam_othr_child_pres_Fam_pc,0.0015
+Kororoit,Intct_fam_othr_child_pres_Fam_pc,0.01
+Lara,Intct_fam_othr_child_pres_Fam_pc,0.0074
+Laverton,Intct_fam_othr_child_pres_Fam_pc,0.0112
+Lowan,Intct_fam_othr_child_pres_Fam_pc,0.0017
+Macedon,Intct_fam_othr_child_pres_Fam_pc,0.0022
+Malvern,Intct_fam_othr_child_pres_Fam_pc,0.0
+Melbourne,Intct_fam_othr_child_pres_Fam_pc,0.0
+Melton,Intct_fam_othr_child_pres_Fam_pc,0.01
+Mildura,Intct_fam_othr_child_pres_Fam_pc,0.0043
+Mill Park,Intct_fam_othr_child_pres_Fam_pc,0.0059
+Monbulk,Intct_fam_othr_child_pres_Fam_pc,0.0012
+Mordialloc,Intct_fam_othr_child_pres_Fam_pc,0.0027
+Mornington,Intct_fam_othr_child_pres_Fam_pc,0.0
+Morwell,Intct_fam_othr_child_pres_Fam_pc,0.0032
+Mulgrave,Intct_fam_othr_child_pres_Fam_pc,0.0096
+Murray Plains,Intct_fam_othr_child_pres_Fam_pc,0.0027
+Narracan,Intct_fam_othr_child_pres_Fam_pc,0.0025
+Narre Warren North,Intct_fam_othr_child_pres_Fam_pc,0.005
+Narre Warren South,Intct_fam_othr_child_pres_Fam_pc,0.01
+Nepean,Intct_fam_othr_child_pres_Fam_pc,0.0011
+Niddrie,Intct_fam_othr_child_pres_Fam_pc,0.0018
+Northcote,Intct_fam_othr_child_pres_Fam_pc,0.0
+Oakleigh,Intct_fam_othr_child_pres_Fam_pc,0.0003
+Ovens Valley,Intct_fam_othr_child_pres_Fam_pc,0.003
+Pakenham,Intct_fam_othr_child_pres_Fam_pc,0.0035
+Pascoe Vale,Intct_fam_othr_child_pres_Fam_pc,0.0005
+Point Cook,Intct_fam_othr_child_pres_Fam_pc,0.0028
+Polwarth,Intct_fam_othr_child_pres_Fam_pc,0.0012
+Prahran,Intct_fam_othr_child_pres_Fam_pc,0.0
+Preston,Intct_fam_othr_child_pres_Fam_pc,0.0024
+Richmond,Intct_fam_othr_child_pres_Fam_pc,0.0012
+Ringwood,Intct_fam_othr_child_pres_Fam_pc,0.0009
+Ripon,Intct_fam_othr_child_pres_Fam_pc,0.003
+Rowville,Intct_fam_othr_child_pres_Fam_pc,0.0024
+Sandringham,Intct_fam_othr_child_pres_Fam_pc,0.0
+Shepparton,Intct_fam_othr_child_pres_Fam_pc,0.0036
+South Barwon,Intct_fam_othr_child_pres_Fam_pc,0.002
+South-West Coast,Intct_fam_othr_child_pres_Fam_pc,0.0018
+St Albans,Intct_fam_othr_child_pres_Fam_pc,0.0153
+Sunbury,Intct_fam_othr_child_pres_Fam_pc,0.0012
+Sydenham,Intct_fam_othr_child_pres_Fam_pc,0.0045
+Tarneit,Intct_fam_othr_child_pres_Fam_pc,0.011
+Thomastown,Intct_fam_othr_child_pres_Fam_pc,0.0076
+Warrandyte,Intct_fam_othr_child_pres_Fam_pc,0.0016
+Wendouree,Intct_fam_othr_child_pres_Fam_pc,0.0035
+Werribee,Intct_fam_othr_child_pres_Fam_pc,0.0067
+Williamstown,Intct_fam_othr_child_pres_Fam_pc,0.0024
+Yan Yean,Intct_fam_othr_child_pres_Fam_pc,0.0028
+Albert Park,Step_fam_othr_child_pres_Fam_n,0.0
+Ashwood,Step_fam_othr_child_pres_Fam_n,0.0
+Bass,Step_fam_othr_child_pres_Fam_n,0.0
+Bayswater,Step_fam_othr_child_pres_Fam_n,0.0
+Bellarine,Step_fam_othr_child_pres_Fam_n,0.0
+Benambra,Step_fam_othr_child_pres_Fam_n,0.0
+Bendigo East,Step_fam_othr_child_pres_Fam_n,0.0
+Bendigo West,Step_fam_othr_child_pres_Fam_n,0.0
+Bentleigh,Step_fam_othr_child_pres_Fam_n,0.0
+Berwick,Step_fam_othr_child_pres_Fam_n,0.0
+Box Hill,Step_fam_othr_child_pres_Fam_n,0.0
+Brighton,Step_fam_othr_child_pres_Fam_n,0.0
+Broadmeadows,Step_fam_othr_child_pres_Fam_n,0.0
+Brunswick,Step_fam_othr_child_pres_Fam_n,0.0
+Bulleen,Step_fam_othr_child_pres_Fam_n,0.0
+Bundoora,Step_fam_othr_child_pres_Fam_n,0.0
+Carrum,Step_fam_othr_child_pres_Fam_n,3.0
+Caulfield,Step_fam_othr_child_pres_Fam_n,0.0
+Clarinda,Step_fam_othr_child_pres_Fam_n,0.0
+Cranbourne,Step_fam_othr_child_pres_Fam_n,0.0
+Croydon,Step_fam_othr_child_pres_Fam_n,0.0
+Dandenong,Step_fam_othr_child_pres_Fam_n,3.0
+Eildon,Step_fam_othr_child_pres_Fam_n,3.0
+Eltham,Step_fam_othr_child_pres_Fam_n,0.0
+Essendon,Step_fam_othr_child_pres_Fam_n,0.0
+Eureka,Step_fam_othr_child_pres_Fam_n,3.0
+Euroa,Step_fam_othr_child_pres_Fam_n,8.0
+Evelyn,Step_fam_othr_child_pres_Fam_n,0.0
+Footscray,Step_fam_othr_child_pres_Fam_n,0.0
+Frankston,Step_fam_othr_child_pres_Fam_n,3.0
+Geelong,Step_fam_othr_child_pres_Fam_n,0.0
+Gippsland East,Step_fam_othr_child_pres_Fam_n,3.0
+Gippsland South,Step_fam_othr_child_pres_Fam_n,0.0
+Glen Waverley,Step_fam_othr_child_pres_Fam_n,0.0
+Greenvale,Step_fam_othr_child_pres_Fam_n,3.0
+Hastings,Step_fam_othr_child_pres_Fam_n,0.0
+Hawthorn,Step_fam_othr_child_pres_Fam_n,0.0
+Ivanhoe,Step_fam_othr_child_pres_Fam_n,0.0
+Kalkallo,Step_fam_othr_child_pres_Fam_n,4.0
+Kew,Step_fam_othr_child_pres_Fam_n,0.0
+Kororoit,Step_fam_othr_child_pres_Fam_n,0.0
+Lara,Step_fam_othr_child_pres_Fam_n,0.0
+Laverton,Step_fam_othr_child_pres_Fam_n,0.0
+Lowan,Step_fam_othr_child_pres_Fam_n,0.0
+Macedon,Step_fam_othr_child_pres_Fam_n,3.0
+Malvern,Step_fam_othr_child_pres_Fam_n,0.0
+Melbourne,Step_fam_othr_child_pres_Fam_n,0.0
+Melton,Step_fam_othr_child_pres_Fam_n,3.0
+Mildura,Step_fam_othr_child_pres_Fam_n,7.0
+Mill Park,Step_fam_othr_child_pres_Fam_n,0.0
+Monbulk,Step_fam_othr_child_pres_Fam_n,0.0
+Mordialloc,Step_fam_othr_child_pres_Fam_n,0.0
+Mornington,Step_fam_othr_child_pres_Fam_n,0.0
+Morwell,Step_fam_othr_child_pres_Fam_n,0.0
+Mulgrave,Step_fam_othr_child_pres_Fam_n,0.0
+Murray Plains,Step_fam_othr_child_pres_Fam_n,0.0
+Narracan,Step_fam_othr_child_pres_Fam_n,0.0
+Narre Warren North,Step_fam_othr_child_pres_Fam_n,0.0
+Narre Warren South,Step_fam_othr_child_pres_Fam_n,0.0
+Nepean,Step_fam_othr_child_pres_Fam_n,0.0
+Niddrie,Step_fam_othr_child_pres_Fam_n,0.0
+Northcote,Step_fam_othr_child_pres_Fam_n,0.0
+Oakleigh,Step_fam_othr_child_pres_Fam_n,0.0
+Ovens Valley,Step_fam_othr_child_pres_Fam_n,0.0
+Pakenham,Step_fam_othr_child_pres_Fam_n,3.0
+Pascoe Vale,Step_fam_othr_child_pres_Fam_n,0.0
+Point Cook,Step_fam_othr_child_pres_Fam_n,3.0
+Polwarth,Step_fam_othr_child_pres_Fam_n,0.0
+Prahran,Step_fam_othr_child_pres_Fam_n,0.0
+Preston,Step_fam_othr_child_pres_Fam_n,0.0
+Richmond,Step_fam_othr_child_pres_Fam_n,0.0
+Ringwood,Step_fam_othr_child_pres_Fam_n,0.0
+Ripon,Step_fam_othr_child_pres_Fam_n,3.0
+Rowville,Step_fam_othr_child_pres_Fam_n,0.0
+Sandringham,Step_fam_othr_child_pres_Fam_n,0.0
+Shepparton,Step_fam_othr_child_pres_Fam_n,0.0
+South Barwon,Step_fam_othr_child_pres_Fam_n,0.0
+South-West Coast,Step_fam_othr_child_pres_Fam_n,0.0
+St Albans,Step_fam_othr_child_pres_Fam_n,0.0
+Sunbury,Step_fam_othr_child_pres_Fam_n,0.0
+Sydenham,Step_fam_othr_child_pres_Fam_n,0.0
+Tarneit,Step_fam_othr_child_pres_Fam_n,4.0
+Thomastown,Step_fam_othr_child_pres_Fam_n,3.0
+Warrandyte,Step_fam_othr_child_pres_Fam_n,0.0
+Wendouree,Step_fam_othr_child_pres_Fam_n,0.0
+Werribee,Step_fam_othr_child_pres_Fam_n,0.0
+Williamstown,Step_fam_othr_child_pres_Fam_n,0.0
+Yan Yean,Step_fam_othr_child_pres_Fam_n,0.0
+Albert Park,Step_fam_othr_child_pres_Fam_pc,0.0
+Ashwood,Step_fam_othr_child_pres_Fam_pc,0.0
+Bass,Step_fam_othr_child_pres_Fam_pc,0.0
+Bayswater,Step_fam_othr_child_pres_Fam_pc,0.0
+Bellarine,Step_fam_othr_child_pres_Fam_pc,0.0
+Benambra,Step_fam_othr_child_pres_Fam_pc,0.0
+Bendigo East,Step_fam_othr_child_pres_Fam_pc,0.0
+Bendigo West,Step_fam_othr_child_pres_Fam_pc,0.0
+Bentleigh,Step_fam_othr_child_pres_Fam_pc,0.0
+Berwick,Step_fam_othr_child_pres_Fam_pc,0.0
+Box Hill,Step_fam_othr_child_pres_Fam_pc,0.0
+Brighton,Step_fam_othr_child_pres_Fam_pc,0.0
+Broadmeadows,Step_fam_othr_child_pres_Fam_pc,0.0
+Brunswick,Step_fam_othr_child_pres_Fam_pc,0.0
+Bulleen,Step_fam_othr_child_pres_Fam_pc,0.0
+Bundoora,Step_fam_othr_child_pres_Fam_pc,0.0
+Carrum,Step_fam_othr_child_pres_Fam_pc,0.0003
+Caulfield,Step_fam_othr_child_pres_Fam_pc,0.0
+Clarinda,Step_fam_othr_child_pres_Fam_pc,0.0
+Cranbourne,Step_fam_othr_child_pres_Fam_pc,0.0
+Croydon,Step_fam_othr_child_pres_Fam_pc,0.0
+Dandenong,Step_fam_othr_child_pres_Fam_pc,0.0003
+Eildon,Step_fam_othr_child_pres_Fam_pc,0.0004
+Eltham,Step_fam_othr_child_pres_Fam_pc,0.0
+Essendon,Step_fam_othr_child_pres_Fam_pc,0.0
+Eureka,Step_fam_othr_child_pres_Fam_pc,0.0003
+Euroa,Step_fam_othr_child_pres_Fam_pc,0.0013
+Evelyn,Step_fam_othr_child_pres_Fam_pc,0.0
+Footscray,Step_fam_othr_child_pres_Fam_pc,0.0
+Frankston,Step_fam_othr_child_pres_Fam_pc,0.0004
+Geelong,Step_fam_othr_child_pres_Fam_pc,0.0
+Gippsland East,Step_fam_othr_child_pres_Fam_pc,0.0005
+Gippsland South,Step_fam_othr_child_pres_Fam_pc,0.0
+Glen Waverley,Step_fam_othr_child_pres_Fam_pc,0.0
+Greenvale,Step_fam_othr_child_pres_Fam_pc,0.0003
+Hastings,Step_fam_othr_child_pres_Fam_pc,0.0
+Hawthorn,Step_fam_othr_child_pres_Fam_pc,0.0
+Ivanhoe,Step_fam_othr_child_pres_Fam_pc,0.0
+Kalkallo,Step_fam_othr_child_pres_Fam_pc,0.0003
+Kew,Step_fam_othr_child_pres_Fam_pc,0.0
+Kororoit,Step_fam_othr_child_pres_Fam_pc,0.0
+Lara,Step_fam_othr_child_pres_Fam_pc,0.0
+Laverton,Step_fam_othr_child_pres_Fam_pc,0.0
+Lowan,Step_fam_othr_child_pres_Fam_pc,0.0
+Macedon,Step_fam_othr_child_pres_Fam_pc,0.0004
+Malvern,Step_fam_othr_child_pres_Fam_pc,0.0
+Melbourne,Step_fam_othr_child_pres_Fam_pc,0.0
+Melton,Step_fam_othr_child_pres_Fam_pc,0.0003
+Mildura,Step_fam_othr_child_pres_Fam_pc,0.001
+Mill Park,Step_fam_othr_child_pres_Fam_pc,0.0
+Monbulk,Step_fam_othr_child_pres_Fam_pc,0.0
+Mordialloc,Step_fam_othr_child_pres_Fam_pc,0.0
+Mornington,Step_fam_othr_child_pres_Fam_pc,0.0
+Morwell,Step_fam_othr_child_pres_Fam_pc,0.0
+Mulgrave,Step_fam_othr_child_pres_Fam_pc,0.0
+Murray Plains,Step_fam_othr_child_pres_Fam_pc,0.0
+Narracan,Step_fam_othr_child_pres_Fam_pc,0.0
+Narre Warren North,Step_fam_othr_child_pres_Fam_pc,0.0
+Narre Warren South,Step_fam_othr_child_pres_Fam_pc,0.0
+Nepean,Step_fam_othr_child_pres_Fam_pc,0.0
+Niddrie,Step_fam_othr_child_pres_Fam_pc,0.0
+Northcote,Step_fam_othr_child_pres_Fam_pc,0.0
+Oakleigh,Step_fam_othr_child_pres_Fam_pc,0.0
+Ovens Valley,Step_fam_othr_child_pres_Fam_pc,0.0
+Pakenham,Step_fam_othr_child_pres_Fam_pc,0.0003
+Pascoe Vale,Step_fam_othr_child_pres_Fam_pc,0.0
+Point Cook,Step_fam_othr_child_pres_Fam_pc,0.0002
+Polwarth,Step_fam_othr_child_pres_Fam_pc,0.0
+Prahran,Step_fam_othr_child_pres_Fam_pc,0.0
+Preston,Step_fam_othr_child_pres_Fam_pc,0.0
+Richmond,Step_fam_othr_child_pres_Fam_pc,0.0
+Ringwood,Step_fam_othr_child_pres_Fam_pc,0.0
+Ripon,Step_fam_othr_child_pres_Fam_pc,0.0004
+Rowville,Step_fam_othr_child_pres_Fam_pc,0.0
+Sandringham,Step_fam_othr_child_pres_Fam_pc,0.0
+Shepparton,Step_fam_othr_child_pres_Fam_pc,0.0
+South Barwon,Step_fam_othr_child_pres_Fam_pc,0.0
+South-West Coast,Step_fam_othr_child_pres_Fam_pc,0.0
+St Albans,Step_fam_othr_child_pres_Fam_pc,0.0
+Sunbury,Step_fam_othr_child_pres_Fam_pc,0.0
+Sydenham,Step_fam_othr_child_pres_Fam_pc,0.0
+Tarneit,Step_fam_othr_child_pres_Fam_pc,0.0003
+Thomastown,Step_fam_othr_child_pres_Fam_pc,0.0003
+Warrandyte,Step_fam_othr_child_pres_Fam_pc,0.0
+Wendouree,Step_fam_othr_child_pres_Fam_pc,0.0
+Werribee,Step_fam_othr_child_pres_Fam_pc,0.0
+Williamstown,Step_fam_othr_child_pres_Fam_pc,0.0
+Yan Yean,Step_fam_othr_child_pres_Fam_pc,0.0
+Albert Park,Blnd_fam_othr_child_pres_Fam_n,0.0
+Ashwood,Blnd_fam_othr_child_pres_Fam_n,0.0
+Bass,Blnd_fam_othr_child_pres_Fam_n,0.0
+Bayswater,Blnd_fam_othr_child_pres_Fam_n,0.0
+Bellarine,Blnd_fam_othr_child_pres_Fam_n,0.0
+Benambra,Blnd_fam_othr_child_pres_Fam_n,0.0
+Bendigo East,Blnd_fam_othr_child_pres_Fam_n,0.0
+Bendigo West,Blnd_fam_othr_child_pres_Fam_n,0.0
+Bentleigh,Blnd_fam_othr_child_pres_Fam_n,0.0
+Berwick,Blnd_fam_othr_child_pres_Fam_n,0.0
+Box Hill,Blnd_fam_othr_child_pres_Fam_n,0.0
+Brighton,Blnd_fam_othr_child_pres_Fam_n,0.0
+Broadmeadows,Blnd_fam_othr_child_pres_Fam_n,0.0
+Brunswick,Blnd_fam_othr_child_pres_Fam_n,0.0
+Bulleen,Blnd_fam_othr_child_pres_Fam_n,0.0
+Bundoora,Blnd_fam_othr_child_pres_Fam_n,0.0
+Carrum,Blnd_fam_othr_child_pres_Fam_n,0.0
+Caulfield,Blnd_fam_othr_child_pres_Fam_n,0.0
+Clarinda,Blnd_fam_othr_child_pres_Fam_n,0.0
+Cranbourne,Blnd_fam_othr_child_pres_Fam_n,0.0
+Croydon,Blnd_fam_othr_child_pres_Fam_n,0.0
+Dandenong,Blnd_fam_othr_child_pres_Fam_n,0.0
+Eildon,Blnd_fam_othr_child_pres_Fam_n,0.0
+Eltham,Blnd_fam_othr_child_pres_Fam_n,0.0
+Essendon,Blnd_fam_othr_child_pres_Fam_n,0.0
+Eureka,Blnd_fam_othr_child_pres_Fam_n,0.0
+Euroa,Blnd_fam_othr_child_pres_Fam_n,0.0
+Evelyn,Blnd_fam_othr_child_pres_Fam_n,0.0
+Footscray,Blnd_fam_othr_child_pres_Fam_n,0.0
+Frankston,Blnd_fam_othr_child_pres_Fam_n,0.0
+Geelong,Blnd_fam_othr_child_pres_Fam_n,0.0
+Gippsland East,Blnd_fam_othr_child_pres_Fam_n,0.0
+Gippsland South,Blnd_fam_othr_child_pres_Fam_n,0.0
+Glen Waverley,Blnd_fam_othr_child_pres_Fam_n,0.0
+Greenvale,Blnd_fam_othr_child_pres_Fam_n,0.0
+Hastings,Blnd_fam_othr_child_pres_Fam_n,0.0
+Hawthorn,Blnd_fam_othr_child_pres_Fam_n,0.0
+Ivanhoe,Blnd_fam_othr_child_pres_Fam_n,0.0
+Kalkallo,Blnd_fam_othr_child_pres_Fam_n,0.0
+Kew,Blnd_fam_othr_child_pres_Fam_n,0.0
+Kororoit,Blnd_fam_othr_child_pres_Fam_n,0.0
+Lara,Blnd_fam_othr_child_pres_Fam_n,0.0
+Laverton,Blnd_fam_othr_child_pres_Fam_n,0.0
+Lowan,Blnd_fam_othr_child_pres_Fam_n,0.0
+Macedon,Blnd_fam_othr_child_pres_Fam_n,0.0
+Malvern,Blnd_fam_othr_child_pres_Fam_n,0.0
+Melbourne,Blnd_fam_othr_child_pres_Fam_n,0.0
+Melton,Blnd_fam_othr_child_pres_Fam_n,0.0
+Mildura,Blnd_fam_othr_child_pres_Fam_n,0.0
+Mill Park,Blnd_fam_othr_child_pres_Fam_n,0.0
+Monbulk,Blnd_fam_othr_child_pres_Fam_n,0.0
+Mordialloc,Blnd_fam_othr_child_pres_Fam_n,0.0
+Mornington,Blnd_fam_othr_child_pres_Fam_n,0.0
+Morwell,Blnd_fam_othr_child_pres_Fam_n,0.0
+Mulgrave,Blnd_fam_othr_child_pres_Fam_n,0.0
+Murray Plains,Blnd_fam_othr_child_pres_Fam_n,0.0
+Narracan,Blnd_fam_othr_child_pres_Fam_n,0.0
+Narre Warren North,Blnd_fam_othr_child_pres_Fam_n,0.0
+Narre Warren South,Blnd_fam_othr_child_pres_Fam_n,0.0
+Nepean,Blnd_fam_othr_child_pres_Fam_n,0.0
+Niddrie,Blnd_fam_othr_child_pres_Fam_n,0.0
+Northcote,Blnd_fam_othr_child_pres_Fam_n,0.0
+Oakleigh,Blnd_fam_othr_child_pres_Fam_n,0.0
+Ovens Valley,Blnd_fam_othr_child_pres_Fam_n,0.0
+Pakenham,Blnd_fam_othr_child_pres_Fam_n,0.0
+Pascoe Vale,Blnd_fam_othr_child_pres_Fam_n,0.0
+Point Cook,Blnd_fam_othr_child_pres_Fam_n,3.0
+Polwarth,Blnd_fam_othr_child_pres_Fam_n,0.0
+Prahran,Blnd_fam_othr_child_pres_Fam_n,0.0
+Preston,Blnd_fam_othr_child_pres_Fam_n,0.0
+Richmond,Blnd_fam_othr_child_pres_Fam_n,0.0
+Ringwood,Blnd_fam_othr_child_pres_Fam_n,0.0
+Ripon,Blnd_fam_othr_child_pres_Fam_n,0.0
+Rowville,Blnd_fam_othr_child_pres_Fam_n,0.0
+Sandringham,Blnd_fam_othr_child_pres_Fam_n,0.0
+Shepparton,Blnd_fam_othr_child_pres_Fam_n,0.0
+South Barwon,Blnd_fam_othr_child_pres_Fam_n,0.0
+South-West Coast,Blnd_fam_othr_child_pres_Fam_n,0.0
+St Albans,Blnd_fam_othr_child_pres_Fam_n,0.0
+Sunbury,Blnd_fam_othr_child_pres_Fam_n,0.0
+Sydenham,Blnd_fam_othr_child_pres_Fam_n,0.0
+Tarneit,Blnd_fam_othr_child_pres_Fam_n,0.0
+Thomastown,Blnd_fam_othr_child_pres_Fam_n,0.0
+Warrandyte,Blnd_fam_othr_child_pres_Fam_n,0.0
+Wendouree,Blnd_fam_othr_child_pres_Fam_n,0.0
+Werribee,Blnd_fam_othr_child_pres_Fam_n,0.0
+Williamstown,Blnd_fam_othr_child_pres_Fam_n,0.0
+Yan Yean,Blnd_fam_othr_child_pres_Fam_n,0.0
+Albert Park,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Ashwood,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Bass,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Bayswater,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Bellarine,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Benambra,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Bendigo East,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Bendigo West,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Bentleigh,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Berwick,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Box Hill,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Brighton,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Broadmeadows,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Brunswick,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Bulleen,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Bundoora,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Carrum,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Caulfield,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Clarinda,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Cranbourne,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Croydon,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Dandenong,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Eildon,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Eltham,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Essendon,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Eureka,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Euroa,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Evelyn,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Footscray,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Frankston,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Geelong,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Gippsland East,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Gippsland South,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Glen Waverley,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Greenvale,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Hastings,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Hawthorn,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Ivanhoe,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Kalkallo,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Kew,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Kororoit,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Lara,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Laverton,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Lowan,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Macedon,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Malvern,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Melbourne,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Melton,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Mildura,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Mill Park,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Monbulk,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Mordialloc,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Mornington,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Morwell,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Mulgrave,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Murray Plains,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Narracan,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Narre Warren North,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Narre Warren South,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Nepean,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Niddrie,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Northcote,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Oakleigh,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Ovens Valley,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Pakenham,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Pascoe Vale,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Point Cook,Blnd_fam_othr_child_pres_Fam_pc,0.0002
+Polwarth,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Prahran,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Preston,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Richmond,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Ringwood,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Ripon,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Rowville,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Sandringham,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Shepparton,Blnd_fam_othr_child_pres_Fam_pc,0.0
+South Barwon,Blnd_fam_othr_child_pres_Fam_pc,0.0
+South-West Coast,Blnd_fam_othr_child_pres_Fam_pc,0.0
+St Albans,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Sunbury,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Sydenham,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Tarneit,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Thomastown,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Warrandyte,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Wendouree,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Werribee,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Williamstown,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Yan Yean,Blnd_fam_othr_child_pres_Fam_pc,0.0
+Albert Park,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Ashwood,Otr_cpl_fam_otr_chld_only_Fam_n,4.0
+Bass,Otr_cpl_fam_otr_chld_only_Fam_n,9.0
+Bayswater,Otr_cpl_fam_otr_chld_only_Fam_n,4.0
+Bellarine,Otr_cpl_fam_otr_chld_only_Fam_n,8.0
+Benambra,Otr_cpl_fam_otr_chld_only_Fam_n,10.0
+Bendigo East,Otr_cpl_fam_otr_chld_only_Fam_n,3.0
+Bendigo West,Otr_cpl_fam_otr_chld_only_Fam_n,16.0
+Bentleigh,Otr_cpl_fam_otr_chld_only_Fam_n,4.0
+Berwick,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Box Hill,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Brighton,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Broadmeadows,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Brunswick,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Bulleen,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Bundoora,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Carrum,Otr_cpl_fam_otr_chld_only_Fam_n,10.0
+Caulfield,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Clarinda,Otr_cpl_fam_otr_chld_only_Fam_n,11.0
+Cranbourne,Otr_cpl_fam_otr_chld_only_Fam_n,13.0
+Croydon,Otr_cpl_fam_otr_chld_only_Fam_n,3.0
+Dandenong,Otr_cpl_fam_otr_chld_only_Fam_n,6.0
+Eildon,Otr_cpl_fam_otr_chld_only_Fam_n,3.0
+Eltham,Otr_cpl_fam_otr_chld_only_Fam_n,3.0
+Essendon,Otr_cpl_fam_otr_chld_only_Fam_n,3.0
+Eureka,Otr_cpl_fam_otr_chld_only_Fam_n,10.0
+Euroa,Otr_cpl_fam_otr_chld_only_Fam_n,22.0
+Evelyn,Otr_cpl_fam_otr_chld_only_Fam_n,15.0
+Footscray,Otr_cpl_fam_otr_chld_only_Fam_n,4.0
+Frankston,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Geelong,Otr_cpl_fam_otr_chld_only_Fam_n,4.0
+Gippsland East,Otr_cpl_fam_otr_chld_only_Fam_n,11.0
+Gippsland South,Otr_cpl_fam_otr_chld_only_Fam_n,14.0
+Glen Waverley,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Greenvale,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Hastings,Otr_cpl_fam_otr_chld_only_Fam_n,12.0
+Hawthorn,Otr_cpl_fam_otr_chld_only_Fam_n,5.0
+Ivanhoe,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Kalkallo,Otr_cpl_fam_otr_chld_only_Fam_n,7.0
+Kew,Otr_cpl_fam_otr_chld_only_Fam_n,4.0
+Kororoit,Otr_cpl_fam_otr_chld_only_Fam_n,9.0
+Lara,Otr_cpl_fam_otr_chld_only_Fam_n,9.0
+Laverton,Otr_cpl_fam_otr_chld_only_Fam_n,14.0
+Lowan,Otr_cpl_fam_otr_chld_only_Fam_n,20.0
+Macedon,Otr_cpl_fam_otr_chld_only_Fam_n,8.0
+Malvern,Otr_cpl_fam_otr_chld_only_Fam_n,3.0
+Melbourne,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Melton,Otr_cpl_fam_otr_chld_only_Fam_n,7.0
+Mildura,Otr_cpl_fam_otr_chld_only_Fam_n,30.0
+Mill Park,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Monbulk,Otr_cpl_fam_otr_chld_only_Fam_n,11.0
+Mordialloc,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Mornington,Otr_cpl_fam_otr_chld_only_Fam_n,3.0
+Morwell,Otr_cpl_fam_otr_chld_only_Fam_n,19.0
+Mulgrave,Otr_cpl_fam_otr_chld_only_Fam_n,3.0
+Murray Plains,Otr_cpl_fam_otr_chld_only_Fam_n,13.0
+Narracan,Otr_cpl_fam_otr_chld_only_Fam_n,19.0
+Narre Warren North,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Narre Warren South,Otr_cpl_fam_otr_chld_only_Fam_n,9.0
+Nepean,Otr_cpl_fam_otr_chld_only_Fam_n,3.0
+Niddrie,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Northcote,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Oakleigh,Otr_cpl_fam_otr_chld_only_Fam_n,8.0
+Ovens Valley,Otr_cpl_fam_otr_chld_only_Fam_n,12.0
+Pakenham,Otr_cpl_fam_otr_chld_only_Fam_n,19.0
+Pascoe Vale,Otr_cpl_fam_otr_chld_only_Fam_n,4.0
+Point Cook,Otr_cpl_fam_otr_chld_only_Fam_n,3.0
+Polwarth,Otr_cpl_fam_otr_chld_only_Fam_n,13.0
+Prahran,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Preston,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Richmond,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Ringwood,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Ripon,Otr_cpl_fam_otr_chld_only_Fam_n,17.0
+Rowville,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Sandringham,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Shepparton,Otr_cpl_fam_otr_chld_only_Fam_n,12.0
+South Barwon,Otr_cpl_fam_otr_chld_only_Fam_n,4.0
+South-West Coast,Otr_cpl_fam_otr_chld_only_Fam_n,15.0
+St Albans,Otr_cpl_fam_otr_chld_only_Fam_n,9.0
+Sunbury,Otr_cpl_fam_otr_chld_only_Fam_n,3.0
+Sydenham,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Tarneit,Otr_cpl_fam_otr_chld_only_Fam_n,12.0
+Thomastown,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Warrandyte,Otr_cpl_fam_otr_chld_only_Fam_n,5.0
+Wendouree,Otr_cpl_fam_otr_chld_only_Fam_n,6.0
+Werribee,Otr_cpl_fam_otr_chld_only_Fam_n,7.0
+Williamstown,Otr_cpl_fam_otr_chld_only_Fam_n,4.0
+Yan Yean,Otr_cpl_fam_otr_chld_only_Fam_n,0.0
+Albert Park,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Ashwood,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0004
+Bass,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0013
+Bayswater,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0004
+Bellarine,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0011
+Benambra,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0014
+Bendigo East,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0004
+Bendigo West,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0026
+Bentleigh,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0004
+Berwick,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Box Hill,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Brighton,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Broadmeadows,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Brunswick,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Bulleen,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Bundoora,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Carrum,Otr_cpl_fam_otr_chld_only_Fam_pc,0.001
+Caulfield,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Clarinda,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0011
+Cranbourne,Otr_cpl_fam_otr_chld_only_Fam_pc,0.001
+Croydon,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0003
+Dandenong,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0006
+Eildon,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0004
+Eltham,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0003
+Essendon,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0004
+Eureka,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0012
+Euroa,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0035
+Evelyn,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0016
+Footscray,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0005
+Frankston,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Geelong,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0005
+Gippsland East,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0019
+Gippsland South,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0022
+Glen Waverley,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Greenvale,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Hastings,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0015
+Hawthorn,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0006
+Ivanhoe,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Kalkallo,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0005
+Kew,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0004
+Kororoit,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0007
+Lara,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0012
+Laverton,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0011
+Lowan,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0031
+Macedon,Otr_cpl_fam_otr_chld_only_Fam_pc,0.001
+Malvern,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0004
+Melbourne,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Melton,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0007
+Mildura,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0044
+Mill Park,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Monbulk,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0012
+Mordialloc,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Mornington,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0004
+Morwell,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0028
+Mulgrave,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0003
+Murray Plains,Otr_cpl_fam_otr_chld_only_Fam_pc,0.002
+Narracan,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0025
+Narre Warren North,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Narre Warren South,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0007
+Nepean,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0006
+Niddrie,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Northcote,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Oakleigh,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0008
+Ovens Valley,Otr_cpl_fam_otr_chld_only_Fam_pc,0.002
+Pakenham,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0019
+Pascoe Vale,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0005
+Point Cook,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0002
+Polwarth,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0017
+Prahran,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Preston,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Richmond,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Ringwood,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Ripon,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0025
+Rowville,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Sandringham,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Shepparton,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0015
+South Barwon,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0004
+South-West Coast,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0021
+St Albans,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0011
+Sunbury,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0004
+Sydenham,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Tarneit,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0009
+Thomastown,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Warrandyte,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0005
+Wendouree,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0009
+Werribee,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0006
+Williamstown,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0005
+Yan Yean,Otr_cpl_fam_otr_chld_only_Fam_pc,0.0
+Albert Park,Tot_Families_n,5392.0
+Ashwood,Tot_Families_n,11251.0
+Bass,Tot_Families_n,7097.0
+Bayswater,Tot_Families_n,9223.0
+Bellarine,Tot_Families_n,7521.0
+Benambra,Tot_Families_n,7104.0
+Bendigo East,Tot_Families_n,8025.0
+Bendigo West,Tot_Families_n,6105.0
+Bentleigh,Tot_Families_n,11000.0
+Berwick,Tot_Families_n,13254.0
+Box Hill,Tot_Families_n,10258.0
+Brighton,Tot_Families_n,8205.0
+Broadmeadows,Tot_Families_n,9178.0
+Brunswick,Tot_Families_n,5446.0
+Bulleen,Tot_Families_n,9987.0
+Bundoora,Tot_Families_n,8875.0
+Carrum,Tot_Families_n,9848.0
+Caulfield,Tot_Families_n,7763.0
+Clarinda,Tot_Families_n,9735.0
+Cranbourne,Tot_Families_n,12696.0
+Croydon,Tot_Families_n,9450.0
+Dandenong,Tot_Families_n,10254.0
+Eildon,Tot_Families_n,7121.0
+Eltham,Tot_Families_n,9971.0
+Essendon,Tot_Families_n,8064.0
+Eureka,Tot_Families_n,8678.0
+Euroa,Tot_Families_n,6265.0
+Evelyn,Tot_Families_n,9650.0
+Footscray,Tot_Families_n,7703.0
+Frankston,Tot_Families_n,6861.0
+Geelong,Tot_Families_n,7612.0
+Gippsland East,Tot_Families_n,5672.0
+Gippsland South,Tot_Families_n,6345.0
+Glen Waverley,Tot_Families_n,11824.0
+Greenvale,Tot_Families_n,11548.0
+Hastings,Tot_Families_n,8052.0
+Hawthorn,Tot_Families_n,8154.0
+Ivanhoe,Tot_Families_n,8399.0
+Kalkallo,Tot_Families_n,15234.0
+Kew,Tot_Families_n,10232.0
+Kororoit,Tot_Families_n,12605.0
+Lara,Tot_Families_n,7333.0
+Laverton,Tot_Families_n,12252.0
+Lowan,Tot_Families_n,6542.0
+Macedon,Tot_Families_n,7892.0
+Malvern,Tot_Families_n,7088.0
+Melbourne,Tot_Families_n,5131.0
+Melton,Tot_Families_n,10652.0
+Mildura,Tot_Families_n,6763.0
+Mill Park,Tot_Families_n,10052.0
+Monbulk,Tot_Families_n,8949.0
+Mordialloc,Tot_Families_n,10554.0
+Mornington,Tot_Families_n,8190.0
+Morwell,Tot_Families_n,6850.0
+Mulgrave,Tot_Families_n,9528.0
+Murray Plains,Tot_Families_n,6358.0
+Narracan,Tot_Families_n,7751.0
+Narre Warren North,Tot_Families_n,10949.0
+Narre Warren South,Tot_Families_n,13837.0
+Nepean,Tot_Families_n,5354.0
+Niddrie,Tot_Families_n,9438.0
+Northcote,Tot_Families_n,7443.0
+Oakleigh,Tot_Families_n,9732.0
+Ovens Valley,Tot_Families_n,6025.0
+Pakenham,Tot_Families_n,10267.0
+Pascoe Vale,Tot_Families_n,8224.0
+Point Cook,Tot_Families_n,14758.0
+Polwarth,Tot_Families_n,7790.0
+Prahran,Tot_Families_n,3723.0
+Preston,Tot_Families_n,7980.0
+Richmond,Tot_Families_n,4333.0
+Ringwood,Tot_Families_n,10537.0
+Ripon,Tot_Families_n,6920.0
+Rowville,Tot_Families_n,10932.0
+Sandringham,Tot_Families_n,8213.0
+Shepparton,Tot_Families_n,7743.0
+South Barwon,Tot_Families_n,9027.0
+South-West Coast,Tot_Families_n,7228.0
+St Albans,Tot_Families_n,8514.0
+Sunbury,Tot_Families_n,8140.0
+Sydenham,Tot_Families_n,12366.0
+Tarneit,Tot_Families_n,14047.0
+Thomastown,Tot_Families_n,10689.0
+Warrandyte,Tot_Families_n,11059.0
+Wendouree,Tot_Families_n,6607.0
+Werribee,Tot_Families_n,11342.0
+Williamstown,Tot_Families_n,8501.0
+Yan Yean,Tot_Families_n,11185.0
+Albert Park,Tot_Families_pc,1.0
+Ashwood,Tot_Families_pc,1.0
+Bass,Tot_Families_pc,1.0
+Bayswater,Tot_Families_pc,1.0
+Bellarine,Tot_Families_pc,1.0
+Benambra,Tot_Families_pc,1.0
+Bendigo East,Tot_Families_pc,1.0
+Bendigo West,Tot_Families_pc,1.0
+Bentleigh,Tot_Families_pc,1.0
+Berwick,Tot_Families_pc,1.0
+Box Hill,Tot_Families_pc,1.0
+Brighton,Tot_Families_pc,1.0
+Broadmeadows,Tot_Families_pc,1.0
+Brunswick,Tot_Families_pc,1.0
+Bulleen,Tot_Families_pc,1.0
+Bundoora,Tot_Families_pc,1.0
+Carrum,Tot_Families_pc,1.0
+Caulfield,Tot_Families_pc,1.0
+Clarinda,Tot_Families_pc,1.0
+Cranbourne,Tot_Families_pc,1.0
+Croydon,Tot_Families_pc,1.0
+Dandenong,Tot_Families_pc,1.0
+Eildon,Tot_Families_pc,1.0
+Eltham,Tot_Families_pc,1.0
+Essendon,Tot_Families_pc,1.0
+Eureka,Tot_Families_pc,1.0
+Euroa,Tot_Families_pc,1.0
+Evelyn,Tot_Families_pc,1.0
+Footscray,Tot_Families_pc,1.0
+Frankston,Tot_Families_pc,1.0
+Geelong,Tot_Families_pc,1.0
+Gippsland East,Tot_Families_pc,1.0
+Gippsland South,Tot_Families_pc,1.0
+Glen Waverley,Tot_Families_pc,1.0
+Greenvale,Tot_Families_pc,1.0
+Hastings,Tot_Families_pc,1.0
+Hawthorn,Tot_Families_pc,1.0
+Ivanhoe,Tot_Families_pc,1.0
+Kalkallo,Tot_Families_pc,1.0
+Kew,Tot_Families_pc,1.0
+Kororoit,Tot_Families_pc,1.0
+Lara,Tot_Families_pc,1.0
+Laverton,Tot_Families_pc,1.0
+Lowan,Tot_Families_pc,1.0
+Macedon,Tot_Families_pc,1.0
+Malvern,Tot_Families_pc,1.0
+Melbourne,Tot_Families_pc,1.0
+Melton,Tot_Families_pc,1.0
+Mildura,Tot_Families_pc,1.0
+Mill Park,Tot_Families_pc,1.0
+Monbulk,Tot_Families_pc,1.0
+Mordialloc,Tot_Families_pc,1.0
+Mornington,Tot_Families_pc,1.0
+Morwell,Tot_Families_pc,1.0
+Mulgrave,Tot_Families_pc,1.0
+Murray Plains,Tot_Families_pc,1.0
+Narracan,Tot_Families_pc,1.0
+Narre Warren North,Tot_Families_pc,1.0
+Narre Warren South,Tot_Families_pc,1.0
+Nepean,Tot_Families_pc,1.0
+Niddrie,Tot_Families_pc,1.0
+Northcote,Tot_Families_pc,1.0
+Oakleigh,Tot_Families_pc,1.0
+Ovens Valley,Tot_Families_pc,1.0
+Pakenham,Tot_Families_pc,1.0
+Pascoe Vale,Tot_Families_pc,1.0
+Point Cook,Tot_Families_pc,1.0
+Polwarth,Tot_Families_pc,1.0
+Prahran,Tot_Families_pc,1.0
+Preston,Tot_Families_pc,1.0
+Richmond,Tot_Families_pc,1.0
+Ringwood,Tot_Families_pc,1.0
+Ripon,Tot_Families_pc,1.0
+Rowville,Tot_Families_pc,1.0
+Sandringham,Tot_Families_pc,1.0
+Shepparton,Tot_Families_pc,1.0
+South Barwon,Tot_Families_pc,1.0
+South-West Coast,Tot_Families_pc,1.0
+St Albans,Tot_Families_pc,1.0
+Sunbury,Tot_Families_pc,1.0
+Sydenham,Tot_Families_pc,1.0
+Tarneit,Tot_Families_pc,1.0
+Thomastown,Tot_Families_pc,1.0
+Warrandyte,Tot_Families_pc,1.0
+Wendouree,Tot_Families_pc,1.0
+Werribee,Tot_Families_pc,1.0
+Williamstown,Tot_Families_pc,1.0
+Yan Yean,Tot_Families_pc,1.0
+Albert Park,Tot_Families_total,5392.0
+Ashwood,Tot_Families_total,11251.0
+Bass,Tot_Families_total,7097.0
+Bayswater,Tot_Families_total,9223.0
+Bellarine,Tot_Families_total,7521.0
+Benambra,Tot_Families_total,7104.0
+Bendigo East,Tot_Families_total,8025.0
+Bendigo West,Tot_Families_total,6105.0
+Bentleigh,Tot_Families_total,11000.0
+Berwick,Tot_Families_total,13254.0
+Box Hill,Tot_Families_total,10258.0
+Brighton,Tot_Families_total,8205.0
+Broadmeadows,Tot_Families_total,9178.0
+Brunswick,Tot_Families_total,5446.0
+Bulleen,Tot_Families_total,9987.0
+Bundoora,Tot_Families_total,8875.0
+Carrum,Tot_Families_total,9848.0
+Caulfield,Tot_Families_total,7763.0
+Clarinda,Tot_Families_total,9735.0
+Cranbourne,Tot_Families_total,12696.0
+Croydon,Tot_Families_total,9450.0
+Dandenong,Tot_Families_total,10254.0
+Eildon,Tot_Families_total,7121.0
+Eltham,Tot_Families_total,9971.0
+Essendon,Tot_Families_total,8064.0
+Eureka,Tot_Families_total,8678.0
+Euroa,Tot_Families_total,6265.0
+Evelyn,Tot_Families_total,9650.0
+Footscray,Tot_Families_total,7703.0
+Frankston,Tot_Families_total,6861.0
+Geelong,Tot_Families_total,7612.0
+Gippsland East,Tot_Families_total,5672.0
+Gippsland South,Tot_Families_total,6345.0
+Glen Waverley,Tot_Families_total,11824.0
+Greenvale,Tot_Families_total,11548.0
+Hastings,Tot_Families_total,8052.0
+Hawthorn,Tot_Families_total,8154.0
+Ivanhoe,Tot_Families_total,8399.0
+Kalkallo,Tot_Families_total,15234.0
+Kew,Tot_Families_total,10232.0
+Kororoit,Tot_Families_total,12605.0
+Lara,Tot_Families_total,7333.0
+Laverton,Tot_Families_total,12252.0
+Lowan,Tot_Families_total,6542.0
+Macedon,Tot_Families_total,7892.0
+Malvern,Tot_Families_total,7088.0
+Melbourne,Tot_Families_total,5131.0
+Melton,Tot_Families_total,10652.0
+Mildura,Tot_Families_total,6763.0
+Mill Park,Tot_Families_total,10052.0
+Monbulk,Tot_Families_total,8949.0
+Mordialloc,Tot_Families_total,10554.0
+Mornington,Tot_Families_total,8190.0
+Morwell,Tot_Families_total,6850.0
+Mulgrave,Tot_Families_total,9528.0
+Murray Plains,Tot_Families_total,6358.0
+Narracan,Tot_Families_total,7751.0
+Narre Warren North,Tot_Families_total,10949.0
+Narre Warren South,Tot_Families_total,13837.0
+Nepean,Tot_Families_total,5354.0
+Niddrie,Tot_Families_total,9438.0
+Northcote,Tot_Families_total,7443.0
+Oakleigh,Tot_Families_total,9732.0
+Ovens Valley,Tot_Families_total,6025.0
+Pakenham,Tot_Families_total,10267.0
+Pascoe Vale,Tot_Families_total,8224.0
+Point Cook,Tot_Families_total,14758.0
+Polwarth,Tot_Families_total,7790.0
+Prahran,Tot_Families_total,3723.0
+Preston,Tot_Families_total,7980.0
+Richmond,Tot_Families_total,4333.0
+Ringwood,Tot_Families_total,10537.0
+Ripon,Tot_Families_total,6920.0
+Rowville,Tot_Families_total,10932.0
+Sandringham,Tot_Families_total,8213.0
+Shepparton,Tot_Families_total,7743.0
+South Barwon,Tot_Families_total,9027.0
+South-West Coast,Tot_Families_total,7228.0
+St Albans,Tot_Families_total,8514.0
+Sunbury,Tot_Families_total,8140.0
+Sydenham,Tot_Families_total,12366.0
+Tarneit,Tot_Families_total,14047.0
+Thomastown,Tot_Families_total,10689.0
+Warrandyte,Tot_Families_total,11059.0
+Wendouree,Tot_Families_total,6607.0
+Werribee,Tot_Families_total,11342.0
+Williamstown,Tot_Families_total,8501.0
+Yan Yean,Tot_Families_total,11185.0

@@ -68,7 +68,7 @@ for tableid in (['G05','G18','G22','G23','G25']):
     print(f'output table {tableid}\r\n')
 
 # tables split across multiple files
-# we combine together so the weighter has the denominator columnn for all of them
+# we combine together so the weighter has the denominator column for all of them
 combine_tables(['G09A', 'G09B', 'G09C', 'G09D', 'G09E', 'G09F', 'G09G', 'G09H'], total_name)
 combine_tables(['G13A', 'G13B', 'G13C', 'G13D', 'G13E'], total_name)
 combine_tables(['G16A', 'G16B'], total_name)
@@ -87,6 +87,56 @@ for tableid in (['G06']):
     print(f'output table {tableid}\r\n')
 
 # tables split across multiple files
-# we combine together so the weighter has the denominator columnn for all of them
+# we combine together so the weighter has the denominator column for all of them
 combine_tables(['G24A', 'G24B'], total_name)
 combine_tables(['G26A', 'G26B'], total_name)
+
+# tables with T_T_T as proportions
+total_name = 'T_T_T'
+
+# # tables split across multiple files
+# # we combine together so the weighter has the denominator column for all of them
+combine_tables(['G11A', 'G11B', 'G11C', 'G11D'], total_name)
+
+# tables with TCF_T_M_T as proportions
+total_name = 'TCF_T_M_T'
+
+# # tables split across multiple files
+# # we combine together so the weighter has the denominator column for all of them
+combine_tables(['G12A', 'G12B'], total_name)
+
+# tables with Tot_Families as proportions
+total_name = 'Tot_Families'
+
+for tableid in (['G31']):
+    copy_files(tableid, total_name)
+    print(f'output table {tableid}\r\n')
+
+# tables with Tot_P as proportions
+total_name = 'Tot_P'
+
+# single tables we just need to copy
+for tableid in (['G14', 'G15']):
+    copy_files(tableid, total_name)
+    print(f'output table {tableid}\r\n')
+
+# tables split across multiple files
+# we combine together so the weighter has the denominator column for all of them
+combine_tables(['G04A', 'G04B'], total_name)
+
+# tables with Tot_P_P as proportions
+total_name = 'Tot_P_P'
+
+# single tables we just need to copy
+for tableid in (['G01']):
+    copy_files(tableid, total_name)
+    print(f'output table {tableid}\r\n')
+
+# tables with Tot_P_Tot_resp as proportions
+total_name = 'Tot_P_Tot_resp'
+
+# single tables we just need to copy
+for tableid in (['G08']):
+    copy_files(tableid, total_name)
+    print(f'output table {tableid}\r\n')
+
