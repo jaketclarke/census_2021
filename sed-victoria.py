@@ -171,10 +171,3 @@ total_name = 'Total_dwelings'
 for tableid in (['G34']):
     copy_files(tableid, total_name)
     print(f'output table {tableid}\r\n')
-
-total_name = 'Total_P'
-
-# single tables we just need to copy
-for tableid in (['G34']):
-    copy_files(tableid, total_name)
-    print(f'output table {tableid}\r\n')
