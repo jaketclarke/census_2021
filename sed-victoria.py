@@ -24,8 +24,18 @@ def get_destination_table(tableid, total_name):
 # helper util to copy files
 def copy_files(tableid, total_name):
     source = get_source_table(tableid)
-    destination = get_destination_table(tableid, total_name)
-    shutil.copyfile(source, destination)
+    # deal with .. in place of NaN in census data 
+    df = pd.read_csv(source)
+    df.replace({'..': np.nan}, regex=True, inplace=True)
+    path = get_destination_table(tableid, total_name)
+    print(df)
+    df.to_csv(path, index=False, na_rep='Null')
+
+def clean_dots_from_table(df):
+    # some of the census dataframes contain '..'
+    # will check with abs but assume this means data not provided on small columns (e.g, M_Ptn_in_RM_0_14 in 27a)
+    # replacing with nan
+    return 
 
 # merge multiple tables
 def combine_tables(tableids, total_name):
@@ -169,5 +179,22 @@ total_name = 'Total_dwelings'
 
 # single tables we just need to copy
 for tableid in (['G34']):
+    copy_files(tableid, total_name)
+    print(f'output table {tableid}\r\n')
+
+# tables with Total_P as proportions
+total_name = 'Total_P'
+
+# single tables we just need to copy
+for tableid in (['G29']):
+    copy_files(tableid, total_name)
+    print(f'output table {tableid}\r\n')
+
+# tables with Total_Total as proportions
+total_name = 'Total_Total'
+
+# single tables we just need to copy
+# for tableid in (['G03','G28','G35','G37','G41']):
+for tableid in (['G35']):
     copy_files(tableid, total_name)
     print(f'output table {tableid}\r\n')
