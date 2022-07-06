@@ -22,8 +22,10 @@ for file in get_files_in_directory(path, suffix=".csv"):
             df = pd.concat([df, infile], ignore_index=True)
     
 make_directorytree_if_not_exists( f'{path}{os.sep}summary')
+# reshape and order
+out_n = df[['table','census_variable','district','value']].sort_values(['table','census_variable','district'])
 out_n = f'{path}{os.sep}summary{os.sep}2021Census_VIC_SED_2022_unpivoted.csv'
-df.to_csv(out_n, index=False)
+df.to_csv(out_n, index=False, na_rep="Null")
 
 # make pivot
 
