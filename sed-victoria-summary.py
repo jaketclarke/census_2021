@@ -79,8 +79,12 @@ writer = pd.ExcelWriter(pivot_districts_filepath_xlsx, engine='xlsxwriter')
 
 workbook = writer.book
 worksheet = workbook.add_worksheet(pivot_districts_filepath_xlsx_tab)
-percent_format = workbook.add_format({'num_format': '0.0%'})
-number_format = workbook.add_format({'num_format': '#,##0'})
+percent_format = workbook.add_format({'num_format': '0.0%'}).set_align('center')
+number_format = workbook.add_format({'num_format': '#,##0'}).set_align('center')
+header_format = workbook.add_format().set_align('center')
+
+# fix col width
+worksheet.set_column(1, 100, 20, header_format)
 
 rows = len(df)
 for index, row in df.iterrows():
@@ -89,6 +93,7 @@ for index, row in df.iterrows():
     if index == 0:
         cols = df.columns
         worksheet.write_row('A1', cols)
+        worksheet.set_row(index, 15, header_format)
     elif index %2 == 0:
         worksheet.set_row(index, 15, number_format)
     else:
