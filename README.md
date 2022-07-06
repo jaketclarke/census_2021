@@ -5,7 +5,7 @@ This project makes use of code to transform data between different geographies w
 
 # Victorian Districts
 
-![Example data image](https://github.com/jaketclarke/census-2021/tree/initial-work/img/sed-vic-example.png?raw=true)
+![example image](https://github.com/jaketclarke/census-2021/tree/initial-work/img/sed-vic-example.png?raw=true)
 
 ## Just give me the data
 
