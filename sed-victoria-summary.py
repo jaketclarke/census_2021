@@ -23,18 +23,18 @@ for file in get_files_in_directory(path, suffix=".csv"):
     
 make_directorytree_if_not_exists( f'{path}{os.sep}summary')
 # reshape and order
-out_n = df[['table','census_variable','district','value']].sort_values(['table','census_variable','district'])
-out_n = f'{path}{os.sep}summary{os.sep}2021Census_VIC_SED_2022_unpivoted.csv'
-df.to_csv(out_n, index=False, na_rep="Null")
+df_out = df[['table','census_variable','district','value']].sort_values(['table','census_variable','district'])
+path = f'{path}{os.sep}summary{os.sep}2021Census_VIC_SED_2022_unpivoted.csv'
+df_out.to_csv(path, index=False, na_rep="Null")
 
-# make pivot
+# # make pivot
 
-pivot = df.pivot(index='district', columns=['table', 'census_variable'], values='value')
-pivot.to_csv( f'{path}{os.sep}summary{os.sep}2021Census_VIC_SED_2022.csv')
+# pivot = df.pivot(index='district', columns=['table', 'census_variable'], values='value')
+# pivot.to_csv( f'{path}{os.sep}summary{os.sep}2021Census_VIC_SED_2022.csv')
 
-# repivot
-transform = pd.pivot_table(data=df, index=['table','census_variable'])
-transform = transform.reset_index()
-transform.to_csv( f'{path}{os.sep}summary{os.sep}foo.csv')
+# # repivot
+# transform = pd.pivot_table(data=df, index=['table','census_variable'])
+# transform = transform.reset_index()
+# transform.to_csv( f'{path}{os.sep}summary{os.sep}foo.csv')
 
-#ToDo - make sure we remove ranks for any question where sum(question)<2
+# #ToDo - make sure we remove ranks for any question where sum(question)<2
