@@ -163,10 +163,6 @@ for tableid in (['G07']):
     copy_files(tableid, total_name)
     print(f'output table {tableid}\r\n')
 
-# tables split across multiple files
-# we combine together so the weighter has the denominator column for all of them
-combine_tables(['G10A', 'G10B', 'G10C'], total_name)
-
 # tables with Total_dwelings as proportions
 total_name = 'Total_dwelings'
 

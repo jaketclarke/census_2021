@@ -28,6 +28,10 @@ The output data includes four files for each table, e.g `2021Census_G01_AUST_SA1
 
 The total column for each table and any appropriate caveats are described in `total_columns_2021.csv`
 
+The rank tables do not rank for census variables where there is no data, but they do process series with extremely small numbers (eg P_15_19_yr_Divorced_pc) - treat them with caution.
+
+The proportion is of total respondents for each table, it doesn't account for removing non responses from the data (e.g, number of motor vehicles not stated)
+
 ## How to repeat
 
 1. Download geography-weighter [here](https://github.com/jaketclarke/geography-weighter/) and follow the steps in that repo to get it up and running.
