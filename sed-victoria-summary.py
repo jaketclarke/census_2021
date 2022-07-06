@@ -79,24 +79,26 @@ writer = pd.ExcelWriter(pivot_districts_filepath_xlsx, engine='xlsxwriter')
 
 workbook = writer.book
 worksheet = workbook.add_worksheet(pivot_districts_filepath_xlsx_tab)
-percent_format = workbook.add_format({'num_format': '0.0%'}).set_align('center')
-number_format = workbook.add_format({'num_format': '#,##0'}).set_align('center')
+percent_format = workbook.add_format({'num_format': '0.0%'})#.set_align('center')
+number_format = workbook.add_format({'num_format': '#,##0'})#.set_align('center')
 header_format = workbook.add_format().set_align('center')
 
-# fix col width
-worksheet.set_column(1, 100, 20, header_format)
+worksheet.set_column(1, 100, 20)
 
 rows = len(df)
 for index, row in df.iterrows():
     needle = f'A{index+1}' # i.e index=0 returns A1
-    worksheet.write_row(needle, row)
     if index == 0:
-        cols = df.columns
+        cols = df.columns.tolist()
         worksheet.write_row('A1', cols)
         worksheet.set_row(index, 15, header_format)
     elif index %2 == 0:
-        worksheet.set_row(index, 15, number_format)
+        continue
+        # worksheet.set_row(index, 15, number_format)
+        # worksheet.write_row(needle, row)
     else:
-        worksheet.set_row(index, 15, percent_format)
+        continue
+        # worksheet.set_row(index, 15, percent_format)
+        # worksheet.write_row(needle, row)
     
 writer.save()
