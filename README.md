@@ -56,3 +56,11 @@ rm 2021_GCP_all_for_AUS_short-header.zip
 4. run `pipenv run python sed-victoria.py`, to create the files you need for weighting in `census-data-sed-victoria-input/`. This script will create subdirectories for each different total column containing the tables that have that total column name, and will combine separated files (e.g 4a and 4b into a 4) so that all data is paired with its total column
 
 5. run these files in the geography weighter, and copy the output back to `census-data-sed-victoria/`
+
+6. run `pipenv run python sed-victoria-summary.py` to generate summary outputs and spreadsheets
+
+## Tools
+
+* used [pyenv](https://realpython.com/intro-to-pyenv/) to manage python versions
+    * `pyenv install 3.9.13 ` to install a version
+    * `pyenv global 3.9.13` to set system python version
