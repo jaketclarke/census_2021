@@ -5,11 +5,11 @@ This project makes use of code to transform data between different geographies w
 
 # Victorian Districts
 
-
+![Example data image](https://github.com/jaketclarke/census-2021/tree/initial-work/img/sed-vic-example.png?raw=true)
 
 ## Just give me the data
 
-If you are looking for census data by 2022 Victorian Districts, click [here](https://github.com/jaketclarke/census-2021/tree/main/census-data-sed-victoria)
+If you are looking for census data by 2022 Victorian Districts, click [here](https://github.com/jaketclarke/census-2021/tree/main/census-data-sed-victoria?raw=true)
 
 If you want to know more about it and or repeat the calculation, read below.
 
