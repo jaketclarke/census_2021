@@ -69,6 +69,18 @@ if not os.path.isfile(pivot_districts_filepath):
 
 
 # format
-
+pivot_districts_filepath_xlsx = pivot_districts_filepath.replace('.csv','.xlsx')
+pivot_districts_filepath_xlsx_tab = 'data'
 df = pd.read_csv(pivot_districts_filepath, na_values=['Null','NaN','nan','Nan'])
-print(df)
+writer = pd.ExcelWriter(pivot_districts_filepath_xlsx, engine='xlsxwriter')
+df.to_excel(writer, sheet_name=pivot_districts_filepath_xlsx_tab, index=False)
+
+workbook = writer.book
+worksheet = writer.sheets[pivot_districts_filepath_xlsx_tab]
+percent_format = workbook.add_format({'num_format': '0.0%'})
+
+# Apply the number format to Grade column.
+worksheet.set_column(2, 7, None, percent_format)
+
+df.to_excel(writer, sheet_name=pivot_districts_filepath_xlsx_tab, index=False)
+writer.save()

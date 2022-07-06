@@ -9,6 +9,7 @@ pyfiglet = "*"
 termcolor = "*"
 pandas = "*"
 numpy = "*"
+xlsxwriter = "*"
 
 [dev-packages]
 
