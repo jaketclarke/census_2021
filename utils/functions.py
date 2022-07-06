@@ -106,3 +106,15 @@ def empty_directory(folder: str) -> str:
         # ToDo work out how to cause oserror to cover below with a test
         except OSError as e:
             print(f"Failed to delete {file_path}. Reason: {e}")
+
+def get_files_in_directory(path_to_dir, suffix=".csv"):
+    """
+    Args:
+        path_to_dir (str): [path to scan]
+        suffix (str, optional): [extension type to filter for]. Defaults to ".csv".
+    Returns:
+        list: [filepaths]
+    """
+    
+    filenames = os.listdir(path_to_dir)
+    return [ filename for filename in filenames if filename.endswith( suffix ) ]
