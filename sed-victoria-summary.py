@@ -81,7 +81,7 @@ workbook = writer.book
 worksheet = workbook.add_worksheet(pivot_districts_filepath_xlsx_tab)
 percent_format = workbook.add_format({'num_format': '0.0%', 'align': 'center'})
 number_format = workbook.add_format({'num_format': '#,##0', 'align': 'center'})
-header_format = workbook.add_format({'align': 'center'})
+header_format = workbook.add_format({'bold': True, 'align': 'center'})
 
 
 rows = len(df)
