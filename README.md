@@ -1,9 +1,11 @@
 # 2021 Census Data
-Data from the 2021 Australian census
+Data from the 2021 Australian Census
 
 This project makes use of code to transform data between different geographies which can be found [here](https://github.com/jaketclarke/geography-weighter/)
 
 # Victorian Districts
+
+
 
 ## Just give me the data
 
@@ -21,12 +23,14 @@ The output data includes four files for each table, e.g `2021Census_G01_AUST_SA1
 |2021Census_G01_VIC_SED_2022_n.csv | Contains just the numeric calculation |
 |2021Census_G01_VIC_SED_2022_n.csv | Contains just the proportion calculation |
 |2021Census_G01_VIC_SED_2022_unpivot.csv | Contains both the numeric and proportional version, unpivoted for machine readability |
+|2021Census_G01_VIC_SED_2022_ranked.csv | Ranks each district 1-88 on each variable, 1 being lowest, 88 highest |
+|2021Census_G01_VIC_SED_2022_ranked_unpivoted.csv | The same ranks as above, unpivoted for machine readability |
 
-The total column for each table and any appropriate caveats are described in `total_columns_2021.ods`
+The total column for each table and any appropriate caveats are described in `total_columns_2021.csv`
 
 ## How to repeat
 
-1. Download geography-weighter [here](https://github.com/jaketclarke/geography-weighter/) and follow the steps in that repo to get it up and running.c
+1. Download geography-weighter [here](https://github.com/jaketclarke/geography-weighter/) and follow the steps in that repo to get it up and running.
 
 2. Clone this repo & get started with `pipenv install`. If this fails ensure you have pip installed (e.g `sudo apt-get install pip`).
 
@@ -34,11 +38,14 @@ The total column for each table and any appropriate caveats are described in `to
 
 ```bash
 wget https://www.abs.gov.au/census/find-census-data/datapacks/download/2021_GCP_all_for_AUS_short-header.zip
-7za x 2021_GCP_all_for_AUS_short-header
+7za x 2021_GCP_all_for_AUS_short-header.zip
 cd 2021\ Census\ GCP\ All\ Geographies\ for\ AUS/
-mv * ../census-data/
+mkdir ../census-data
+mv * ../census-data
 cd ..
 rm -r 2021\ Census\ GCP\ All\ Geographies\ for\ AUS/
+rm -r Metadata
+rm -r Readme
 rm 2021_GCP_all_for_AUS_short-header.zip
 ```
 

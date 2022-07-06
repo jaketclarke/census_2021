@@ -28,7 +28,6 @@ def copy_files(tableid, total_name):
     df = pd.read_csv(source)
     df.replace({'..': np.nan}, regex=True, inplace=True)
     path = get_destination_table(tableid, total_name)
-    print(df)
     df.to_csv(path, index=False, na_rep='Null')
 
 # merge multiple tables
