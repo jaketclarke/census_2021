@@ -102,6 +102,8 @@ for index, row in df.iterrows():
 worksheet.set_column(0, 0, 10)
 worksheet.set_column(1, 1, 35) # make census var column wider
 worksheet.set_column(2, 91, 20)
-workbook.read_only_recommended()
 
+worksheet.freeze_panes(1, 3)
+
+workbook.read_only_recommended()
 writer.save()
