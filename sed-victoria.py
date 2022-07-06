@@ -31,12 +31,6 @@ def copy_files(tableid, total_name):
     print(df)
     df.to_csv(path, index=False, na_rep='Null')
 
-def clean_dots_from_table(df):
-    # some of the census dataframes contain '..'
-    # will check with abs but assume this means data not provided on small columns (e.g, M_Ptn_in_RM_0_14 in 27a)
-    # replacing with nan
-    return 
-
 # merge multiple tables
 def combine_tables(tableids, total_name):
     # get the combined table name eg G09 from G09A
