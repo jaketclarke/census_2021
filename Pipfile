@@ -10,6 +10,7 @@ termcolor = "*"
 pandas = "*"
 numpy = "*"
 xlsxwriter = "*"
+datetime = "*"
 
 [dev-packages]
 

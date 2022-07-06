@@ -6,6 +6,7 @@ import shutil
 import pandas as pd
 import functools as ft
 import numpy as np
+from datetime import datetime
 
 # combine all unpivoted data into one file
 dir = 'census-data-sed-victoria'
@@ -83,6 +84,7 @@ global_format_options = {'align': 'center', 'font_name': 'Tahoma', 'font_size': 
 percent_format = workbook.add_format(global_format_options | {'num_format': '0.0%'} )
 number_format = workbook.add_format(global_format_options | {'num_format': '#,##0'})
 header_format = workbook.add_format(global_format_options | {'bold': True})
+global_format = workbook.add_format(global_format_options)
 # header_format.set_font_name('Tahoma')
 
 rows = len(df)
@@ -110,6 +112,26 @@ worksheet.set_column(2, 91, 20)
 worksheet.freeze_panes(1, 3)
 
 worksheet.autofilter('A1:CM18063')
+
+now = datetime.now()
+now_formatted = now.strftime("%d/%m/%Y %H:%M:%S")
+
+worksheet_attribution = workbook.add_worksheet('about')
+attribution_format = workbook.add_format(global_format_options | {'align': 'right', 'font_name': 'Tahoma', 'font_size': 10} )
+worksheet_attribution.set_column(0, 0, 75, attribution_format)
+worksheet_attribution.set_column(1, 1, 150, global_format)
+
+worksheet_attribution.write_row('A1', ['Data assembled by Jake Clarke'])
+worksheet_attribution.write_row('A2', [f'Generated on {now_formatted}'])
+worksheet_attribution.write_row('A3', [f'More information on the project can be found at:'])
+worksheet_attribution.write_url('B3', 'https://github.com/jaketclarke/census-2021')
+worksheet_attribution.write_row('A4', [f'The most up-to-date version of this spreadsheet can be found at:'])
+worksheet_attribution.write_url('B4', 'https://github.com/jaketclarke/census-2021/blob/main/census-data-sed-victoria/summary/2021Census_VIC_SED_2022_long.xlsx')
+
+worksheet_attribution.set_row(0, 15)
+worksheet_attribution.set_row(1, 15)
+worksheet_attribution.set_row(2, 15)
+worksheet_attribution.set_row(3, 15)
 
 workbook.read_only_recommended()
 writer.save()
