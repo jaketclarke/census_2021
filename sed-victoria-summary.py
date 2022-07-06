@@ -72,15 +72,26 @@ if not os.path.isfile(pivot_districts_filepath):
 pivot_districts_filepath_xlsx = pivot_districts_filepath.replace('.csv','.xlsx')
 pivot_districts_filepath_xlsx_tab = 'data'
 df = pd.read_csv(pivot_districts_filepath, na_values=['Null','NaN','nan','Nan'])
+#xlsxwriter can't write nans
+df = df.fillna('..')
 writer = pd.ExcelWriter(pivot_districts_filepath_xlsx, engine='xlsxwriter')
-df.to_excel(writer, sheet_name=pivot_districts_filepath_xlsx_tab, index=False)
+# df.to_excel(writer, sheet_name=pivot_districts_filepath_xlsx_tab, index=False)
 
 workbook = writer.book
-worksheet = writer.sheets[pivot_districts_filepath_xlsx_tab]
+worksheet = workbook.add_worksheet(pivot_districts_filepath_xlsx_tab)
 percent_format = workbook.add_format({'num_format': '0.0%'})
+number_format = workbook.add_format({'num_format': '#,##0'})
 
-# Apply the number format to Grade column.
-worksheet.set_column(2, 7, None, percent_format)
-
-df.to_excel(writer, sheet_name=pivot_districts_filepath_xlsx_tab, index=False)
+rows = len(df)
+for index, row in df.iterrows():
+    needle = f'A{index+1}' # i.e index=0 returns A1
+    worksheet.write_row(needle, row)
+    if index == 0:
+        cols = df.columns
+        worksheet.write_row('A1', cols)
+    elif index %2 == 0:
+        worksheet.set_row(index, 15, number_format)
+    else:
+        worksheet.set_row(index, 15, percent_format)
+    
 writer.save()
