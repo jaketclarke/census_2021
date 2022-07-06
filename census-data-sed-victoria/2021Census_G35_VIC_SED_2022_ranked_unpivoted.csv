@@ -1,0 +1,3785 @@
+district,census_variable,value,rank
+Albert Park,Num_Psns_UR_1_FamHhold,Null,Null
+Ashwood,Num_Psns_UR_1_FamHhold,Null,Null
+Bass,Num_Psns_UR_1_FamHhold,Null,Null
+Bayswater,Num_Psns_UR_1_FamHhold,Null,Null
+Bellarine,Num_Psns_UR_1_FamHhold,Null,Null
+Benambra,Num_Psns_UR_1_FamHhold,Null,Null
+Bendigo East,Num_Psns_UR_1_FamHhold,Null,Null
+Bendigo West,Num_Psns_UR_1_FamHhold,Null,Null
+Bentleigh,Num_Psns_UR_1_FamHhold,Null,Null
+Berwick,Num_Psns_UR_1_FamHhold,Null,Null
+Box Hill,Num_Psns_UR_1_FamHhold,Null,Null
+Brighton,Num_Psns_UR_1_FamHhold,Null,Null
+Broadmeadows,Num_Psns_UR_1_FamHhold,Null,Null
+Brunswick,Num_Psns_UR_1_FamHhold,Null,Null
+Bulleen,Num_Psns_UR_1_FamHhold,Null,Null
+Bundoora,Num_Psns_UR_1_FamHhold,Null,Null
+Carrum,Num_Psns_UR_1_FamHhold,Null,Null
+Caulfield,Num_Psns_UR_1_FamHhold,Null,Null
+Clarinda,Num_Psns_UR_1_FamHhold,Null,Null
+Cranbourne,Num_Psns_UR_1_FamHhold,Null,Null
+Croydon,Num_Psns_UR_1_FamHhold,Null,Null
+Dandenong,Num_Psns_UR_1_FamHhold,Null,Null
+Eildon,Num_Psns_UR_1_FamHhold,Null,Null
+Eltham,Num_Psns_UR_1_FamHhold,Null,Null
+Essendon,Num_Psns_UR_1_FamHhold,Null,Null
+Eureka,Num_Psns_UR_1_FamHhold,Null,Null
+Euroa,Num_Psns_UR_1_FamHhold,Null,Null
+Evelyn,Num_Psns_UR_1_FamHhold,Null,Null
+Footscray,Num_Psns_UR_1_FamHhold,Null,Null
+Frankston,Num_Psns_UR_1_FamHhold,Null,Null
+Geelong,Num_Psns_UR_1_FamHhold,Null,Null
+Gippsland East,Num_Psns_UR_1_FamHhold,Null,Null
+Gippsland South,Num_Psns_UR_1_FamHhold,Null,Null
+Glen Waverley,Num_Psns_UR_1_FamHhold,Null,Null
+Greenvale,Num_Psns_UR_1_FamHhold,Null,Null
+Hastings,Num_Psns_UR_1_FamHhold,Null,Null
+Hawthorn,Num_Psns_UR_1_FamHhold,Null,Null
+Ivanhoe,Num_Psns_UR_1_FamHhold,Null,Null
+Kalkallo,Num_Psns_UR_1_FamHhold,Null,Null
+Kew,Num_Psns_UR_1_FamHhold,Null,Null
+Kororoit,Num_Psns_UR_1_FamHhold,Null,Null
+Lara,Num_Psns_UR_1_FamHhold,Null,Null
+Laverton,Num_Psns_UR_1_FamHhold,Null,Null
+Lowan,Num_Psns_UR_1_FamHhold,Null,Null
+Macedon,Num_Psns_UR_1_FamHhold,Null,Null
+Malvern,Num_Psns_UR_1_FamHhold,Null,Null
+Melbourne,Num_Psns_UR_1_FamHhold,Null,Null
+Melton,Num_Psns_UR_1_FamHhold,Null,Null
+Mildura,Num_Psns_UR_1_FamHhold,Null,Null
+Mill Park,Num_Psns_UR_1_FamHhold,Null,Null
+Monbulk,Num_Psns_UR_1_FamHhold,Null,Null
+Mordialloc,Num_Psns_UR_1_FamHhold,Null,Null
+Mornington,Num_Psns_UR_1_FamHhold,Null,Null
+Morwell,Num_Psns_UR_1_FamHhold,Null,Null
+Mulgrave,Num_Psns_UR_1_FamHhold,Null,Null
+Murray Plains,Num_Psns_UR_1_FamHhold,Null,Null
+Narracan,Num_Psns_UR_1_FamHhold,Null,Null
+Narre Warren North,Num_Psns_UR_1_FamHhold,Null,Null
+Narre Warren South,Num_Psns_UR_1_FamHhold,Null,Null
+Nepean,Num_Psns_UR_1_FamHhold,Null,Null
+Niddrie,Num_Psns_UR_1_FamHhold,Null,Null
+Northcote,Num_Psns_UR_1_FamHhold,Null,Null
+Oakleigh,Num_Psns_UR_1_FamHhold,Null,Null
+Ovens Valley,Num_Psns_UR_1_FamHhold,Null,Null
+Pakenham,Num_Psns_UR_1_FamHhold,Null,Null
+Pascoe Vale,Num_Psns_UR_1_FamHhold,Null,Null
+Point Cook,Num_Psns_UR_1_FamHhold,Null,Null
+Polwarth,Num_Psns_UR_1_FamHhold,Null,Null
+Prahran,Num_Psns_UR_1_FamHhold,Null,Null
+Preston,Num_Psns_UR_1_FamHhold,Null,Null
+Richmond,Num_Psns_UR_1_FamHhold,Null,Null
+Ringwood,Num_Psns_UR_1_FamHhold,Null,Null
+Ripon,Num_Psns_UR_1_FamHhold,Null,Null
+Rowville,Num_Psns_UR_1_FamHhold,Null,Null
+Sandringham,Num_Psns_UR_1_FamHhold,Null,Null
+Shepparton,Num_Psns_UR_1_FamHhold,Null,Null
+South Barwon,Num_Psns_UR_1_FamHhold,Null,Null
+South-West Coast,Num_Psns_UR_1_FamHhold,Null,Null
+St Albans,Num_Psns_UR_1_FamHhold,Null,Null
+Sunbury,Num_Psns_UR_1_FamHhold,Null,Null
+Sydenham,Num_Psns_UR_1_FamHhold,Null,Null
+Tarneit,Num_Psns_UR_1_FamHhold,Null,Null
+Thomastown,Num_Psns_UR_1_FamHhold,Null,Null
+Warrandyte,Num_Psns_UR_1_FamHhold,Null,Null
+Wendouree,Num_Psns_UR_1_FamHhold,Null,Null
+Werribee,Num_Psns_UR_1_FamHhold,Null,Null
+Williamstown,Num_Psns_UR_1_FamHhold,Null,Null
+Yan Yean,Num_Psns_UR_1_FamHhold,Null,Null
+Albert Park,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Ashwood,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Bass,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Bayswater,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Bellarine,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Benambra,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Bendigo East,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Bendigo West,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Bentleigh,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Berwick,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Box Hill,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Brighton,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Broadmeadows,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Brunswick,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Bulleen,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Bundoora,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Carrum,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Caulfield,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Clarinda,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Cranbourne,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Croydon,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Dandenong,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Eildon,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Eltham,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Essendon,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Eureka,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Euroa,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Evelyn,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Footscray,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Frankston,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Geelong,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Gippsland East,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Gippsland South,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Glen Waverley,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Greenvale,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Hastings,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Hawthorn,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Ivanhoe,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Kalkallo,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Kew,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Kororoit,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Lara,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Laverton,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Lowan,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Macedon,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Malvern,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Melbourne,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Melton,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Mildura,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Mill Park,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Monbulk,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Mordialloc,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Mornington,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Morwell,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Mulgrave,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Murray Plains,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Narracan,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Narre Warren North,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Narre Warren South,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Nepean,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Niddrie,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Northcote,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Oakleigh,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Ovens Valley,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Pakenham,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Pascoe Vale,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Point Cook,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Polwarth,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Prahran,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Preston,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Richmond,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Ringwood,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Ripon,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Rowville,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Sandringham,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Shepparton,Num_Psns_UR_1_FamHhold_pc,Null,Null
+South Barwon,Num_Psns_UR_1_FamHhold_pc,Null,Null
+South-West Coast,Num_Psns_UR_1_FamHhold_pc,Null,Null
+St Albans,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Sunbury,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Sydenham,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Tarneit,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Thomastown,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Warrandyte,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Wendouree,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Werribee,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Williamstown,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Yan Yean,Num_Psns_UR_1_FamHhold_pc,Null,Null
+Greenvale,Num_Psns_UR_1_NonFamHhold,2841.0,1.0
+Sydenham,Num_Psns_UR_1_NonFamHhold,3316.0,2.0
+Narre Warren South,Num_Psns_UR_1_NonFamHhold,3361.0,3.0
+Yan Yean,Num_Psns_UR_1_NonFamHhold,3490.0,4.0
+Berwick,Num_Psns_UR_1_NonFamHhold,3589.0,5.0
+Kalkallo,Num_Psns_UR_1_NonFamHhold,3645.0,6.0
+Kororoit,Num_Psns_UR_1_NonFamHhold,3960.0,7.0
+Mill Park,Num_Psns_UR_1_NonFamHhold,3970.0,8.0
+Rowville,Num_Psns_UR_1_NonFamHhold,4071.0,9.0
+Eltham,Num_Psns_UR_1_NonFamHhold,4105.0,10.0
+Tarneit,Num_Psns_UR_1_NonFamHhold,4201.0,11.0
+Warrandyte,Num_Psns_UR_1_NonFamHhold,4270.0,12.0
+Narre Warren North,Num_Psns_UR_1_NonFamHhold,4422.0,13.0
+Cranbourne,Num_Psns_UR_1_NonFamHhold,4557.0,14.0
+Evelyn,Num_Psns_UR_1_NonFamHhold,4623.0,15.0
+Monbulk,Num_Psns_UR_1_NonFamHhold,4679.0,16.0
+Point Cook,Num_Psns_UR_1_NonFamHhold,4722.0,17.0
+St Albans,Num_Psns_UR_1_NonFamHhold,5047.0,18.0
+Thomastown,Num_Psns_UR_1_NonFamHhold,5064.0,19.0
+Pakenham,Num_Psns_UR_1_NonFamHhold,5172.0,20.0
+Macedon,Num_Psns_UR_1_NonFamHhold,5241.0,21.0
+Clarinda,Num_Psns_UR_1_NonFamHhold,5243.0,22.0
+Glen Waverley,Num_Psns_UR_1_NonFamHhold,5314.0,23.0
+Melton,Num_Psns_UR_1_NonFamHhold,5393.0,24.0
+Sunbury,Num_Psns_UR_1_NonFamHhold,5430.0,25.0
+Laverton,Num_Psns_UR_1_NonFamHhold,5713.0,26.0
+Werribee,Num_Psns_UR_1_NonFamHhold,5741.0,27.0
+Niddrie,Num_Psns_UR_1_NonFamHhold,5845.0,28.0
+South Barwon,Num_Psns_UR_1_NonFamHhold,5857.0,29.0
+Mulgrave,Num_Psns_UR_1_NonFamHhold,5870.0,30.0
+Bulleen,Num_Psns_UR_1_NonFamHhold,5911.0,31.0
+Mornington,Num_Psns_UR_1_NonFamHhold,5917.0,32.0
+Bundoora,Num_Psns_UR_1_NonFamHhold,5932.0,33.0
+Kew,Num_Psns_UR_1_NonFamHhold,5999.0,34.0
+Ashwood,Num_Psns_UR_1_NonFamHhold,6036.0,35.0
+Mordialloc,Num_Psns_UR_1_NonFamHhold,6092.0,36.0
+Hastings,Num_Psns_UR_1_NonFamHhold,6123.0,37.0
+Narracan,Num_Psns_UR_1_NonFamHhold,6168.0,38.0
+Eildon,Num_Psns_UR_1_NonFamHhold,6330.0,39.0
+Bayswater,Num_Psns_UR_1_NonFamHhold,6637.0,40.0
+Bentleigh,Num_Psns_UR_1_NonFamHhold,6698.0,41.0
+Bass,Num_Psns_UR_1_NonFamHhold,6715.0,42.0
+Carrum,Num_Psns_UR_1_NonFamHhold,6726.0,43.0
+Bellarine,Num_Psns_UR_1_NonFamHhold,6788.0,44.0
+Williamstown,Num_Psns_UR_1_NonFamHhold,6790.0,45.0
+Ivanhoe,Num_Psns_UR_1_NonFamHhold,6871.0,46.0
+Broadmeadows,Num_Psns_UR_1_NonFamHhold,6932.0,47.0
+Benambra,Num_Psns_UR_1_NonFamHhold,7014.0,48.0
+Sandringham,Num_Psns_UR_1_NonFamHhold,7038.0,49.0
+Eureka,Num_Psns_UR_1_NonFamHhold,7085.0,50.0
+Polwarth,Num_Psns_UR_1_NonFamHhold,7086.0,51.0
+Bendigo East,Num_Psns_UR_1_NonFamHhold,7217.0,52.0
+Dandenong,Num_Psns_UR_1_NonFamHhold,7263.0,53.0
+Croydon,Num_Psns_UR_1_NonFamHhold,7339.0,54.0
+Pascoe Vale,Num_Psns_UR_1_NonFamHhold,7420.0,55.0
+Murray Plains,Num_Psns_UR_1_NonFamHhold,7474.0,56.0
+Ovens Valley,Num_Psns_UR_1_NonFamHhold,7497.0,57.0
+Lara,Num_Psns_UR_1_NonFamHhold,7525.0,58.0
+Mildura,Num_Psns_UR_1_NonFamHhold,7620.0,59.0
+Nepean,Num_Psns_UR_1_NonFamHhold,7734.0,60.0
+Gippsland South,Num_Psns_UR_1_NonFamHhold,7746.0,61.0
+Shepparton,Num_Psns_UR_1_NonFamHhold,7816.0,62.0
+Euroa,Num_Psns_UR_1_NonFamHhold,7859.0,63.0
+Gippsland East,Num_Psns_UR_1_NonFamHhold,7870.0,64.0
+South-West Coast,Num_Psns_UR_1_NonFamHhold,7927.0,65.0
+Ripon,Num_Psns_UR_1_NonFamHhold,7941.0,66.0
+Brighton,Num_Psns_UR_1_NonFamHhold,7959.0,67.0
+Bendigo West,Num_Psns_UR_1_NonFamHhold,8100.0,68.0
+Ringwood,Num_Psns_UR_1_NonFamHhold,8118.0,69.0
+Malvern,Num_Psns_UR_1_NonFamHhold,8522.0,70.0
+Box Hill,Num_Psns_UR_1_NonFamHhold,8670.0,71.0
+Hawthorn,Num_Psns_UR_1_NonFamHhold,8680.0,72.0
+Frankston,Num_Psns_UR_1_NonFamHhold,8765.0,73.0
+Footscray,Num_Psns_UR_1_NonFamHhold,8787.0,74.0
+Preston,Num_Psns_UR_1_NonFamHhold,8820.0,75.0
+Northcote,Num_Psns_UR_1_NonFamHhold,8919.0,76.0
+Wendouree,Num_Psns_UR_1_NonFamHhold,9045.0,77.0
+Lowan,Num_Psns_UR_1_NonFamHhold,9314.0,78.0
+Morwell,Num_Psns_UR_1_NonFamHhold,9341.0,79.0
+Essendon,Num_Psns_UR_1_NonFamHhold,9393.0,80.0
+Geelong,Num_Psns_UR_1_NonFamHhold,9459.0,81.0
+Oakleigh,Num_Psns_UR_1_NonFamHhold,9516.0,82.0
+Caulfield,Num_Psns_UR_1_NonFamHhold,9519.0,83.0
+Brunswick,Num_Psns_UR_1_NonFamHhold,10348.0,84.0
+Richmond,Num_Psns_UR_1_NonFamHhold,11911.0,85.0
+Albert Park,Num_Psns_UR_1_NonFamHhold,14898.0,86.0
+Prahran,Num_Psns_UR_1_NonFamHhold,17698.0,87.0
+Melbourne,Num_Psns_UR_1_NonFamHhold,23638.0,88.0
+Greenvale,Num_Psns_UR_1_NonFamHhold_pc,0.1281,1.0
+Narre Warren South,Num_Psns_UR_1_NonFamHhold_pc,0.1282,2.0
+Kalkallo,Num_Psns_UR_1_NonFamHhold_pc,0.1297,3.0
+Sydenham,Num_Psns_UR_1_NonFamHhold_pc,0.1387,4.0
+Berwick,Num_Psns_UR_1_NonFamHhold_pc,0.1412,5.0
+Yan Yean,Num_Psns_UR_1_NonFamHhold_pc,0.1496,6.0
+Tarneit,Num_Psns_UR_1_NonFamHhold_pc,0.15,7.0
+Kororoit,Num_Psns_UR_1_NonFamHhold_pc,0.1536,8.0
+Point Cook,Num_Psns_UR_1_NonFamHhold_pc,0.1578,9.0
+Rowville,Num_Psns_UR_1_NonFamHhold_pc,0.1669,10.0
+Cranbourne,Num_Psns_UR_1_NonFamHhold_pc,0.1672,11.0
+Warrandyte,Num_Psns_UR_1_NonFamHhold_pc,0.1702,12.0
+Narre Warren North,Num_Psns_UR_1_NonFamHhold_pc,0.1728,13.0
+Mill Park,Num_Psns_UR_1_NonFamHhold_pc,0.1747,14.0
+Eltham,Num_Psns_UR_1_NonFamHhold_pc,0.1775,15.0
+Glen Waverley,Num_Psns_UR_1_NonFamHhold_pc,0.1877,16.0
+Evelyn,Num_Psns_UR_1_NonFamHhold_pc,0.1915,17.0
+Laverton,Num_Psns_UR_1_NonFamHhold_pc,0.1921,18.0
+Thomastown,Num_Psns_UR_1_NonFamHhold_pc,0.1965,19.0
+Pakenham,Num_Psns_UR_1_NonFamHhold_pc,0.2001,20.0
+Monbulk,Num_Psns_UR_1_NonFamHhold_pc,0.2007,21.0
+Melton,Num_Psns_UR_1_NonFamHhold_pc,0.2023,22.0
+Werribee,Num_Psns_UR_1_NonFamHhold_pc,0.2037,23.0
+Clarinda,Num_Psns_UR_1_NonFamHhold_pc,0.2066,24.0
+Ashwood,Num_Psns_UR_1_NonFamHhold_pc,0.2098,25.0
+St Albans,Num_Psns_UR_1_NonFamHhold_pc,0.2105,26.0
+Bulleen,Num_Psns_UR_1_NonFamHhold_pc,0.2159,27.0
+Mulgrave,Num_Psns_UR_1_NonFamHhold_pc,0.2214,28.0
+Macedon,Num_Psns_UR_1_NonFamHhold_pc,0.2246,29.0
+South Barwon,Num_Psns_UR_1_NonFamHhold_pc,0.225,30.0
+Kew,Num_Psns_UR_1_NonFamHhold_pc,0.226,31.0
+Niddrie,Num_Psns_UR_1_NonFamHhold_pc,0.2294,32.0
+Bundoora,Num_Psns_UR_1_NonFamHhold_pc,0.2325,33.0
+Sunbury,Num_Psns_UR_1_NonFamHhold_pc,0.2326,34.0
+Mordialloc,Num_Psns_UR_1_NonFamHhold_pc,0.2336,35.0
+Bentleigh,Num_Psns_UR_1_NonFamHhold_pc,0.2361,36.0
+Bayswater,Num_Psns_UR_1_NonFamHhold_pc,0.2423,37.0
+Dandenong,Num_Psns_UR_1_NonFamHhold_pc,0.2443,38.0
+Mornington,Num_Psns_UR_1_NonFamHhold_pc,0.2451,39.0
+Carrum,Num_Psns_UR_1_NonFamHhold_pc,0.2452,40.0
+Narracan,Num_Psns_UR_1_NonFamHhold_pc,0.2478,41.0
+Hastings,Num_Psns_UR_1_NonFamHhold_pc,0.2504,42.0
+Bellarine,Num_Psns_UR_1_NonFamHhold_pc,0.2516,43.0
+Broadmeadows,Num_Psns_UR_1_NonFamHhold_pc,0.2538,44.0
+Eureka,Num_Psns_UR_1_NonFamHhold_pc,0.2562,45.0
+Eildon,Num_Psns_UR_1_NonFamHhold_pc,0.2583,46.0
+Croydon,Num_Psns_UR_1_NonFamHhold_pc,0.2588,47.0
+Ringwood,Num_Psns_UR_1_NonFamHhold_pc,0.2673,48.0
+Bendigo East,Num_Psns_UR_1_NonFamHhold_pc,0.2674,49.0
+Bass,Num_Psns_UR_1_NonFamHhold_pc,0.2684,50.0
+Box Hill,Num_Psns_UR_1_NonFamHhold_pc,0.2686,51.0
+Williamstown,Num_Psns_UR_1_NonFamHhold_pc,0.2687,52.0
+Polwarth,Num_Psns_UR_1_NonFamHhold_pc,0.2697,53.0
+Ivanhoe,Num_Psns_UR_1_NonFamHhold_pc,0.2714,54.0
+Pascoe Vale,Num_Psns_UR_1_NonFamHhold_pc,0.2757,55.0
+Benambra,Num_Psns_UR_1_NonFamHhold_pc,0.2761,56.0
+Oakleigh,Num_Psns_UR_1_NonFamHhold_pc,0.2783,57.0
+Sandringham,Num_Psns_UR_1_NonFamHhold_pc,0.2831,58.0
+Shepparton,Num_Psns_UR_1_NonFamHhold_pc,0.2861,59.0
+Lara,Num_Psns_UR_1_NonFamHhold_pc,0.2877,60.0
+South-West Coast,Num_Psns_UR_1_NonFamHhold_pc,0.2904,61.0
+Mildura,Num_Psns_UR_1_NonFamHhold_pc,0.2934,62.0
+Murray Plains,Num_Psns_UR_1_NonFamHhold_pc,0.2977,63.0
+Ripon,Num_Psns_UR_1_NonFamHhold_pc,0.299,64.0
+Preston,Num_Psns_UR_1_NonFamHhold_pc,0.3006,65.0
+Euroa,Num_Psns_UR_1_NonFamHhold_pc,0.3015,66.0
+Footscray,Num_Psns_UR_1_NonFamHhold_pc,0.3015,67.0
+Ovens Valley,Num_Psns_UR_1_NonFamHhold_pc,0.3016,68.0
+Gippsland South,Num_Psns_UR_1_NonFamHhold_pc,0.3031,69.0
+Brighton,Num_Psns_UR_1_NonFamHhold_pc,0.3046,70.0
+Hawthorn,Num_Psns_UR_1_NonFamHhold_pc,0.3081,71.0
+Nepean,Num_Psns_UR_1_NonFamHhold_pc,0.3082,72.0
+Gippsland East,Num_Psns_UR_1_NonFamHhold_pc,0.3083,73.0
+Bendigo West,Num_Psns_UR_1_NonFamHhold_pc,0.3185,74.0
+Northcote,Num_Psns_UR_1_NonFamHhold_pc,0.3211,75.0
+Frankston,Num_Psns_UR_1_NonFamHhold_pc,0.3224,76.0
+Malvern,Num_Psns_UR_1_NonFamHhold_pc,0.3241,77.0
+Caulfield,Num_Psns_UR_1_NonFamHhold_pc,0.3247,78.0
+Geelong,Num_Psns_UR_1_NonFamHhold_pc,0.3252,79.0
+Morwell,Num_Psns_UR_1_NonFamHhold_pc,0.3271,80.0
+Wendouree,Num_Psns_UR_1_NonFamHhold_pc,0.3272,81.0
+Essendon,Num_Psns_UR_1_NonFamHhold_pc,0.3286,82.0
+Lowan,Num_Psns_UR_1_NonFamHhold_pc,0.3335,83.0
+Brunswick,Num_Psns_UR_1_NonFamHhold_pc,0.3427,84.0
+Richmond,Num_Psns_UR_1_NonFamHhold_pc,0.3832,85.0
+Albert Park,Num_Psns_UR_1_NonFamHhold_pc,0.42,86.0
+Melbourne,Num_Psns_UR_1_NonFamHhold_pc,0.4318,87.0
+Prahran,Num_Psns_UR_1_NonFamHhold_pc,0.4739,88.0
+Greenvale,Num_Psns_UR_1_Total,2841.0,1.0
+Sydenham,Num_Psns_UR_1_Total,3316.0,2.0
+Narre Warren South,Num_Psns_UR_1_Total,3361.0,3.0
+Yan Yean,Num_Psns_UR_1_Total,3490.0,4.0
+Berwick,Num_Psns_UR_1_Total,3589.0,5.0
+Kalkallo,Num_Psns_UR_1_Total,3645.0,6.0
+Kororoit,Num_Psns_UR_1_Total,3960.0,7.0
+Mill Park,Num_Psns_UR_1_Total,3970.0,8.0
+Rowville,Num_Psns_UR_1_Total,4071.0,9.0
+Eltham,Num_Psns_UR_1_Total,4105.0,10.0
+Tarneit,Num_Psns_UR_1_Total,4201.0,11.0
+Warrandyte,Num_Psns_UR_1_Total,4270.0,12.0
+Narre Warren North,Num_Psns_UR_1_Total,4422.0,13.0
+Cranbourne,Num_Psns_UR_1_Total,4557.0,14.0
+Evelyn,Num_Psns_UR_1_Total,4623.0,15.0
+Monbulk,Num_Psns_UR_1_Total,4679.0,16.0
+Point Cook,Num_Psns_UR_1_Total,4722.0,17.0
+St Albans,Num_Psns_UR_1_Total,5047.0,18.0
+Thomastown,Num_Psns_UR_1_Total,5064.0,19.0
+Pakenham,Num_Psns_UR_1_Total,5172.0,20.0
+Macedon,Num_Psns_UR_1_Total,5241.0,21.0
+Clarinda,Num_Psns_UR_1_Total,5243.0,22.0
+Glen Waverley,Num_Psns_UR_1_Total,5314.0,23.0
+Melton,Num_Psns_UR_1_Total,5393.0,24.0
+Sunbury,Num_Psns_UR_1_Total,5430.0,25.0
+Laverton,Num_Psns_UR_1_Total,5713.0,26.0
+Werribee,Num_Psns_UR_1_Total,5741.0,27.0
+Niddrie,Num_Psns_UR_1_Total,5845.0,28.0
+South Barwon,Num_Psns_UR_1_Total,5857.0,29.0
+Mulgrave,Num_Psns_UR_1_Total,5870.0,30.0
+Bulleen,Num_Psns_UR_1_Total,5911.0,31.0
+Mornington,Num_Psns_UR_1_Total,5917.0,32.0
+Bundoora,Num_Psns_UR_1_Total,5932.0,33.0
+Kew,Num_Psns_UR_1_Total,5999.0,34.0
+Ashwood,Num_Psns_UR_1_Total,6036.0,35.0
+Mordialloc,Num_Psns_UR_1_Total,6092.0,36.0
+Hastings,Num_Psns_UR_1_Total,6123.0,37.0
+Narracan,Num_Psns_UR_1_Total,6168.0,38.0
+Eildon,Num_Psns_UR_1_Total,6330.0,39.0
+Bayswater,Num_Psns_UR_1_Total,6637.0,40.0
+Bentleigh,Num_Psns_UR_1_Total,6698.0,41.0
+Bass,Num_Psns_UR_1_Total,6715.0,42.0
+Carrum,Num_Psns_UR_1_Total,6726.0,43.0
+Bellarine,Num_Psns_UR_1_Total,6788.0,44.0
+Williamstown,Num_Psns_UR_1_Total,6790.0,45.0
+Ivanhoe,Num_Psns_UR_1_Total,6871.0,46.0
+Broadmeadows,Num_Psns_UR_1_Total,6932.0,47.0
+Benambra,Num_Psns_UR_1_Total,7014.0,48.0
+Sandringham,Num_Psns_UR_1_Total,7038.0,49.0
+Eureka,Num_Psns_UR_1_Total,7085.0,50.0
+Polwarth,Num_Psns_UR_1_Total,7086.0,51.0
+Bendigo East,Num_Psns_UR_1_Total,7217.0,52.0
+Dandenong,Num_Psns_UR_1_Total,7263.0,53.0
+Croydon,Num_Psns_UR_1_Total,7339.0,54.0
+Pascoe Vale,Num_Psns_UR_1_Total,7420.0,55.0
+Murray Plains,Num_Psns_UR_1_Total,7474.0,56.0
+Ovens Valley,Num_Psns_UR_1_Total,7497.0,57.0
+Lara,Num_Psns_UR_1_Total,7525.0,58.0
+Mildura,Num_Psns_UR_1_Total,7620.0,59.0
+Nepean,Num_Psns_UR_1_Total,7734.0,60.0
+Gippsland South,Num_Psns_UR_1_Total,7746.0,61.0
+Shepparton,Num_Psns_UR_1_Total,7816.0,62.0
+Euroa,Num_Psns_UR_1_Total,7859.0,63.0
+Gippsland East,Num_Psns_UR_1_Total,7870.0,64.0
+South-West Coast,Num_Psns_UR_1_Total,7927.0,65.0
+Ripon,Num_Psns_UR_1_Total,7941.0,66.0
+Brighton,Num_Psns_UR_1_Total,7959.0,67.0
+Bendigo West,Num_Psns_UR_1_Total,8100.0,68.0
+Ringwood,Num_Psns_UR_1_Total,8118.0,69.0
+Malvern,Num_Psns_UR_1_Total,8522.0,70.0
+Box Hill,Num_Psns_UR_1_Total,8670.0,71.0
+Hawthorn,Num_Psns_UR_1_Total,8680.0,72.0
+Frankston,Num_Psns_UR_1_Total,8765.0,73.0
+Footscray,Num_Psns_UR_1_Total,8787.0,74.0
+Preston,Num_Psns_UR_1_Total,8820.0,75.0
+Northcote,Num_Psns_UR_1_Total,8919.0,76.0
+Wendouree,Num_Psns_UR_1_Total,9045.0,77.0
+Lowan,Num_Psns_UR_1_Total,9314.0,78.0
+Morwell,Num_Psns_UR_1_Total,9341.0,79.0
+Essendon,Num_Psns_UR_1_Total,9393.0,80.0
+Geelong,Num_Psns_UR_1_Total,9459.0,81.0
+Oakleigh,Num_Psns_UR_1_Total,9516.0,82.0
+Caulfield,Num_Psns_UR_1_Total,9519.0,83.0
+Brunswick,Num_Psns_UR_1_Total,10348.0,84.0
+Richmond,Num_Psns_UR_1_Total,11911.0,85.0
+Albert Park,Num_Psns_UR_1_Total,14898.0,86.0
+Prahran,Num_Psns_UR_1_Total,17698.0,87.0
+Melbourne,Num_Psns_UR_1_Total,23638.0,88.0
+Greenvale,Num_Psns_UR_1_Total_pc,0.1281,1.0
+Narre Warren South,Num_Psns_UR_1_Total_pc,0.1282,2.0
+Kalkallo,Num_Psns_UR_1_Total_pc,0.1297,3.0
+Sydenham,Num_Psns_UR_1_Total_pc,0.1387,4.0
+Berwick,Num_Psns_UR_1_Total_pc,0.1412,5.0
+Yan Yean,Num_Psns_UR_1_Total_pc,0.1496,6.0
+Tarneit,Num_Psns_UR_1_Total_pc,0.15,7.0
+Kororoit,Num_Psns_UR_1_Total_pc,0.1536,8.0
+Point Cook,Num_Psns_UR_1_Total_pc,0.1578,9.0
+Rowville,Num_Psns_UR_1_Total_pc,0.1669,10.0
+Cranbourne,Num_Psns_UR_1_Total_pc,0.1672,11.0
+Warrandyte,Num_Psns_UR_1_Total_pc,0.1702,12.0
+Narre Warren North,Num_Psns_UR_1_Total_pc,0.1728,13.0
+Mill Park,Num_Psns_UR_1_Total_pc,0.1747,14.0
+Eltham,Num_Psns_UR_1_Total_pc,0.1775,15.0
+Glen Waverley,Num_Psns_UR_1_Total_pc,0.1877,16.0
+Evelyn,Num_Psns_UR_1_Total_pc,0.1915,17.0
+Laverton,Num_Psns_UR_1_Total_pc,0.1921,18.0
+Thomastown,Num_Psns_UR_1_Total_pc,0.1965,19.0
+Pakenham,Num_Psns_UR_1_Total_pc,0.2001,20.0
+Monbulk,Num_Psns_UR_1_Total_pc,0.2007,21.0
+Melton,Num_Psns_UR_1_Total_pc,0.2023,22.0
+Werribee,Num_Psns_UR_1_Total_pc,0.2037,23.0
+Clarinda,Num_Psns_UR_1_Total_pc,0.2066,24.0
+Ashwood,Num_Psns_UR_1_Total_pc,0.2098,25.0
+St Albans,Num_Psns_UR_1_Total_pc,0.2105,26.0
+Bulleen,Num_Psns_UR_1_Total_pc,0.2159,27.0
+Mulgrave,Num_Psns_UR_1_Total_pc,0.2214,28.0
+Macedon,Num_Psns_UR_1_Total_pc,0.2246,29.0
+South Barwon,Num_Psns_UR_1_Total_pc,0.225,30.0
+Kew,Num_Psns_UR_1_Total_pc,0.226,31.0
+Niddrie,Num_Psns_UR_1_Total_pc,0.2294,32.0
+Bundoora,Num_Psns_UR_1_Total_pc,0.2325,33.0
+Sunbury,Num_Psns_UR_1_Total_pc,0.2326,34.0
+Mordialloc,Num_Psns_UR_1_Total_pc,0.2336,35.0
+Bentleigh,Num_Psns_UR_1_Total_pc,0.2361,36.0
+Bayswater,Num_Psns_UR_1_Total_pc,0.2423,37.0
+Dandenong,Num_Psns_UR_1_Total_pc,0.2443,38.0
+Mornington,Num_Psns_UR_1_Total_pc,0.2451,39.0
+Carrum,Num_Psns_UR_1_Total_pc,0.2452,40.0
+Narracan,Num_Psns_UR_1_Total_pc,0.2478,41.0
+Hastings,Num_Psns_UR_1_Total_pc,0.2504,42.0
+Bellarine,Num_Psns_UR_1_Total_pc,0.2516,43.0
+Broadmeadows,Num_Psns_UR_1_Total_pc,0.2538,44.0
+Eureka,Num_Psns_UR_1_Total_pc,0.2562,45.0
+Eildon,Num_Psns_UR_1_Total_pc,0.2583,46.0
+Croydon,Num_Psns_UR_1_Total_pc,0.2588,47.0
+Ringwood,Num_Psns_UR_1_Total_pc,0.2673,48.0
+Bendigo East,Num_Psns_UR_1_Total_pc,0.2674,49.0
+Bass,Num_Psns_UR_1_Total_pc,0.2684,50.0
+Box Hill,Num_Psns_UR_1_Total_pc,0.2686,51.0
+Williamstown,Num_Psns_UR_1_Total_pc,0.2687,52.0
+Polwarth,Num_Psns_UR_1_Total_pc,0.2697,53.0
+Ivanhoe,Num_Psns_UR_1_Total_pc,0.2714,54.0
+Pascoe Vale,Num_Psns_UR_1_Total_pc,0.2757,55.0
+Benambra,Num_Psns_UR_1_Total_pc,0.2761,56.0
+Oakleigh,Num_Psns_UR_1_Total_pc,0.2783,57.0
+Sandringham,Num_Psns_UR_1_Total_pc,0.2831,58.0
+Shepparton,Num_Psns_UR_1_Total_pc,0.2861,59.0
+Lara,Num_Psns_UR_1_Total_pc,0.2877,60.0
+South-West Coast,Num_Psns_UR_1_Total_pc,0.2904,61.0
+Mildura,Num_Psns_UR_1_Total_pc,0.2934,62.0
+Murray Plains,Num_Psns_UR_1_Total_pc,0.2977,63.0
+Ripon,Num_Psns_UR_1_Total_pc,0.299,64.0
+Preston,Num_Psns_UR_1_Total_pc,0.3006,65.0
+Euroa,Num_Psns_UR_1_Total_pc,0.3015,66.0
+Footscray,Num_Psns_UR_1_Total_pc,0.3015,67.0
+Ovens Valley,Num_Psns_UR_1_Total_pc,0.3016,68.0
+Gippsland South,Num_Psns_UR_1_Total_pc,0.3031,69.0
+Brighton,Num_Psns_UR_1_Total_pc,0.3046,70.0
+Hawthorn,Num_Psns_UR_1_Total_pc,0.3081,71.0
+Nepean,Num_Psns_UR_1_Total_pc,0.3082,72.0
+Gippsland East,Num_Psns_UR_1_Total_pc,0.3083,73.0
+Bendigo West,Num_Psns_UR_1_Total_pc,0.3185,74.0
+Northcote,Num_Psns_UR_1_Total_pc,0.3211,75.0
+Frankston,Num_Psns_UR_1_Total_pc,0.3224,76.0
+Malvern,Num_Psns_UR_1_Total_pc,0.3241,77.0
+Caulfield,Num_Psns_UR_1_Total_pc,0.3247,78.0
+Geelong,Num_Psns_UR_1_Total_pc,0.3252,79.0
+Morwell,Num_Psns_UR_1_Total_pc,0.3271,80.0
+Wendouree,Num_Psns_UR_1_Total_pc,0.3272,81.0
+Essendon,Num_Psns_UR_1_Total_pc,0.3286,82.0
+Lowan,Num_Psns_UR_1_Total_pc,0.3335,83.0
+Brunswick,Num_Psns_UR_1_Total_pc,0.3427,84.0
+Richmond,Num_Psns_UR_1_Total_pc,0.3832,85.0
+Albert Park,Num_Psns_UR_1_Total_pc,0.42,86.0
+Melbourne,Num_Psns_UR_1_Total_pc,0.4318,87.0
+Prahran,Num_Psns_UR_1_Total_pc,0.4739,88.0
+Greenvale,Num_Psns_UR_2_FamHhold,5115.0,1.0
+Sydenham,Num_Psns_UR_2_FamHhold,5565.0,2.0
+Narre Warren South,Num_Psns_UR_2_FamHhold,5718.0,3.0
+Kororoit,Num_Psns_UR_2_FamHhold,5868.0,4.0
+Kalkallo,Num_Psns_UR_2_FamHhold,5999.0,5.0
+Mill Park,Num_Psns_UR_2_FamHhold,6007.0,6.0
+Yan Yean,Num_Psns_UR_2_FamHhold,6097.0,7.0
+St Albans,Num_Psns_UR_2_FamHhold,6218.0,8.0
+Tarneit,Num_Psns_UR_2_FamHhold,6224.0,9.0
+Berwick,Num_Psns_UR_2_FamHhold,6379.0,10.0
+Cranbourne,Num_Psns_UR_2_FamHhold,6648.0,11.0
+Thomastown,Num_Psns_UR_2_FamHhold,6748.0,12.0
+Laverton,Num_Psns_UR_2_FamHhold,6871.0,13.0
+Melton,Num_Psns_UR_2_FamHhold,6906.0,14.0
+Clarinda,Num_Psns_UR_2_FamHhold,6979.0,15.0
+Pakenham,Num_Psns_UR_2_FamHhold,7081.0,16.0
+Rowville,Num_Psns_UR_2_FamHhold,7088.0,17.0
+Point Cook,Num_Psns_UR_2_FamHhold,7177.0,18.0
+Narre Warren North,Num_Psns_UR_2_FamHhold,7201.0,19.0
+Mordialloc,Num_Psns_UR_2_FamHhold,7224.0,20.0
+Broadmeadows,Num_Psns_UR_2_FamHhold,7226.0,21.0
+Sunbury,Num_Psns_UR_2_FamHhold,7266.0,22.0
+Eltham,Num_Psns_UR_2_FamHhold,7292.0,23.0
+Mulgrave,Num_Psns_UR_2_FamHhold,7334.0,24.0
+Werribee,Num_Psns_UR_2_FamHhold,7365.0,25.0
+Dandenong,Num_Psns_UR_2_FamHhold,7409.0,26.0
+Monbulk,Num_Psns_UR_2_FamHhold,7451.0,27.0
+Kew,Num_Psns_UR_2_FamHhold,7581.0,28.0
+Warrandyte,Num_Psns_UR_2_FamHhold,7583.0,29.0
+Ivanhoe,Num_Psns_UR_2_FamHhold,7587.0,30.0
+Evelyn,Num_Psns_UR_2_FamHhold,7592.0,31.0
+Pascoe Vale,Num_Psns_UR_2_FamHhold,7639.0,32.0
+Williamstown,Num_Psns_UR_2_FamHhold,7663.0,33.0
+Bundoora,Num_Psns_UR_2_FamHhold,7699.0,34.0
+Northcote,Num_Psns_UR_2_FamHhold,7772.0,35.0
+Lara,Num_Psns_UR_2_FamHhold,7812.0,36.0
+Hastings,Num_Psns_UR_2_FamHhold,7825.0,37.0
+Niddrie,Num_Psns_UR_2_FamHhold,7829.0,38.0
+Carrum,Num_Psns_UR_2_FamHhold,7871.0,39.0
+Brighton,Num_Psns_UR_2_FamHhold,7881.0,40.0
+Sandringham,Num_Psns_UR_2_FamHhold,7923.0,41.0
+Malvern,Num_Psns_UR_2_FamHhold,8022.0,42.0
+Bentleigh,Num_Psns_UR_2_FamHhold,8034.0,43.0
+Ashwood,Num_Psns_UR_2_FamHhold,8071.0,44.0
+South Barwon,Num_Psns_UR_2_FamHhold,8077.0,45.0
+Essendon,Num_Psns_UR_2_FamHhold,8119.0,46.0
+Frankston,Num_Psns_UR_2_FamHhold,8170.0,47.0
+Macedon,Num_Psns_UR_2_FamHhold,8214.0,48.0
+Mornington,Num_Psns_UR_2_FamHhold,8229.0,49.0
+Glen Waverley,Num_Psns_UR_2_FamHhold,8265.0,50.0
+Bendigo West,Num_Psns_UR_2_FamHhold,8309.0,51.0
+Bayswater,Num_Psns_UR_2_FamHhold,8395.0,52.0
+Preston,Num_Psns_UR_2_FamHhold,8502.0,53.0
+Footscray,Num_Psns_UR_2_FamHhold,8504.0,54.0
+Hawthorn,Num_Psns_UR_2_FamHhold,8507.0,55.0
+Wendouree,Num_Psns_UR_2_FamHhold,8566.0,56.0
+Mildura,Num_Psns_UR_2_FamHhold,8577.0,57.0
+Eildon,Num_Psns_UR_2_FamHhold,8644.0,58.0
+Narracan,Num_Psns_UR_2_FamHhold,8663.0,59.0
+Shepparton,Num_Psns_UR_2_FamHhold,8663.0,60.0
+Caulfield,Num_Psns_UR_2_FamHhold,8688.0,61.0
+Ringwood,Num_Psns_UR_2_FamHhold,8718.0,62.0
+Bendigo East,Num_Psns_UR_2_FamHhold,8736.0,63.0
+Geelong,Num_Psns_UR_2_FamHhold,8740.0,64.0
+Benambra,Num_Psns_UR_2_FamHhold,8787.0,65.0
+Croydon,Num_Psns_UR_2_FamHhold,8787.0,66.0
+Bulleen,Num_Psns_UR_2_FamHhold,8865.0,67.0
+Eureka,Num_Psns_UR_2_FamHhold,8897.0,68.0
+Murray Plains,Num_Psns_UR_2_FamHhold,8914.0,69.0
+Bass,Num_Psns_UR_2_FamHhold,8920.0,70.0
+Brunswick,Num_Psns_UR_2_FamHhold,8938.0,71.0
+Polwarth,Num_Psns_UR_2_FamHhold,9094.0,72.0
+Box Hill,Num_Psns_UR_2_FamHhold,9176.0,73.0
+Morwell,Num_Psns_UR_2_FamHhold,9215.0,74.0
+Ovens Valley,Num_Psns_UR_2_FamHhold,9249.0,75.0
+Ripon,Num_Psns_UR_2_FamHhold,9291.0,76.0
+Gippsland South,Num_Psns_UR_2_FamHhold,9312.0,77.0
+Euroa,Num_Psns_UR_2_FamHhold,9500.0,78.0
+South-West Coast,Num_Psns_UR_2_FamHhold,9611.0,79.0
+Oakleigh,Num_Psns_UR_2_FamHhold,9654.0,80.0
+Lowan,Num_Psns_UR_2_FamHhold,9691.0,81.0
+Richmond,Num_Psns_UR_2_FamHhold,9757.0,82.0
+Nepean,Num_Psns_UR_2_FamHhold,9769.0,83.0
+Gippsland East,Num_Psns_UR_2_FamHhold,9806.0,84.0
+Bellarine,Num_Psns_UR_2_FamHhold,10408.0,85.0
+Albert Park,Num_Psns_UR_2_FamHhold,11229.0,86.0
+Prahran,Num_Psns_UR_2_FamHhold,11545.0,87.0
+Melbourne,Num_Psns_UR_2_FamHhold,15665.0,88.0
+Kalkallo,Num_Psns_UR_2_FamHhold_pc,0.2135,1.0
+Narre Warren South,Num_Psns_UR_2_FamHhold_pc,0.2181,2.0
+Tarneit,Num_Psns_UR_2_FamHhold_pc,0.2222,3.0
+Kororoit,Num_Psns_UR_2_FamHhold_pc,0.2276,4.0
+Greenvale,Num_Psns_UR_2_FamHhold_pc,0.2306,5.0
+Laverton,Num_Psns_UR_2_FamHhold_pc,0.231,6.0
+Sydenham,Num_Psns_UR_2_FamHhold_pc,0.2327,7.0
+Point Cook,Num_Psns_UR_2_FamHhold_pc,0.2399,8.0
+Cranbourne,Num_Psns_UR_2_FamHhold_pc,0.2439,9.0
+Dandenong,Num_Psns_UR_2_FamHhold_pc,0.2492,10.0
+Berwick,Num_Psns_UR_2_FamHhold_pc,0.251,11.0
+Melton,Num_Psns_UR_2_FamHhold_pc,0.259,12.0
+St Albans,Num_Psns_UR_2_FamHhold_pc,0.2594,13.0
+Werribee,Num_Psns_UR_2_FamHhold_pc,0.2613,14.0
+Yan Yean,Num_Psns_UR_2_FamHhold_pc,0.2613,15.0
+Thomastown,Num_Psns_UR_2_FamHhold_pc,0.2618,16.0
+Mill Park,Num_Psns_UR_2_FamHhold_pc,0.2644,17.0
+Broadmeadows,Num_Psns_UR_2_FamHhold_pc,0.2646,18.0
+Pakenham,Num_Psns_UR_2_FamHhold_pc,0.274,19.0
+Clarinda,Num_Psns_UR_2_FamHhold_pc,0.2751,20.0
+Mulgrave,Num_Psns_UR_2_FamHhold_pc,0.2766,21.0
+Mordialloc,Num_Psns_UR_2_FamHhold_pc,0.277,22.0
+Northcote,Num_Psns_UR_2_FamHhold_pc,0.2798,23.0
+Ashwood,Num_Psns_UR_2_FamHhold_pc,0.2805,24.0
+Narre Warren North,Num_Psns_UR_2_FamHhold_pc,0.2815,25.0
+Oakleigh,Num_Psns_UR_2_FamHhold_pc,0.2823,26.0
+Bentleigh,Num_Psns_UR_2_FamHhold_pc,0.2832,27.0
+Pascoe Vale,Num_Psns_UR_2_FamHhold_pc,0.2839,28.0
+Essendon,Num_Psns_UR_2_FamHhold_pc,0.284,29.0
+Box Hill,Num_Psns_UR_2_FamHhold_pc,0.2843,30.0
+Kew,Num_Psns_UR_2_FamHhold_pc,0.2856,31.0
+Melbourne,Num_Psns_UR_2_FamHhold_pc,0.2861,32.0
+Carrum,Num_Psns_UR_2_FamHhold_pc,0.287,33.0
+Ringwood,Num_Psns_UR_2_FamHhold_pc,0.2871,34.0
+Preston,Num_Psns_UR_2_FamHhold_pc,0.2897,35.0
+Rowville,Num_Psns_UR_2_FamHhold_pc,0.2906,36.0
+Footscray,Num_Psns_UR_2_FamHhold_pc,0.2917,37.0
+Glen Waverley,Num_Psns_UR_2_FamHhold_pc,0.292,38.0
+Brunswick,Num_Psns_UR_2_FamHhold_pc,0.296,39.0
+Caulfield,Num_Psns_UR_2_FamHhold_pc,0.2963,40.0
+Lara,Num_Psns_UR_2_FamHhold_pc,0.2986,41.0
+Ivanhoe,Num_Psns_UR_2_FamHhold_pc,0.2997,42.0
+Frankston,Num_Psns_UR_2_FamHhold_pc,0.3005,43.0
+Geelong,Num_Psns_UR_2_FamHhold_pc,0.3005,44.0
+Brighton,Num_Psns_UR_2_FamHhold_pc,0.3016,45.0
+Bundoora,Num_Psns_UR_2_FamHhold_pc,0.3017,46.0
+Hawthorn,Num_Psns_UR_2_FamHhold_pc,0.302,47.0
+Warrandyte,Num_Psns_UR_2_FamHhold_pc,0.3022,48.0
+Williamstown,Num_Psns_UR_2_FamHhold_pc,0.3032,49.0
+Malvern,Num_Psns_UR_2_FamHhold_pc,0.3051,50.0
+Bayswater,Num_Psns_UR_2_FamHhold_pc,0.3064,51.0
+Niddrie,Num_Psns_UR_2_FamHhold_pc,0.3073,52.0
+Prahran,Num_Psns_UR_2_FamHhold_pc,0.3091,53.0
+Wendouree,Num_Psns_UR_2_FamHhold_pc,0.3098,54.0
+Croydon,Num_Psns_UR_2_FamHhold_pc,0.3099,55.0
+South Barwon,Num_Psns_UR_2_FamHhold_pc,0.3103,56.0
+Sunbury,Num_Psns_UR_2_FamHhold_pc,0.3113,57.0
+Richmond,Num_Psns_UR_2_FamHhold_pc,0.3139,58.0
+Evelyn,Num_Psns_UR_2_FamHhold_pc,0.3145,59.0
+Eltham,Num_Psns_UR_2_FamHhold_pc,0.3153,60.0
+Albert Park,Num_Psns_UR_2_FamHhold_pc,0.3165,61.0
+Shepparton,Num_Psns_UR_2_FamHhold_pc,0.3171,62.0
+Sandringham,Num_Psns_UR_2_FamHhold_pc,0.3187,63.0
+Monbulk,Num_Psns_UR_2_FamHhold_pc,0.3197,64.0
+Hastings,Num_Psns_UR_2_FamHhold_pc,0.32,65.0
+Eureka,Num_Psns_UR_2_FamHhold_pc,0.3217,66.0
+Morwell,Num_Psns_UR_2_FamHhold_pc,0.3226,67.0
+Bendigo East,Num_Psns_UR_2_FamHhold_pc,0.3237,68.0
+Bulleen,Num_Psns_UR_2_FamHhold_pc,0.3238,69.0
+Bendigo West,Num_Psns_UR_2_FamHhold_pc,0.3267,70.0
+Mildura,Num_Psns_UR_2_FamHhold_pc,0.3303,71.0
+Mornington,Num_Psns_UR_2_FamHhold_pc,0.3409,72.0
+Benambra,Num_Psns_UR_2_FamHhold_pc,0.3459,73.0
+Polwarth,Num_Psns_UR_2_FamHhold_pc,0.3462,74.0
+Lowan,Num_Psns_UR_2_FamHhold_pc,0.3469,75.0
+Narracan,Num_Psns_UR_2_FamHhold_pc,0.348,76.0
+Ripon,Num_Psns_UR_2_FamHhold_pc,0.3498,77.0
+Macedon,Num_Psns_UR_2_FamHhold_pc,0.3519,78.0
+South-West Coast,Num_Psns_UR_2_FamHhold_pc,0.3521,79.0
+Eildon,Num_Psns_UR_2_FamHhold_pc,0.3528,80.0
+Murray Plains,Num_Psns_UR_2_FamHhold_pc,0.3551,81.0
+Bass,Num_Psns_UR_2_FamHhold_pc,0.3566,82.0
+Gippsland South,Num_Psns_UR_2_FamHhold_pc,0.3643,83.0
+Euroa,Num_Psns_UR_2_FamHhold_pc,0.3644,84.0
+Ovens Valley,Num_Psns_UR_2_FamHhold_pc,0.3721,85.0
+Gippsland East,Num_Psns_UR_2_FamHhold_pc,0.3841,86.0
+Bellarine,Num_Psns_UR_2_FamHhold_pc,0.3858,87.0
+Nepean,Num_Psns_UR_2_FamHhold_pc,0.3892,88.0
+Eltham,Num_Psns_UR_2_NonFamHhold,160.0,1.0
+Sydenham,Num_Psns_UR_2_NonFamHhold,210.0,2.0
+Warrandyte,Num_Psns_UR_2_NonFamHhold,215.0,3.0
+Greenvale,Num_Psns_UR_2_NonFamHhold,217.0,4.0
+Mornington,Num_Psns_UR_2_NonFamHhold,226.0,5.0
+Yan Yean,Num_Psns_UR_2_NonFamHhold,252.0,6.0
+Rowville,Num_Psns_UR_2_NonFamHhold,280.0,7.0
+Berwick,Num_Psns_UR_2_NonFamHhold,286.0,8.0
+Kororoit,Num_Psns_UR_2_NonFamHhold,324.0,9.0
+Evelyn,Num_Psns_UR_2_NonFamHhold,325.0,10.0
+Narracan,Num_Psns_UR_2_NonFamHhold,334.0,11.0
+Narre Warren South,Num_Psns_UR_2_NonFamHhold,343.0,12.0
+Macedon,Num_Psns_UR_2_NonFamHhold,344.0,13.0
+Mill Park,Num_Psns_UR_2_NonFamHhold,348.0,14.0
+Mordialloc,Num_Psns_UR_2_NonFamHhold,355.0,15.0
+Sandringham,Num_Psns_UR_2_NonFamHhold,355.0,16.0
+Monbulk,Num_Psns_UR_2_NonFamHhold,362.0,17.0
+Glen Waverley,Num_Psns_UR_2_NonFamHhold,366.0,18.0
+Hastings,Num_Psns_UR_2_NonFamHhold,368.0,19.0
+Bulleen,Num_Psns_UR_2_NonFamHhold,381.0,20.0
+Kalkallo,Num_Psns_UR_2_NonFamHhold,389.0,21.0
+Thomastown,Num_Psns_UR_2_NonFamHhold,402.0,22.0
+Sunbury,Num_Psns_UR_2_NonFamHhold,411.0,23.0
+Narre Warren North,Num_Psns_UR_2_NonFamHhold,412.0,24.0
+Bellarine,Num_Psns_UR_2_NonFamHhold,413.0,25.0
+Niddrie,Num_Psns_UR_2_NonFamHhold,418.0,26.0
+Kew,Num_Psns_UR_2_NonFamHhold,421.0,27.0
+Gippsland East,Num_Psns_UR_2_NonFamHhold,435.0,28.0
+Ovens Valley,Num_Psns_UR_2_NonFamHhold,446.0,29.0
+Gippsland South,Num_Psns_UR_2_NonFamHhold,449.0,30.0
+Eildon,Num_Psns_UR_2_NonFamHhold,450.0,31.0
+Tarneit,Num_Psns_UR_2_NonFamHhold,451.0,32.0
+Benambra,Num_Psns_UR_2_NonFamHhold,461.0,33.0
+Nepean,Num_Psns_UR_2_NonFamHhold,469.0,34.0
+Ripon,Num_Psns_UR_2_NonFamHhold,474.0,35.0
+Cranbourne,Num_Psns_UR_2_NonFamHhold,479.0,36.0
+Murray Plains,Num_Psns_UR_2_NonFamHhold,483.0,37.0
+Pakenham,Num_Psns_UR_2_NonFamHhold,487.0,38.0
+Clarinda,Num_Psns_UR_2_NonFamHhold,495.0,39.0
+Melton,Num_Psns_UR_2_NonFamHhold,499.0,40.0
+Lowan,Num_Psns_UR_2_NonFamHhold,500.0,41.0
+Bass,Num_Psns_UR_2_NonFamHhold,503.0,42.0
+Bentleigh,Num_Psns_UR_2_NonFamHhold,511.0,43.0
+Williamstown,Num_Psns_UR_2_NonFamHhold,518.0,44.0
+Point Cook,Num_Psns_UR_2_NonFamHhold,520.0,45.0
+St Albans,Num_Psns_UR_2_NonFamHhold,522.0,46.0
+Croydon,Num_Psns_UR_2_NonFamHhold,527.0,47.0
+Ashwood,Num_Psns_UR_2_NonFamHhold,539.0,48.0
+Bundoora,Num_Psns_UR_2_NonFamHhold,551.0,49.0
+Euroa,Num_Psns_UR_2_NonFamHhold,555.0,50.0
+Polwarth,Num_Psns_UR_2_NonFamHhold,557.0,51.0
+South-West Coast,Num_Psns_UR_2_NonFamHhold,559.0,52.0
+South Barwon,Num_Psns_UR_2_NonFamHhold,565.0,53.0
+Eureka,Num_Psns_UR_2_NonFamHhold,566.0,54.0
+Shepparton,Num_Psns_UR_2_NonFamHhold,567.0,55.0
+Carrum,Num_Psns_UR_2_NonFamHhold,568.0,56.0
+Ivanhoe,Num_Psns_UR_2_NonFamHhold,578.0,57.0
+Mildura,Num_Psns_UR_2_NonFamHhold,581.0,58.0
+Broadmeadows,Num_Psns_UR_2_NonFamHhold,610.0,59.0
+Mulgrave,Num_Psns_UR_2_NonFamHhold,612.0,60.0
+Brighton,Num_Psns_UR_2_NonFamHhold,617.0,61.0
+Bendigo East,Num_Psns_UR_2_NonFamHhold,621.0,62.0
+Bayswater,Num_Psns_UR_2_NonFamHhold,622.0,63.0
+Lara,Num_Psns_UR_2_NonFamHhold,636.0,64.0
+Bendigo West,Num_Psns_UR_2_NonFamHhold,639.0,65.0
+Werribee,Num_Psns_UR_2_NonFamHhold,664.0,66.0
+Morwell,Num_Psns_UR_2_NonFamHhold,682.0,67.0
+Ringwood,Num_Psns_UR_2_NonFamHhold,738.0,68.0
+Frankston,Num_Psns_UR_2_NonFamHhold,750.0,69.0
+Wendouree,Num_Psns_UR_2_NonFamHhold,777.0,70.0
+Geelong,Num_Psns_UR_2_NonFamHhold,792.0,71.0
+Laverton,Num_Psns_UR_2_NonFamHhold,865.0,72.0
+Dandenong,Num_Psns_UR_2_NonFamHhold,868.0,73.0
+Malvern,Num_Psns_UR_2_NonFamHhold,890.0,74.0
+Essendon,Num_Psns_UR_2_NonFamHhold,957.0,75.0
+Pascoe Vale,Num_Psns_UR_2_NonFamHhold,988.0,76.0
+Hawthorn,Num_Psns_UR_2_NonFamHhold,1040.0,77.0
+Box Hill,Num_Psns_UR_2_NonFamHhold,1083.0,78.0
+Northcote,Num_Psns_UR_2_NonFamHhold,1114.0,79.0
+Preston,Num_Psns_UR_2_NonFamHhold,1170.0,80.0
+Caulfield,Num_Psns_UR_2_NonFamHhold,1304.0,81.0
+Footscray,Num_Psns_UR_2_NonFamHhold,1340.0,82.0
+Oakleigh,Num_Psns_UR_2_NonFamHhold,1475.0,83.0
+Brunswick,Num_Psns_UR_2_NonFamHhold,1858.0,84.0
+Albert Park,Num_Psns_UR_2_NonFamHhold,2005.0,85.0
+Richmond,Num_Psns_UR_2_NonFamHhold,2009.0,86.0
+Prahran,Num_Psns_UR_2_NonFamHhold,2429.0,87.0
+Melbourne,Num_Psns_UR_2_NonFamHhold,5554.0,88.0
+Eltham,Num_Psns_UR_2_NonFamHhold_pc,0.0069,1.0
+Warrandyte,Num_Psns_UR_2_NonFamHhold_pc,0.0086,2.0
+Sydenham,Num_Psns_UR_2_NonFamHhold_pc,0.0088,3.0
+Mornington,Num_Psns_UR_2_NonFamHhold_pc,0.0094,4.0
+Greenvale,Num_Psns_UR_2_NonFamHhold_pc,0.0098,5.0
+Yan Yean,Num_Psns_UR_2_NonFamHhold_pc,0.0108,6.0
+Berwick,Num_Psns_UR_2_NonFamHhold_pc,0.0113,7.0
+Rowville,Num_Psns_UR_2_NonFamHhold_pc,0.0115,8.0
+Kororoit,Num_Psns_UR_2_NonFamHhold_pc,0.0126,9.0
+Glen Waverley,Num_Psns_UR_2_NonFamHhold_pc,0.0129,10.0
+Narre Warren South,Num_Psns_UR_2_NonFamHhold_pc,0.0131,11.0
+Narracan,Num_Psns_UR_2_NonFamHhold_pc,0.0134,12.0
+Evelyn,Num_Psns_UR_2_NonFamHhold_pc,0.0135,13.0
+Mordialloc,Num_Psns_UR_2_NonFamHhold_pc,0.0136,14.0
+Kalkallo,Num_Psns_UR_2_NonFamHhold_pc,0.0138,15.0
+Bulleen,Num_Psns_UR_2_NonFamHhold_pc,0.0139,16.0
+Sandringham,Num_Psns_UR_2_NonFamHhold_pc,0.0143,17.0
+Macedon,Num_Psns_UR_2_NonFamHhold_pc,0.0147,18.0
+Hastings,Num_Psns_UR_2_NonFamHhold_pc,0.0151,19.0
+Bellarine,Num_Psns_UR_2_NonFamHhold_pc,0.0153,20.0
+Mill Park,Num_Psns_UR_2_NonFamHhold_pc,0.0153,21.0
+Monbulk,Num_Psns_UR_2_NonFamHhold_pc,0.0155,22.0
+Thomastown,Num_Psns_UR_2_NonFamHhold_pc,0.0156,23.0
+Kew,Num_Psns_UR_2_NonFamHhold_pc,0.0159,24.0
+Narre Warren North,Num_Psns_UR_2_NonFamHhold_pc,0.0161,25.0
+Tarneit,Num_Psns_UR_2_NonFamHhold_pc,0.0161,26.0
+Niddrie,Num_Psns_UR_2_NonFamHhold_pc,0.0164,27.0
+Gippsland East,Num_Psns_UR_2_NonFamHhold_pc,0.017,28.0
+Point Cook,Num_Psns_UR_2_NonFamHhold_pc,0.0174,29.0
+Cranbourne,Num_Psns_UR_2_NonFamHhold_pc,0.0176,30.0
+Gippsland South,Num_Psns_UR_2_NonFamHhold_pc,0.0176,31.0
+Sunbury,Num_Psns_UR_2_NonFamHhold_pc,0.0176,32.0
+Ripon,Num_Psns_UR_2_NonFamHhold_pc,0.0178,33.0
+Lowan,Num_Psns_UR_2_NonFamHhold_pc,0.0179,34.0
+Ovens Valley,Num_Psns_UR_2_NonFamHhold_pc,0.0179,35.0
+Bentleigh,Num_Psns_UR_2_NonFamHhold_pc,0.018,36.0
+Benambra,Num_Psns_UR_2_NonFamHhold_pc,0.0181,37.0
+Eildon,Num_Psns_UR_2_NonFamHhold_pc,0.0184,38.0
+Croydon,Num_Psns_UR_2_NonFamHhold_pc,0.0186,39.0
+Ashwood,Num_Psns_UR_2_NonFamHhold_pc,0.0187,40.0
+Melton,Num_Psns_UR_2_NonFamHhold_pc,0.0187,41.0
+Nepean,Num_Psns_UR_2_NonFamHhold_pc,0.0187,42.0
+Pakenham,Num_Psns_UR_2_NonFamHhold_pc,0.0188,43.0
+Murray Plains,Num_Psns_UR_2_NonFamHhold_pc,0.0192,44.0
+Clarinda,Num_Psns_UR_2_NonFamHhold_pc,0.0195,45.0
+Bass,Num_Psns_UR_2_NonFamHhold_pc,0.0201,46.0
+Eureka,Num_Psns_UR_2_NonFamHhold_pc,0.0205,47.0
+South-West Coast,Num_Psns_UR_2_NonFamHhold_pc,0.0205,48.0
+Williamstown,Num_Psns_UR_2_NonFamHhold_pc,0.0205,49.0
+Carrum,Num_Psns_UR_2_NonFamHhold_pc,0.0207,50.0
+Shepparton,Num_Psns_UR_2_NonFamHhold_pc,0.0208,51.0
+Polwarth,Num_Psns_UR_2_NonFamHhold_pc,0.0212,52.0
+Euroa,Num_Psns_UR_2_NonFamHhold_pc,0.0213,53.0
+Bundoora,Num_Psns_UR_2_NonFamHhold_pc,0.0216,54.0
+South Barwon,Num_Psns_UR_2_NonFamHhold_pc,0.0217,55.0
+St Albans,Num_Psns_UR_2_NonFamHhold_pc,0.0218,56.0
+Broadmeadows,Num_Psns_UR_2_NonFamHhold_pc,0.0223,57.0
+Mildura,Num_Psns_UR_2_NonFamHhold_pc,0.0224,58.0
+Bayswater,Num_Psns_UR_2_NonFamHhold_pc,0.0227,59.0
+Ivanhoe,Num_Psns_UR_2_NonFamHhold_pc,0.0228,60.0
+Bendigo East,Num_Psns_UR_2_NonFamHhold_pc,0.023,61.0
+Mulgrave,Num_Psns_UR_2_NonFamHhold_pc,0.0231,62.0
+Brighton,Num_Psns_UR_2_NonFamHhold_pc,0.0236,63.0
+Werribee,Num_Psns_UR_2_NonFamHhold_pc,0.0236,64.0
+Morwell,Num_Psns_UR_2_NonFamHhold_pc,0.0239,65.0
+Lara,Num_Psns_UR_2_NonFamHhold_pc,0.0243,66.0
+Ringwood,Num_Psns_UR_2_NonFamHhold_pc,0.0243,67.0
+Bendigo West,Num_Psns_UR_2_NonFamHhold_pc,0.0251,68.0
+Geelong,Num_Psns_UR_2_NonFamHhold_pc,0.0272,69.0
+Frankston,Num_Psns_UR_2_NonFamHhold_pc,0.0276,70.0
+Wendouree,Num_Psns_UR_2_NonFamHhold_pc,0.0281,71.0
+Laverton,Num_Psns_UR_2_NonFamHhold_pc,0.0291,72.0
+Dandenong,Num_Psns_UR_2_NonFamHhold_pc,0.0292,73.0
+Essendon,Num_Psns_UR_2_NonFamHhold_pc,0.0335,74.0
+Box Hill,Num_Psns_UR_2_NonFamHhold_pc,0.0336,75.0
+Malvern,Num_Psns_UR_2_NonFamHhold_pc,0.0338,76.0
+Pascoe Vale,Num_Psns_UR_2_NonFamHhold_pc,0.0367,77.0
+Hawthorn,Num_Psns_UR_2_NonFamHhold_pc,0.0369,78.0
+Preston,Num_Psns_UR_2_NonFamHhold_pc,0.0399,79.0
+Northcote,Num_Psns_UR_2_NonFamHhold_pc,0.0401,80.0
+Oakleigh,Num_Psns_UR_2_NonFamHhold_pc,0.0431,81.0
+Caulfield,Num_Psns_UR_2_NonFamHhold_pc,0.0445,82.0
+Footscray,Num_Psns_UR_2_NonFamHhold_pc,0.046,83.0
+Albert Park,Num_Psns_UR_2_NonFamHhold_pc,0.0565,84.0
+Brunswick,Num_Psns_UR_2_NonFamHhold_pc,0.0615,85.0
+Richmond,Num_Psns_UR_2_NonFamHhold_pc,0.0646,86.0
+Prahran,Num_Psns_UR_2_NonFamHhold_pc,0.065,87.0
+Melbourne,Num_Psns_UR_2_NonFamHhold_pc,0.1014,88.0
+Greenvale,Num_Psns_UR_2_Total,5419.0,1.0
+Sydenham,Num_Psns_UR_2_Total,5846.0,2.0
+Narre Warren South,Num_Psns_UR_2_Total,6051.0,3.0
+Kororoit,Num_Psns_UR_2_Total,6272.0,4.0
+Yan Yean,Num_Psns_UR_2_Total,6375.0,5.0
+Kalkallo,Num_Psns_UR_2_Total,6432.0,6.0
+Mill Park,Num_Psns_UR_2_Total,6443.0,7.0
+Berwick,Num_Psns_UR_2_Total,6697.0,8.0
+St Albans,Num_Psns_UR_2_Total,6709.0,9.0
+Tarneit,Num_Psns_UR_2_Total,6718.0,10.0
+Cranbourne,Num_Psns_UR_2_Total,7130.0,11.0
+Thomastown,Num_Psns_UR_2_Total,7242.0,12.0
+Rowville,Num_Psns_UR_2_Total,7400.0,13.0
+Melton,Num_Psns_UR_2_Total,7486.0,14.0
+Clarinda,Num_Psns_UR_2_Total,7499.0,15.0
+Eltham,Num_Psns_UR_2_Total,7506.0,16.0
+Mordialloc,Num_Psns_UR_2_Total,7610.0,17.0
+Pakenham,Num_Psns_UR_2_Total,7652.0,18.0
+Point Cook,Num_Psns_UR_2_Total,7684.0,19.0
+Narre Warren North,Num_Psns_UR_2_Total,7689.0,20.0
+Sunbury,Num_Psns_UR_2_Total,7725.0,21.0
+Laverton,Num_Psns_UR_2_Total,7750.0,22.0
+Warrandyte,Num_Psns_UR_2_Total,7817.0,23.0
+Monbulk,Num_Psns_UR_2_Total,7874.0,24.0
+Broadmeadows,Num_Psns_UR_2_Total,7900.0,25.0
+Evelyn,Num_Psns_UR_2_Total,7904.0,26.0
+Mulgrave,Num_Psns_UR_2_Total,8009.0,27.0
+Werribee,Num_Psns_UR_2_Total,8032.0,28.0
+Kew,Num_Psns_UR_2_Total,8094.0,29.0
+Niddrie,Num_Psns_UR_2_Total,8170.0,30.0
+Ivanhoe,Num_Psns_UR_2_Total,8192.0,31.0
+Williamstown,Num_Psns_UR_2_Total,8260.0,32.0
+Hastings,Num_Psns_UR_2_Total,8261.0,33.0
+Sandringham,Num_Psns_UR_2_Total,8269.0,34.0
+Dandenong,Num_Psns_UR_2_Total,8278.0,35.0
+Bundoora,Num_Psns_UR_2_Total,8285.0,36.0
+Carrum,Num_Psns_UR_2_Total,8423.0,37.0
+Lara,Num_Psns_UR_2_Total,8498.0,38.0
+Brighton,Num_Psns_UR_2_Total,8508.0,39.0
+Mornington,Num_Psns_UR_2_Total,8520.0,40.0
+Bentleigh,Num_Psns_UR_2_Total,8562.0,41.0
+Macedon,Num_Psns_UR_2_Total,8612.0,42.0
+Glen Waverley,Num_Psns_UR_2_Total,8614.0,43.0
+Ashwood,Num_Psns_UR_2_Total,8648.0,44.0
+South Barwon,Num_Psns_UR_2_Total,8671.0,45.0
+Pascoe Vale,Num_Psns_UR_2_Total,8704.0,46.0
+Northcote,Num_Psns_UR_2_Total,8852.0,47.0
+Frankston,Num_Psns_UR_2_Total,8887.0,48.0
+Malvern,Num_Psns_UR_2_Total,8907.0,49.0
+Bendigo West,Num_Psns_UR_2_Total,9018.0,50.0
+Bayswater,Num_Psns_UR_2_Total,9098.0,51.0
+Essendon,Num_Psns_UR_2_Total,9100.0,52.0
+Narracan,Num_Psns_UR_2_Total,9109.0,53.0
+Eildon,Num_Psns_UR_2_Total,9117.0,54.0
+Mildura,Num_Psns_UR_2_Total,9117.0,55.0
+Bulleen,Num_Psns_UR_2_Total,9237.0,56.0
+Shepparton,Num_Psns_UR_2_Total,9247.0,57.0
+Benambra,Num_Psns_UR_2_Total,9278.0,58.0
+Croydon,Num_Psns_UR_2_Total,9289.0,59.0
+Wendouree,Num_Psns_UR_2_Total,9351.0,60.0
+Bass,Num_Psns_UR_2_Total,9389.0,61.0
+Bendigo East,Num_Psns_UR_2_Total,9421.0,62.0
+Murray Plains,Num_Psns_UR_2_Total,9465.0,63.0
+Eureka,Num_Psns_UR_2_Total,9516.0,64.0
+Ringwood,Num_Psns_UR_2_Total,9518.0,65.0
+Hawthorn,Num_Psns_UR_2_Total,9554.0,66.0
+Preston,Num_Psns_UR_2_Total,9606.0,67.0
+Geelong,Num_Psns_UR_2_Total,9635.0,68.0
+Ovens Valley,Num_Psns_UR_2_Total,9681.0,69.0
+Polwarth,Num_Psns_UR_2_Total,9691.0,70.0
+Footscray,Num_Psns_UR_2_Total,9809.0,71.0
+Ripon,Num_Psns_UR_2_Total,9814.0,72.0
+Gippsland South,Num_Psns_UR_2_Total,9853.0,73.0
+Morwell,Num_Psns_UR_2_Total,9911.0,74.0
+Caulfield,Num_Psns_UR_2_Total,9946.0,75.0
+Euroa,Num_Psns_UR_2_Total,10001.0,76.0
+South-West Coast,Num_Psns_UR_2_Total,10105.0,77.0
+Nepean,Num_Psns_UR_2_Total,10260.0,78.0
+Box Hill,Num_Psns_UR_2_Total,10294.0,79.0
+Lowan,Num_Psns_UR_2_Total,10323.0,80.0
+Gippsland East,Num_Psns_UR_2_Total,10359.0,81.0
+Brunswick,Num_Psns_UR_2_Total,10780.0,82.0
+Bellarine,Num_Psns_UR_2_Total,10861.0,83.0
+Oakleigh,Num_Psns_UR_2_Total,11124.0,84.0
+Richmond,Num_Psns_UR_2_Total,11736.0,85.0
+Albert Park,Num_Psns_UR_2_Total,13215.0,86.0
+Prahran,Num_Psns_UR_2_Total,14025.0,87.0
+Melbourne,Num_Psns_UR_2_Total,21168.0,88.0
+Kalkallo,Num_Psns_UR_2_Total_pc,0.2289,1.0
+Narre Warren South,Num_Psns_UR_2_Total_pc,0.2308,2.0
+Tarneit,Num_Psns_UR_2_Total_pc,0.2398,3.0
+Kororoit,Num_Psns_UR_2_Total_pc,0.2433,4.0
+Greenvale,Num_Psns_UR_2_Total_pc,0.2443,5.0
+Sydenham,Num_Psns_UR_2_Total_pc,0.2445,6.0
+Point Cook,Num_Psns_UR_2_Total_pc,0.2569,7.0
+Laverton,Num_Psns_UR_2_Total_pc,0.2606,8.0
+Cranbourne,Num_Psns_UR_2_Total_pc,0.2616,9.0
+Berwick,Num_Psns_UR_2_Total_pc,0.2636,10.0
+Yan Yean,Num_Psns_UR_2_Total_pc,0.2732,11.0
+Dandenong,Num_Psns_UR_2_Total_pc,0.2784,12.0
+St Albans,Num_Psns_UR_2_Total_pc,0.2799,13.0
+Melton,Num_Psns_UR_2_Total_pc,0.2808,14.0
+Thomastown,Num_Psns_UR_2_Total_pc,0.2809,15.0
+Mill Park,Num_Psns_UR_2_Total_pc,0.2836,16.0
+Werribee,Num_Psns_UR_2_Total_pc,0.285,17.0
+Broadmeadows,Num_Psns_UR_2_Total_pc,0.2893,18.0
+Mordialloc,Num_Psns_UR_2_Total_pc,0.2917,19.0
+Clarinda,Num_Psns_UR_2_Total_pc,0.2956,20.0
+Pakenham,Num_Psns_UR_2_Total_pc,0.2961,21.0
+Ashwood,Num_Psns_UR_2_Total_pc,0.3005,22.0
+Narre Warren North,Num_Psns_UR_2_Total_pc,0.3006,23.0
+Bentleigh,Num_Psns_UR_2_Total_pc,0.3018,24.0
+Mulgrave,Num_Psns_UR_2_Total_pc,0.3021,25.0
+Rowville,Num_Psns_UR_2_Total_pc,0.3034,26.0
+Glen Waverley,Num_Psns_UR_2_Total_pc,0.3043,27.0
+Kew,Num_Psns_UR_2_Total_pc,0.305,28.0
+Carrum,Num_Psns_UR_2_Total_pc,0.3071,29.0
+Warrandyte,Num_Psns_UR_2_Total_pc,0.3115,30.0
+Ringwood,Num_Psns_UR_2_Total_pc,0.3134,31.0
+Essendon,Num_Psns_UR_2_Total_pc,0.3183,32.0
+Northcote,Num_Psns_UR_2_Total_pc,0.3186,33.0
+Box Hill,Num_Psns_UR_2_Total_pc,0.3189,34.0
+Niddrie,Num_Psns_UR_2_Total_pc,0.3207,35.0
+Pascoe Vale,Num_Psns_UR_2_Total_pc,0.3234,36.0
+Ivanhoe,Num_Psns_UR_2_Total_pc,0.3236,37.0
+Eltham,Num_Psns_UR_2_Total_pc,0.3246,38.0
+Bundoora,Num_Psns_UR_2_Total_pc,0.3247,39.0
+Lara,Num_Psns_UR_2_Total_pc,0.3248,40.0
+Oakleigh,Num_Psns_UR_2_Total_pc,0.3253,41.0
+Brighton,Num_Psns_UR_2_Total_pc,0.3256,42.0
+Frankston,Num_Psns_UR_2_Total_pc,0.3268,43.0
+Williamstown,Num_Psns_UR_2_Total_pc,0.3268,44.0
+Preston,Num_Psns_UR_2_Total_pc,0.3273,45.0
+Evelyn,Num_Psns_UR_2_Total_pc,0.3274,46.0
+Croydon,Num_Psns_UR_2_Total_pc,0.3276,47.0
+Sunbury,Num_Psns_UR_2_Total_pc,0.3309,48.0
+Geelong,Num_Psns_UR_2_Total_pc,0.3313,49.0
+Bayswater,Num_Psns_UR_2_Total_pc,0.3321,50.0
+Sandringham,Num_Psns_UR_2_Total_pc,0.3326,51.0
+South Barwon,Num_Psns_UR_2_Total_pc,0.3331,52.0
+Footscray,Num_Psns_UR_2_Total_pc,0.3365,53.0
+Bulleen,Num_Psns_UR_2_Total_pc,0.3374,54.0
+Monbulk,Num_Psns_UR_2_Total_pc,0.3378,55.0
+Hastings,Num_Psns_UR_2_Total_pc,0.3379,56.0
+Wendouree,Num_Psns_UR_2_Total_pc,0.3382,57.0
+Shepparton,Num_Psns_UR_2_Total_pc,0.3385,58.0
+Malvern,Num_Psns_UR_2_Total_pc,0.3388,59.0
+Hawthorn,Num_Psns_UR_2_Total_pc,0.3391,60.0
+Caulfield,Num_Psns_UR_2_Total_pc,0.3393,61.0
+Eureka,Num_Psns_UR_2_Total_pc,0.3441,62.0
+Morwell,Num_Psns_UR_2_Total_pc,0.347,63.0
+Bendigo East,Num_Psns_UR_2_Total_pc,0.3491,64.0
+Mildura,Num_Psns_UR_2_Total_pc,0.3511,65.0
+Mornington,Num_Psns_UR_2_Total_pc,0.353,66.0
+Bendigo West,Num_Psns_UR_2_Total_pc,0.3546,67.0
+Brunswick,Num_Psns_UR_2_Total_pc,0.357,68.0
+Benambra,Num_Psns_UR_2_Total_pc,0.3653,69.0
+Narracan,Num_Psns_UR_2_Total_pc,0.3659,70.0
+Polwarth,Num_Psns_UR_2_Total_pc,0.3689,71.0
+Macedon,Num_Psns_UR_2_Total_pc,0.369,72.0
+Ripon,Num_Psns_UR_2_Total_pc,0.3695,73.0
+Lowan,Num_Psns_UR_2_Total_pc,0.3696,74.0
+South-West Coast,Num_Psns_UR_2_Total_pc,0.3702,75.0
+Eildon,Num_Psns_UR_2_Total_pc,0.3721,76.0
+Albert Park,Num_Psns_UR_2_Total_pc,0.3725,77.0
+Bass,Num_Psns_UR_2_Total_pc,0.3753,78.0
+Prahran,Num_Psns_UR_2_Total_pc,0.3756,79.0
+Murray Plains,Num_Psns_UR_2_Total_pc,0.3771,80.0
+Richmond,Num_Psns_UR_2_Total_pc,0.3776,81.0
+Euroa,Num_Psns_UR_2_Total_pc,0.3837,82.0
+Gippsland South,Num_Psns_UR_2_Total_pc,0.3855,83.0
+Melbourne,Num_Psns_UR_2_Total_pc,0.3867,84.0
+Ovens Valley,Num_Psns_UR_2_Total_pc,0.3895,85.0
+Bellarine,Num_Psns_UR_2_Total_pc,0.4026,86.0
+Gippsland East,Num_Psns_UR_2_Total_pc,0.4057,87.0
+Nepean,Num_Psns_UR_2_Total_pc,0.4088,88.0
+Prahran,Num_Psns_UR_3_FamHhold,2781.0,1.0
+Ovens Valley,Num_Psns_UR_3_FamHhold,2856.0,2.0
+Gippsland East,Num_Psns_UR_3_FamHhold,2889.0,3.0
+Nepean,Num_Psns_UR_3_FamHhold,2968.0,4.0
+Richmond,Num_Psns_UR_3_FamHhold,3040.0,5.0
+Murray Plains,Num_Psns_UR_3_FamHhold,3130.0,6.0
+Gippsland South,Num_Psns_UR_3_FamHhold,3139.0,7.0
+Malvern,Num_Psns_UR_3_FamHhold,3185.0,8.0
+Ripon,Num_Psns_UR_3_FamHhold,3233.0,9.0
+Euroa,Num_Psns_UR_3_FamHhold,3298.0,10.0
+Brunswick,Num_Psns_UR_3_FamHhold,3310.0,11.0
+Eildon,Num_Psns_UR_3_FamHhold,3317.0,12.0
+Polwarth,Num_Psns_UR_3_FamHhold,3331.0,13.0
+Lowan,Num_Psns_UR_3_FamHhold,3336.0,14.0
+Bass,Num_Psns_UR_3_FamHhold,3339.0,15.0
+Macedon,Num_Psns_UR_3_FamHhold,3342.0,16.0
+Mornington,Num_Psns_UR_3_FamHhold,3350.0,17.0
+Mildura,Num_Psns_UR_3_FamHhold,3413.0,18.0
+Bendigo West,Num_Psns_UR_3_FamHhold,3477.0,19.0
+Albert Park,Num_Psns_UR_3_FamHhold,3480.0,20.0
+Hawthorn,Num_Psns_UR_3_FamHhold,3488.0,21.0
+Benambra,Num_Psns_UR_3_FamHhold,3502.0,22.0
+Bellarine,Num_Psns_UR_3_FamHhold,3520.0,23.0
+Sandringham,Num_Psns_UR_3_FamHhold,3548.0,24.0
+Narracan,Num_Psns_UR_3_FamHhold,3549.0,25.0
+South-West Coast,Num_Psns_UR_3_FamHhold,3594.0,26.0
+Caulfield,Num_Psns_UR_3_FamHhold,3648.0,27.0
+Brighton,Num_Psns_UR_3_FamHhold,3661.0,28.0
+Shepparton,Num_Psns_UR_3_FamHhold,3746.0,29.0
+Northcote,Num_Psns_UR_3_FamHhold,3749.0,30.0
+Wendouree,Num_Psns_UR_3_FamHhold,3764.0,31.0
+Morwell,Num_Psns_UR_3_FamHhold,3779.0,32.0
+Essendon,Num_Psns_UR_3_FamHhold,3820.0,33.0
+Bendigo East,Num_Psns_UR_3_FamHhold,3829.0,34.0
+Hastings,Num_Psns_UR_3_FamHhold,3831.0,35.0
+Geelong,Num_Psns_UR_3_FamHhold,3847.0,36.0
+Ivanhoe,Num_Psns_UR_3_FamHhold,3894.0,37.0
+Monbulk,Num_Psns_UR_3_FamHhold,3930.0,38.0
+Williamstown,Num_Psns_UR_3_FamHhold,4022.0,39.0
+Eureka,Num_Psns_UR_3_FamHhold,4034.0,40.0
+South Barwon,Num_Psns_UR_3_FamHhold,4038.0,41.0
+Frankston,Num_Psns_UR_3_FamHhold,4067.0,42.0
+Evelyn,Num_Psns_UR_3_FamHhold,4086.0,43.0
+Eltham,Num_Psns_UR_3_FamHhold,4090.0,44.0
+Sunbury,Num_Psns_UR_3_FamHhold,4095.0,45.0
+Pascoe Vale,Num_Psns_UR_3_FamHhold,4108.0,46.0
+Greenvale,Num_Psns_UR_3_FamHhold,4145.0,47.0
+St Albans,Num_Psns_UR_3_FamHhold,4145.0,48.0
+Lara,Num_Psns_UR_3_FamHhold,4160.0,49.0
+Bundoora,Num_Psns_UR_3_FamHhold,4199.0,50.0
+Footscray,Num_Psns_UR_3_FamHhold,4233.0,51.0
+Broadmeadows,Num_Psns_UR_3_FamHhold,4292.0,52.0
+Mill Park,Num_Psns_UR_3_FamHhold,4359.0,53.0
+Niddrie,Num_Psns_UR_3_FamHhold,4359.0,54.0
+Preston,Num_Psns_UR_3_FamHhold,4370.0,55.0
+Melbourne,Num_Psns_UR_3_FamHhold,4392.0,56.0
+Kew,Num_Psns_UR_3_FamHhold,4397.0,57.0
+Mordialloc,Num_Psns_UR_3_FamHhold,4416.0,58.0
+Warrandyte,Num_Psns_UR_3_FamHhold,4459.0,59.0
+Yan Yean,Num_Psns_UR_3_FamHhold,4486.0,60.0
+Croydon,Num_Psns_UR_3_FamHhold,4583.0,61.0
+Pakenham,Num_Psns_UR_3_FamHhold,4604.0,62.0
+Mulgrave,Num_Psns_UR_3_FamHhold,4619.0,63.0
+Clarinda,Num_Psns_UR_3_FamHhold,4644.0,64.0
+Thomastown,Num_Psns_UR_3_FamHhold,4707.0,65.0
+Rowville,Num_Psns_UR_3_FamHhold,4723.0,66.0
+Sydenham,Num_Psns_UR_3_FamHhold,4764.0,67.0
+Narre Warren North,Num_Psns_UR_3_FamHhold,4765.0,68.0
+Bayswater,Num_Psns_UR_3_FamHhold,4806.0,69.0
+Berwick,Num_Psns_UR_3_FamHhold,4817.0,70.0
+Carrum,Num_Psns_UR_3_FamHhold,4825.0,71.0
+Melton,Num_Psns_UR_3_FamHhold,4872.0,72.0
+Bulleen,Num_Psns_UR_3_FamHhold,4933.0,73.0
+Ashwood,Num_Psns_UR_3_FamHhold,4941.0,74.0
+Bentleigh,Num_Psns_UR_3_FamHhold,4951.0,75.0
+Dandenong,Num_Psns_UR_3_FamHhold,4956.0,76.0
+Kororoit,Num_Psns_UR_3_FamHhold,4974.0,77.0
+Ringwood,Num_Psns_UR_3_FamHhold,5002.0,78.0
+Box Hill,Num_Psns_UR_3_FamHhold,5019.0,79.0
+Glen Waverley,Num_Psns_UR_3_FamHhold,5059.0,80.0
+Cranbourne,Num_Psns_UR_3_FamHhold,5100.0,81.0
+Narre Warren South,Num_Psns_UR_3_FamHhold,5136.0,82.0
+Oakleigh,Num_Psns_UR_3_FamHhold,5227.0,83.0
+Werribee,Num_Psns_UR_3_FamHhold,5578.0,84.0
+Tarneit,Num_Psns_UR_3_FamHhold,5669.0,85.0
+Kalkallo,Num_Psns_UR_3_FamHhold,5714.0,86.0
+Laverton,Num_Psns_UR_3_FamHhold,5819.0,87.0
+Point Cook,Num_Psns_UR_3_FamHhold,6312.0,88.0
+Prahran,Num_Psns_UR_3_FamHhold_pc,0.0745,1.0
+Melbourne,Num_Psns_UR_3_FamHhold_pc,0.0802,2.0
+Richmond,Num_Psns_UR_3_FamHhold_pc,0.0978,3.0
+Albert Park,Num_Psns_UR_3_FamHhold_pc,0.0981,4.0
+Brunswick,Num_Psns_UR_3_FamHhold_pc,0.1096,5.0
+Gippsland East,Num_Psns_UR_3_FamHhold_pc,0.1132,6.0
+Ovens Valley,Num_Psns_UR_3_FamHhold_pc,0.1149,7.0
+Nepean,Num_Psns_UR_3_FamHhold_pc,0.1183,8.0
+Lowan,Num_Psns_UR_3_FamHhold_pc,0.1194,9.0
+Malvern,Num_Psns_UR_3_FamHhold_pc,0.1211,10.0
+Ripon,Num_Psns_UR_3_FamHhold_pc,0.1217,11.0
+Gippsland South,Num_Psns_UR_3_FamHhold_pc,0.1228,12.0
+Hawthorn,Num_Psns_UR_3_FamHhold_pc,0.1238,13.0
+Caulfield,Num_Psns_UR_3_FamHhold_pc,0.1244,14.0
+Murray Plains,Num_Psns_UR_3_FamHhold_pc,0.1247,15.0
+Euroa,Num_Psns_UR_3_FamHhold_pc,0.1265,16.0
+Polwarth,Num_Psns_UR_3_FamHhold_pc,0.1268,17.0
+Bellarine,Num_Psns_UR_3_FamHhold_pc,0.1305,18.0
+Mildura,Num_Psns_UR_3_FamHhold_pc,0.1314,19.0
+South-West Coast,Num_Psns_UR_3_FamHhold_pc,0.1317,20.0
+Geelong,Num_Psns_UR_3_FamHhold_pc,0.1323,21.0
+Morwell,Num_Psns_UR_3_FamHhold_pc,0.1323,22.0
+Bass,Num_Psns_UR_3_FamHhold_pc,0.1335,23.0
+Essendon,Num_Psns_UR_3_FamHhold_pc,0.1336,24.0
+Northcote,Num_Psns_UR_3_FamHhold_pc,0.135,25.0
+Eildon,Num_Psns_UR_3_FamHhold_pc,0.1354,26.0
+Wendouree,Num_Psns_UR_3_FamHhold_pc,0.1361,27.0
+Bendigo West,Num_Psns_UR_3_FamHhold_pc,0.1367,28.0
+Shepparton,Num_Psns_UR_3_FamHhold_pc,0.1371,29.0
+Benambra,Num_Psns_UR_3_FamHhold_pc,0.1379,30.0
+Mornington,Num_Psns_UR_3_FamHhold_pc,0.1388,31.0
+Brighton,Num_Psns_UR_3_FamHhold_pc,0.1401,32.0
+Bendigo East,Num_Psns_UR_3_FamHhold_pc,0.1419,33.0
+Narracan,Num_Psns_UR_3_FamHhold_pc,0.1426,34.0
+Sandringham,Num_Psns_UR_3_FamHhold_pc,0.1427,35.0
+Macedon,Num_Psns_UR_3_FamHhold_pc,0.1432,36.0
+Footscray,Num_Psns_UR_3_FamHhold_pc,0.1452,37.0
+Eureka,Num_Psns_UR_3_FamHhold_pc,0.1459,38.0
+Preston,Num_Psns_UR_3_FamHhold_pc,0.1489,39.0
+Frankston,Num_Psns_UR_3_FamHhold_pc,0.1496,40.0
+Pascoe Vale,Num_Psns_UR_3_FamHhold_pc,0.1527,41.0
+Oakleigh,Num_Psns_UR_3_FamHhold_pc,0.1528,42.0
+Ivanhoe,Num_Psns_UR_3_FamHhold_pc,0.1538,43.0
+South Barwon,Num_Psns_UR_3_FamHhold_pc,0.1551,44.0
+Box Hill,Num_Psns_UR_3_FamHhold_pc,0.1555,45.0
+Hastings,Num_Psns_UR_3_FamHhold_pc,0.1567,46.0
+Broadmeadows,Num_Psns_UR_3_FamHhold_pc,0.1571,47.0
+Lara,Num_Psns_UR_3_FamHhold_pc,0.159,48.0
+Williamstown,Num_Psns_UR_3_FamHhold_pc,0.1591,49.0
+Croydon,Num_Psns_UR_3_FamHhold_pc,0.1616,50.0
+Bundoora,Num_Psns_UR_3_FamHhold_pc,0.1646,51.0
+Ringwood,Num_Psns_UR_3_FamHhold_pc,0.1647,52.0
+Kew,Num_Psns_UR_3_FamHhold_pc,0.1657,53.0
+Dandenong,Num_Psns_UR_3_FamHhold_pc,0.1667,54.0
+Monbulk,Num_Psns_UR_3_FamHhold_pc,0.1686,55.0
+Evelyn,Num_Psns_UR_3_FamHhold_pc,0.1693,56.0
+Mordialloc,Num_Psns_UR_3_FamHhold_pc,0.1693,57.0
+Niddrie,Num_Psns_UR_3_FamHhold_pc,0.1711,58.0
+Ashwood,Num_Psns_UR_3_FamHhold_pc,0.1717,59.0
+St Albans,Num_Psns_UR_3_FamHhold_pc,0.1729,60.0
+Mulgrave,Num_Psns_UR_3_FamHhold_pc,0.1742,61.0
+Bentleigh,Num_Psns_UR_3_FamHhold_pc,0.1745,62.0
+Bayswater,Num_Psns_UR_3_FamHhold_pc,0.1754,63.0
+Sunbury,Num_Psns_UR_3_FamHhold_pc,0.1754,64.0
+Carrum,Num_Psns_UR_3_FamHhold_pc,0.1759,65.0
+Eltham,Num_Psns_UR_3_FamHhold_pc,0.1769,66.0
+Warrandyte,Num_Psns_UR_3_FamHhold_pc,0.1777,67.0
+Pakenham,Num_Psns_UR_3_FamHhold_pc,0.1782,68.0
+Glen Waverley,Num_Psns_UR_3_FamHhold_pc,0.1787,69.0
+Bulleen,Num_Psns_UR_3_FamHhold_pc,0.1802,70.0
+Thomastown,Num_Psns_UR_3_FamHhold_pc,0.1826,71.0
+Melton,Num_Psns_UR_3_FamHhold_pc,0.1828,72.0
+Clarinda,Num_Psns_UR_3_FamHhold_pc,0.183,73.0
+Narre Warren North,Num_Psns_UR_3_FamHhold_pc,0.1863,74.0
+Greenvale,Num_Psns_UR_3_FamHhold_pc,0.1868,75.0
+Cranbourne,Num_Psns_UR_3_FamHhold_pc,0.1871,76.0
+Berwick,Num_Psns_UR_3_FamHhold_pc,0.1896,77.0
+Mill Park,Num_Psns_UR_3_FamHhold_pc,0.1918,78.0
+Yan Yean,Num_Psns_UR_3_FamHhold_pc,0.1922,79.0
+Kororoit,Num_Psns_UR_3_FamHhold_pc,0.1929,80.0
+Rowville,Num_Psns_UR_3_FamHhold_pc,0.1937,81.0
+Laverton,Num_Psns_UR_3_FamHhold_pc,0.1956,82.0
+Narre Warren South,Num_Psns_UR_3_FamHhold_pc,0.1959,83.0
+Werribee,Num_Psns_UR_3_FamHhold_pc,0.1979,84.0
+Sydenham,Num_Psns_UR_3_FamHhold_pc,0.1992,85.0
+Tarneit,Num_Psns_UR_3_FamHhold_pc,0.2023,86.0
+Kalkallo,Num_Psns_UR_3_FamHhold_pc,0.2033,87.0
+Point Cook,Num_Psns_UR_3_FamHhold_pc,0.211,88.0
+Yan Yean,Num_Psns_UR_3_NonFamHhold,0.0,1.0
+Eltham,Num_Psns_UR_3_NonFamHhold,3.0,2.0
+Narracan,Num_Psns_UR_3_NonFamHhold,6.0,3.0
+Hastings,Num_Psns_UR_3_NonFamHhold,7.0,4.0
+Macedon,Num_Psns_UR_3_NonFamHhold,13.0,5.0
+Morwell,Num_Psns_UR_3_NonFamHhold,15.0,6.0
+Evelyn,Num_Psns_UR_3_NonFamHhold,16.0,7.0
+Ripon,Num_Psns_UR_3_NonFamHhold,16.0,8.0
+Sydenham,Num_Psns_UR_3_NonFamHhold,16.0,9.0
+Mornington,Num_Psns_UR_3_NonFamHhold,18.0,10.0
+Bellarine,Num_Psns_UR_3_NonFamHhold,20.0,11.0
+Gippsland South,Num_Psns_UR_3_NonFamHhold,23.0,12.0
+Eildon,Num_Psns_UR_3_NonFamHhold,25.0,13.0
+Niddrie,Num_Psns_UR_3_NonFamHhold,26.0,14.0
+Ovens Valley,Num_Psns_UR_3_NonFamHhold,28.0,15.0
+Monbulk,Num_Psns_UR_3_NonFamHhold,30.0,16.0
+Berwick,Num_Psns_UR_3_NonFamHhold,31.0,17.0
+Nepean,Num_Psns_UR_3_NonFamHhold,31.0,18.0
+Rowville,Num_Psns_UR_3_NonFamHhold,31.0,19.0
+Warrandyte,Num_Psns_UR_3_NonFamHhold,31.0,20.0
+Sunbury,Num_Psns_UR_3_NonFamHhold,32.0,21.0
+Sandringham,Num_Psns_UR_3_NonFamHhold,33.0,22.0
+Greenvale,Num_Psns_UR_3_NonFamHhold,34.0,23.0
+Bass,Num_Psns_UR_3_NonFamHhold,35.0,24.0
+Euroa,Num_Psns_UR_3_NonFamHhold,36.0,25.0
+Lowan,Num_Psns_UR_3_NonFamHhold,36.0,26.0
+Mordialloc,Num_Psns_UR_3_NonFamHhold,38.0,27.0
+Murray Plains,Num_Psns_UR_3_NonFamHhold,39.0,28.0
+Gippsland East,Num_Psns_UR_3_NonFamHhold,42.0,29.0
+Pakenham,Num_Psns_UR_3_NonFamHhold,42.0,30.0
+Benambra,Num_Psns_UR_3_NonFamHhold,44.0,31.0
+Melton,Num_Psns_UR_3_NonFamHhold,47.0,32.0
+Mill Park,Num_Psns_UR_3_NonFamHhold,47.0,33.0
+Kalkallo,Num_Psns_UR_3_NonFamHhold,50.0,34.0
+Croydon,Num_Psns_UR_3_NonFamHhold,56.0,35.0
+Narre Warren North,Num_Psns_UR_3_NonFamHhold,57.0,36.0
+Narre Warren South,Num_Psns_UR_3_NonFamHhold,62.0,37.0
+Bentleigh,Num_Psns_UR_3_NonFamHhold,64.0,38.0
+Williamstown,Num_Psns_UR_3_NonFamHhold,67.0,39.0
+Kororoit,Num_Psns_UR_3_NonFamHhold,70.0,40.0
+Bayswater,Num_Psns_UR_3_NonFamHhold,71.0,41.0
+Bendigo West,Num_Psns_UR_3_NonFamHhold,72.0,42.0
+Carrum,Num_Psns_UR_3_NonFamHhold,72.0,43.0
+Werribee,Num_Psns_UR_3_NonFamHhold,73.0,44.0
+Cranbourne,Num_Psns_UR_3_NonFamHhold,77.0,45.0
+Bulleen,Num_Psns_UR_3_NonFamHhold,78.0,46.0
+Polwarth,Num_Psns_UR_3_NonFamHhold,79.0,47.0
+South-West Coast,Num_Psns_UR_3_NonFamHhold,82.0,48.0
+Frankston,Num_Psns_UR_3_NonFamHhold,87.0,49.0
+Point Cook,Num_Psns_UR_3_NonFamHhold,91.0,50.0
+Eureka,Num_Psns_UR_3_NonFamHhold,94.0,51.0
+Brighton,Num_Psns_UR_3_NonFamHhold,99.0,52.0
+Mildura,Num_Psns_UR_3_NonFamHhold,109.0,53.0
+Bendigo East,Num_Psns_UR_3_NonFamHhold,114.0,54.0
+Tarneit,Num_Psns_UR_3_NonFamHhold,118.0,55.0
+Lara,Num_Psns_UR_3_NonFamHhold,122.0,56.0
+Shepparton,Num_Psns_UR_3_NonFamHhold,124.0,57.0
+Thomastown,Num_Psns_UR_3_NonFamHhold,126.0,58.0
+Ringwood,Num_Psns_UR_3_NonFamHhold,127.0,59.0
+Kew,Num_Psns_UR_3_NonFamHhold,145.0,60.0
+Clarinda,Num_Psns_UR_3_NonFamHhold,157.0,61.0
+Glen Waverley,Num_Psns_UR_3_NonFamHhold,159.0,62.0
+Ivanhoe,Num_Psns_UR_3_NonFamHhold,159.0,63.0
+Wendouree,Num_Psns_UR_3_NonFamHhold,164.0,64.0
+Mulgrave,Num_Psns_UR_3_NonFamHhold,197.0,65.0
+St Albans,Num_Psns_UR_3_NonFamHhold,207.0,66.0
+Broadmeadows,Num_Psns_UR_3_NonFamHhold,218.0,67.0
+Bundoora,Num_Psns_UR_3_NonFamHhold,220.0,68.0
+South Barwon,Num_Psns_UR_3_NonFamHhold,251.0,69.0
+Geelong,Num_Psns_UR_3_NonFamHhold,258.0,70.0
+Malvern,Num_Psns_UR_3_NonFamHhold,277.0,71.0
+Hawthorn,Num_Psns_UR_3_NonFamHhold,284.0,72.0
+Essendon,Num_Psns_UR_3_NonFamHhold,288.0,73.0
+Ashwood,Num_Psns_UR_3_NonFamHhold,311.0,74.0
+Laverton,Num_Psns_UR_3_NonFamHhold,327.0,75.0
+Caulfield,Num_Psns_UR_3_NonFamHhold,348.0,76.0
+Box Hill,Num_Psns_UR_3_NonFamHhold,351.0,77.0
+Preston,Num_Psns_UR_3_NonFamHhold,392.0,78.0
+Dandenong,Num_Psns_UR_3_NonFamHhold,393.0,79.0
+Albert Park,Num_Psns_UR_3_NonFamHhold,442.0,80.0
+Pascoe Vale,Num_Psns_UR_3_NonFamHhold,489.0,81.0
+Footscray,Num_Psns_UR_3_NonFamHhold,519.0,82.0
+Oakleigh,Num_Psns_UR_3_NonFamHhold,642.0,83.0
+Northcote,Num_Psns_UR_3_NonFamHhold,662.0,84.0
+Prahran,Num_Psns_UR_3_NonFamHhold,699.0,85.0
+Richmond,Num_Psns_UR_3_NonFamHhold,1114.0,86.0
+Brunswick,Num_Psns_UR_3_NonFamHhold,1296.0,87.0
+Melbourne,Num_Psns_UR_3_NonFamHhold,1555.0,88.0
+Yan Yean,Num_Psns_UR_3_NonFamHhold_pc,0.0,1.0
+Eltham,Num_Psns_UR_3_NonFamHhold_pc,0.0001,2.0
+Narracan,Num_Psns_UR_3_NonFamHhold_pc,0.0002,3.0
+Hastings,Num_Psns_UR_3_NonFamHhold_pc,0.0003,4.0
+Morwell,Num_Psns_UR_3_NonFamHhold_pc,0.0005,5.0
+Macedon,Num_Psns_UR_3_NonFamHhold_pc,0.0006,6.0
+Ripon,Num_Psns_UR_3_NonFamHhold_pc,0.0006,7.0
+Bellarine,Num_Psns_UR_3_NonFamHhold_pc,0.0007,8.0
+Evelyn,Num_Psns_UR_3_NonFamHhold_pc,0.0007,9.0
+Mornington,Num_Psns_UR_3_NonFamHhold_pc,0.0007,10.0
+Sydenham,Num_Psns_UR_3_NonFamHhold_pc,0.0007,11.0
+Gippsland South,Num_Psns_UR_3_NonFamHhold_pc,0.0009,12.0
+Eildon,Num_Psns_UR_3_NonFamHhold_pc,0.001,13.0
+Niddrie,Num_Psns_UR_3_NonFamHhold_pc,0.001,14.0
+Ovens Valley,Num_Psns_UR_3_NonFamHhold_pc,0.0011,15.0
+Berwick,Num_Psns_UR_3_NonFamHhold_pc,0.0012,16.0
+Nepean,Num_Psns_UR_3_NonFamHhold_pc,0.0012,17.0
+Warrandyte,Num_Psns_UR_3_NonFamHhold_pc,0.0012,18.0
+Lowan,Num_Psns_UR_3_NonFamHhold_pc,0.0013,19.0
+Monbulk,Num_Psns_UR_3_NonFamHhold_pc,0.0013,20.0
+Rowville,Num_Psns_UR_3_NonFamHhold_pc,0.0013,21.0
+Sandringham,Num_Psns_UR_3_NonFamHhold_pc,0.0013,22.0
+Bass,Num_Psns_UR_3_NonFamHhold_pc,0.0014,23.0
+Euroa,Num_Psns_UR_3_NonFamHhold_pc,0.0014,24.0
+Sunbury,Num_Psns_UR_3_NonFamHhold_pc,0.0014,25.0
+Greenvale,Num_Psns_UR_3_NonFamHhold_pc,0.0015,26.0
+Mordialloc,Num_Psns_UR_3_NonFamHhold_pc,0.0015,27.0
+Gippsland East,Num_Psns_UR_3_NonFamHhold_pc,0.0016,28.0
+Murray Plains,Num_Psns_UR_3_NonFamHhold_pc,0.0016,29.0
+Pakenham,Num_Psns_UR_3_NonFamHhold_pc,0.0016,30.0
+Benambra,Num_Psns_UR_3_NonFamHhold_pc,0.0017,31.0
+Kalkallo,Num_Psns_UR_3_NonFamHhold_pc,0.0018,32.0
+Melton,Num_Psns_UR_3_NonFamHhold_pc,0.0018,33.0
+Croydon,Num_Psns_UR_3_NonFamHhold_pc,0.002,34.0
+Mill Park,Num_Psns_UR_3_NonFamHhold_pc,0.0021,35.0
+Narre Warren North,Num_Psns_UR_3_NonFamHhold_pc,0.0022,36.0
+Bentleigh,Num_Psns_UR_3_NonFamHhold_pc,0.0023,37.0
+Narre Warren South,Num_Psns_UR_3_NonFamHhold_pc,0.0024,38.0
+Bayswater,Num_Psns_UR_3_NonFamHhold_pc,0.0026,39.0
+Carrum,Num_Psns_UR_3_NonFamHhold_pc,0.0026,40.0
+Werribee,Num_Psns_UR_3_NonFamHhold_pc,0.0026,41.0
+Kororoit,Num_Psns_UR_3_NonFamHhold_pc,0.0027,42.0
+Williamstown,Num_Psns_UR_3_NonFamHhold_pc,0.0027,43.0
+Bendigo West,Num_Psns_UR_3_NonFamHhold_pc,0.0028,44.0
+Bulleen,Num_Psns_UR_3_NonFamHhold_pc,0.0028,45.0
+Cranbourne,Num_Psns_UR_3_NonFamHhold_pc,0.0028,46.0
+Point Cook,Num_Psns_UR_3_NonFamHhold_pc,0.003,47.0
+Polwarth,Num_Psns_UR_3_NonFamHhold_pc,0.003,48.0
+South-West Coast,Num_Psns_UR_3_NonFamHhold_pc,0.003,49.0
+Frankston,Num_Psns_UR_3_NonFamHhold_pc,0.0032,50.0
+Eureka,Num_Psns_UR_3_NonFamHhold_pc,0.0034,51.0
+Brighton,Num_Psns_UR_3_NonFamHhold_pc,0.0038,52.0
+Bendigo East,Num_Psns_UR_3_NonFamHhold_pc,0.0042,53.0
+Mildura,Num_Psns_UR_3_NonFamHhold_pc,0.0042,54.0
+Ringwood,Num_Psns_UR_3_NonFamHhold_pc,0.0042,55.0
+Tarneit,Num_Psns_UR_3_NonFamHhold_pc,0.0042,56.0
+Shepparton,Num_Psns_UR_3_NonFamHhold_pc,0.0045,57.0
+Lara,Num_Psns_UR_3_NonFamHhold_pc,0.0047,58.0
+Thomastown,Num_Psns_UR_3_NonFamHhold_pc,0.0049,59.0
+Kew,Num_Psns_UR_3_NonFamHhold_pc,0.0055,60.0
+Glen Waverley,Num_Psns_UR_3_NonFamHhold_pc,0.0056,61.0
+Wendouree,Num_Psns_UR_3_NonFamHhold_pc,0.0059,62.0
+Clarinda,Num_Psns_UR_3_NonFamHhold_pc,0.0062,63.0
+Ivanhoe,Num_Psns_UR_3_NonFamHhold_pc,0.0063,64.0
+Mulgrave,Num_Psns_UR_3_NonFamHhold_pc,0.0074,65.0
+Broadmeadows,Num_Psns_UR_3_NonFamHhold_pc,0.008,66.0
+Bundoora,Num_Psns_UR_3_NonFamHhold_pc,0.0086,67.0
+St Albans,Num_Psns_UR_3_NonFamHhold_pc,0.0086,68.0
+Geelong,Num_Psns_UR_3_NonFamHhold_pc,0.0089,69.0
+South Barwon,Num_Psns_UR_3_NonFamHhold_pc,0.0096,70.0
+Essendon,Num_Psns_UR_3_NonFamHhold_pc,0.0101,71.0
+Hawthorn,Num_Psns_UR_3_NonFamHhold_pc,0.0101,72.0
+Malvern,Num_Psns_UR_3_NonFamHhold_pc,0.0105,73.0
+Ashwood,Num_Psns_UR_3_NonFamHhold_pc,0.0108,74.0
+Box Hill,Num_Psns_UR_3_NonFamHhold_pc,0.0109,75.0
+Laverton,Num_Psns_UR_3_NonFamHhold_pc,0.011,76.0
+Caulfield,Num_Psns_UR_3_NonFamHhold_pc,0.0119,77.0
+Albert Park,Num_Psns_UR_3_NonFamHhold_pc,0.0125,78.0
+Dandenong,Num_Psns_UR_3_NonFamHhold_pc,0.0132,79.0
+Preston,Num_Psns_UR_3_NonFamHhold_pc,0.0134,80.0
+Footscray,Num_Psns_UR_3_NonFamHhold_pc,0.0178,81.0
+Pascoe Vale,Num_Psns_UR_3_NonFamHhold_pc,0.0182,82.0
+Prahran,Num_Psns_UR_3_NonFamHhold_pc,0.0187,83.0
+Oakleigh,Num_Psns_UR_3_NonFamHhold_pc,0.0188,84.0
+Northcote,Num_Psns_UR_3_NonFamHhold_pc,0.0238,85.0
+Melbourne,Num_Psns_UR_3_NonFamHhold_pc,0.0284,86.0
+Richmond,Num_Psns_UR_3_NonFamHhold_pc,0.0358,87.0
+Brunswick,Num_Psns_UR_3_NonFamHhold_pc,0.0429,88.0
+Ovens Valley,Num_Psns_UR_3_Total,2924.0,1.0
+Gippsland East,Num_Psns_UR_3_Total,2939.0,2.0
+Nepean,Num_Psns_UR_3_Total,3034.0,3.0
+Gippsland South,Num_Psns_UR_3_Total,3208.0,4.0
+Murray Plains,Num_Psns_UR_3_Total,3236.0,5.0
+Ripon,Num_Psns_UR_3_Total,3308.0,6.0
+Euroa,Num_Psns_UR_3_Total,3316.0,7.0
+Eildon,Num_Psns_UR_3_Total,3367.0,8.0
+Mornington,Num_Psns_UR_3_Total,3383.0,9.0
+Bass,Num_Psns_UR_3_Total,3399.0,10.0
+Lowan,Num_Psns_UR_3_Total,3402.0,11.0
+Macedon,Num_Psns_UR_3_Total,3403.0,12.0
+Prahran,Num_Psns_UR_3_Total,3478.0,13.0
+Malvern,Num_Psns_UR_3_Total,3491.0,14.0
+Polwarth,Num_Psns_UR_3_Total,3498.0,15.0
+Mildura,Num_Psns_UR_3_Total,3526.0,16.0
+Bellarine,Num_Psns_UR_3_Total,3565.0,17.0
+Bendigo West,Num_Psns_UR_3_Total,3584.0,18.0
+Narracan,Num_Psns_UR_3_Total,3586.0,19.0
+Benambra,Num_Psns_UR_3_Total,3587.0,20.0
+Sandringham,Num_Psns_UR_3_Total,3613.0,21.0
+South-West Coast,Num_Psns_UR_3_Total,3699.0,22.0
+Brighton,Num_Psns_UR_3_Total,3764.0,23.0
+Hawthorn,Num_Psns_UR_3_Total,3776.0,24.0
+Morwell,Num_Psns_UR_3_Total,3841.0,25.0
+Hastings,Num_Psns_UR_3_Total,3868.0,26.0
+Shepparton,Num_Psns_UR_3_Total,3880.0,27.0
+Wendouree,Num_Psns_UR_3_Total,3925.0,28.0
+Albert Park,Num_Psns_UR_3_Total,3975.0,29.0
+Bendigo East,Num_Psns_UR_3_Total,3999.0,30.0
+Monbulk,Num_Psns_UR_3_Total,4028.0,31.0
+Caulfield,Num_Psns_UR_3_Total,4048.0,32.0
+Williamstown,Num_Psns_UR_3_Total,4102.0,33.0
+Geelong,Num_Psns_UR_3_Total,4104.0,34.0
+Eltham,Num_Psns_UR_3_Total,4109.0,35.0
+Ivanhoe,Num_Psns_UR_3_Total,4129.0,36.0
+Richmond,Num_Psns_UR_3_Total,4137.0,37.0
+Evelyn,Num_Psns_UR_3_Total,4141.0,38.0
+Eureka,Num_Psns_UR_3_Total,4152.0,39.0
+Sunbury,Num_Psns_UR_3_Total,4166.0,40.0
+Essendon,Num_Psns_UR_3_Total,4172.0,41.0
+Frankston,Num_Psns_UR_3_Total,4177.0,42.0
+Greenvale,Num_Psns_UR_3_Total,4241.0,43.0
+Lara,Num_Psns_UR_3_Total,4331.0,44.0
+South Barwon,Num_Psns_UR_3_Total,4334.0,45.0
+St Albans,Num_Psns_UR_3_Total,4419.0,46.0
+Mill Park,Num_Psns_UR_3_Total,4445.0,47.0
+Northcote,Num_Psns_UR_3_Total,4445.0,48.0
+Bundoora,Num_Psns_UR_3_Total,4461.0,49.0
+Niddrie,Num_Psns_UR_3_Total,4466.0,50.0
+Mordialloc,Num_Psns_UR_3_Total,4499.0,51.0
+Yan Yean,Num_Psns_UR_3_Total,4505.0,52.0
+Warrandyte,Num_Psns_UR_3_Total,4520.0,53.0
+Broadmeadows,Num_Psns_UR_3_Total,4544.0,54.0
+Brunswick,Num_Psns_UR_3_Total,4547.0,55.0
+Kew,Num_Psns_UR_3_Total,4550.0,56.0
+Pascoe Vale,Num_Psns_UR_3_Total,4629.0,57.0
+Croydon,Num_Psns_UR_3_Total,4689.0,58.0
+Pakenham,Num_Psns_UR_3_Total,4708.0,59.0
+Preston,Num_Psns_UR_3_Total,4769.0,60.0
+Rowville,Num_Psns_UR_3_Total,4775.0,61.0
+Sydenham,Num_Psns_UR_3_Total,4779.0,62.0
+Footscray,Num_Psns_UR_3_Total,4855.0,63.0
+Clarinda,Num_Psns_UR_3_Total,4864.0,64.0
+Narre Warren North,Num_Psns_UR_3_Total,4869.0,65.0
+Berwick,Num_Psns_UR_3_Total,4885.0,66.0
+Thomastown,Num_Psns_UR_3_Total,4890.0,67.0
+Mulgrave,Num_Psns_UR_3_Total,4908.0,68.0
+Bayswater,Num_Psns_UR_3_Total,4927.0,69.0
+Carrum,Num_Psns_UR_3_Total,4932.0,70.0
+Melton,Num_Psns_UR_3_Total,4941.0,71.0
+Bulleen,Num_Psns_UR_3_Total,5058.0,72.0
+Kororoit,Num_Psns_UR_3_Total,5088.0,73.0
+Bentleigh,Num_Psns_UR_3_Total,5109.0,74.0
+Ringwood,Num_Psns_UR_3_Total,5190.0,75.0
+Cranbourne,Num_Psns_UR_3_Total,5218.0,76.0
+Narre Warren South,Num_Psns_UR_3_Total,5257.0,77.0
+Glen Waverley,Num_Psns_UR_3_Total,5273.0,78.0
+Ashwood,Num_Psns_UR_3_Total,5319.0,79.0
+Dandenong,Num_Psns_UR_3_Total,5453.0,80.0
+Box Hill,Num_Psns_UR_3_Total,5455.0,81.0
+Werribee,Num_Psns_UR_3_Total,5711.0,82.0
+Kalkallo,Num_Psns_UR_3_Total,5848.0,83.0
+Tarneit,Num_Psns_UR_3_Total,5858.0,84.0
+Oakleigh,Num_Psns_UR_3_Total,5935.0,85.0
+Melbourne,Num_Psns_UR_3_Total,5947.0,86.0
+Laverton,Num_Psns_UR_3_Total,6133.0,87.0
+Point Cook,Num_Psns_UR_3_Total,6482.0,88.0
+Prahran,Num_Psns_UR_3_Total_pc,0.0931,1.0
+Melbourne,Num_Psns_UR_3_Total_pc,0.1086,2.0
+Albert Park,Num_Psns_UR_3_Total_pc,0.1121,3.0
+Gippsland East,Num_Psns_UR_3_Total_pc,0.1151,4.0
+Ovens Valley,Num_Psns_UR_3_Total_pc,0.1176,5.0
+Nepean,Num_Psns_UR_3_Total_pc,0.1209,6.0
+Lowan,Num_Psns_UR_3_Total_pc,0.1218,7.0
+Ripon,Num_Psns_UR_3_Total_pc,0.1246,8.0
+Gippsland South,Num_Psns_UR_3_Total_pc,0.1255,9.0
+Euroa,Num_Psns_UR_3_Total_pc,0.1272,10.0
+Murray Plains,Num_Psns_UR_3_Total_pc,0.1289,11.0
+Bellarine,Num_Psns_UR_3_Total_pc,0.1321,12.0
+Malvern,Num_Psns_UR_3_Total_pc,0.1328,13.0
+Richmond,Num_Psns_UR_3_Total_pc,0.1331,14.0
+Polwarth,Num_Psns_UR_3_Total_pc,0.1332,15.0
+Hawthorn,Num_Psns_UR_3_Total_pc,0.134,16.0
+Morwell,Num_Psns_UR_3_Total_pc,0.1345,17.0
+South-West Coast,Num_Psns_UR_3_Total_pc,0.1355,18.0
+Mildura,Num_Psns_UR_3_Total_pc,0.1358,19.0
+Bass,Num_Psns_UR_3_Total_pc,0.1359,20.0
+Eildon,Num_Psns_UR_3_Total_pc,0.1374,21.0
+Caulfield,Num_Psns_UR_3_Total_pc,0.1381,22.0
+Mornington,Num_Psns_UR_3_Total_pc,0.1402,23.0
+Bendigo West,Num_Psns_UR_3_Total_pc,0.1409,24.0
+Geelong,Num_Psns_UR_3_Total_pc,0.1411,25.0
+Benambra,Num_Psns_UR_3_Total_pc,0.1412,26.0
+Shepparton,Num_Psns_UR_3_Total_pc,0.142,27.0
+Wendouree,Num_Psns_UR_3_Total_pc,0.142,28.0
+Brighton,Num_Psns_UR_3_Total_pc,0.144,29.0
+Narracan,Num_Psns_UR_3_Total_pc,0.1441,30.0
+Sandringham,Num_Psns_UR_3_Total_pc,0.1453,31.0
+Macedon,Num_Psns_UR_3_Total_pc,0.1458,32.0
+Essendon,Num_Psns_UR_3_Total_pc,0.1459,33.0
+Bendigo East,Num_Psns_UR_3_Total_pc,0.1482,34.0
+Eureka,Num_Psns_UR_3_Total_pc,0.1501,35.0
+Brunswick,Num_Psns_UR_3_Total_pc,0.1506,36.0
+Frankston,Num_Psns_UR_3_Total_pc,0.1536,37.0
+Hastings,Num_Psns_UR_3_Total_pc,0.1582,38.0
+Northcote,Num_Psns_UR_3_Total_pc,0.16,39.0
+Williamstown,Num_Psns_UR_3_Total_pc,0.1623,40.0
+Preston,Num_Psns_UR_3_Total_pc,0.1625,41.0
+Ivanhoe,Num_Psns_UR_3_Total_pc,0.1631,42.0
+Croydon,Num_Psns_UR_3_Total_pc,0.1654,43.0
+Lara,Num_Psns_UR_3_Total_pc,0.1656,44.0
+Broadmeadows,Num_Psns_UR_3_Total_pc,0.1664,45.0
+South Barwon,Num_Psns_UR_3_Total_pc,0.1665,46.0
+Footscray,Num_Psns_UR_3_Total_pc,0.1666,47.0
+Box Hill,Num_Psns_UR_3_Total_pc,0.169,48.0
+Ringwood,Num_Psns_UR_3_Total_pc,0.1709,49.0
+Kew,Num_Psns_UR_3_Total_pc,0.1714,50.0
+Evelyn,Num_Psns_UR_3_Total_pc,0.1715,51.0
+Pascoe Vale,Num_Psns_UR_3_Total_pc,0.172,52.0
+Mordialloc,Num_Psns_UR_3_Total_pc,0.1725,53.0
+Monbulk,Num_Psns_UR_3_Total_pc,0.1728,54.0
+Oakleigh,Num_Psns_UR_3_Total_pc,0.1735,55.0
+Bundoora,Num_Psns_UR_3_Total_pc,0.1748,56.0
+Niddrie,Num_Psns_UR_3_Total_pc,0.1753,57.0
+Eltham,Num_Psns_UR_3_Total_pc,0.1777,58.0
+Sunbury,Num_Psns_UR_3_Total_pc,0.1785,59.0
+Bayswater,Num_Psns_UR_3_Total_pc,0.1798,60.0
+Carrum,Num_Psns_UR_3_Total_pc,0.1798,61.0
+Bentleigh,Num_Psns_UR_3_Total_pc,0.1801,62.0
+Warrandyte,Num_Psns_UR_3_Total_pc,0.1801,63.0
+Pakenham,Num_Psns_UR_3_Total_pc,0.1822,64.0
+Dandenong,Num_Psns_UR_3_Total_pc,0.1834,65.0
+St Albans,Num_Psns_UR_3_Total_pc,0.1843,66.0
+Bulleen,Num_Psns_UR_3_Total_pc,0.1847,67.0
+Ashwood,Num_Psns_UR_3_Total_pc,0.1848,68.0
+Mulgrave,Num_Psns_UR_3_Total_pc,0.1851,69.0
+Melton,Num_Psns_UR_3_Total_pc,0.1853,70.0
+Glen Waverley,Num_Psns_UR_3_Total_pc,0.1863,71.0
+Thomastown,Num_Psns_UR_3_Total_pc,0.1897,72.0
+Narre Warren North,Num_Psns_UR_3_Total_pc,0.1903,73.0
+Greenvale,Num_Psns_UR_3_Total_pc,0.1912,74.0
+Cranbourne,Num_Psns_UR_3_Total_pc,0.1914,75.0
+Clarinda,Num_Psns_UR_3_Total_pc,0.1917,76.0
+Berwick,Num_Psns_UR_3_Total_pc,0.1922,77.0
+Yan Yean,Num_Psns_UR_3_Total_pc,0.193,78.0
+Mill Park,Num_Psns_UR_3_Total_pc,0.1956,79.0
+Rowville,Num_Psns_UR_3_Total_pc,0.1958,80.0
+Kororoit,Num_Psns_UR_3_Total_pc,0.1974,81.0
+Sydenham,Num_Psns_UR_3_Total_pc,0.1999,82.0
+Narre Warren South,Num_Psns_UR_3_Total_pc,0.2005,83.0
+Werribee,Num_Psns_UR_3_Total_pc,0.2026,84.0
+Laverton,Num_Psns_UR_3_Total_pc,0.2062,85.0
+Kalkallo,Num_Psns_UR_3_Total_pc,0.2081,86.0
+Tarneit,Num_Psns_UR_3_Total_pc,0.2091,87.0
+Point Cook,Num_Psns_UR_3_Total_pc,0.2167,88.0
+Prahran,Num_Psns_UR_4_FamHhold,1544.0,1.0
+Richmond,Num_Psns_UR_4_FamHhold,2095.0,2.0
+Melbourne,Num_Psns_UR_4_FamHhold,2274.0,3.0
+Albert Park,Num_Psns_UR_4_FamHhold,2496.0,4.0
+Gippsland East,Num_Psns_UR_4_FamHhold,2608.0,5.0
+Nepean,Num_Psns_UR_4_FamHhold,2612.0,6.0
+Ovens Valley,Num_Psns_UR_4_FamHhold,2743.0,7.0
+Gippsland South,Num_Psns_UR_4_FamHhold,2786.0,8.0
+Lowan,Num_Psns_UR_4_FamHhold,2794.0,9.0
+Murray Plains,Num_Psns_UR_4_FamHhold,2805.0,10.0
+Brunswick,Num_Psns_UR_4_FamHhold,2818.0,11.0
+Euroa,Num_Psns_UR_4_FamHhold,2826.0,12.0
+Bendigo West,Num_Psns_UR_4_FamHhold,2972.0,13.0
+Mildura,Num_Psns_UR_4_FamHhold,3080.0,14.0
+Ripon,Num_Psns_UR_4_FamHhold,3220.0,15.0
+Bass,Num_Psns_UR_4_FamHhold,3267.0,16.0
+Wendouree,Num_Psns_UR_4_FamHhold,3290.0,17.0
+South-West Coast,Num_Psns_UR_4_FamHhold,3342.0,18.0
+Eildon,Num_Psns_UR_4_FamHhold,3375.0,19.0
+Benambra,Num_Psns_UR_4_FamHhold,3387.0,20.0
+Morwell,Num_Psns_UR_4_FamHhold,3402.0,21.0
+Caulfield,Num_Psns_UR_4_FamHhold,3482.0,22.0
+Lara,Num_Psns_UR_4_FamHhold,3495.0,23.0
+Malvern,Num_Psns_UR_4_FamHhold,3503.0,24.0
+Frankston,Num_Psns_UR_4_FamHhold,3521.0,25.0
+Narracan,Num_Psns_UR_4_FamHhold,3541.0,26.0
+Shepparton,Num_Psns_UR_4_FamHhold,3620.0,27.0
+Geelong,Num_Psns_UR_4_FamHhold,3626.0,28.0
+Polwarth,Num_Psns_UR_4_FamHhold,3663.0,29.0
+Bellarine,Num_Psns_UR_4_FamHhold,3733.0,30.0
+Bendigo East,Num_Psns_UR_4_FamHhold,3794.0,31.0
+Northcote,Num_Psns_UR_4_FamHhold,3837.0,32.0
+Macedon,Num_Psns_UR_4_FamHhold,3883.0,33.0
+Sunbury,Num_Psns_UR_4_FamHhold,3897.0,34.0
+Preston,Num_Psns_UR_4_FamHhold,3915.0,35.0
+Footscray,Num_Psns_UR_4_FamHhold,3940.0,36.0
+Hastings,Num_Psns_UR_4_FamHhold,3958.0,37.0
+Essendon,Num_Psns_UR_4_FamHhold,3980.0,38.0
+St Albans,Num_Psns_UR_4_FamHhold,4022.0,39.0
+Broadmeadows,Num_Psns_UR_4_FamHhold,4078.0,40.0
+Brighton,Num_Psns_UR_4_FamHhold,4124.0,41.0
+Mornington,Num_Psns_UR_4_FamHhold,4142.0,42.0
+Eureka,Num_Psns_UR_4_FamHhold,4155.0,43.0
+Hawthorn,Num_Psns_UR_4_FamHhold,4161.0,44.0
+Sandringham,Num_Psns_UR_4_FamHhold,4176.0,45.0
+Ivanhoe,Num_Psns_UR_4_FamHhold,4200.0,46.0
+Williamstown,Num_Psns_UR_4_FamHhold,4279.0,47.0
+Dandenong,Num_Psns_UR_4_FamHhold,4308.0,48.0
+Pascoe Vale,Num_Psns_UR_4_FamHhold,4312.0,49.0
+Monbulk,Num_Psns_UR_4_FamHhold,4430.0,50.0
+Mulgrave,Num_Psns_UR_4_FamHhold,4438.0,51.0
+Bayswater,Num_Psns_UR_4_FamHhold,4445.0,52.0
+South Barwon,Num_Psns_UR_4_FamHhold,4495.0,53.0
+Bundoora,Num_Psns_UR_4_FamHhold,4553.0,54.0
+Croydon,Num_Psns_UR_4_FamHhold,4582.0,55.0
+Clarinda,Num_Psns_UR_4_FamHhold,4612.0,56.0
+Evelyn,Num_Psns_UR_4_FamHhold,4697.0,57.0
+Niddrie,Num_Psns_UR_4_FamHhold,4745.0,58.0
+Bulleen,Num_Psns_UR_4_FamHhold,4752.0,59.0
+Melton,Num_Psns_UR_4_FamHhold,4772.0,60.0
+Carrum,Num_Psns_UR_4_FamHhold,4844.0,61.0
+Thomastown,Num_Psns_UR_4_FamHhold,4867.0,62.0
+Mill Park,Num_Psns_UR_4_FamHhold,4870.0,63.0
+Narre Warren North,Num_Psns_UR_4_FamHhold,4872.0,64.0
+Oakleigh,Num_Psns_UR_4_FamHhold,4898.0,65.0
+Greenvale,Num_Psns_UR_4_FamHhold,4914.0,66.0
+Pakenham,Num_Psns_UR_4_FamHhold,4931.0,67.0
+Eltham,Num_Psns_UR_4_FamHhold,5022.0,68.0
+Ringwood,Num_Psns_UR_4_FamHhold,5127.0,69.0
+Kew,Num_Psns_UR_4_FamHhold,5149.0,70.0
+Box Hill,Num_Psns_UR_4_FamHhold,5189.0,71.0
+Werribee,Num_Psns_UR_4_FamHhold,5265.0,72.0
+Mordialloc,Num_Psns_UR_4_FamHhold,5364.0,73.0
+Rowville,Num_Psns_UR_4_FamHhold,5390.0,74.0
+Laverton,Num_Psns_UR_4_FamHhold,5520.0,75.0
+Yan Yean,Num_Psns_UR_4_FamHhold,5521.0,76.0
+Warrandyte,Num_Psns_UR_4_FamHhold,5526.0,77.0
+Bentleigh,Num_Psns_UR_4_FamHhold,5795.0,78.0
+Ashwood,Num_Psns_UR_4_FamHhold,5822.0,79.0
+Cranbourne,Num_Psns_UR_4_FamHhold,5884.0,80.0
+Kororoit,Num_Psns_UR_4_FamHhold,5945.0,81.0
+Glen Waverley,Num_Psns_UR_4_FamHhold,6080.0,82.0
+Narre Warren South,Num_Psns_UR_4_FamHhold,6097.0,83.0
+Sydenham,Num_Psns_UR_4_FamHhold,6112.0,84.0
+Tarneit,Num_Psns_UR_4_FamHhold,6380.0,85.0
+Berwick,Num_Psns_UR_4_FamHhold,6451.0,86.0
+Kalkallo,Num_Psns_UR_4_FamHhold,6799.0,87.0
+Point Cook,Num_Psns_UR_4_FamHhold,7274.0,88.0
+Prahran,Num_Psns_UR_4_FamHhold_pc,0.0413,1.0
+Melbourne,Num_Psns_UR_4_FamHhold_pc,0.0415,2.0
+Richmond,Num_Psns_UR_4_FamHhold_pc,0.0674,3.0
+Albert Park,Num_Psns_UR_4_FamHhold_pc,0.0704,4.0
+Brunswick,Num_Psns_UR_4_FamHhold_pc,0.0933,5.0
+Lowan,Num_Psns_UR_4_FamHhold_pc,0.1,6.0
+Gippsland East,Num_Psns_UR_4_FamHhold_pc,0.1022,7.0
+Nepean,Num_Psns_UR_4_FamHhold_pc,0.1041,8.0
+Euroa,Num_Psns_UR_4_FamHhold_pc,0.1084,9.0
+Gippsland South,Num_Psns_UR_4_FamHhold_pc,0.109,10.0
+Ovens Valley,Num_Psns_UR_4_FamHhold_pc,0.1104,11.0
+Murray Plains,Num_Psns_UR_4_FamHhold_pc,0.1117,12.0
+Bendigo West,Num_Psns_UR_4_FamHhold_pc,0.1169,13.0
+Mildura,Num_Psns_UR_4_FamHhold_pc,0.1186,14.0
+Caulfield,Num_Psns_UR_4_FamHhold_pc,0.1188,15.0
+Wendouree,Num_Psns_UR_4_FamHhold_pc,0.119,16.0
+Morwell,Num_Psns_UR_4_FamHhold_pc,0.1191,17.0
+Ripon,Num_Psns_UR_4_FamHhold_pc,0.1212,18.0
+South-West Coast,Num_Psns_UR_4_FamHhold_pc,0.1224,19.0
+Geelong,Num_Psns_UR_4_FamHhold_pc,0.1247,20.0
+Frankston,Num_Psns_UR_4_FamHhold_pc,0.1295,21.0
+Bass,Num_Psns_UR_4_FamHhold_pc,0.1306,22.0
+Shepparton,Num_Psns_UR_4_FamHhold_pc,0.1325,23.0
+Malvern,Num_Psns_UR_4_FamHhold_pc,0.1332,24.0
+Benambra,Num_Psns_UR_4_FamHhold_pc,0.1333,25.0
+Preston,Num_Psns_UR_4_FamHhold_pc,0.1334,26.0
+Lara,Num_Psns_UR_4_FamHhold_pc,0.1336,27.0
+Footscray,Num_Psns_UR_4_FamHhold_pc,0.1352,28.0
+Eildon,Num_Psns_UR_4_FamHhold_pc,0.1377,29.0
+Northcote,Num_Psns_UR_4_FamHhold_pc,0.1381,30.0
+Bellarine,Num_Psns_UR_4_FamHhold_pc,0.1384,31.0
+Essendon,Num_Psns_UR_4_FamHhold_pc,0.1392,32.0
+Polwarth,Num_Psns_UR_4_FamHhold_pc,0.1394,33.0
+Bendigo East,Num_Psns_UR_4_FamHhold_pc,0.1406,34.0
+Narracan,Num_Psns_UR_4_FamHhold_pc,0.1422,35.0
+Oakleigh,Num_Psns_UR_4_FamHhold_pc,0.1432,36.0
+Dandenong,Num_Psns_UR_4_FamHhold_pc,0.1449,37.0
+Hawthorn,Num_Psns_UR_4_FamHhold_pc,0.1477,38.0
+Broadmeadows,Num_Psns_UR_4_FamHhold_pc,0.1493,39.0
+Eureka,Num_Psns_UR_4_FamHhold_pc,0.1502,40.0
+Brighton,Num_Psns_UR_4_FamHhold_pc,0.1578,41.0
+Pascoe Vale,Num_Psns_UR_4_FamHhold_pc,0.1602,42.0
+Box Hill,Num_Psns_UR_4_FamHhold_pc,0.1608,43.0
+Croydon,Num_Psns_UR_4_FamHhold_pc,0.1616,44.0
+Hastings,Num_Psns_UR_4_FamHhold_pc,0.1619,45.0
+Bayswater,Num_Psns_UR_4_FamHhold_pc,0.1622,46.0
+Ivanhoe,Num_Psns_UR_4_FamHhold_pc,0.1659,47.0
+Macedon,Num_Psns_UR_4_FamHhold_pc,0.1664,48.0
+Sunbury,Num_Psns_UR_4_FamHhold_pc,0.167,49.0
+Mulgrave,Num_Psns_UR_4_FamHhold_pc,0.1674,50.0
+St Albans,Num_Psns_UR_4_FamHhold_pc,0.1678,51.0
+Sandringham,Num_Psns_UR_4_FamHhold_pc,0.168,52.0
+Ringwood,Num_Psns_UR_4_FamHhold_pc,0.1688,53.0
+Williamstown,Num_Psns_UR_4_FamHhold_pc,0.1693,54.0
+Mornington,Num_Psns_UR_4_FamHhold_pc,0.1716,55.0
+South Barwon,Num_Psns_UR_4_FamHhold_pc,0.1727,56.0
+Bulleen,Num_Psns_UR_4_FamHhold_pc,0.1736,57.0
+Carrum,Num_Psns_UR_4_FamHhold_pc,0.1766,58.0
+Bundoora,Num_Psns_UR_4_FamHhold_pc,0.1784,59.0
+Melton,Num_Psns_UR_4_FamHhold_pc,0.179,60.0
+Clarinda,Num_Psns_UR_4_FamHhold_pc,0.1818,61.0
+Laverton,Num_Psns_UR_4_FamHhold_pc,0.1856,62.0
+Niddrie,Num_Psns_UR_4_FamHhold_pc,0.1862,63.0
+Werribee,Num_Psns_UR_4_FamHhold_pc,0.1868,64.0
+Thomastown,Num_Psns_UR_4_FamHhold_pc,0.1888,65.0
+Monbulk,Num_Psns_UR_4_FamHhold_pc,0.1901,66.0
+Narre Warren North,Num_Psns_UR_4_FamHhold_pc,0.1904,67.0
+Pakenham,Num_Psns_UR_4_FamHhold_pc,0.1908,68.0
+Kew,Num_Psns_UR_4_FamHhold_pc,0.194,69.0
+Evelyn,Num_Psns_UR_4_FamHhold_pc,0.1946,70.0
+Ashwood,Num_Psns_UR_4_FamHhold_pc,0.2023,71.0
+Bentleigh,Num_Psns_UR_4_FamHhold_pc,0.2043,72.0
+Mordialloc,Num_Psns_UR_4_FamHhold_pc,0.2056,73.0
+Mill Park,Num_Psns_UR_4_FamHhold_pc,0.2143,74.0
+Glen Waverley,Num_Psns_UR_4_FamHhold_pc,0.2148,75.0
+Cranbourne,Num_Psns_UR_4_FamHhold_pc,0.2158,76.0
+Eltham,Num_Psns_UR_4_FamHhold_pc,0.2172,77.0
+Warrandyte,Num_Psns_UR_4_FamHhold_pc,0.2202,78.0
+Rowville,Num_Psns_UR_4_FamHhold_pc,0.221,79.0
+Greenvale,Num_Psns_UR_4_FamHhold_pc,0.2215,80.0
+Tarneit,Num_Psns_UR_4_FamHhold_pc,0.2277,81.0
+Kororoit,Num_Psns_UR_4_FamHhold_pc,0.2306,82.0
+Narre Warren South,Num_Psns_UR_4_FamHhold_pc,0.2326,83.0
+Yan Yean,Num_Psns_UR_4_FamHhold_pc,0.2366,84.0
+Kalkallo,Num_Psns_UR_4_FamHhold_pc,0.2419,85.0
+Point Cook,Num_Psns_UR_4_FamHhold_pc,0.2431,86.0
+Berwick,Num_Psns_UR_4_FamHhold_pc,0.2539,87.0
+Sydenham,Num_Psns_UR_4_FamHhold_pc,0.2556,88.0
+Carrum,Num_Psns_UR_4_NonFamHhold,0.0,1.0
+Eltham,Num_Psns_UR_4_NonFamHhold,0.0,2.0
+Euroa,Num_Psns_UR_4_NonFamHhold,0.0,3.0
+Gippsland South,Num_Psns_UR_4_NonFamHhold,0.0,4.0
+Hastings,Num_Psns_UR_4_NonFamHhold,0.0,5.0
+Macedon,Num_Psns_UR_4_NonFamHhold,0.0,6.0
+Melton,Num_Psns_UR_4_NonFamHhold,0.0,7.0
+Monbulk,Num_Psns_UR_4_NonFamHhold,0.0,8.0
+Mornington,Num_Psns_UR_4_NonFamHhold,0.0,9.0
+Morwell,Num_Psns_UR_4_NonFamHhold,0.0,10.0
+Yan Yean,Num_Psns_UR_4_NonFamHhold,0.0,11.0
+Bass,Num_Psns_UR_4_NonFamHhold,3.0,12.0
+Benambra,Num_Psns_UR_4_NonFamHhold,3.0,13.0
+Bendigo West,Num_Psns_UR_4_NonFamHhold,3.0,14.0
+Berwick,Num_Psns_UR_4_NonFamHhold,3.0,15.0
+Croydon,Num_Psns_UR_4_NonFamHhold,3.0,16.0
+Evelyn,Num_Psns_UR_4_NonFamHhold,3.0,17.0
+Mordialloc,Num_Psns_UR_4_NonFamHhold,3.0,18.0
+Narracan,Num_Psns_UR_4_NonFamHhold,3.0,19.0
+Niddrie,Num_Psns_UR_4_NonFamHhold,3.0,20.0
+Bellarine,Num_Psns_UR_4_NonFamHhold,4.0,21.0
+Lowan,Num_Psns_UR_4_NonFamHhold,4.0,22.0
+Nepean,Num_Psns_UR_4_NonFamHhold,4.0,23.0
+Rowville,Num_Psns_UR_4_NonFamHhold,4.0,24.0
+Sunbury,Num_Psns_UR_4_NonFamHhold,5.0,25.0
+Murray Plains,Num_Psns_UR_4_NonFamHhold,6.0,26.0
+Ripon,Num_Psns_UR_4_NonFamHhold,6.0,27.0
+Eildon,Num_Psns_UR_4_NonFamHhold,7.0,28.0
+Ovens Valley,Num_Psns_UR_4_NonFamHhold,7.0,29.0
+Sydenham,Num_Psns_UR_4_NonFamHhold,7.0,30.0
+Warrandyte,Num_Psns_UR_4_NonFamHhold,7.0,31.0
+Gippsland East,Num_Psns_UR_4_NonFamHhold,9.0,32.0
+Sandringham,Num_Psns_UR_4_NonFamHhold,9.0,33.0
+Frankston,Num_Psns_UR_4_NonFamHhold,11.0,34.0
+Greenvale,Num_Psns_UR_4_NonFamHhold,11.0,35.0
+Shepparton,Num_Psns_UR_4_NonFamHhold,12.0,36.0
+Mill Park,Num_Psns_UR_4_NonFamHhold,14.0,37.0
+Pakenham,Num_Psns_UR_4_NonFamHhold,14.0,38.0
+Cranbourne,Num_Psns_UR_4_NonFamHhold,15.0,39.0
+Williamstown,Num_Psns_UR_4_NonFamHhold,15.0,40.0
+Narre Warren South,Num_Psns_UR_4_NonFamHhold,17.0,41.0
+Bayswater,Num_Psns_UR_4_NonFamHhold,20.0,42.0
+Brighton,Num_Psns_UR_4_NonFamHhold,21.0,43.0
+Bendigo East,Num_Psns_UR_4_NonFamHhold,23.0,44.0
+South-West Coast,Num_Psns_UR_4_NonFamHhold,23.0,45.0
+Bentleigh,Num_Psns_UR_4_NonFamHhold,26.0,46.0
+Kalkallo,Num_Psns_UR_4_NonFamHhold,26.0,47.0
+Werribee,Num_Psns_UR_4_NonFamHhold,27.0,48.0
+Eureka,Num_Psns_UR_4_NonFamHhold,28.0,49.0
+Wendouree,Num_Psns_UR_4_NonFamHhold,28.0,50.0
+Lara,Num_Psns_UR_4_NonFamHhold,29.0,51.0
+Bulleen,Num_Psns_UR_4_NonFamHhold,30.0,52.0
+Point Cook,Num_Psns_UR_4_NonFamHhold,30.0,53.0
+Kororoit,Num_Psns_UR_4_NonFamHhold,31.0,54.0
+Narre Warren North,Num_Psns_UR_4_NonFamHhold,32.0,55.0
+Mildura,Num_Psns_UR_4_NonFamHhold,36.0,56.0
+Polwarth,Num_Psns_UR_4_NonFamHhold,38.0,57.0
+Thomastown,Num_Psns_UR_4_NonFamHhold,38.0,58.0
+Ringwood,Num_Psns_UR_4_NonFamHhold,42.0,59.0
+Kew,Num_Psns_UR_4_NonFamHhold,48.0,60.0
+Ivanhoe,Num_Psns_UR_4_NonFamHhold,59.0,61.0
+Glen Waverley,Num_Psns_UR_4_NonFamHhold,60.0,62.0
+Hawthorn,Num_Psns_UR_4_NonFamHhold,61.0,63.0
+Malvern,Num_Psns_UR_4_NonFamHhold,65.0,64.0
+Tarneit,Num_Psns_UR_4_NonFamHhold,66.0,65.0
+Essendon,Num_Psns_UR_4_NonFamHhold,82.0,66.0
+Geelong,Num_Psns_UR_4_NonFamHhold,89.0,67.0
+Clarinda,Num_Psns_UR_4_NonFamHhold,91.0,68.0
+St Albans,Num_Psns_UR_4_NonFamHhold,94.0,69.0
+Albert Park,Num_Psns_UR_4_NonFamHhold,99.0,70.0
+Caulfield,Num_Psns_UR_4_NonFamHhold,107.0,71.0
+Mulgrave,Num_Psns_UR_4_NonFamHhold,112.0,72.0
+Prahran,Num_Psns_UR_4_NonFamHhold,112.0,73.0
+Bundoora,Num_Psns_UR_4_NonFamHhold,113.0,74.0
+Footscray,Num_Psns_UR_4_NonFamHhold,121.0,75.0
+Broadmeadows,Num_Psns_UR_4_NonFamHhold,130.0,76.0
+South Barwon,Num_Psns_UR_4_NonFamHhold,144.0,77.0
+Preston,Num_Psns_UR_4_NonFamHhold,151.0,78.0
+Dandenong,Num_Psns_UR_4_NonFamHhold,161.0,79.0
+Pascoe Vale,Num_Psns_UR_4_NonFamHhold,173.0,80.0
+Ashwood,Num_Psns_UR_4_NonFamHhold,192.0,81.0
+Box Hill,Num_Psns_UR_4_NonFamHhold,192.0,82.0
+Laverton,Num_Psns_UR_4_NonFamHhold,210.0,83.0
+Northcote,Num_Psns_UR_4_NonFamHhold,215.0,84.0
+Richmond,Num_Psns_UR_4_NonFamHhold,344.0,85.0
+Oakleigh,Num_Psns_UR_4_NonFamHhold,369.0,86.0
+Melbourne,Num_Psns_UR_4_NonFamHhold,564.0,87.0
+Brunswick,Num_Psns_UR_4_NonFamHhold,596.0,88.0
+Carrum,Num_Psns_UR_4_NonFamHhold_pc,0.0,1.0
+Eltham,Num_Psns_UR_4_NonFamHhold_pc,0.0,2.0
+Euroa,Num_Psns_UR_4_NonFamHhold_pc,0.0,3.0
+Gippsland South,Num_Psns_UR_4_NonFamHhold_pc,0.0,4.0
+Hastings,Num_Psns_UR_4_NonFamHhold_pc,0.0,5.0
+Macedon,Num_Psns_UR_4_NonFamHhold_pc,0.0,6.0
+Melton,Num_Psns_UR_4_NonFamHhold_pc,0.0,7.0
+Monbulk,Num_Psns_UR_4_NonFamHhold_pc,0.0,8.0
+Mornington,Num_Psns_UR_4_NonFamHhold_pc,0.0,9.0
+Morwell,Num_Psns_UR_4_NonFamHhold_pc,0.0,10.0
+Yan Yean,Num_Psns_UR_4_NonFamHhold_pc,0.0,11.0
+Bass,Num_Psns_UR_4_NonFamHhold_pc,0.0001,12.0
+Bellarine,Num_Psns_UR_4_NonFamHhold_pc,0.0001,13.0
+Benambra,Num_Psns_UR_4_NonFamHhold_pc,0.0001,14.0
+Bendigo West,Num_Psns_UR_4_NonFamHhold_pc,0.0001,15.0
+Berwick,Num_Psns_UR_4_NonFamHhold_pc,0.0001,16.0
+Croydon,Num_Psns_UR_4_NonFamHhold_pc,0.0001,17.0
+Evelyn,Num_Psns_UR_4_NonFamHhold_pc,0.0001,18.0
+Lowan,Num_Psns_UR_4_NonFamHhold_pc,0.0001,19.0
+Mordialloc,Num_Psns_UR_4_NonFamHhold_pc,0.0001,20.0
+Narracan,Num_Psns_UR_4_NonFamHhold_pc,0.0001,21.0
+Niddrie,Num_Psns_UR_4_NonFamHhold_pc,0.0001,22.0
+Murray Plains,Num_Psns_UR_4_NonFamHhold_pc,0.0002,23.0
+Nepean,Num_Psns_UR_4_NonFamHhold_pc,0.0002,24.0
+Ripon,Num_Psns_UR_4_NonFamHhold_pc,0.0002,25.0
+Rowville,Num_Psns_UR_4_NonFamHhold_pc,0.0002,26.0
+Sunbury,Num_Psns_UR_4_NonFamHhold_pc,0.0002,27.0
+Eildon,Num_Psns_UR_4_NonFamHhold_pc,0.0003,28.0
+Ovens Valley,Num_Psns_UR_4_NonFamHhold_pc,0.0003,29.0
+Sydenham,Num_Psns_UR_4_NonFamHhold_pc,0.0003,30.0
+Warrandyte,Num_Psns_UR_4_NonFamHhold_pc,0.0003,31.0
+Frankston,Num_Psns_UR_4_NonFamHhold_pc,0.0004,32.0
+Gippsland East,Num_Psns_UR_4_NonFamHhold_pc,0.0004,33.0
+Sandringham,Num_Psns_UR_4_NonFamHhold_pc,0.0004,34.0
+Shepparton,Num_Psns_UR_4_NonFamHhold_pc,0.0004,35.0
+Greenvale,Num_Psns_UR_4_NonFamHhold_pc,0.0005,36.0
+Pakenham,Num_Psns_UR_4_NonFamHhold_pc,0.0005,37.0
+Cranbourne,Num_Psns_UR_4_NonFamHhold_pc,0.0006,38.0
+Mill Park,Num_Psns_UR_4_NonFamHhold_pc,0.0006,39.0
+Narre Warren South,Num_Psns_UR_4_NonFamHhold_pc,0.0006,40.0
+Williamstown,Num_Psns_UR_4_NonFamHhold_pc,0.0006,41.0
+Bayswater,Num_Psns_UR_4_NonFamHhold_pc,0.0007,42.0
+Brighton,Num_Psns_UR_4_NonFamHhold_pc,0.0008,43.0
+South-West Coast,Num_Psns_UR_4_NonFamHhold_pc,0.0008,44.0
+Bendigo East,Num_Psns_UR_4_NonFamHhold_pc,0.0009,45.0
+Bentleigh,Num_Psns_UR_4_NonFamHhold_pc,0.0009,46.0
+Kalkallo,Num_Psns_UR_4_NonFamHhold_pc,0.0009,47.0
+Eureka,Num_Psns_UR_4_NonFamHhold_pc,0.001,48.0
+Point Cook,Num_Psns_UR_4_NonFamHhold_pc,0.001,49.0
+Wendouree,Num_Psns_UR_4_NonFamHhold_pc,0.001,50.0
+Werribee,Num_Psns_UR_4_NonFamHhold_pc,0.001,51.0
+Bulleen,Num_Psns_UR_4_NonFamHhold_pc,0.0011,52.0
+Lara,Num_Psns_UR_4_NonFamHhold_pc,0.0011,53.0
+Kororoit,Num_Psns_UR_4_NonFamHhold_pc,0.0012,54.0
+Narre Warren North,Num_Psns_UR_4_NonFamHhold_pc,0.0013,55.0
+Mildura,Num_Psns_UR_4_NonFamHhold_pc,0.0014,56.0
+Polwarth,Num_Psns_UR_4_NonFamHhold_pc,0.0014,57.0
+Ringwood,Num_Psns_UR_4_NonFamHhold_pc,0.0014,58.0
+Thomastown,Num_Psns_UR_4_NonFamHhold_pc,0.0015,59.0
+Kew,Num_Psns_UR_4_NonFamHhold_pc,0.0018,60.0
+Glen Waverley,Num_Psns_UR_4_NonFamHhold_pc,0.0021,61.0
+Hawthorn,Num_Psns_UR_4_NonFamHhold_pc,0.0022,62.0
+Ivanhoe,Num_Psns_UR_4_NonFamHhold_pc,0.0023,63.0
+Tarneit,Num_Psns_UR_4_NonFamHhold_pc,0.0024,64.0
+Malvern,Num_Psns_UR_4_NonFamHhold_pc,0.0025,65.0
+Albert Park,Num_Psns_UR_4_NonFamHhold_pc,0.0028,66.0
+Essendon,Num_Psns_UR_4_NonFamHhold_pc,0.0029,67.0
+Prahran,Num_Psns_UR_4_NonFamHhold_pc,0.003,68.0
+Geelong,Num_Psns_UR_4_NonFamHhold_pc,0.0031,69.0
+Caulfield,Num_Psns_UR_4_NonFamHhold_pc,0.0036,70.0
+Clarinda,Num_Psns_UR_4_NonFamHhold_pc,0.0036,71.0
+St Albans,Num_Psns_UR_4_NonFamHhold_pc,0.0039,72.0
+Footscray,Num_Psns_UR_4_NonFamHhold_pc,0.0042,73.0
+Mulgrave,Num_Psns_UR_4_NonFamHhold_pc,0.0042,74.0
+Bundoora,Num_Psns_UR_4_NonFamHhold_pc,0.0044,75.0
+Broadmeadows,Num_Psns_UR_4_NonFamHhold_pc,0.0048,76.0
+Preston,Num_Psns_UR_4_NonFamHhold_pc,0.0051,77.0
+Dandenong,Num_Psns_UR_4_NonFamHhold_pc,0.0054,78.0
+South Barwon,Num_Psns_UR_4_NonFamHhold_pc,0.0055,79.0
+Box Hill,Num_Psns_UR_4_NonFamHhold_pc,0.0059,80.0
+Pascoe Vale,Num_Psns_UR_4_NonFamHhold_pc,0.0064,81.0
+Ashwood,Num_Psns_UR_4_NonFamHhold_pc,0.0067,82.0
+Laverton,Num_Psns_UR_4_NonFamHhold_pc,0.0071,83.0
+Northcote,Num_Psns_UR_4_NonFamHhold_pc,0.0077,84.0
+Melbourne,Num_Psns_UR_4_NonFamHhold_pc,0.0103,85.0
+Oakleigh,Num_Psns_UR_4_NonFamHhold_pc,0.0108,86.0
+Richmond,Num_Psns_UR_4_NonFamHhold_pc,0.0111,87.0
+Brunswick,Num_Psns_UR_4_NonFamHhold_pc,0.0197,88.0
+Prahran,Num_Psns_UR_4_Total,1672.0,1.0
+Richmond,Num_Psns_UR_4_Total,2441.0,2.0
+Albert Park,Num_Psns_UR_4_Total,2606.0,3.0
+Gippsland East,Num_Psns_UR_4_Total,2632.0,4.0
+Nepean,Num_Psns_UR_4_Total,2635.0,5.0
+Ovens Valley,Num_Psns_UR_4_Total,2753.0,6.0
+Gippsland South,Num_Psns_UR_4_Total,2783.0,7.0
+Murray Plains,Num_Psns_UR_4_Total,2811.0,8.0
+Lowan,Num_Psns_UR_4_Total,2823.0,9.0
+Euroa,Num_Psns_UR_4_Total,2841.0,10.0
+Melbourne,Num_Psns_UR_4_Total,2867.0,11.0
+Bendigo West,Num_Psns_UR_4_Total,2986.0,12.0
+Mildura,Num_Psns_UR_4_Total,3135.0,13.0
+Ripon,Num_Psns_UR_4_Total,3241.0,14.0
+Bass,Num_Psns_UR_4_Total,3289.0,15.0
+Wendouree,Num_Psns_UR_4_Total,3336.0,16.0
+South-West Coast,Num_Psns_UR_4_Total,3380.0,17.0
+Eildon,Num_Psns_UR_4_Total,3381.0,18.0
+Brunswick,Num_Psns_UR_4_Total,3387.0,19.0
+Benambra,Num_Psns_UR_4_Total,3398.0,20.0
+Morwell,Num_Psns_UR_4_Total,3421.0,21.0
+Frankston,Num_Psns_UR_4_Total,3542.0,22.0
+Lara,Num_Psns_UR_4_Total,3553.0,23.0
+Narracan,Num_Psns_UR_4_Total,3574.0,24.0
+Malvern,Num_Psns_UR_4_Total,3582.0,25.0
+Caulfield,Num_Psns_UR_4_Total,3634.0,26.0
+Shepparton,Num_Psns_UR_4_Total,3662.0,27.0
+Polwarth,Num_Psns_UR_4_Total,3715.0,28.0
+Geelong,Num_Psns_UR_4_Total,3723.0,29.0
+Bellarine,Num_Psns_UR_4_Total,3751.0,30.0
+Bendigo East,Num_Psns_UR_4_Total,3826.0,31.0
+Macedon,Num_Psns_UR_4_Total,3886.0,32.0
+Sunbury,Num_Psns_UR_4_Total,3916.0,33.0
+Hastings,Num_Psns_UR_4_Total,3961.0,34.0
+Preston,Num_Psns_UR_4_Total,4058.0,35.0
+Footscray,Num_Psns_UR_4_Total,4098.0,36.0
+Essendon,Num_Psns_UR_4_Total,4109.0,37.0
+Brighton,Num_Psns_UR_4_Total,4151.0,38.0
+Mornington,Num_Psns_UR_4_Total,4165.0,39.0
+Northcote,Num_Psns_UR_4_Total,4171.0,40.0
+St Albans,Num_Psns_UR_4_Total,4187.0,41.0
+Broadmeadows,Num_Psns_UR_4_Total,4193.0,42.0
+Sandringham,Num_Psns_UR_4_Total,4193.0,43.0
+Eureka,Num_Psns_UR_4_Total,4199.0,44.0
+Hawthorn,Num_Psns_UR_4_Total,4263.0,45.0
+Ivanhoe,Num_Psns_UR_4_Total,4268.0,46.0
+Williamstown,Num_Psns_UR_4_Total,4335.0,47.0
+Monbulk,Num_Psns_UR_4_Total,4460.0,48.0
+Pascoe Vale,Num_Psns_UR_4_Total,4487.0,49.0
+Bayswater,Num_Psns_UR_4_Total,4500.0,50.0
+Dandenong,Num_Psns_UR_4_Total,4528.0,51.0
+Croydon,Num_Psns_UR_4_Total,4627.0,52.0
+Mulgrave,Num_Psns_UR_4_Total,4630.0,53.0
+Bundoora,Num_Psns_UR_4_Total,4661.0,54.0
+Evelyn,Num_Psns_UR_4_Total,4715.0,55.0
+Clarinda,Num_Psns_UR_4_Total,4719.0,56.0
+South Barwon,Num_Psns_UR_4_Total,4740.0,57.0
+Niddrie,Num_Psns_UR_4_Total,4771.0,58.0
+Melton,Num_Psns_UR_4_Total,4783.0,59.0
+Bulleen,Num_Psns_UR_4_Total,4830.0,60.0
+Carrum,Num_Psns_UR_4_Total,4870.0,61.0
+Mill Park,Num_Psns_UR_4_Total,4907.0,62.0
+Narre Warren North,Num_Psns_UR_4_Total,4911.0,63.0
+Thomastown,Num_Psns_UR_4_Total,4949.0,64.0
+Greenvale,Num_Psns_UR_4_Total,4968.0,65.0
+Pakenham,Num_Psns_UR_4_Total,4980.0,66.0
+Eltham,Num_Psns_UR_4_Total,5040.0,67.0
+Ringwood,Num_Psns_UR_4_Total,5200.0,68.0
+Kew,Num_Psns_UR_4_Total,5202.0,69.0
+Werribee,Num_Psns_UR_4_Total,5304.0,70.0
+Oakleigh,Num_Psns_UR_4_Total,5340.0,71.0
+Mordialloc,Num_Psns_UR_4_Total,5388.0,72.0
+Rowville,Num_Psns_UR_4_Total,5422.0,73.0
+Box Hill,Num_Psns_UR_4_Total,5462.0,74.0
+Yan Yean,Num_Psns_UR_4_Total,5535.0,75.0
+Warrandyte,Num_Psns_UR_4_Total,5538.0,76.0
+Laverton,Num_Psns_UR_4_Total,5824.0,77.0
+Bentleigh,Num_Psns_UR_4_Total,5874.0,78.0
+Cranbourne,Num_Psns_UR_4_Total,5930.0,79.0
+Kororoit,Num_Psns_UR_4_Total,6023.0,80.0
+Ashwood,Num_Psns_UR_4_Total,6085.0,81.0
+Sydenham,Num_Psns_UR_4_Total,6111.0,82.0
+Narre Warren South,Num_Psns_UR_4_Total,6160.0,83.0
+Glen Waverley,Num_Psns_UR_4_Total,6223.0,84.0
+Berwick,Num_Psns_UR_4_Total,6480.0,85.0
+Tarneit,Num_Psns_UR_4_Total,6501.0,86.0
+Kalkallo,Num_Psns_UR_4_Total,6826.0,87.0
+Point Cook,Num_Psns_UR_4_Total,7377.0,88.0
+Prahran,Num_Psns_UR_4_Total_pc,0.0448,1.0
+Melbourne,Num_Psns_UR_4_Total_pc,0.0524,2.0
+Albert Park,Num_Psns_UR_4_Total_pc,0.0735,3.0
+Richmond,Num_Psns_UR_4_Total_pc,0.0785,4.0
+Lowan,Num_Psns_UR_4_Total_pc,0.1011,5.0
+Gippsland East,Num_Psns_UR_4_Total_pc,0.1031,6.0
+Nepean,Num_Psns_UR_4_Total_pc,0.105,7.0
+Gippsland South,Num_Psns_UR_4_Total_pc,0.1089,8.0
+Euroa,Num_Psns_UR_4_Total_pc,0.109,9.0
+Ovens Valley,Num_Psns_UR_4_Total_pc,0.1108,10.0
+Murray Plains,Num_Psns_UR_4_Total_pc,0.112,11.0
+Brunswick,Num_Psns_UR_4_Total_pc,0.1122,12.0
+Bendigo West,Num_Psns_UR_4_Total_pc,0.1174,13.0
+Morwell,Num_Psns_UR_4_Total_pc,0.1198,14.0
+Mildura,Num_Psns_UR_4_Total_pc,0.1207,15.0
+Wendouree,Num_Psns_UR_4_Total_pc,0.1207,16.0
+Ripon,Num_Psns_UR_4_Total_pc,0.122,17.0
+South-West Coast,Num_Psns_UR_4_Total_pc,0.1238,18.0
+Caulfield,Num_Psns_UR_4_Total_pc,0.124,19.0
+Geelong,Num_Psns_UR_4_Total_pc,0.128,20.0
+Frankston,Num_Psns_UR_4_Total_pc,0.1303,21.0
+Bass,Num_Psns_UR_4_Total_pc,0.1315,22.0
+Benambra,Num_Psns_UR_4_Total_pc,0.1338,23.0
+Shepparton,Num_Psns_UR_4_Total_pc,0.134,24.0
+Lara,Num_Psns_UR_4_Total_pc,0.1358,25.0
+Malvern,Num_Psns_UR_4_Total_pc,0.1362,26.0
+Eildon,Num_Psns_UR_4_Total_pc,0.138,27.0
+Preston,Num_Psns_UR_4_Total_pc,0.1383,28.0
+Bellarine,Num_Psns_UR_4_Total_pc,0.139,29.0
+Footscray,Num_Psns_UR_4_Total_pc,0.1406,30.0
+Polwarth,Num_Psns_UR_4_Total_pc,0.1414,31.0
+Bendigo East,Num_Psns_UR_4_Total_pc,0.1418,32.0
+Narracan,Num_Psns_UR_4_Total_pc,0.1436,33.0
+Essendon,Num_Psns_UR_4_Total_pc,0.1437,34.0
+Northcote,Num_Psns_UR_4_Total_pc,0.1501,35.0
+Hawthorn,Num_Psns_UR_4_Total_pc,0.1513,36.0
+Eureka,Num_Psns_UR_4_Total_pc,0.1518,37.0
+Dandenong,Num_Psns_UR_4_Total_pc,0.1523,38.0
+Broadmeadows,Num_Psns_UR_4_Total_pc,0.1535,39.0
+Oakleigh,Num_Psns_UR_4_Total_pc,0.1561,40.0
+Brighton,Num_Psns_UR_4_Total_pc,0.1588,41.0
+Hastings,Num_Psns_UR_4_Total_pc,0.162,42.0
+Croydon,Num_Psns_UR_4_Total_pc,0.1632,43.0
+Bayswater,Num_Psns_UR_4_Total_pc,0.1643,44.0
+Macedon,Num_Psns_UR_4_Total_pc,0.1665,45.0
+Pascoe Vale,Num_Psns_UR_4_Total_pc,0.1667,46.0
+Sunbury,Num_Psns_UR_4_Total_pc,0.1678,47.0
+Ivanhoe,Num_Psns_UR_4_Total_pc,0.1686,48.0
+Sandringham,Num_Psns_UR_4_Total_pc,0.1687,49.0
+Box Hill,Num_Psns_UR_4_Total_pc,0.1692,50.0
+Ringwood,Num_Psns_UR_4_Total_pc,0.1712,51.0
+Williamstown,Num_Psns_UR_4_Total_pc,0.1715,52.0
+Mornington,Num_Psns_UR_4_Total_pc,0.1725,53.0
+Mulgrave,Num_Psns_UR_4_Total_pc,0.1746,54.0
+St Albans,Num_Psns_UR_4_Total_pc,0.1747,55.0
+Bulleen,Num_Psns_UR_4_Total_pc,0.1764,56.0
+Carrum,Num_Psns_UR_4_Total_pc,0.1775,57.0
+Melton,Num_Psns_UR_4_Total_pc,0.1794,58.0
+South Barwon,Num_Psns_UR_4_Total_pc,0.1821,59.0
+Bundoora,Num_Psns_UR_4_Total_pc,0.1827,60.0
+Clarinda,Num_Psns_UR_4_Total_pc,0.186,61.0
+Niddrie,Num_Psns_UR_4_Total_pc,0.1873,62.0
+Werribee,Num_Psns_UR_4_Total_pc,0.1882,63.0
+Monbulk,Num_Psns_UR_4_Total_pc,0.1913,64.0
+Narre Warren North,Num_Psns_UR_4_Total_pc,0.192,65.0
+Thomastown,Num_Psns_UR_4_Total_pc,0.192,66.0
+Pakenham,Num_Psns_UR_4_Total_pc,0.1927,67.0
+Evelyn,Num_Psns_UR_4_Total_pc,0.1953,68.0
+Laverton,Num_Psns_UR_4_Total_pc,0.1958,69.0
+Kew,Num_Psns_UR_4_Total_pc,0.196,70.0
+Mordialloc,Num_Psns_UR_4_Total_pc,0.2066,71.0
+Bentleigh,Num_Psns_UR_4_Total_pc,0.207,72.0
+Ashwood,Num_Psns_UR_4_Total_pc,0.2115,73.0
+Mill Park,Num_Psns_UR_4_Total_pc,0.216,74.0
+Cranbourne,Num_Psns_UR_4_Total_pc,0.2175,75.0
+Eltham,Num_Psns_UR_4_Total_pc,0.2179,76.0
+Glen Waverley,Num_Psns_UR_4_Total_pc,0.2199,77.0
+Warrandyte,Num_Psns_UR_4_Total_pc,0.2207,78.0
+Rowville,Num_Psns_UR_4_Total_pc,0.2223,79.0
+Greenvale,Num_Psns_UR_4_Total_pc,0.2239,80.0
+Tarneit,Num_Psns_UR_4_Total_pc,0.232,81.0
+Kororoit,Num_Psns_UR_4_Total_pc,0.2336,82.0
+Narre Warren South,Num_Psns_UR_4_Total_pc,0.235,83.0
+Yan Yean,Num_Psns_UR_4_Total_pc,0.2372,84.0
+Kalkallo,Num_Psns_UR_4_Total_pc,0.2429,85.0
+Point Cook,Num_Psns_UR_4_Total_pc,0.2466,86.0
+Berwick,Num_Psns_UR_4_Total_pc,0.255,87.0
+Sydenham,Num_Psns_UR_4_Total_pc,0.2556,88.0
+Prahran,Num_Psns_UR_5_FamHhold,321.0,1.0
+Melbourne,Num_Psns_UR_5_FamHhold,451.0,2.0
+Richmond,Num_Psns_UR_5_FamHhold,559.0,3.0
+Albert Park,Num_Psns_UR_5_FamHhold,626.0,4.0
+Brunswick,Num_Psns_UR_5_FamHhold,710.0,5.0
+Nepean,Num_Psns_UR_5_FamHhold,989.0,6.0
+Northcote,Num_Psns_UR_5_FamHhold,1075.0,7.0
+Footscray,Num_Psns_UR_5_FamHhold,1108.0,8.0
+Bendigo West,Num_Psns_UR_5_FamHhold,1157.0,9.0
+Pascoe Vale,Num_Psns_UR_5_FamHhold,1181.0,10.0
+Gippsland East,Num_Psns_UR_5_FamHhold,1257.0,11.0
+Frankston,Num_Psns_UR_5_FamHhold,1258.0,12.0
+Preston,Num_Psns_UR_5_FamHhold,1275.0,13.0
+Euroa,Num_Psns_UR_5_FamHhold,1308.0,14.0
+Caulfield,Num_Psns_UR_5_FamHhold,1317.0,15.0
+Malvern,Num_Psns_UR_5_FamHhold,1330.0,16.0
+Ivanhoe,Num_Psns_UR_5_FamHhold,1354.0,17.0
+Williamstown,Num_Psns_UR_5_FamHhold,1354.0,18.0
+Morwell,Num_Psns_UR_5_FamHhold,1364.0,19.0
+Ovens Valley,Num_Psns_UR_5_FamHhold,1386.0,20.0
+Wendouree,Num_Psns_UR_5_FamHhold,1412.0,21.0
+Lowan,Num_Psns_UR_5_FamHhold,1427.0,22.0
+Essendon,Num_Psns_UR_5_FamHhold,1432.0,23.0
+Brighton,Num_Psns_UR_5_FamHhold,1438.0,24.0
+Sandringham,Num_Psns_UR_5_FamHhold,1452.0,25.0
+Gippsland South,Num_Psns_UR_5_FamHhold,1466.0,26.0
+Murray Plains,Num_Psns_UR_5_FamHhold,1471.0,27.0
+Bass,Num_Psns_UR_5_FamHhold,1473.0,28.0
+Benambra,Num_Psns_UR_5_FamHhold,1474.0,29.0
+Oakleigh,Num_Psns_UR_5_FamHhold,1474.0,30.0
+Bundoora,Num_Psns_UR_5_FamHhold,1477.0,31.0
+Lara,Num_Psns_UR_5_FamHhold,1489.0,32.0
+Ripon,Num_Psns_UR_5_FamHhold,1495.0,33.0
+Geelong,Num_Psns_UR_5_FamHhold,1498.0,34.0
+South-West Coast,Num_Psns_UR_5_FamHhold,1507.0,35.0
+Hawthorn,Num_Psns_UR_5_FamHhold,1517.0,36.0
+Bellarine,Num_Psns_UR_5_FamHhold,1523.0,37.0
+Eildon,Num_Psns_UR_5_FamHhold,1543.0,38.0
+Sunbury,Num_Psns_UR_5_FamHhold,1548.0,39.0
+Bayswater,Num_Psns_UR_5_FamHhold,1558.0,40.0
+Mildura,Num_Psns_UR_5_FamHhold,1567.0,41.0
+Macedon,Num_Psns_UR_5_FamHhold,1581.0,42.0
+Hastings,Num_Psns_UR_5_FamHhold,1599.0,43.0
+Niddrie,Num_Psns_UR_5_FamHhold,1620.0,44.0
+Croydon,Num_Psns_UR_5_FamHhold,1649.0,45.0
+Bulleen,Num_Psns_UR_5_FamHhold,1676.0,46.0
+Narracan,Num_Psns_UR_5_FamHhold,1680.0,47.0
+Polwarth,Num_Psns_UR_5_FamHhold,1685.0,48.0
+Monbulk,Num_Psns_UR_5_FamHhold,1688.0,49.0
+Mornington,Num_Psns_UR_5_FamHhold,1688.0,50.0
+South Barwon,Num_Psns_UR_5_FamHhold,1690.0,51.0
+Shepparton,Num_Psns_UR_5_FamHhold,1700.0,52.0
+Bendigo East,Num_Psns_UR_5_FamHhold,1704.0,53.0
+Carrum,Num_Psns_UR_5_FamHhold,1722.0,54.0
+Box Hill,Num_Psns_UR_5_FamHhold,1766.0,55.0
+Bentleigh,Num_Psns_UR_5_FamHhold,1774.0,56.0
+Ringwood,Num_Psns_UR_5_FamHhold,1835.0,57.0
+Eltham,Num_Psns_UR_5_FamHhold,1836.0,58.0
+Ashwood,Num_Psns_UR_5_FamHhold,1844.0,59.0
+Mulgrave,Num_Psns_UR_5_FamHhold,1846.0,60.0
+Eureka,Num_Psns_UR_5_FamHhold,1867.0,61.0
+St Albans,Num_Psns_UR_5_FamHhold,1879.0,62.0
+Mordialloc,Num_Psns_UR_5_FamHhold,1891.0,63.0
+Evelyn,Num_Psns_UR_5_FamHhold,1901.0,64.0
+Clarinda,Num_Psns_UR_5_FamHhold,1912.0,65.0
+Kew,Num_Psns_UR_5_FamHhold,1930.0,66.0
+Rowville,Num_Psns_UR_5_FamHhold,1944.0,67.0
+Mill Park,Num_Psns_UR_5_FamHhold,1950.0,68.0
+Glen Waverley,Num_Psns_UR_5_FamHhold,2041.0,69.0
+Broadmeadows,Num_Psns_UR_5_FamHhold,2074.0,70.0
+Werribee,Num_Psns_UR_5_FamHhold,2094.0,71.0
+Pakenham,Num_Psns_UR_5_FamHhold,2100.0,72.0
+Warrandyte,Num_Psns_UR_5_FamHhold,2102.0,73.0
+Narre Warren North,Num_Psns_UR_5_FamHhold,2171.0,74.0
+Dandenong,Num_Psns_UR_5_FamHhold,2205.0,75.0
+Thomastown,Num_Psns_UR_5_FamHhold,2216.0,76.0
+Melton,Num_Psns_UR_5_FamHhold,2345.0,77.0
+Yan Yean,Num_Psns_UR_5_FamHhold,2385.0,78.0
+Laverton,Num_Psns_UR_5_FamHhold,2394.0,79.0
+Point Cook,Num_Psns_UR_5_FamHhold,2421.0,80.0
+Cranbourne,Num_Psns_UR_5_FamHhold,2556.0,81.0
+Sydenham,Num_Psns_UR_5_FamHhold,2562.0,82.0
+Berwick,Num_Psns_UR_5_FamHhold,2617.0,83.0
+Kororoit,Num_Psns_UR_5_FamHhold,2635.0,84.0
+Tarneit,Num_Psns_UR_5_FamHhold,2646.0,85.0
+Greenvale,Num_Psns_UR_5_FamHhold,2685.0,86.0
+Narre Warren South,Num_Psns_UR_5_FamHhold,2919.0,87.0
+Kalkallo,Num_Psns_UR_5_FamHhold,3142.0,88.0
+Melbourne,Num_Psns_UR_5_FamHhold_pc,0.0082,1.0
+Prahran,Num_Psns_UR_5_FamHhold_pc,0.0086,2.0
+Albert Park,Num_Psns_UR_5_FamHhold_pc,0.0176,3.0
+Richmond,Num_Psns_UR_5_FamHhold_pc,0.018,4.0
+Brunswick,Num_Psns_UR_5_FamHhold_pc,0.0235,5.0
+Footscray,Num_Psns_UR_5_FamHhold_pc,0.038,6.0
+Northcote,Num_Psns_UR_5_FamHhold_pc,0.0387,7.0
+Nepean,Num_Psns_UR_5_FamHhold_pc,0.0394,8.0
+Oakleigh,Num_Psns_UR_5_FamHhold_pc,0.0431,9.0
+Preston,Num_Psns_UR_5_FamHhold_pc,0.0434,10.0
+Pascoe Vale,Num_Psns_UR_5_FamHhold_pc,0.0439,11.0
+Caulfield,Num_Psns_UR_5_FamHhold_pc,0.0449,12.0
+Bendigo West,Num_Psns_UR_5_FamHhold_pc,0.0455,13.0
+Frankston,Num_Psns_UR_5_FamHhold_pc,0.0463,14.0
+Morwell,Num_Psns_UR_5_FamHhold_pc,0.0478,15.0
+Gippsland East,Num_Psns_UR_5_FamHhold_pc,0.0492,16.0
+Essendon,Num_Psns_UR_5_FamHhold_pc,0.0501,17.0
+Euroa,Num_Psns_UR_5_FamHhold_pc,0.0502,18.0
+Malvern,Num_Psns_UR_5_FamHhold_pc,0.0506,19.0
+Lowan,Num_Psns_UR_5_FamHhold_pc,0.0511,20.0
+Wendouree,Num_Psns_UR_5_FamHhold_pc,0.0511,21.0
+Geelong,Num_Psns_UR_5_FamHhold_pc,0.0515,22.0
+Ivanhoe,Num_Psns_UR_5_FamHhold_pc,0.0535,23.0
+Williamstown,Num_Psns_UR_5_FamHhold_pc,0.0536,24.0
+Hawthorn,Num_Psns_UR_5_FamHhold_pc,0.0538,25.0
+Box Hill,Num_Psns_UR_5_FamHhold_pc,0.0547,26.0
+Brighton,Num_Psns_UR_5_FamHhold_pc,0.055,27.0
+South-West Coast,Num_Psns_UR_5_FamHhold_pc,0.0552,28.0
+Ovens Valley,Num_Psns_UR_5_FamHhold_pc,0.0558,29.0
+Ripon,Num_Psns_UR_5_FamHhold_pc,0.0563,30.0
+Bellarine,Num_Psns_UR_5_FamHhold_pc,0.0565,31.0
+Bayswater,Num_Psns_UR_5_FamHhold_pc,0.0569,32.0
+Lara,Num_Psns_UR_5_FamHhold_pc,0.0569,33.0
+Gippsland South,Num_Psns_UR_5_FamHhold_pc,0.0574,34.0
+Bundoora,Num_Psns_UR_5_FamHhold_pc,0.0579,35.0
+Benambra,Num_Psns_UR_5_FamHhold_pc,0.058,36.0
+Croydon,Num_Psns_UR_5_FamHhold_pc,0.0582,37.0
+Sandringham,Num_Psns_UR_5_FamHhold_pc,0.0584,38.0
+Murray Plains,Num_Psns_UR_5_FamHhold_pc,0.0586,39.0
+Bass,Num_Psns_UR_5_FamHhold_pc,0.0589,40.0
+Mildura,Num_Psns_UR_5_FamHhold_pc,0.0603,41.0
+Ringwood,Num_Psns_UR_5_FamHhold_pc,0.0604,42.0
+Bulleen,Num_Psns_UR_5_FamHhold_pc,0.0612,43.0
+Shepparton,Num_Psns_UR_5_FamHhold_pc,0.0622,44.0
+Bentleigh,Num_Psns_UR_5_FamHhold_pc,0.0625,45.0
+Carrum,Num_Psns_UR_5_FamHhold_pc,0.0628,46.0
+Eildon,Num_Psns_UR_5_FamHhold_pc,0.063,47.0
+Bendigo East,Num_Psns_UR_5_FamHhold_pc,0.0631,48.0
+Niddrie,Num_Psns_UR_5_FamHhold_pc,0.0636,49.0
+Ashwood,Num_Psns_UR_5_FamHhold_pc,0.0641,50.0
+Polwarth,Num_Psns_UR_5_FamHhold_pc,0.0641,51.0
+South Barwon,Num_Psns_UR_5_FamHhold_pc,0.0649,52.0
+Hastings,Num_Psns_UR_5_FamHhold_pc,0.0654,53.0
+Sunbury,Num_Psns_UR_5_FamHhold_pc,0.0663,54.0
+Eureka,Num_Psns_UR_5_FamHhold_pc,0.0675,55.0
+Narracan,Num_Psns_UR_5_FamHhold_pc,0.0675,56.0
+Macedon,Num_Psns_UR_5_FamHhold_pc,0.0677,57.0
+Mulgrave,Num_Psns_UR_5_FamHhold_pc,0.0696,58.0
+Mornington,Num_Psns_UR_5_FamHhold_pc,0.0699,59.0
+Glen Waverley,Num_Psns_UR_5_FamHhold_pc,0.0721,60.0
+Monbulk,Num_Psns_UR_5_FamHhold_pc,0.0724,61.0
+Mordialloc,Num_Psns_UR_5_FamHhold_pc,0.0725,62.0
+Kew,Num_Psns_UR_5_FamHhold_pc,0.0727,63.0
+Dandenong,Num_Psns_UR_5_FamHhold_pc,0.0742,64.0
+Werribee,Num_Psns_UR_5_FamHhold_pc,0.0743,65.0
+Clarinda,Num_Psns_UR_5_FamHhold_pc,0.0754,66.0
+Broadmeadows,Num_Psns_UR_5_FamHhold_pc,0.0759,67.0
+St Albans,Num_Psns_UR_5_FamHhold_pc,0.0784,68.0
+Evelyn,Num_Psns_UR_5_FamHhold_pc,0.0787,69.0
+Eltham,Num_Psns_UR_5_FamHhold_pc,0.0794,70.0
+Rowville,Num_Psns_UR_5_FamHhold_pc,0.0797,71.0
+Laverton,Num_Psns_UR_5_FamHhold_pc,0.0805,72.0
+Point Cook,Num_Psns_UR_5_FamHhold_pc,0.0809,73.0
+Pakenham,Num_Psns_UR_5_FamHhold_pc,0.0813,74.0
+Warrandyte,Num_Psns_UR_5_FamHhold_pc,0.0838,75.0
+Narre Warren North,Num_Psns_UR_5_FamHhold_pc,0.0849,76.0
+Mill Park,Num_Psns_UR_5_FamHhold_pc,0.0858,77.0
+Thomastown,Num_Psns_UR_5_FamHhold_pc,0.086,78.0
+Melton,Num_Psns_UR_5_FamHhold_pc,0.088,79.0
+Cranbourne,Num_Psns_UR_5_FamHhold_pc,0.0938,80.0
+Tarneit,Num_Psns_UR_5_FamHhold_pc,0.0944,81.0
+Kororoit,Num_Psns_UR_5_FamHhold_pc,0.1022,82.0
+Yan Yean,Num_Psns_UR_5_FamHhold_pc,0.1022,83.0
+Berwick,Num_Psns_UR_5_FamHhold_pc,0.103,84.0
+Sydenham,Num_Psns_UR_5_FamHhold_pc,0.1071,85.0
+Narre Warren South,Num_Psns_UR_5_FamHhold_pc,0.1114,86.0
+Kalkallo,Num_Psns_UR_5_FamHhold_pc,0.1118,87.0
+Greenvale,Num_Psns_UR_5_FamHhold_pc,0.121,88.0
+Bass,Num_Psns_UR_5_NonFamHhold,0.0,1.0
+Bellarine,Num_Psns_UR_5_NonFamHhold,0.0,2.0
+Benambra,Num_Psns_UR_5_NonFamHhold,0.0,3.0
+Bendigo East,Num_Psns_UR_5_NonFamHhold,0.0,4.0
+Bendigo West,Num_Psns_UR_5_NonFamHhold,0.0,5.0
+Berwick,Num_Psns_UR_5_NonFamHhold,0.0,6.0
+Carrum,Num_Psns_UR_5_NonFamHhold,0.0,7.0
+Cranbourne,Num_Psns_UR_5_NonFamHhold,0.0,8.0
+Eildon,Num_Psns_UR_5_NonFamHhold,0.0,9.0
+Eltham,Num_Psns_UR_5_NonFamHhold,0.0,10.0
+Euroa,Num_Psns_UR_5_NonFamHhold,0.0,11.0
+Evelyn,Num_Psns_UR_5_NonFamHhold,0.0,12.0
+Frankston,Num_Psns_UR_5_NonFamHhold,0.0,13.0
+Gippsland East,Num_Psns_UR_5_NonFamHhold,0.0,14.0
+Gippsland South,Num_Psns_UR_5_NonFamHhold,0.0,15.0
+Greenvale,Num_Psns_UR_5_NonFamHhold,0.0,16.0
+Hastings,Num_Psns_UR_5_NonFamHhold,0.0,17.0
+Kororoit,Num_Psns_UR_5_NonFamHhold,0.0,18.0
+Lowan,Num_Psns_UR_5_NonFamHhold,0.0,19.0
+Melton,Num_Psns_UR_5_NonFamHhold,0.0,20.0
+Mill Park,Num_Psns_UR_5_NonFamHhold,0.0,21.0
+Monbulk,Num_Psns_UR_5_NonFamHhold,0.0,22.0
+Mordialloc,Num_Psns_UR_5_NonFamHhold,0.0,23.0
+Mornington,Num_Psns_UR_5_NonFamHhold,0.0,24.0
+Morwell,Num_Psns_UR_5_NonFamHhold,0.0,25.0
+Murray Plains,Num_Psns_UR_5_NonFamHhold,0.0,26.0
+Narre Warren South,Num_Psns_UR_5_NonFamHhold,0.0,27.0
+Nepean,Num_Psns_UR_5_NonFamHhold,0.0,28.0
+Niddrie,Num_Psns_UR_5_NonFamHhold,0.0,29.0
+Ovens Valley,Num_Psns_UR_5_NonFamHhold,0.0,30.0
+Pakenham,Num_Psns_UR_5_NonFamHhold,0.0,31.0
+Rowville,Num_Psns_UR_5_NonFamHhold,0.0,32.0
+Sandringham,Num_Psns_UR_5_NonFamHhold,0.0,33.0
+Sunbury,Num_Psns_UR_5_NonFamHhold,0.0,34.0
+Sydenham,Num_Psns_UR_5_NonFamHhold,0.0,35.0
+Warrandyte,Num_Psns_UR_5_NonFamHhold,0.0,36.0
+Wendouree,Num_Psns_UR_5_NonFamHhold,0.0,37.0
+Werribee,Num_Psns_UR_5_NonFamHhold,0.0,38.0
+Williamstown,Num_Psns_UR_5_NonFamHhold,0.0,39.0
+Yan Yean,Num_Psns_UR_5_NonFamHhold,0.0,40.0
+Albert Park,Num_Psns_UR_5_NonFamHhold,3.0,41.0
+Macedon,Num_Psns_UR_5_NonFamHhold,3.0,42.0
+Narre Warren North,Num_Psns_UR_5_NonFamHhold,3.0,43.0
+Ripon,Num_Psns_UR_5_NonFamHhold,3.0,44.0
+Kalkallo,Num_Psns_UR_5_NonFamHhold,4.0,45.0
+Lara,Num_Psns_UR_5_NonFamHhold,4.0,46.0
+South-West Coast,Num_Psns_UR_5_NonFamHhold,4.0,47.0
+Brighton,Num_Psns_UR_5_NonFamHhold,5.0,48.0
+Croydon,Num_Psns_UR_5_NonFamHhold,5.0,49.0
+Prahran,Num_Psns_UR_5_NonFamHhold,5.0,50.0
+Essendon,Num_Psns_UR_5_NonFamHhold,7.0,51.0
+Geelong,Num_Psns_UR_5_NonFamHhold,7.0,52.0
+Mildura,Num_Psns_UR_5_NonFamHhold,7.0,53.0
+Polwarth,Num_Psns_UR_5_NonFamHhold,7.0,54.0
+Ringwood,Num_Psns_UR_5_NonFamHhold,7.0,55.0
+Shepparton,Num_Psns_UR_5_NonFamHhold,7.0,56.0
+Bayswater,Num_Psns_UR_5_NonFamHhold,8.0,57.0
+Eureka,Num_Psns_UR_5_NonFamHhold,8.0,58.0
+Ivanhoe,Num_Psns_UR_5_NonFamHhold,8.0,59.0
+Bentleigh,Num_Psns_UR_5_NonFamHhold,9.0,60.0
+Narracan,Num_Psns_UR_5_NonFamHhold,9.0,61.0
+Bulleen,Num_Psns_UR_5_NonFamHhold,10.0,62.0
+Hawthorn,Num_Psns_UR_5_NonFamHhold,11.0,63.0
+Malvern,Num_Psns_UR_5_NonFamHhold,12.0,64.0
+Thomastown,Num_Psns_UR_5_NonFamHhold,14.0,65.0
+Kew,Num_Psns_UR_5_NonFamHhold,17.0,66.0
+Point Cook,Num_Psns_UR_5_NonFamHhold,17.0,67.0
+Caulfield,Num_Psns_UR_5_NonFamHhold,20.0,68.0
+Tarneit,Num_Psns_UR_5_NonFamHhold,20.0,69.0
+Glen Waverley,Num_Psns_UR_5_NonFamHhold,21.0,70.0
+Preston,Num_Psns_UR_5_NonFamHhold,21.0,71.0
+Footscray,Num_Psns_UR_5_NonFamHhold,26.0,72.0
+Richmond,Num_Psns_UR_5_NonFamHhold,26.0,73.0
+Clarinda,Num_Psns_UR_5_NonFamHhold,27.0,74.0
+Ashwood,Num_Psns_UR_5_NonFamHhold,33.0,75.0
+Northcote,Num_Psns_UR_5_NonFamHhold,33.0,76.0
+Box Hill,Num_Psns_UR_5_NonFamHhold,34.0,77.0
+St Albans,Num_Psns_UR_5_NonFamHhold,34.0,78.0
+Pascoe Vale,Num_Psns_UR_5_NonFamHhold,38.0,79.0
+Bundoora,Num_Psns_UR_5_NonFamHhold,41.0,80.0
+Broadmeadows,Num_Psns_UR_5_NonFamHhold,43.0,81.0
+Mulgrave,Num_Psns_UR_5_NonFamHhold,55.0,82.0
+South Barwon,Num_Psns_UR_5_NonFamHhold,55.0,83.0
+Dandenong,Num_Psns_UR_5_NonFamHhold,58.0,84.0
+Laverton,Num_Psns_UR_5_NonFamHhold,70.0,85.0
+Brunswick,Num_Psns_UR_5_NonFamHhold,110.0,86.0
+Melbourne,Num_Psns_UR_5_NonFamHhold,126.0,87.0
+Oakleigh,Num_Psns_UR_5_NonFamHhold,129.0,88.0
+Bass,Num_Psns_UR_5_NonFamHhold_pc,0.0,1.0
+Bellarine,Num_Psns_UR_5_NonFamHhold_pc,0.0,2.0
+Benambra,Num_Psns_UR_5_NonFamHhold_pc,0.0,3.0
+Bendigo East,Num_Psns_UR_5_NonFamHhold_pc,0.0,4.0
+Bendigo West,Num_Psns_UR_5_NonFamHhold_pc,0.0,5.0
+Berwick,Num_Psns_UR_5_NonFamHhold_pc,0.0,6.0
+Carrum,Num_Psns_UR_5_NonFamHhold_pc,0.0,7.0
+Cranbourne,Num_Psns_UR_5_NonFamHhold_pc,0.0,8.0
+Eildon,Num_Psns_UR_5_NonFamHhold_pc,0.0,9.0
+Eltham,Num_Psns_UR_5_NonFamHhold_pc,0.0,10.0
+Euroa,Num_Psns_UR_5_NonFamHhold_pc,0.0,11.0
+Evelyn,Num_Psns_UR_5_NonFamHhold_pc,0.0,12.0
+Frankston,Num_Psns_UR_5_NonFamHhold_pc,0.0,13.0
+Gippsland East,Num_Psns_UR_5_NonFamHhold_pc,0.0,14.0
+Gippsland South,Num_Psns_UR_5_NonFamHhold_pc,0.0,15.0
+Greenvale,Num_Psns_UR_5_NonFamHhold_pc,0.0,16.0
+Hastings,Num_Psns_UR_5_NonFamHhold_pc,0.0,17.0
+Kororoit,Num_Psns_UR_5_NonFamHhold_pc,0.0,18.0
+Lowan,Num_Psns_UR_5_NonFamHhold_pc,0.0,19.0
+Melton,Num_Psns_UR_5_NonFamHhold_pc,0.0,20.0
+Mill Park,Num_Psns_UR_5_NonFamHhold_pc,0.0,21.0
+Monbulk,Num_Psns_UR_5_NonFamHhold_pc,0.0,22.0
+Mordialloc,Num_Psns_UR_5_NonFamHhold_pc,0.0,23.0
+Mornington,Num_Psns_UR_5_NonFamHhold_pc,0.0,24.0
+Morwell,Num_Psns_UR_5_NonFamHhold_pc,0.0,25.0
+Murray Plains,Num_Psns_UR_5_NonFamHhold_pc,0.0,26.0
+Narre Warren South,Num_Psns_UR_5_NonFamHhold_pc,0.0,27.0
+Nepean,Num_Psns_UR_5_NonFamHhold_pc,0.0,28.0
+Niddrie,Num_Psns_UR_5_NonFamHhold_pc,0.0,29.0
+Ovens Valley,Num_Psns_UR_5_NonFamHhold_pc,0.0,30.0
+Pakenham,Num_Psns_UR_5_NonFamHhold_pc,0.0,31.0
+Rowville,Num_Psns_UR_5_NonFamHhold_pc,0.0,32.0
+Sandringham,Num_Psns_UR_5_NonFamHhold_pc,0.0,33.0
+Sunbury,Num_Psns_UR_5_NonFamHhold_pc,0.0,34.0
+Sydenham,Num_Psns_UR_5_NonFamHhold_pc,0.0,35.0
+Warrandyte,Num_Psns_UR_5_NonFamHhold_pc,0.0,36.0
+Wendouree,Num_Psns_UR_5_NonFamHhold_pc,0.0,37.0
+Werribee,Num_Psns_UR_5_NonFamHhold_pc,0.0,38.0
+Williamstown,Num_Psns_UR_5_NonFamHhold_pc,0.0,39.0
+Yan Yean,Num_Psns_UR_5_NonFamHhold_pc,0.0,40.0
+Albert Park,Num_Psns_UR_5_NonFamHhold_pc,0.0001,41.0
+Kalkallo,Num_Psns_UR_5_NonFamHhold_pc,0.0001,42.0
+Macedon,Num_Psns_UR_5_NonFamHhold_pc,0.0001,43.0
+Narre Warren North,Num_Psns_UR_5_NonFamHhold_pc,0.0001,44.0
+Prahran,Num_Psns_UR_5_NonFamHhold_pc,0.0001,45.0
+Ripon,Num_Psns_UR_5_NonFamHhold_pc,0.0001,46.0
+South-West Coast,Num_Psns_UR_5_NonFamHhold_pc,0.0001,47.0
+Brighton,Num_Psns_UR_5_NonFamHhold_pc,0.0002,48.0
+Croydon,Num_Psns_UR_5_NonFamHhold_pc,0.0002,49.0
+Essendon,Num_Psns_UR_5_NonFamHhold_pc,0.0002,50.0
+Geelong,Num_Psns_UR_5_NonFamHhold_pc,0.0002,51.0
+Lara,Num_Psns_UR_5_NonFamHhold_pc,0.0002,52.0
+Ringwood,Num_Psns_UR_5_NonFamHhold_pc,0.0002,53.0
+Bayswater,Num_Psns_UR_5_NonFamHhold_pc,0.0003,54.0
+Bentleigh,Num_Psns_UR_5_NonFamHhold_pc,0.0003,55.0
+Eureka,Num_Psns_UR_5_NonFamHhold_pc,0.0003,56.0
+Ivanhoe,Num_Psns_UR_5_NonFamHhold_pc,0.0003,57.0
+Mildura,Num_Psns_UR_5_NonFamHhold_pc,0.0003,58.0
+Polwarth,Num_Psns_UR_5_NonFamHhold_pc,0.0003,59.0
+Shepparton,Num_Psns_UR_5_NonFamHhold_pc,0.0003,60.0
+Bulleen,Num_Psns_UR_5_NonFamHhold_pc,0.0004,61.0
+Hawthorn,Num_Psns_UR_5_NonFamHhold_pc,0.0004,62.0
+Narracan,Num_Psns_UR_5_NonFamHhold_pc,0.0004,63.0
+Malvern,Num_Psns_UR_5_NonFamHhold_pc,0.0005,64.0
+Thomastown,Num_Psns_UR_5_NonFamHhold_pc,0.0005,65.0
+Kew,Num_Psns_UR_5_NonFamHhold_pc,0.0006,66.0
+Point Cook,Num_Psns_UR_5_NonFamHhold_pc,0.0006,67.0
+Caulfield,Num_Psns_UR_5_NonFamHhold_pc,0.0007,68.0
+Glen Waverley,Num_Psns_UR_5_NonFamHhold_pc,0.0007,69.0
+Preston,Num_Psns_UR_5_NonFamHhold_pc,0.0007,70.0
+Tarneit,Num_Psns_UR_5_NonFamHhold_pc,0.0007,71.0
+Richmond,Num_Psns_UR_5_NonFamHhold_pc,0.0008,72.0
+Footscray,Num_Psns_UR_5_NonFamHhold_pc,0.0009,73.0
+Ashwood,Num_Psns_UR_5_NonFamHhold_pc,0.0011,74.0
+Box Hill,Num_Psns_UR_5_NonFamHhold_pc,0.0011,75.0
+Clarinda,Num_Psns_UR_5_NonFamHhold_pc,0.0011,76.0
+Northcote,Num_Psns_UR_5_NonFamHhold_pc,0.0012,77.0
+Pascoe Vale,Num_Psns_UR_5_NonFamHhold_pc,0.0014,78.0
+St Albans,Num_Psns_UR_5_NonFamHhold_pc,0.0014,79.0
+Broadmeadows,Num_Psns_UR_5_NonFamHhold_pc,0.0016,80.0
+Bundoora,Num_Psns_UR_5_NonFamHhold_pc,0.0016,81.0
+Dandenong,Num_Psns_UR_5_NonFamHhold_pc,0.002,82.0
+Mulgrave,Num_Psns_UR_5_NonFamHhold_pc,0.0021,83.0
+South Barwon,Num_Psns_UR_5_NonFamHhold_pc,0.0021,84.0
+Melbourne,Num_Psns_UR_5_NonFamHhold_pc,0.0023,85.0
+Laverton,Num_Psns_UR_5_NonFamHhold_pc,0.0024,86.0
+Brunswick,Num_Psns_UR_5_NonFamHhold_pc,0.0036,87.0
+Oakleigh,Num_Psns_UR_5_NonFamHhold_pc,0.0038,88.0
+Prahran,Num_Psns_UR_5_Total,352.0,1.0
+Richmond,Num_Psns_UR_5_Total,622.0,2.0
+Melbourne,Num_Psns_UR_5_Total,627.0,3.0
+Albert Park,Num_Psns_UR_5_Total,652.0,4.0
+Brunswick,Num_Psns_UR_5_Total,834.0,5.0
+Nepean,Num_Psns_UR_5_Total,998.0,6.0
+Northcote,Num_Psns_UR_5_Total,1130.0,7.0
+Bendigo West,Num_Psns_UR_5_Total,1175.0,8.0
+Footscray,Num_Psns_UR_5_Total,1177.0,9.0
+Pascoe Vale,Num_Psns_UR_5_Total,1240.0,10.0
+Gippsland East,Num_Psns_UR_5_Total,1260.0,11.0
+Frankston,Num_Psns_UR_5_Total,1262.0,12.0
+Euroa,Num_Psns_UR_5_Total,1316.0,13.0
+Preston,Num_Psns_UR_5_Total,1341.0,14.0
+Ivanhoe,Num_Psns_UR_5_Total,1360.0,15.0
+Malvern,Num_Psns_UR_5_Total,1369.0,16.0
+Caulfield,Num_Psns_UR_5_Total,1370.0,17.0
+Morwell,Num_Psns_UR_5_Total,1372.0,18.0
+Williamstown,Num_Psns_UR_5_Total,1372.0,19.0
+Ovens Valley,Num_Psns_UR_5_Total,1400.0,20.0
+Wendouree,Num_Psns_UR_5_Total,1418.0,21.0
+Lowan,Num_Psns_UR_5_Total,1438.0,22.0
+Sandringham,Num_Psns_UR_5_Total,1447.0,23.0
+Brighton,Num_Psns_UR_5_Total,1458.0,24.0
+Benambra,Num_Psns_UR_5_Total,1465.0,25.0
+Essendon,Num_Psns_UR_5_Total,1466.0,26.0
+Murray Plains,Num_Psns_UR_5_Total,1468.0,27.0
+Gippsland South,Num_Psns_UR_5_Total,1476.0,28.0
+Bass,Num_Psns_UR_5_Total,1477.0,29.0
+Ripon,Num_Psns_UR_5_Total,1498.0,30.0
+Lara,Num_Psns_UR_5_Total,1515.0,31.0
+South-West Coast,Num_Psns_UR_5_Total,1520.0,32.0
+Geelong,Num_Psns_UR_5_Total,1530.0,33.0
+Bellarine,Num_Psns_UR_5_Total,1533.0,34.0
+Eildon,Num_Psns_UR_5_Total,1541.0,35.0
+Sunbury,Num_Psns_UR_5_Total,1560.0,36.0
+Bundoora,Num_Psns_UR_5_Total,1575.0,37.0
+Hawthorn,Num_Psns_UR_5_Total,1579.0,38.0
+Bayswater,Num_Psns_UR_5_Total,1583.0,39.0
+Mildura,Num_Psns_UR_5_Total,1596.0,40.0
+Macedon,Num_Psns_UR_5_Total,1597.0,41.0
+Hastings,Num_Psns_UR_5_Total,1605.0,42.0
+Oakleigh,Num_Psns_UR_5_Total,1609.0,43.0
+Niddrie,Num_Psns_UR_5_Total,1638.0,44.0
+Croydon,Num_Psns_UR_5_Total,1668.0,45.0
+Narracan,Num_Psns_UR_5_Total,1688.0,46.0
+Mornington,Num_Psns_UR_5_Total,1689.0,47.0
+Monbulk,Num_Psns_UR_5_Total,1693.0,48.0
+Polwarth,Num_Psns_UR_5_Total,1697.0,49.0
+Bendigo East,Num_Psns_UR_5_Total,1720.0,50.0
+Bulleen,Num_Psns_UR_5_Total,1720.0,51.0
+Shepparton,Num_Psns_UR_5_Total,1729.0,52.0
+Carrum,Num_Psns_UR_5_Total,1736.0,53.0
+South Barwon,Num_Psns_UR_5_Total,1767.0,54.0
+Bentleigh,Num_Psns_UR_5_Total,1779.0,55.0
+Box Hill,Num_Psns_UR_5_Total,1797.0,56.0
+Eltham,Num_Psns_UR_5_Total,1839.0,57.0
+Ringwood,Num_Psns_UR_5_Total,1877.0,58.0
+Ashwood,Num_Psns_UR_5_Total,1908.0,59.0
+Evelyn,Num_Psns_UR_5_Total,1908.0,60.0
+Eureka,Num_Psns_UR_5_Total,1909.0,61.0
+Mulgrave,Num_Psns_UR_5_Total,1915.0,62.0
+Mordialloc,Num_Psns_UR_5_Total,1920.0,63.0
+St Albans,Num_Psns_UR_5_Total,1947.0,64.0
+Rowville,Num_Psns_UR_5_Total,1954.0,65.0
+Kew,Num_Psns_UR_5_Total,1962.0,66.0
+Mill Park,Num_Psns_UR_5_Total,1968.0,67.0
+Clarinda,Num_Psns_UR_5_Total,1973.0,68.0
+Glen Waverley,Num_Psns_UR_5_Total,2094.0,69.0
+Pakenham,Num_Psns_UR_5_Total,2105.0,70.0
+Werribee,Num_Psns_UR_5_Total,2113.0,71.0
+Warrandyte,Num_Psns_UR_5_Total,2125.0,72.0
+Broadmeadows,Num_Psns_UR_5_Total,2183.0,73.0
+Narre Warren North,Num_Psns_UR_5_Total,2187.0,74.0
+Thomastown,Num_Psns_UR_5_Total,2242.0,75.0
+Dandenong,Num_Psns_UR_5_Total,2294.0,76.0
+Melton,Num_Psns_UR_5_Total,2355.0,77.0
+Yan Yean,Num_Psns_UR_5_Total,2395.0,78.0
+Point Cook,Num_Psns_UR_5_Total,2466.0,79.0
+Laverton,Num_Psns_UR_5_Total,2513.0,80.0
+Sydenham,Num_Psns_UR_5_Total,2578.0,81.0
+Cranbourne,Num_Psns_UR_5_Total,2585.0,82.0
+Berwick,Num_Psns_UR_5_Total,2640.0,83.0
+Kororoit,Num_Psns_UR_5_Total,2693.0,84.0
+Greenvale,Num_Psns_UR_5_Total,2696.0,85.0
+Tarneit,Num_Psns_UR_5_Total,2720.0,86.0
+Narre Warren South,Num_Psns_UR_5_Total,2939.0,87.0
+Kalkallo,Num_Psns_UR_5_Total,3167.0,88.0
+Prahran,Num_Psns_UR_5_Total_pc,0.0094,1.0
+Melbourne,Num_Psns_UR_5_Total_pc,0.0115,2.0
+Albert Park,Num_Psns_UR_5_Total_pc,0.0184,3.0
+Richmond,Num_Psns_UR_5_Total_pc,0.02,4.0
+Brunswick,Num_Psns_UR_5_Total_pc,0.0276,5.0
+Nepean,Num_Psns_UR_5_Total_pc,0.0398,6.0
+Footscray,Num_Psns_UR_5_Total_pc,0.0404,7.0
+Northcote,Num_Psns_UR_5_Total_pc,0.0407,8.0
+Preston,Num_Psns_UR_5_Total_pc,0.0457,9.0
+Pascoe Vale,Num_Psns_UR_5_Total_pc,0.0461,10.0
+Bendigo West,Num_Psns_UR_5_Total_pc,0.0462,11.0
+Frankston,Num_Psns_UR_5_Total_pc,0.0464,12.0
+Caulfield,Num_Psns_UR_5_Total_pc,0.0467,13.0
+Oakleigh,Num_Psns_UR_5_Total_pc,0.047,14.0
+Morwell,Num_Psns_UR_5_Total_pc,0.048,15.0
+Gippsland East,Num_Psns_UR_5_Total_pc,0.0494,16.0
+Euroa,Num_Psns_UR_5_Total_pc,0.0505,17.0
+Essendon,Num_Psns_UR_5_Total_pc,0.0513,18.0
+Wendouree,Num_Psns_UR_5_Total_pc,0.0513,19.0
+Lowan,Num_Psns_UR_5_Total_pc,0.0515,20.0
+Malvern,Num_Psns_UR_5_Total_pc,0.0521,21.0
+Geelong,Num_Psns_UR_5_Total_pc,0.0526,22.0
+Ivanhoe,Num_Psns_UR_5_Total_pc,0.0537,23.0
+Williamstown,Num_Psns_UR_5_Total_pc,0.0543,24.0
+Box Hill,Num_Psns_UR_5_Total_pc,0.0557,25.0
+South-West Coast,Num_Psns_UR_5_Total_pc,0.0557,26.0
+Brighton,Num_Psns_UR_5_Total_pc,0.0558,27.0
+Hawthorn,Num_Psns_UR_5_Total_pc,0.056,28.0
+Ovens Valley,Num_Psns_UR_5_Total_pc,0.0563,29.0
+Ripon,Num_Psns_UR_5_Total_pc,0.0564,30.0
+Bellarine,Num_Psns_UR_5_Total_pc,0.0568,31.0
+Benambra,Num_Psns_UR_5_Total_pc,0.0577,32.0
+Gippsland South,Num_Psns_UR_5_Total_pc,0.0577,33.0
+Bayswater,Num_Psns_UR_5_Total_pc,0.0578,34.0
+Lara,Num_Psns_UR_5_Total_pc,0.0579,35.0
+Sandringham,Num_Psns_UR_5_Total_pc,0.0582,36.0
+Murray Plains,Num_Psns_UR_5_Total_pc,0.0585,37.0
+Croydon,Num_Psns_UR_5_Total_pc,0.0588,38.0
+Bass,Num_Psns_UR_5_Total_pc,0.059,39.0
+Mildura,Num_Psns_UR_5_Total_pc,0.0615,40.0
+Bundoora,Num_Psns_UR_5_Total_pc,0.0617,41.0
+Ringwood,Num_Psns_UR_5_Total_pc,0.0618,42.0
+Bentleigh,Num_Psns_UR_5_Total_pc,0.0627,43.0
+Bulleen,Num_Psns_UR_5_Total_pc,0.0628,44.0
+Eildon,Num_Psns_UR_5_Total_pc,0.0629,45.0
+Carrum,Num_Psns_UR_5_Total_pc,0.0633,46.0
+Shepparton,Num_Psns_UR_5_Total_pc,0.0633,47.0
+Bendigo East,Num_Psns_UR_5_Total_pc,0.0637,48.0
+Niddrie,Num_Psns_UR_5_Total_pc,0.0643,49.0
+Polwarth,Num_Psns_UR_5_Total_pc,0.0646,50.0
+Hastings,Num_Psns_UR_5_Total_pc,0.0656,51.0
+Ashwood,Num_Psns_UR_5_Total_pc,0.0663,52.0
+Sunbury,Num_Psns_UR_5_Total_pc,0.0668,53.0
+Narracan,Num_Psns_UR_5_Total_pc,0.0678,54.0
+South Barwon,Num_Psns_UR_5_Total_pc,0.0679,55.0
+Macedon,Num_Psns_UR_5_Total_pc,0.0684,56.0
+Eureka,Num_Psns_UR_5_Total_pc,0.069,57.0
+Mornington,Num_Psns_UR_5_Total_pc,0.07,58.0
+Mulgrave,Num_Psns_UR_5_Total_pc,0.0722,59.0
+Monbulk,Num_Psns_UR_5_Total_pc,0.0726,60.0
+Mordialloc,Num_Psns_UR_5_Total_pc,0.0736,61.0
+Kew,Num_Psns_UR_5_Total_pc,0.0739,62.0
+Glen Waverley,Num_Psns_UR_5_Total_pc,0.074,63.0
+Werribee,Num_Psns_UR_5_Total_pc,0.075,64.0
+Dandenong,Num_Psns_UR_5_Total_pc,0.0772,65.0
+Clarinda,Num_Psns_UR_5_Total_pc,0.0778,66.0
+Evelyn,Num_Psns_UR_5_Total_pc,0.079,67.0
+Eltham,Num_Psns_UR_5_Total_pc,0.0795,68.0
+Broadmeadows,Num_Psns_UR_5_Total_pc,0.0799,69.0
+Rowville,Num_Psns_UR_5_Total_pc,0.0801,70.0
+St Albans,Num_Psns_UR_5_Total_pc,0.0812,71.0
+Pakenham,Num_Psns_UR_5_Total_pc,0.0815,72.0
+Point Cook,Num_Psns_UR_5_Total_pc,0.0824,73.0
+Laverton,Num_Psns_UR_5_Total_pc,0.0845,74.0
+Warrandyte,Num_Psns_UR_5_Total_pc,0.0847,75.0
+Narre Warren North,Num_Psns_UR_5_Total_pc,0.0855,76.0
+Mill Park,Num_Psns_UR_5_Total_pc,0.0866,77.0
+Thomastown,Num_Psns_UR_5_Total_pc,0.087,78.0
+Melton,Num_Psns_UR_5_Total_pc,0.0883,79.0
+Cranbourne,Num_Psns_UR_5_Total_pc,0.0948,80.0
+Tarneit,Num_Psns_UR_5_Total_pc,0.0971,81.0
+Yan Yean,Num_Psns_UR_5_Total_pc,0.1026,82.0
+Berwick,Num_Psns_UR_5_Total_pc,0.1039,83.0
+Kororoit,Num_Psns_UR_5_Total_pc,0.1045,84.0
+Sydenham,Num_Psns_UR_5_Total_pc,0.1078,85.0
+Narre Warren South,Num_Psns_UR_5_Total_pc,0.1121,86.0
+Kalkallo,Num_Psns_UR_5_Total_pc,0.1127,87.0
+Greenvale,Num_Psns_UR_5_Total_pc,0.1215,88.0
+Prahran,Num_Psns_UR_6mo_FamHhold,72.0,1.0
+Albert Park,Num_Psns_UR_6mo_FamHhold,95.0,2.0
+Brunswick,Num_Psns_UR_6mo_FamHhold,106.0,3.0
+Richmond,Num_Psns_UR_6mo_FamHhold,165.0,4.0
+Melbourne,Num_Psns_UR_6mo_FamHhold,203.0,5.0
+Malvern,Num_Psns_UR_6mo_FamHhold,224.0,6.0
+Northcote,Num_Psns_UR_6mo_FamHhold,230.0,7.0
+Sandringham,Num_Psns_UR_6mo_FamHhold,233.0,8.0
+Brighton,Num_Psns_UR_6mo_FamHhold,239.0,9.0
+Nepean,Num_Psns_UR_6mo_FamHhold,324.0,10.0
+Hawthorn,Num_Psns_UR_6mo_FamHhold,352.0,11.0
+Essendon,Num_Psns_UR_6mo_FamHhold,358.0,12.0
+Bellarine,Num_Psns_UR_6mo_FamHhold,382.0,13.0
+Bentleigh,Num_Psns_UR_6mo_FamHhold,388.0,14.0
+Pascoe Vale,Num_Psns_UR_6mo_FamHhold,388.0,15.0
+Footscray,Num_Psns_UR_6mo_FamHhold,389.0,16.0
+Ivanhoe,Num_Psns_UR_6mo_FamHhold,416.0,17.0
+Williamstown,Num_Psns_UR_6mo_FamHhold,416.0,18.0
+Geelong,Num_Psns_UR_6mo_FamHhold,429.0,19.0
+Mornington,Num_Psns_UR_6mo_FamHhold,444.0,20.0
+Frankston,Num_Psns_UR_6mo_FamHhold,476.0,21.0
+Wendouree,Num_Psns_UR_6mo_FamHhold,481.0,22.0
+Eltham,Num_Psns_UR_6mo_FamHhold,482.0,23.0
+Oakleigh,Num_Psns_UR_6mo_FamHhold,482.0,24.0
+Gippsland East,Num_Psns_UR_6mo_FamHhold,487.0,25.0
+Niddrie,Num_Psns_UR_6mo_FamHhold,522.0,26.0
+Ovens Valley,Num_Psns_UR_6mo_FamHhold,522.0,27.0
+Box Hill,Num_Psns_UR_6mo_FamHhold,528.0,28.0
+Lowan,Num_Psns_UR_6mo_FamHhold,530.0,29.0
+South-West Coast,Num_Psns_UR_6mo_FamHhold,540.0,30.0
+Bendigo West,Num_Psns_UR_6mo_FamHhold,551.0,31.0
+Macedon,Num_Psns_UR_6mo_FamHhold,557.0,32.0
+Caulfield,Num_Psns_UR_6mo_FamHhold,560.0,33.0
+Polwarth,Num_Psns_UR_6mo_FamHhold,568.0,34.0
+South Barwon,Num_Psns_UR_6mo_FamHhold,572.0,35.0
+Ashwood,Num_Psns_UR_6mo_FamHhold,573.0,36.0
+Euroa,Num_Psns_UR_6mo_FamHhold,573.0,37.0
+Mordialloc,Num_Psns_UR_6mo_FamHhold,575.0,38.0
+Bundoora,Num_Psns_UR_6mo_FamHhold,577.0,39.0
+Ringwood,Num_Psns_UR_6mo_FamHhold,582.0,40.0
+Sunbury,Num_Psns_UR_6mo_FamHhold,586.0,41.0
+Bass,Num_Psns_UR_6mo_FamHhold,598.0,42.0
+Benambra,Num_Psns_UR_6mo_FamHhold,607.0,43.0
+Gippsland South,Num_Psns_UR_6mo_FamHhold,607.0,44.0
+Preston,Num_Psns_UR_6mo_FamHhold,613.0,45.0
+Kew,Num_Psns_UR_6mo_FamHhold,619.0,46.0
+Monbulk,Num_Psns_UR_6mo_FamHhold,623.0,47.0
+Morwell,Num_Psns_UR_6mo_FamHhold,634.0,48.0
+Bulleen,Num_Psns_UR_6mo_FamHhold,636.0,49.0
+Hastings,Num_Psns_UR_6mo_FamHhold,637.0,50.0
+Bayswater,Num_Psns_UR_6mo_FamHhold,640.0,51.0
+Carrum,Num_Psns_UR_6mo_FamHhold,646.0,52.0
+Eildon,Num_Psns_UR_6mo_FamHhold,659.0,53.0
+Croydon,Num_Psns_UR_6mo_FamHhold,667.0,54.0
+Murray Plains,Num_Psns_UR_6mo_FamHhold,672.0,55.0
+Eureka,Num_Psns_UR_6mo_FamHhold,688.0,56.0
+Ripon,Num_Psns_UR_6mo_FamHhold,693.0,57.0
+Rowville,Num_Psns_UR_6mo_FamHhold,727.0,58.0
+Bendigo East,Num_Psns_UR_6mo_FamHhold,738.0,59.0
+Warrandyte,Num_Psns_UR_6mo_FamHhold,738.0,60.0
+Lara,Num_Psns_UR_6mo_FamHhold,812.0,61.0
+Narracan,Num_Psns_UR_6mo_FamHhold,814.0,62.0
+Evelyn,Num_Psns_UR_6mo_FamHhold,820.0,63.0
+Mildura,Num_Psns_UR_6mo_FamHhold,840.0,64.0
+Glen Waverley,Num_Psns_UR_6mo_FamHhold,848.0,65.0
+Mill Park,Num_Psns_UR_6mo_FamHhold,891.0,66.0
+Yan Yean,Num_Psns_UR_6mo_FamHhold,964.0,67.0
+Shepparton,Num_Psns_UR_6mo_FamHhold,985.0,68.0
+Clarinda,Num_Psns_UR_6mo_FamHhold,1024.0,69.0
+Mulgrave,Num_Psns_UR_6mo_FamHhold,1129.0,70.0
+Sydenham,Num_Psns_UR_6mo_FamHhold,1200.0,71.0
+Point Cook,Num_Psns_UR_6mo_FamHhold,1204.0,72.0
+Berwick,Num_Psns_UR_6mo_FamHhold,1208.0,73.0
+Pakenham,Num_Psns_UR_6mo_FamHhold,1275.0,74.0
+Werribee,Num_Psns_UR_6mo_FamHhold,1314.0,75.0
+Thomastown,Num_Psns_UR_6mo_FamHhold,1376.0,76.0
+Narre Warren North,Num_Psns_UR_6mo_FamHhold,1438.0,77.0
+St Albans,Num_Psns_UR_6mo_FamHhold,1550.0,78.0
+Broadmeadows,Num_Psns_UR_6mo_FamHhold,1555.0,79.0
+Melton,Num_Psns_UR_6mo_FamHhold,1706.0,80.0
+Cranbourne,Num_Psns_UR_6mo_FamHhold,1707.0,81.0
+Laverton,Num_Psns_UR_6mo_FamHhold,1787.0,82.0
+Kororoit,Num_Psns_UR_6mo_FamHhold,1816.0,83.0
+Dandenong,Num_Psns_UR_6mo_FamHhold,1889.0,84.0
+Tarneit,Num_Psns_UR_6mo_FamHhold,2070.0,85.0
+Greenvale,Num_Psns_UR_6mo_FamHhold,2089.0,86.0
+Kalkallo,Num_Psns_UR_6mo_FamHhold,2138.0,87.0
+Narre Warren South,Num_Psns_UR_6mo_FamHhold,2337.0,88.0
+Prahran,Num_Psns_UR_6mo_FamHhold_pc,0.0019,1.0
+Albert Park,Num_Psns_UR_6mo_FamHhold_pc,0.0027,2.0
+Brunswick,Num_Psns_UR_6mo_FamHhold_pc,0.0035,3.0
+Melbourne,Num_Psns_UR_6mo_FamHhold_pc,0.0037,4.0
+Richmond,Num_Psns_UR_6mo_FamHhold_pc,0.0053,5.0
+Northcote,Num_Psns_UR_6mo_FamHhold_pc,0.0083,6.0
+Malvern,Num_Psns_UR_6mo_FamHhold_pc,0.0085,7.0
+Brighton,Num_Psns_UR_6mo_FamHhold_pc,0.0091,8.0
+Sandringham,Num_Psns_UR_6mo_FamHhold_pc,0.0094,9.0
+Essendon,Num_Psns_UR_6mo_FamHhold_pc,0.0125,10.0
+Hawthorn,Num_Psns_UR_6mo_FamHhold_pc,0.0125,11.0
+Nepean,Num_Psns_UR_6mo_FamHhold_pc,0.0129,12.0
+Footscray,Num_Psns_UR_6mo_FamHhold_pc,0.0133,13.0
+Bentleigh,Num_Psns_UR_6mo_FamHhold_pc,0.0137,14.0
+Oakleigh,Num_Psns_UR_6mo_FamHhold_pc,0.0141,15.0
+Bellarine,Num_Psns_UR_6mo_FamHhold_pc,0.0142,16.0
+Pascoe Vale,Num_Psns_UR_6mo_FamHhold_pc,0.0144,17.0
+Geelong,Num_Psns_UR_6mo_FamHhold_pc,0.0147,18.0
+Box Hill,Num_Psns_UR_6mo_FamHhold_pc,0.0164,19.0
+Ivanhoe,Num_Psns_UR_6mo_FamHhold_pc,0.0164,20.0
+Williamstown,Num_Psns_UR_6mo_FamHhold_pc,0.0165,21.0
+Wendouree,Num_Psns_UR_6mo_FamHhold_pc,0.0174,22.0
+Frankston,Num_Psns_UR_6mo_FamHhold_pc,0.0175,23.0
+Mornington,Num_Psns_UR_6mo_FamHhold_pc,0.0184,24.0
+Lowan,Num_Psns_UR_6mo_FamHhold_pc,0.019,25.0
+Caulfield,Num_Psns_UR_6mo_FamHhold_pc,0.0191,26.0
+Gippsland East,Num_Psns_UR_6mo_FamHhold_pc,0.0191,27.0
+Ringwood,Num_Psns_UR_6mo_FamHhold_pc,0.0192,28.0
+South-West Coast,Num_Psns_UR_6mo_FamHhold_pc,0.0198,29.0
+Ashwood,Num_Psns_UR_6mo_FamHhold_pc,0.0199,30.0
+Niddrie,Num_Psns_UR_6mo_FamHhold_pc,0.0205,31.0
+Eltham,Num_Psns_UR_6mo_FamHhold_pc,0.0208,32.0
+Preston,Num_Psns_UR_6mo_FamHhold_pc,0.0209,33.0
+Ovens Valley,Num_Psns_UR_6mo_FamHhold_pc,0.021,34.0
+Polwarth,Num_Psns_UR_6mo_FamHhold_pc,0.0216,35.0
+Bendigo West,Num_Psns_UR_6mo_FamHhold_pc,0.0217,36.0
+Euroa,Num_Psns_UR_6mo_FamHhold_pc,0.022,37.0
+Mordialloc,Num_Psns_UR_6mo_FamHhold_pc,0.022,38.0
+South Barwon,Num_Psns_UR_6mo_FamHhold_pc,0.022,39.0
+Morwell,Num_Psns_UR_6mo_FamHhold_pc,0.0222,40.0
+Bundoora,Num_Psns_UR_6mo_FamHhold_pc,0.0226,41.0
+Bulleen,Num_Psns_UR_6mo_FamHhold_pc,0.0232,42.0
+Kew,Num_Psns_UR_6mo_FamHhold_pc,0.0233,43.0
+Bayswater,Num_Psns_UR_6mo_FamHhold_pc,0.0234,44.0
+Croydon,Num_Psns_UR_6mo_FamHhold_pc,0.0235,45.0
+Carrum,Num_Psns_UR_6mo_FamHhold_pc,0.0236,46.0
+Gippsland South,Num_Psns_UR_6mo_FamHhold_pc,0.0237,47.0
+Bass,Num_Psns_UR_6mo_FamHhold_pc,0.0239,48.0
+Benambra,Num_Psns_UR_6mo_FamHhold_pc,0.0239,49.0
+Macedon,Num_Psns_UR_6mo_FamHhold_pc,0.0239,50.0
+Eureka,Num_Psns_UR_6mo_FamHhold_pc,0.0249,51.0
+Sunbury,Num_Psns_UR_6mo_FamHhold_pc,0.0251,52.0
+Hastings,Num_Psns_UR_6mo_FamHhold_pc,0.0261,53.0
+Ripon,Num_Psns_UR_6mo_FamHhold_pc,0.0261,54.0
+Monbulk,Num_Psns_UR_6mo_FamHhold_pc,0.0267,55.0
+Murray Plains,Num_Psns_UR_6mo_FamHhold_pc,0.0268,56.0
+Eildon,Num_Psns_UR_6mo_FamHhold_pc,0.0269,57.0
+Bendigo East,Num_Psns_UR_6mo_FamHhold_pc,0.0273,58.0
+Warrandyte,Num_Psns_UR_6mo_FamHhold_pc,0.0294,59.0
+Rowville,Num_Psns_UR_6mo_FamHhold_pc,0.0298,60.0
+Glen Waverley,Num_Psns_UR_6mo_FamHhold_pc,0.03,61.0
+Lara,Num_Psns_UR_6mo_FamHhold_pc,0.031,62.0
+Mildura,Num_Psns_UR_6mo_FamHhold_pc,0.0323,63.0
+Narracan,Num_Psns_UR_6mo_FamHhold_pc,0.0327,64.0
+Evelyn,Num_Psns_UR_6mo_FamHhold_pc,0.034,65.0
+Shepparton,Num_Psns_UR_6mo_FamHhold_pc,0.0361,66.0
+Mill Park,Num_Psns_UR_6mo_FamHhold_pc,0.0392,67.0
+Point Cook,Num_Psns_UR_6mo_FamHhold_pc,0.0402,68.0
+Clarinda,Num_Psns_UR_6mo_FamHhold_pc,0.0404,69.0
+Yan Yean,Num_Psns_UR_6mo_FamHhold_pc,0.0413,70.0
+Mulgrave,Num_Psns_UR_6mo_FamHhold_pc,0.0426,71.0
+Werribee,Num_Psns_UR_6mo_FamHhold_pc,0.0466,72.0
+Berwick,Num_Psns_UR_6mo_FamHhold_pc,0.0475,73.0
+Pakenham,Num_Psns_UR_6mo_FamHhold_pc,0.0493,74.0
+Sydenham,Num_Psns_UR_6mo_FamHhold_pc,0.0502,75.0
+Thomastown,Num_Psns_UR_6mo_FamHhold_pc,0.0534,76.0
+Narre Warren North,Num_Psns_UR_6mo_FamHhold_pc,0.0562,77.0
+Broadmeadows,Num_Psns_UR_6mo_FamHhold_pc,0.0569,78.0
+Laverton,Num_Psns_UR_6mo_FamHhold_pc,0.0601,79.0
+Cranbourne,Num_Psns_UR_6mo_FamHhold_pc,0.0626,80.0
+Dandenong,Num_Psns_UR_6mo_FamHhold_pc,0.0635,81.0
+Melton,Num_Psns_UR_6mo_FamHhold_pc,0.064,82.0
+St Albans,Num_Psns_UR_6mo_FamHhold_pc,0.0647,83.0
+Kororoit,Num_Psns_UR_6mo_FamHhold_pc,0.0704,84.0
+Tarneit,Num_Psns_UR_6mo_FamHhold_pc,0.0739,85.0
+Kalkallo,Num_Psns_UR_6mo_FamHhold_pc,0.0761,86.0
+Narre Warren South,Num_Psns_UR_6mo_FamHhold_pc,0.0892,87.0
+Greenvale,Num_Psns_UR_6mo_FamHhold_pc,0.0942,88.0
+Bass,Num_Psns_UR_6mo_NonFamHhold,0.0,1.0
+Bayswater,Num_Psns_UR_6mo_NonFamHhold,0.0,2.0
+Bellarine,Num_Psns_UR_6mo_NonFamHhold,0.0,3.0
+Benambra,Num_Psns_UR_6mo_NonFamHhold,0.0,4.0
+Bendigo East,Num_Psns_UR_6mo_NonFamHhold,0.0,5.0
+Bendigo West,Num_Psns_UR_6mo_NonFamHhold,0.0,6.0
+Bentleigh,Num_Psns_UR_6mo_NonFamHhold,0.0,7.0
+Berwick,Num_Psns_UR_6mo_NonFamHhold,0.0,8.0
+Brighton,Num_Psns_UR_6mo_NonFamHhold,0.0,9.0
+Bulleen,Num_Psns_UR_6mo_NonFamHhold,0.0,10.0
+Carrum,Num_Psns_UR_6mo_NonFamHhold,0.0,11.0
+Cranbourne,Num_Psns_UR_6mo_NonFamHhold,0.0,12.0
+Croydon,Num_Psns_UR_6mo_NonFamHhold,0.0,13.0
+Eltham,Num_Psns_UR_6mo_NonFamHhold,0.0,14.0
+Essendon,Num_Psns_UR_6mo_NonFamHhold,0.0,15.0
+Eureka,Num_Psns_UR_6mo_NonFamHhold,0.0,16.0
+Frankston,Num_Psns_UR_6mo_NonFamHhold,0.0,17.0
+Geelong,Num_Psns_UR_6mo_NonFamHhold,0.0,18.0
+Gippsland East,Num_Psns_UR_6mo_NonFamHhold,0.0,19.0
+Gippsland South,Num_Psns_UR_6mo_NonFamHhold,0.0,20.0
+Greenvale,Num_Psns_UR_6mo_NonFamHhold,0.0,21.0
+Hastings,Num_Psns_UR_6mo_NonFamHhold,0.0,22.0
+Ivanhoe,Num_Psns_UR_6mo_NonFamHhold,0.0,23.0
+Kew,Num_Psns_UR_6mo_NonFamHhold,0.0,24.0
+Kororoit,Num_Psns_UR_6mo_NonFamHhold,0.0,25.0
+Lara,Num_Psns_UR_6mo_NonFamHhold,0.0,26.0
+Lowan,Num_Psns_UR_6mo_NonFamHhold,0.0,27.0
+Macedon,Num_Psns_UR_6mo_NonFamHhold,0.0,28.0
+Melton,Num_Psns_UR_6mo_NonFamHhold,0.0,29.0
+Monbulk,Num_Psns_UR_6mo_NonFamHhold,0.0,30.0
+Mordialloc,Num_Psns_UR_6mo_NonFamHhold,0.0,31.0
+Mornington,Num_Psns_UR_6mo_NonFamHhold,0.0,32.0
+Morwell,Num_Psns_UR_6mo_NonFamHhold,0.0,33.0
+Murray Plains,Num_Psns_UR_6mo_NonFamHhold,0.0,34.0
+Narracan,Num_Psns_UR_6mo_NonFamHhold,0.0,35.0
+Narre Warren North,Num_Psns_UR_6mo_NonFamHhold,0.0,36.0
+Narre Warren South,Num_Psns_UR_6mo_NonFamHhold,0.0,37.0
+Nepean,Num_Psns_UR_6mo_NonFamHhold,0.0,38.0
+Niddrie,Num_Psns_UR_6mo_NonFamHhold,0.0,39.0
+Northcote,Num_Psns_UR_6mo_NonFamHhold,0.0,40.0
+Pakenham,Num_Psns_UR_6mo_NonFamHhold,0.0,41.0
+Rowville,Num_Psns_UR_6mo_NonFamHhold,0.0,42.0
+Sandringham,Num_Psns_UR_6mo_NonFamHhold,0.0,43.0
+South-West Coast,Num_Psns_UR_6mo_NonFamHhold,0.0,44.0
+St Albans,Num_Psns_UR_6mo_NonFamHhold,0.0,45.0
+Sunbury,Num_Psns_UR_6mo_NonFamHhold,0.0,46.0
+Sydenham,Num_Psns_UR_6mo_NonFamHhold,0.0,47.0
+Warrandyte,Num_Psns_UR_6mo_NonFamHhold,0.0,48.0
+Werribee,Num_Psns_UR_6mo_NonFamHhold,0.0,49.0
+Williamstown,Num_Psns_UR_6mo_NonFamHhold,0.0,50.0
+Yan Yean,Num_Psns_UR_6mo_NonFamHhold,0.0,51.0
+Albert Park,Num_Psns_UR_6mo_NonFamHhold,3.0,52.0
+Bundoora,Num_Psns_UR_6mo_NonFamHhold,3.0,53.0
+Evelyn,Num_Psns_UR_6mo_NonFamHhold,3.0,54.0
+Point Cook,Num_Psns_UR_6mo_NonFamHhold,3.0,55.0
+Kalkallo,Num_Psns_UR_6mo_NonFamHhold,4.0,56.0
+Malvern,Num_Psns_UR_6mo_NonFamHhold,4.0,57.0
+Mill Park,Num_Psns_UR_6mo_NonFamHhold,4.0,58.0
+Polwarth,Num_Psns_UR_6mo_NonFamHhold,4.0,59.0
+Ringwood,Num_Psns_UR_6mo_NonFamHhold,4.0,60.0
+Wendouree,Num_Psns_UR_6mo_NonFamHhold,4.0,61.0
+Euroa,Num_Psns_UR_6mo_NonFamHhold,5.0,62.0
+Ovens Valley,Num_Psns_UR_6mo_NonFamHhold,5.0,63.0
+Pascoe Vale,Num_Psns_UR_6mo_NonFamHhold,5.0,64.0
+Prahran,Num_Psns_UR_6mo_NonFamHhold,5.0,65.0
+Brunswick,Num_Psns_UR_6mo_NonFamHhold,6.0,66.0
+Eildon,Num_Psns_UR_6mo_NonFamHhold,6.0,67.0
+Richmond,Num_Psns_UR_6mo_NonFamHhold,6.0,68.0
+Ripon,Num_Psns_UR_6mo_NonFamHhold,6.0,69.0
+Ashwood,Num_Psns_UR_6mo_NonFamHhold,7.0,70.0
+Broadmeadows,Num_Psns_UR_6mo_NonFamHhold,7.0,71.0
+Clarinda,Num_Psns_UR_6mo_NonFamHhold,7.0,72.0
+Tarneit,Num_Psns_UR_6mo_NonFamHhold,7.0,73.0
+Caulfield,Num_Psns_UR_6mo_NonFamHhold,8.0,74.0
+Hawthorn,Num_Psns_UR_6mo_NonFamHhold,8.0,75.0
+Shepparton,Num_Psns_UR_6mo_NonFamHhold,11.0,76.0
+Dandenong,Num_Psns_UR_6mo_NonFamHhold,12.0,77.0
+Footscray,Num_Psns_UR_6mo_NonFamHhold,12.0,78.0
+Glen Waverley,Num_Psns_UR_6mo_NonFamHhold,12.0,79.0
+Thomastown,Num_Psns_UR_6mo_NonFamHhold,12.0,80.0
+Preston,Num_Psns_UR_6mo_NonFamHhold,15.0,81.0
+Mulgrave,Num_Psns_UR_6mo_NonFamHhold,18.0,82.0
+South Barwon,Num_Psns_UR_6mo_NonFamHhold,21.0,83.0
+Mildura,Num_Psns_UR_6mo_NonFamHhold,22.0,84.0
+Box Hill,Num_Psns_UR_6mo_NonFamHhold,25.0,85.0
+Melbourne,Num_Psns_UR_6mo_NonFamHhold,38.0,86.0
+Laverton,Num_Psns_UR_6mo_NonFamHhold,52.0,87.0
+Oakleigh,Num_Psns_UR_6mo_NonFamHhold,77.0,88.0
+Bass,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,1.0
+Bayswater,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,2.0
+Bellarine,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,3.0
+Benambra,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,4.0
+Bendigo East,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,5.0
+Bendigo West,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,6.0
+Bentleigh,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,7.0
+Berwick,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,8.0
+Brighton,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,9.0
+Bulleen,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,10.0
+Carrum,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,11.0
+Cranbourne,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,12.0
+Croydon,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,13.0
+Eltham,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,14.0
+Essendon,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,15.0
+Eureka,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,16.0
+Frankston,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,17.0
+Geelong,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,18.0
+Gippsland East,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,19.0
+Gippsland South,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,20.0
+Greenvale,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,21.0
+Hastings,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,22.0
+Ivanhoe,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,23.0
+Kew,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,24.0
+Kororoit,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,25.0
+Lara,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,26.0
+Lowan,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,27.0
+Macedon,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,28.0
+Melton,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,29.0
+Monbulk,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,30.0
+Mordialloc,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,31.0
+Mornington,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,32.0
+Morwell,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,33.0
+Murray Plains,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,34.0
+Narracan,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,35.0
+Narre Warren North,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,36.0
+Narre Warren South,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,37.0
+Nepean,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,38.0
+Niddrie,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,39.0
+Northcote,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,40.0
+Pakenham,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,41.0
+Rowville,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,42.0
+Sandringham,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,43.0
+South-West Coast,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,44.0
+St Albans,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,45.0
+Sunbury,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,46.0
+Sydenham,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,47.0
+Warrandyte,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,48.0
+Werribee,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,49.0
+Williamstown,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,50.0
+Yan Yean,Num_Psns_UR_6mo_NonFamHhold_pc,0.0,51.0
+Albert Park,Num_Psns_UR_6mo_NonFamHhold_pc,0.0001,52.0
+Bundoora,Num_Psns_UR_6mo_NonFamHhold_pc,0.0001,53.0
+Evelyn,Num_Psns_UR_6mo_NonFamHhold_pc,0.0001,54.0
+Kalkallo,Num_Psns_UR_6mo_NonFamHhold_pc,0.0001,55.0
+Point Cook,Num_Psns_UR_6mo_NonFamHhold_pc,0.0001,56.0
+Prahran,Num_Psns_UR_6mo_NonFamHhold_pc,0.0001,57.0
+Ringwood,Num_Psns_UR_6mo_NonFamHhold_pc,0.0001,58.0
+Wendouree,Num_Psns_UR_6mo_NonFamHhold_pc,0.0001,59.0
+Ashwood,Num_Psns_UR_6mo_NonFamHhold_pc,0.0002,60.0
+Brunswick,Num_Psns_UR_6mo_NonFamHhold_pc,0.0002,61.0
+Eildon,Num_Psns_UR_6mo_NonFamHhold_pc,0.0002,62.0
+Euroa,Num_Psns_UR_6mo_NonFamHhold_pc,0.0002,63.0
+Malvern,Num_Psns_UR_6mo_NonFamHhold_pc,0.0002,64.0
+Mill Park,Num_Psns_UR_6mo_NonFamHhold_pc,0.0002,65.0
+Ovens Valley,Num_Psns_UR_6mo_NonFamHhold_pc,0.0002,66.0
+Pascoe Vale,Num_Psns_UR_6mo_NonFamHhold_pc,0.0002,67.0
+Polwarth,Num_Psns_UR_6mo_NonFamHhold_pc,0.0002,68.0
+Richmond,Num_Psns_UR_6mo_NonFamHhold_pc,0.0002,69.0
+Ripon,Num_Psns_UR_6mo_NonFamHhold_pc,0.0002,70.0
+Tarneit,Num_Psns_UR_6mo_NonFamHhold_pc,0.0002,71.0
+Broadmeadows,Num_Psns_UR_6mo_NonFamHhold_pc,0.0003,72.0
+Caulfield,Num_Psns_UR_6mo_NonFamHhold_pc,0.0003,73.0
+Clarinda,Num_Psns_UR_6mo_NonFamHhold_pc,0.0003,74.0
+Hawthorn,Num_Psns_UR_6mo_NonFamHhold_pc,0.0003,75.0
+Dandenong,Num_Psns_UR_6mo_NonFamHhold_pc,0.0004,76.0
+Footscray,Num_Psns_UR_6mo_NonFamHhold_pc,0.0004,77.0
+Glen Waverley,Num_Psns_UR_6mo_NonFamHhold_pc,0.0004,78.0
+Shepparton,Num_Psns_UR_6mo_NonFamHhold_pc,0.0004,79.0
+Preston,Num_Psns_UR_6mo_NonFamHhold_pc,0.0005,80.0
+Thomastown,Num_Psns_UR_6mo_NonFamHhold_pc,0.0005,81.0
+Melbourne,Num_Psns_UR_6mo_NonFamHhold_pc,0.0007,82.0
+Mulgrave,Num_Psns_UR_6mo_NonFamHhold_pc,0.0007,83.0
+Box Hill,Num_Psns_UR_6mo_NonFamHhold_pc,0.0008,84.0
+Mildura,Num_Psns_UR_6mo_NonFamHhold_pc,0.0008,85.0
+South Barwon,Num_Psns_UR_6mo_NonFamHhold_pc,0.0008,86.0
+Laverton,Num_Psns_UR_6mo_NonFamHhold_pc,0.0017,87.0
+Oakleigh,Num_Psns_UR_6mo_NonFamHhold_pc,0.0023,88.0
+Prahran,Num_Psns_UR_6mo_Total,71.0,1.0
+Albert Park,Num_Psns_UR_6mo_Total,88.0,2.0
+Brunswick,Num_Psns_UR_6mo_Total,141.0,3.0
+Richmond,Num_Psns_UR_6mo_Total,179.0,4.0
+Malvern,Num_Psns_UR_6mo_Total,231.0,5.0
+Sandringham,Num_Psns_UR_6mo_Total,233.0,6.0
+Brighton,Num_Psns_UR_6mo_Total,245.0,7.0
+Northcote,Num_Psns_UR_6mo_Total,249.0,8.0
+Melbourne,Num_Psns_UR_6mo_Total,267.0,9.0
+Nepean,Num_Psns_UR_6mo_Total,327.0,10.0
+Essendon,Num_Psns_UR_6mo_Total,378.0,11.0
+Hawthorn,Num_Psns_UR_6mo_Total,379.0,12.0
+Bellarine,Num_Psns_UR_6mo_Total,391.0,13.0
+Bentleigh,Num_Psns_UR_6mo_Total,400.0,14.0
+Pascoe Vale,Num_Psns_UR_6mo_Total,406.0,15.0
+Footscray,Num_Psns_UR_6mo_Total,408.0,16.0
+Ivanhoe,Num_Psns_UR_6mo_Total,429.0,17.0
+Williamstown,Num_Psns_UR_6mo_Total,430.0,18.0
+Mornington,Num_Psns_UR_6mo_Total,444.0,19.0
+Geelong,Num_Psns_UR_6mo_Total,462.0,20.0
+Frankston,Num_Psns_UR_6mo_Total,485.0,21.0
+Eltham,Num_Psns_UR_6mo_Total,490.0,22.0
+Wendouree,Num_Psns_UR_6mo_Total,491.0,23.0
+Gippsland East,Num_Psns_UR_6mo_Total,509.0,24.0
+Niddrie,Num_Psns_UR_6mo_Total,534.0,25.0
+Ovens Valley,Num_Psns_UR_6mo_Total,535.0,26.0
+Lowan,Num_Psns_UR_6mo_Total,536.0,27.0
+South-West Coast,Num_Psns_UR_6mo_Total,552.0,28.0
+Bendigo West,Num_Psns_UR_6mo_Total,558.0,29.0
+Macedon,Num_Psns_UR_6mo_Total,565.0,30.0
+Oakleigh,Num_Psns_UR_6mo_Total,571.0,31.0
+Polwarth,Num_Psns_UR_6mo_Total,572.0,32.0
+Mordialloc,Num_Psns_UR_6mo_Total,574.0,33.0
+Ringwood,Num_Psns_UR_6mo_Total,585.0,34.0
+Euroa,Num_Psns_UR_6mo_Total,586.0,35.0
+Sunbury,Num_Psns_UR_6mo_Total,595.0,36.0
+Bass,Num_Psns_UR_6mo_Total,599.0,37.0
+Caulfield,Num_Psns_UR_6mo_Total,599.0,38.0
+Gippsland South,Num_Psns_UR_6mo_Total,603.0,39.0
+Benambra,Num_Psns_UR_6mo_Total,607.0,40.0
+Box Hill,Num_Psns_UR_6mo_Total,608.0,41.0
+South Barwon,Num_Psns_UR_6mo_Total,624.0,42.0
+Bundoora,Num_Psns_UR_6mo_Total,628.0,43.0
+Monbulk,Num_Psns_UR_6mo_Total,629.0,44.0
+Ashwood,Num_Psns_UR_6mo_Total,631.0,45.0
+Preston,Num_Psns_UR_6mo_Total,637.0,46.0
+Hastings,Num_Psns_UR_6mo_Total,640.0,47.0
+Carrum,Num_Psns_UR_6mo_Total,645.0,48.0
+Kew,Num_Psns_UR_6mo_Total,646.0,49.0
+Bayswater,Num_Psns_UR_6mo_Total,648.0,50.0
+Morwell,Num_Psns_UR_6mo_Total,653.0,51.0
+Eildon,Num_Psns_UR_6mo_Total,666.0,52.0
+Bulleen,Num_Psns_UR_6mo_Total,669.0,53.0
+Murray Plains,Num_Psns_UR_6mo_Total,670.0,54.0
+Croydon,Num_Psns_UR_6mo_Total,676.0,55.0
+Eureka,Num_Psns_UR_6mo_Total,692.0,56.0
+Ripon,Num_Psns_UR_6mo_Total,699.0,57.0
+Rowville,Num_Psns_UR_6mo_Total,726.0,58.0
+Warrandyte,Num_Psns_UR_6mo_Total,738.0,59.0
+Bendigo East,Num_Psns_UR_6mo_Total,757.0,60.0
+Lara,Num_Psns_UR_6mo_Total,799.0,61.0
+Narracan,Num_Psns_UR_6mo_Total,809.0,62.0
+Evelyn,Num_Psns_UR_6mo_Total,827.0,63.0
+Mildura,Num_Psns_UR_6mo_Total,905.0,64.0
+Mill Park,Num_Psns_UR_6mo_Total,905.0,65.0
+Glen Waverley,Num_Psns_UR_6mo_Total,910.0,66.0
+Yan Yean,Num_Psns_UR_6mo_Total,972.0,67.0
+Shepparton,Num_Psns_UR_6mo_Total,1023.0,68.0
+Clarinda,Num_Psns_UR_6mo_Total,1057.0,69.0
+Mulgrave,Num_Psns_UR_6mo_Total,1180.0,70.0
+Sydenham,Num_Psns_UR_6mo_Total,1196.0,71.0
+Point Cook,Num_Psns_UR_6mo_Total,1199.0,72.0
+Berwick,Num_Psns_UR_6mo_Total,1216.0,73.0
+Pakenham,Num_Psns_UR_6mo_Total,1281.0,74.0
+Werribee,Num_Psns_UR_6mo_Total,1322.0,75.0
+Thomastown,Num_Psns_UR_6mo_Total,1418.0,76.0
+Narre Warren North,Num_Psns_UR_6mo_Total,1444.0,77.0
+St Albans,Num_Psns_UR_6mo_Total,1566.0,78.0
+Broadmeadows,Num_Psns_UR_6mo_Total,1570.0,79.0
+Melton,Num_Psns_UR_6mo_Total,1716.0,80.0
+Cranbourne,Num_Psns_UR_6mo_Total,1722.0,81.0
+Kororoit,Num_Psns_UR_6mo_Total,1838.0,82.0
+Laverton,Num_Psns_UR_6mo_Total,1879.0,83.0
+Dandenong,Num_Psns_UR_6mo_Total,1949.0,84.0
+Tarneit,Num_Psns_UR_6mo_Total,2091.0,85.0
+Greenvale,Num_Psns_UR_6mo_Total,2100.0,86.0
+Kalkallo,Num_Psns_UR_6mo_Total,2143.0,87.0
+Narre Warren South,Num_Psns_UR_6mo_Total,2341.0,88.0
+Prahran,Num_Psns_UR_6mo_Total_pc,0.0019,1.0
+Albert Park,Num_Psns_UR_6mo_Total_pc,0.0025,2.0
+Brunswick,Num_Psns_UR_6mo_Total_pc,0.0047,3.0
+Melbourne,Num_Psns_UR_6mo_Total_pc,0.0049,4.0
+Richmond,Num_Psns_UR_6mo_Total_pc,0.0058,5.0
+Malvern,Num_Psns_UR_6mo_Total_pc,0.0088,6.0
+Northcote,Num_Psns_UR_6mo_Total_pc,0.009,7.0
+Brighton,Num_Psns_UR_6mo_Total_pc,0.0094,8.0
+Sandringham,Num_Psns_UR_6mo_Total_pc,0.0094,9.0
+Nepean,Num_Psns_UR_6mo_Total_pc,0.013,10.0
+Essendon,Num_Psns_UR_6mo_Total_pc,0.0132,11.0
+Hawthorn,Num_Psns_UR_6mo_Total_pc,0.0135,12.0
+Footscray,Num_Psns_UR_6mo_Total_pc,0.014,13.0
+Bentleigh,Num_Psns_UR_6mo_Total_pc,0.0141,14.0
+Bellarine,Num_Psns_UR_6mo_Total_pc,0.0145,15.0
+Pascoe Vale,Num_Psns_UR_6mo_Total_pc,0.0151,16.0
+Geelong,Num_Psns_UR_6mo_Total_pc,0.0159,17.0
+Oakleigh,Num_Psns_UR_6mo_Total_pc,0.0167,18.0
+Ivanhoe,Num_Psns_UR_6mo_Total_pc,0.0169,19.0
+Williamstown,Num_Psns_UR_6mo_Total_pc,0.017,20.0
+Frankston,Num_Psns_UR_6mo_Total_pc,0.0178,21.0
+Wendouree,Num_Psns_UR_6mo_Total_pc,0.0178,22.0
+Mornington,Num_Psns_UR_6mo_Total_pc,0.0184,23.0
+Box Hill,Num_Psns_UR_6mo_Total_pc,0.0188,24.0
+Lowan,Num_Psns_UR_6mo_Total_pc,0.0192,25.0
+Ringwood,Num_Psns_UR_6mo_Total_pc,0.0193,26.0
+Gippsland East,Num_Psns_UR_6mo_Total_pc,0.0199,27.0
+South-West Coast,Num_Psns_UR_6mo_Total_pc,0.0202,28.0
+Caulfield,Num_Psns_UR_6mo_Total_pc,0.0204,29.0
+Niddrie,Num_Psns_UR_6mo_Total_pc,0.021,30.0
+Eltham,Num_Psns_UR_6mo_Total_pc,0.0212,31.0
+Ovens Valley,Num_Psns_UR_6mo_Total_pc,0.0215,32.0
+Preston,Num_Psns_UR_6mo_Total_pc,0.0217,33.0
+Polwarth,Num_Psns_UR_6mo_Total_pc,0.0218,34.0
+Ashwood,Num_Psns_UR_6mo_Total_pc,0.0219,35.0
+Bendigo West,Num_Psns_UR_6mo_Total_pc,0.0219,36.0
+Mordialloc,Num_Psns_UR_6mo_Total_pc,0.022,37.0
+Euroa,Num_Psns_UR_6mo_Total_pc,0.0225,38.0
+Morwell,Num_Psns_UR_6mo_Total_pc,0.0229,39.0
+Carrum,Num_Psns_UR_6mo_Total_pc,0.0235,40.0
+Gippsland South,Num_Psns_UR_6mo_Total_pc,0.0236,41.0
+Bayswater,Num_Psns_UR_6mo_Total_pc,0.0237,42.0
+Croydon,Num_Psns_UR_6mo_Total_pc,0.0238,43.0
+Bass,Num_Psns_UR_6mo_Total_pc,0.0239,44.0
+Benambra,Num_Psns_UR_6mo_Total_pc,0.0239,45.0
+South Barwon,Num_Psns_UR_6mo_Total_pc,0.024,46.0
+Macedon,Num_Psns_UR_6mo_Total_pc,0.0242,47.0
+Kew,Num_Psns_UR_6mo_Total_pc,0.0243,48.0
+Bulleen,Num_Psns_UR_6mo_Total_pc,0.0244,49.0
+Bundoora,Num_Psns_UR_6mo_Total_pc,0.0246,50.0
+Eureka,Num_Psns_UR_6mo_Total_pc,0.025,51.0
+Sunbury,Num_Psns_UR_6mo_Total_pc,0.0255,52.0
+Hastings,Num_Psns_UR_6mo_Total_pc,0.0262,53.0
+Ripon,Num_Psns_UR_6mo_Total_pc,0.0263,54.0
+Murray Plains,Num_Psns_UR_6mo_Total_pc,0.0267,55.0
+Monbulk,Num_Psns_UR_6mo_Total_pc,0.027,56.0
+Eildon,Num_Psns_UR_6mo_Total_pc,0.0272,57.0
+Bendigo East,Num_Psns_UR_6mo_Total_pc,0.0281,58.0
+Warrandyte,Num_Psns_UR_6mo_Total_pc,0.0294,59.0
+Rowville,Num_Psns_UR_6mo_Total_pc,0.0298,60.0
+Lara,Num_Psns_UR_6mo_Total_pc,0.0305,61.0
+Glen Waverley,Num_Psns_UR_6mo_Total_pc,0.0321,62.0
+Narracan,Num_Psns_UR_6mo_Total_pc,0.0325,63.0
+Evelyn,Num_Psns_UR_6mo_Total_pc,0.0343,64.0
+Mildura,Num_Psns_UR_6mo_Total_pc,0.0349,65.0
+Shepparton,Num_Psns_UR_6mo_Total_pc,0.0374,66.0
+Mill Park,Num_Psns_UR_6mo_Total_pc,0.0398,67.0
+Point Cook,Num_Psns_UR_6mo_Total_pc,0.0401,68.0
+Clarinda,Num_Psns_UR_6mo_Total_pc,0.0417,69.0
+Yan Yean,Num_Psns_UR_6mo_Total_pc,0.0417,70.0
+Mulgrave,Num_Psns_UR_6mo_Total_pc,0.0445,71.0
+Werribee,Num_Psns_UR_6mo_Total_pc,0.0469,72.0
+Berwick,Num_Psns_UR_6mo_Total_pc,0.0479,73.0
+Pakenham,Num_Psns_UR_6mo_Total_pc,0.0496,74.0
+Sydenham,Num_Psns_UR_6mo_Total_pc,0.05,75.0
+Thomastown,Num_Psns_UR_6mo_Total_pc,0.055,76.0
+Narre Warren North,Num_Psns_UR_6mo_Total_pc,0.0564,77.0
+Broadmeadows,Num_Psns_UR_6mo_Total_pc,0.0575,78.0
+Cranbourne,Num_Psns_UR_6mo_Total_pc,0.0632,79.0
+Laverton,Num_Psns_UR_6mo_Total_pc,0.0632,80.0
+Melton,Num_Psns_UR_6mo_Total_pc,0.0644,81.0
+St Albans,Num_Psns_UR_6mo_Total_pc,0.0653,82.0
+Dandenong,Num_Psns_UR_6mo_Total_pc,0.0656,83.0
+Kororoit,Num_Psns_UR_6mo_Total_pc,0.0713,84.0
+Tarneit,Num_Psns_UR_6mo_Total_pc,0.0746,85.0
+Kalkallo,Num_Psns_UR_6mo_Total_pc,0.0763,86.0
+Narre Warren South,Num_Psns_UR_6mo_Total_pc,0.0893,87.0
+Greenvale,Num_Psns_UR_6mo_Total_pc,0.0947,88.0
+Richmond,Total_FamHhold,15611.0,1.0
+Brunswick,Total_FamHhold,15838.0,2.0
+Prahran,Total_FamHhold,16325.0,3.0
+Malvern,Total_FamHhold,16369.0,4.0
+Bendigo West,Total_FamHhold,16455.0,5.0
+Northcote,Total_FamHhold,16672.0,6.0
+Nepean,Total_FamHhold,16748.0,7.0
+Ovens Valley,Total_FamHhold,16827.0,8.0
+Murray Plains,Total_FamHhold,16971.0,9.0
+Gippsland East,Total_FamHhold,17122.0,10.0
+Gippsland South,Total_FamHhold,17272.0,11.0
+Brighton,Total_FamHhold,17345.0,12.0
+Sandringham,Total_FamHhold,17359.0,13.0
+Sunbury,Total_FamHhold,17379.0,14.0
+Mildura,Total_FamHhold,17436.0,15.0
+Ivanhoe,Total_FamHhold,17486.0,16.0
+Eildon,Total_FamHhold,17503.0,17.0
+Euroa,Total_FamHhold,17523.0,18.0
+Frankston,Total_FamHhold,17536.0,19.0
+Wendouree,Total_FamHhold,17542.0,20.0
+Pascoe Vale,Total_FamHhold,17636.0,21.0
+Macedon,Total_FamHhold,17650.0,22.0
+Bass,Total_FamHhold,17663.0,23.0
+Lara,Total_FamHhold,17680.0,24.0
+Caulfield,Total_FamHhold,17698.0,25.0
+Benambra,Total_FamHhold,17756.0,26.0
+Essendon,Total_FamHhold,17758.0,27.0
+Williamstown,Total_FamHhold,17770.0,28.0
+St Albans,Total_FamHhold,17865.0,29.0
+Hastings,Total_FamHhold,17877.0,30.0
+Lowan,Total_FamHhold,17905.0,31.0
+Mornington,Total_FamHhold,17922.0,32.0
+Hawthorn,Total_FamHhold,17947.0,33.0
+Albert Park,Total_FamHhold,17958.0,34.0
+Ripon,Total_FamHhold,17967.0,35.0
+Monbulk,Total_FamHhold,18096.0,36.0
+Footscray,Total_FamHhold,18153.0,37.0
+Mill Park,Total_FamHhold,18183.0,38.0
+Narracan,Total_FamHhold,18269.0,39.0
+Geelong,Total_FamHhold,18332.0,40.0
+Morwell,Total_FamHhold,18431.0,41.0
+Polwarth,Total_FamHhold,18449.0,42.0
+Bundoora,Total_FamHhold,18537.0,43.0
+South-West Coast,Total_FamHhold,18623.0,44.0
+Shepparton,Total_FamHhold,18669.0,45.0
+Preston,Total_FamHhold,18713.0,46.0
+Eltham,Total_FamHhold,18801.0,47.0
+Bendigo East,Total_FamHhold,18897.0,48.0
+Greenvale,Total_FamHhold,18984.0,49.0
+South Barwon,Total_FamHhold,19007.0,50.0
+Evelyn,Total_FamHhold,19072.0,51.0
+Niddrie,Total_FamHhold,19111.0,52.0
+Clarinda,Total_FamHhold,19176.0,53.0
+Broadmeadows,Total_FamHhold,19187.0,54.0
+Yan Yean,Total_FamHhold,19398.0,55.0
+Mulgrave,Total_FamHhold,19440.0,56.0
+Mordialloc,Total_FamHhold,19512.0,57.0
+Bellarine,Total_FamHhold,19598.0,58.0
+Kew,Total_FamHhold,19652.0,59.0
+Eureka,Total_FamHhold,19785.0,60.0
+Rowville,Total_FamHhold,19863.0,61.0
+Bayswater,Total_FamHhold,19948.0,62.0
+Carrum,Total_FamHhold,19955.0,63.0
+Thomastown,Total_FamHhold,20000.0,64.0
+Pakenham,Total_FamHhold,20012.0,65.0
+Sydenham,Total_FamHhold,20248.0,66.0
+Croydon,Total_FamHhold,20294.0,67.0
+Warrandyte,Total_FamHhold,20368.0,68.0
+Narre Warren North,Total_FamHhold,20401.0,69.0
+Melton,Total_FamHhold,20616.0,70.0
+Dandenong,Total_FamHhold,20774.0,71.0
+Bulleen,Total_FamHhold,20858.0,72.0
+Bentleigh,Total_FamHhold,20924.0,73.0
+Kororoit,Total_FamHhold,21175.0,74.0
+Ringwood,Total_FamHhold,21231.0,75.0
+Ashwood,Total_FamHhold,21353.0,76.0
+Berwick,Total_FamHhold,21396.0,77.0
+Werribee,Total_FamHhold,21598.0,78.0
+Oakleigh,Total_FamHhold,21681.0,79.0
+Box Hill,Total_FamHhold,21709.0,80.0
+Cranbourne,Total_FamHhold,21960.0,81.0
+Glen Waverley,Total_FamHhold,22226.0,82.0
+Narre Warren South,Total_FamHhold,22239.0,83.0
+Laverton,Total_FamHhold,22303.0,84.0
+Tarneit,Total_FamHhold,22941.0,85.0
+Melbourne,Total_FamHhold,23045.0,86.0
+Kalkallo,Total_FamHhold,23848.0,87.0
+Point Cook,Total_FamHhold,24390.0,88.0
+Melbourne,Total_FamHhold_pc,0.4209,1.0
+Prahran,Total_FamHhold_pc,0.4371,2.0
+Richmond,Total_FamHhold_pc,0.5023,3.0
+Albert Park,Total_FamHhold_pc,0.5062,4.0
+Brunswick,Total_FamHhold_pc,0.5245,5.0
+Northcote,Total_FamHhold_pc,0.6001,6.0
+Caulfield,Total_FamHhold_pc,0.6037,7.0
+Essendon,Total_FamHhold_pc,0.6211,8.0
+Malvern,Total_FamHhold_pc,0.6226,9.0
+Footscray,Total_FamHhold_pc,0.6228,10.0
+Geelong,Total_FamHhold_pc,0.6303,11.0
+Oakleigh,Total_FamHhold_pc,0.634,12.0
+Wendouree,Total_FamHhold_pc,0.6345,13.0
+Hawthorn,Total_FamHhold_pc,0.637,14.0
+Preston,Total_FamHhold_pc,0.6377,15.0
+Lowan,Total_FamHhold_pc,0.641,16.0
+Frankston,Total_FamHhold_pc,0.6449,17.0
+Morwell,Total_FamHhold_pc,0.6453,18.0
+Bendigo West,Total_FamHhold_pc,0.647,19.0
+Pascoe Vale,Total_FamHhold_pc,0.6554,20.0
+Brighton,Total_FamHhold_pc,0.6637,21.0
+Nepean,Total_FamHhold_pc,0.6673,22.0
+Gippsland East,Total_FamHhold_pc,0.6706,23.0
+Mildura,Total_FamHhold_pc,0.6714,24.0
+Euroa,Total_FamHhold_pc,0.6722,25.0
+Box Hill,Total_FamHhold_pc,0.6725,26.0
+Gippsland South,Total_FamHhold_pc,0.6757,27.0
+Lara,Total_FamHhold_pc,0.6758,28.0
+Murray Plains,Total_FamHhold_pc,0.6761,29.0
+Ripon,Total_FamHhold_pc,0.6765,30.0
+Ovens Valley,Total_FamHhold_pc,0.677,31.0
+South-West Coast,Total_FamHhold_pc,0.6822,32.0
+Shepparton,Total_FamHhold_pc,0.6833,33.0
+Ivanhoe,Total_FamHhold_pc,0.6908,34.0
+Sandringham,Total_FamHhold_pc,0.6983,35.0
+Dandenong,Total_FamHhold_pc,0.6987,36.0
+Benambra,Total_FamHhold_pc,0.6991,37.0
+Ringwood,Total_FamHhold_pc,0.6991,38.0
+Bendigo East,Total_FamHhold_pc,0.7003,39.0
+Polwarth,Total_FamHhold_pc,0.7023,40.0
+Broadmeadows,Total_FamHhold_pc,0.7025,41.0
+Williamstown,Total_FamHhold_pc,0.7031,42.0
+Bass,Total_FamHhold_pc,0.7061,43.0
+Eildon,Total_FamHhold_pc,0.7143,44.0
+Eureka,Total_FamHhold_pc,0.7153,45.0
+Croydon,Total_FamHhold_pc,0.7157,46.0
+Bellarine,Total_FamHhold_pc,0.7264,47.0
+Bundoora,Total_FamHhold_pc,0.7265,48.0
+Carrum,Total_FamHhold_pc,0.7275,49.0
+Bayswater,Total_FamHhold_pc,0.7281,50.0
+South Barwon,Total_FamHhold_pc,0.7302,51.0
+Hastings,Total_FamHhold_pc,0.7311,52.0
+Mulgrave,Total_FamHhold_pc,0.7333,53.0
+Narracan,Total_FamHhold_pc,0.7339,54.0
+Bentleigh,Total_FamHhold_pc,0.7375,55.0
+Kew,Total_FamHhold_pc,0.7404,56.0
+Ashwood,Total_FamHhold_pc,0.7421,57.0
+Mornington,Total_FamHhold_pc,0.7425,58.0
+Sunbury,Total_FamHhold_pc,0.7445,59.0
+St Albans,Total_FamHhold_pc,0.7452,60.0
+Mordialloc,Total_FamHhold_pc,0.748,61.0
+Laverton,Total_FamHhold_pc,0.7499,62.0
+Niddrie,Total_FamHhold_pc,0.7501,63.0
+Clarinda,Total_FamHhold_pc,0.7558,64.0
+Macedon,Total_FamHhold_pc,0.7562,65.0
+Bulleen,Total_FamHhold_pc,0.7618,66.0
+Werribee,Total_FamHhold_pc,0.7663,67.0
+Melton,Total_FamHhold_pc,0.7733,68.0
+Pakenham,Total_FamHhold_pc,0.7744,69.0
+Thomastown,Total_FamHhold_pc,0.7759,70.0
+Monbulk,Total_FamHhold_pc,0.7764,71.0
+Glen Waverley,Total_FamHhold_pc,0.7852,72.0
+Evelyn,Total_FamHhold_pc,0.79,73.0
+Narre Warren North,Total_FamHhold_pc,0.7974,74.0
+Mill Park,Total_FamHhold_pc,0.8002,75.0
+Cranbourne,Total_FamHhold_pc,0.8056,76.0
+Warrandyte,Total_FamHhold_pc,0.8117,77.0
+Eltham,Total_FamHhold_pc,0.813,78.0
+Rowville,Total_FamHhold_pc,0.8145,79.0
+Point Cook,Total_FamHhold_pc,0.8153,80.0
+Tarneit,Total_FamHhold_pc,0.8189,81.0
+Kororoit,Total_FamHhold_pc,0.8214,82.0
+Yan Yean,Total_FamHhold_pc,0.8312,83.0
+Berwick,Total_FamHhold_pc,0.842,84.0
+Sydenham,Total_FamHhold_pc,0.8468,85.0
+Narre Warren South,Total_FamHhold_pc,0.8484,86.0
+Kalkallo,Total_FamHhold_pc,0.8486,87.0
+Greenvale,Total_FamHhold_pc,0.8558,88.0
+Greenvale,Total_NonFamHhold,3246.0,1.0
+Sydenham,Total_NonFamHhold,3648.0,2.0
+Yan Yean,Total_NonFamHhold,3868.0,3.0
+Narre Warren South,Total_NonFamHhold,3956.0,4.0
+Berwick,Total_NonFamHhold,4052.0,5.0
+Kalkallo,Total_NonFamHhold,4228.0,6.0
+Eltham,Total_NonFamHhold,4350.0,7.0
+Rowville,Total_NonFamHhold,4487.0,8.0
+Mill Park,Total_NonFamHhold,4503.0,9.0
+Kororoit,Total_NonFamHhold,4625.0,10.0
+Warrandyte,Total_NonFamHhold,4660.0,11.0
+Evelyn,Total_NonFamHhold,5024.0,12.0
+Tarneit,Total_NonFamHhold,5037.0,13.0
+Narre Warren North,Total_NonFamHhold,5142.0,14.0
+Monbulk,Total_NonFamHhold,5214.0,15.0
+Cranbourne,Total_NonFamHhold,5252.0,16.0
+Point Cook,Total_NonFamHhold,5494.0,17.0
+Macedon,Total_NonFamHhold,5675.0,18.0
+Thomastown,Total_NonFamHhold,5781.0,19.0
+Pakenham,Total_NonFamHhold,5891.0,20.0
+Sunbury,Total_NonFamHhold,5912.0,21.0
+Melton,Total_NonFamHhold,6045.0,22.0
+St Albans,Total_NonFamHhold,6101.0,23.0
+Glen Waverley,Total_NonFamHhold,6132.0,24.0
+Mornington,Total_NonFamHhold,6224.0,25.0
+Clarinda,Total_NonFamHhold,6229.0,26.0
+Niddrie,Total_NonFamHhold,6326.0,27.0
+Bulleen,Total_NonFamHhold,6535.0,28.0
+Hastings,Total_NonFamHhold,6555.0,29.0
+Werribee,Total_NonFamHhold,6610.0,30.0
+Narracan,Total_NonFamHhold,6616.0,31.0
+Mordialloc,Total_NonFamHhold,6635.0,32.0
+Kew,Total_NonFamHhold,6860.0,33.0
+Eildon,Total_NonFamHhold,6941.0,34.0
+Bundoora,Total_NonFamHhold,6998.0,35.0
+South Barwon,Total_NonFamHhold,7050.0,36.0
+Mulgrave,Total_NonFamHhold,7086.0,37.0
+Ashwood,Total_NonFamHhold,7340.0,38.0
+Bass,Total_NonFamHhold,7344.0,39.0
+Bellarine,Total_NonFamHhold,7408.0,40.0
+Williamstown,Total_NonFamHhold,7413.0,41.0
+Laverton,Total_NonFamHhold,7442.0,42.0
+Carrum,Total_NonFamHhold,7462.0,43.0
+Bayswater,Total_NonFamHhold,7476.0,44.0
+Bentleigh,Total_NonFamHhold,7497.0,45.0
+Sandringham,Total_NonFamHhold,7506.0,46.0
+Benambra,Total_NonFamHhold,7640.0,47.0
+Ivanhoe,Total_NonFamHhold,7784.0,48.0
+Polwarth,Total_NonFamHhold,7834.0,49.0
+Eureka,Total_NonFamHhold,7927.0,50.0
+Croydon,Total_NonFamHhold,8023.0,51.0
+Bendigo East,Total_NonFamHhold,8069.0,52.0
+Ovens Valley,Total_NonFamHhold,8079.0,53.0
+Murray Plains,Total_NonFamHhold,8136.0,54.0
+Broadmeadows,Total_NonFamHhold,8172.0,55.0
+Nepean,Total_NonFamHhold,8289.0,56.0
+Gippsland South,Total_NonFamHhold,8305.0,57.0
+Lara,Total_NonFamHhold,8394.0,58.0
+Gippsland East,Total_NonFamHhold,8422.0,59.0
+Euroa,Total_NonFamHhold,8549.0,60.0
+Mildura,Total_NonFamHhold,8577.0,61.0
+Ripon,Total_NonFamHhold,8630.0,62.0
+Shepparton,Total_NonFamHhold,8659.0,63.0
+South-West Coast,Total_NonFamHhold,8697.0,64.0
+Brighton,Total_NonFamHhold,8831.0,65.0
+Dandenong,Total_NonFamHhold,8954.0,66.0
+Bendigo West,Total_NonFamHhold,8970.0,67.0
+Ringwood,Total_NonFamHhold,9162.0,68.0
+Pascoe Vale,Total_NonFamHhold,9224.0,69.0
+Frankston,Total_NonFamHhold,9754.0,70.0
+Malvern,Total_NonFamHhold,9929.0,71.0
+Lowan,Total_NonFamHhold,10009.0,72.0
+Morwell,Total_NonFamHhold,10065.0,73.0
+Wendouree,Total_NonFamHhold,10070.0,74.0
+Hawthorn,Total_NonFamHhold,10251.0,75.0
+Box Hill,Total_NonFamHhold,10492.0,76.0
+Preston,Total_NonFamHhold,10659.0,77.0
+Geelong,Total_NonFamHhold,10773.0,78.0
+Essendon,Total_NonFamHhold,10863.0,79.0
+Footscray,Total_NonFamHhold,11019.0,80.0
+Northcote,Total_NonFamHhold,11070.0,81.0
+Caulfield,Total_NonFamHhold,11449.0,82.0
+Oakleigh,Total_NonFamHhold,12469.0,83.0
+Brunswick,Total_NonFamHhold,14273.0,84.0
+Richmond,Total_NonFamHhold,15446.0,85.0
+Albert Park,Total_NonFamHhold,17480.0,86.0
+Prahran,Total_NonFamHhold,21091.0,87.0
+Melbourne,Total_NonFamHhold,31696.0,88.0
+Greenvale,Total_NonFamHhold_pc,0.1463,1.0
+Kalkallo,Total_NonFamHhold_pc,0.1505,2.0
+Narre Warren South,Total_NonFamHhold_pc,0.1509,3.0
+Sydenham,Total_NonFamHhold_pc,0.1526,4.0
+Berwick,Total_NonFamHhold_pc,0.1595,5.0
+Yan Yean,Total_NonFamHhold_pc,0.1658,6.0
+Kororoit,Total_NonFamHhold_pc,0.1794,7.0
+Tarneit,Total_NonFamHhold_pc,0.1798,8.0
+Point Cook,Total_NonFamHhold_pc,0.1836,9.0
+Rowville,Total_NonFamHhold_pc,0.184,10.0
+Warrandyte,Total_NonFamHhold_pc,0.1857,11.0
+Eltham,Total_NonFamHhold_pc,0.1881,12.0
+Cranbourne,Total_NonFamHhold_pc,0.1927,13.0
+Mill Park,Total_NonFamHhold_pc,0.1982,14.0
+Narre Warren North,Total_NonFamHhold_pc,0.201,15.0
+Evelyn,Total_NonFamHhold_pc,0.2081,16.0
+Glen Waverley,Total_NonFamHhold_pc,0.2166,17.0
+Monbulk,Total_NonFamHhold_pc,0.2237,18.0
+Thomastown,Total_NonFamHhold_pc,0.2243,19.0
+Melton,Total_NonFamHhold_pc,0.2268,20.0
+Pakenham,Total_NonFamHhold_pc,0.228,21.0
+Werribee,Total_NonFamHhold_pc,0.2345,22.0
+Bulleen,Total_NonFamHhold_pc,0.2387,23.0
+Macedon,Total_NonFamHhold_pc,0.2431,24.0
+Clarinda,Total_NonFamHhold_pc,0.2455,25.0
+Niddrie,Total_NonFamHhold_pc,0.2483,26.0
+Laverton,Total_NonFamHhold_pc,0.2502,27.0
+Sunbury,Total_NonFamHhold_pc,0.2533,28.0
+Mordialloc,Total_NonFamHhold_pc,0.2544,29.0
+St Albans,Total_NonFamHhold_pc,0.2545,30.0
+Ashwood,Total_NonFamHhold_pc,0.2551,31.0
+Mornington,Total_NonFamHhold_pc,0.2579,32.0
+Kew,Total_NonFamHhold_pc,0.2585,33.0
+Bentleigh,Total_NonFamHhold_pc,0.2643,34.0
+Narracan,Total_NonFamHhold_pc,0.2658,35.0
+Mulgrave,Total_NonFamHhold_pc,0.2673,36.0
+Hastings,Total_NonFamHhold_pc,0.2681,37.0
+South Barwon,Total_NonFamHhold_pc,0.2709,38.0
+Carrum,Total_NonFamHhold_pc,0.272,39.0
+Bayswater,Total_NonFamHhold_pc,0.2729,40.0
+Bundoora,Total_NonFamHhold_pc,0.2742,41.0
+Bellarine,Total_NonFamHhold_pc,0.2746,42.0
+Croydon,Total_NonFamHhold_pc,0.2829,43.0
+Eildon,Total_NonFamHhold_pc,0.2833,44.0
+Eureka,Total_NonFamHhold_pc,0.2866,45.0
+Williamstown,Total_NonFamHhold_pc,0.2933,46.0
+Bass,Total_NonFamHhold_pc,0.2936,47.0
+Polwarth,Total_NonFamHhold_pc,0.2982,48.0
+Bendigo East,Total_NonFamHhold_pc,0.299,49.0
+Broadmeadows,Total_NonFamHhold_pc,0.2992,50.0
+Benambra,Total_NonFamHhold_pc,0.3008,51.0
+Dandenong,Total_NonFamHhold_pc,0.3012,52.0
+Ringwood,Total_NonFamHhold_pc,0.3017,53.0
+Sandringham,Total_NonFamHhold_pc,0.3019,54.0
+Ivanhoe,Total_NonFamHhold_pc,0.3075,55.0
+Shepparton,Total_NonFamHhold_pc,0.3169,56.0
+South-West Coast,Total_NonFamHhold_pc,0.3186,57.0
+Lara,Total_NonFamHhold_pc,0.3209,58.0
+Murray Plains,Total_NonFamHhold_pc,0.3241,59.0
+Gippsland South,Total_NonFamHhold_pc,0.3249,60.0
+Ripon,Total_NonFamHhold_pc,0.3249,61.0
+Box Hill,Total_NonFamHhold_pc,0.325,62.0
+Ovens Valley,Total_NonFamHhold_pc,0.325,63.0
+Euroa,Total_NonFamHhold_pc,0.328,64.0
+Gippsland East,Total_NonFamHhold_pc,0.3299,65.0
+Mildura,Total_NonFamHhold_pc,0.3303,66.0
+Nepean,Total_NonFamHhold_pc,0.3303,67.0
+Brighton,Total_NonFamHhold_pc,0.3379,68.0
+Pascoe Vale,Total_NonFamHhold_pc,0.3428,69.0
+Morwell,Total_NonFamHhold_pc,0.3524,70.0
+Bendigo West,Total_NonFamHhold_pc,0.3527,71.0
+Lowan,Total_NonFamHhold_pc,0.3583,72.0
+Frankston,Total_NonFamHhold_pc,0.3587,73.0
+Preston,Total_NonFamHhold_pc,0.3632,74.0
+Hawthorn,Total_NonFamHhold_pc,0.3639,75.0
+Wendouree,Total_NonFamHhold_pc,0.3642,76.0
+Oakleigh,Total_NonFamHhold_pc,0.3646,77.0
+Geelong,Total_NonFamHhold_pc,0.3704,78.0
+Malvern,Total_NonFamHhold_pc,0.3776,79.0
+Footscray,Total_NonFamHhold_pc,0.378,80.0
+Essendon,Total_NonFamHhold_pc,0.38,81.0
+Caulfield,Total_NonFamHhold_pc,0.3905,82.0
+Northcote,Total_NonFamHhold_pc,0.3985,83.0
+Brunswick,Total_NonFamHhold_pc,0.4727,84.0
+Albert Park,Total_NonFamHhold_pc,0.4928,85.0
+Richmond,Total_NonFamHhold_pc,0.497,86.0
+Prahran,Total_NonFamHhold_pc,0.5648,87.0
+Melbourne,Total_NonFamHhold_pc,0.579,88.0
+Greenvale,Total_Total,22184.0,1.0
+Mill Park,Total_Total,22722.0,2.0
+Eltham,Total_Total,23126.0,3.0
+Monbulk,Total_Total,23309.0,4.0
+Yan Yean,Total_Total,23336.0,5.0
+Macedon,Total_Total,23340.0,6.0
+Sunbury,Total_Total,23342.0,7.0
+Sydenham,Total_Total,23912.0,8.0
+St Albans,Total_Total,23972.0,9.0
+Mornington,Total_Total,24138.0,10.0
+Evelyn,Total_Total,24141.0,11.0
+Rowville,Total_Total,24388.0,12.0
+Hastings,Total_Total,24451.0,13.0
+Eildon,Total_Total,24502.0,14.0
+Ovens Valley,Total_Total,24857.0,15.0
+Sandringham,Total_Total,24859.0,16.0
+Narracan,Total_Total,24893.0,17.0
+Bass,Total_Total,25014.0,18.0
+Warrandyte,Total_Total,25092.0,19.0
+Nepean,Total_Total,25098.0,20.0
+Murray Plains,Total_Total,25102.0,21.0
+Williamstown,Total_Total,25272.0,22.0
+Ivanhoe,Total_Total,25313.0,23.0
+Clarinda,Total_Total,25372.0,24.0
+Benambra,Total_Total,25400.0,25.0
+Berwick,Total_Total,25410.0,26.0
+Bendigo West,Total_Total,25431.0,27.0
+Niddrie,Total_Total,25477.0,28.0
+Bundoora,Total_Total,25517.0,29.0
+Gippsland East,Total_Total,25531.0,30.0
+Gippsland South,Total_Total,25560.0,31.0
+Narre Warren North,Total_Total,25583.0,32.0
+Thomastown,Total_Total,25777.0,33.0
+Kororoit,Total_Total,25780.0,34.0
+Pakenham,Total_Total,25841.0,35.0
+Mildura,Total_Total,25968.0,36.0
+South Barwon,Total_Total,26029.0,37.0
+Euroa,Total_Total,26067.0,38.0
+Mordialloc,Total_Total,26084.0,39.0
+Brighton,Total_Total,26133.0,40.0
+Lara,Total_Total,26160.0,41.0
+Narre Warren South,Total_Total,26214.0,42.0
+Polwarth,Total_Total,26271.0,43.0
+Malvern,Total_Total,26293.0,44.0
+Mulgrave,Total_Total,26512.0,45.0
+Kew,Total_Total,26541.0,46.0
+Ripon,Total_Total,26559.0,47.0
+Melton,Total_Total,26659.0,48.0
+Pascoe Vale,Total_Total,26910.0,49.0
+Bellarine,Total_Total,26978.0,50.0
+Bendigo East,Total_Total,26985.0,51.0
+Frankston,Total_Total,27190.0,52.0
+Cranbourne,Total_Total,27260.0,53.0
+South-West Coast,Total_Total,27297.0,54.0
+Broadmeadows,Total_Total,27312.0,55.0
+Shepparton,Total_Total,27320.0,56.0
+Bulleen,Total_Total,27380.0,57.0
+Bayswater,Total_Total,27396.0,58.0
+Carrum,Total_Total,27429.0,59.0
+Wendouree,Total_Total,27646.0,60.0
+Eureka,Total_Total,27658.0,61.0
+Northcote,Total_Total,27780.0,62.0
+Lowan,Total_Total,27932.0,63.0
+Tarneit,Total_Total,28016.0,64.0
+Kalkallo,Total_Total,28102.0,65.0
+Hawthorn,Total_Total,28173.0,66.0
+Werribee,Total_Total,28184.0,67.0
+Glen Waverley,Total_Total,28305.0,68.0
+Croydon,Total_Total,28355.0,69.0
+Bentleigh,Total_Total,28370.0,70.0
+Morwell,Total_Total,28561.0,71.0
+Essendon,Total_Total,28589.0,72.0
+Ashwood,Total_Total,28775.0,73.0
+Geelong,Total_Total,29086.0,74.0
+Footscray,Total_Total,29149.0,75.0
+Caulfield,Total_Total,29317.0,76.0
+Preston,Total_Total,29346.0,77.0
+Dandenong,Total_Total,29731.0,78.0
+Laverton,Total_Total,29743.0,79.0
+Point Cook,Total_Total,29916.0,80.0
+Brunswick,Total_Total,30195.0,81.0
+Ringwood,Total_Total,30367.0,82.0
+Richmond,Total_Total,31081.0,83.0
+Box Hill,Total_Total,32279.0,84.0
+Oakleigh,Total_Total,34198.0,85.0
+Albert Park,Total_Total,35474.0,86.0
+Prahran,Total_Total,37345.0,87.0
+Melbourne,Total_Total,54747.0,88.0
+Albert Park,Total_Total_pc,1.0,1.0
+Ashwood,Total_Total_pc,1.0,2.0
+Bass,Total_Total_pc,1.0,3.0
+Bayswater,Total_Total_pc,1.0,4.0
+Bellarine,Total_Total_pc,1.0,5.0
+Benambra,Total_Total_pc,1.0,6.0
+Bendigo East,Total_Total_pc,1.0,7.0
+Bendigo West,Total_Total_pc,1.0,8.0
+Bentleigh,Total_Total_pc,1.0,9.0
+Berwick,Total_Total_pc,1.0,10.0
+Box Hill,Total_Total_pc,1.0,11.0
+Brighton,Total_Total_pc,1.0,12.0
+Broadmeadows,Total_Total_pc,1.0,13.0
+Brunswick,Total_Total_pc,1.0,14.0
+Bulleen,Total_Total_pc,1.0,15.0
+Bundoora,Total_Total_pc,1.0,16.0
+Carrum,Total_Total_pc,1.0,17.0
+Caulfield,Total_Total_pc,1.0,18.0
+Clarinda,Total_Total_pc,1.0,19.0
+Cranbourne,Total_Total_pc,1.0,20.0
+Croydon,Total_Total_pc,1.0,21.0
+Dandenong,Total_Total_pc,1.0,22.0
+Eildon,Total_Total_pc,1.0,23.0
+Eltham,Total_Total_pc,1.0,24.0
+Essendon,Total_Total_pc,1.0,25.0
+Eureka,Total_Total_pc,1.0,26.0
+Euroa,Total_Total_pc,1.0,27.0
+Evelyn,Total_Total_pc,1.0,28.0
+Footscray,Total_Total_pc,1.0,29.0
+Frankston,Total_Total_pc,1.0,30.0
+Geelong,Total_Total_pc,1.0,31.0
+Gippsland East,Total_Total_pc,1.0,32.0
+Gippsland South,Total_Total_pc,1.0,33.0
+Glen Waverley,Total_Total_pc,1.0,34.0
+Greenvale,Total_Total_pc,1.0,35.0
+Hastings,Total_Total_pc,1.0,36.0
+Hawthorn,Total_Total_pc,1.0,37.0
+Ivanhoe,Total_Total_pc,1.0,38.0
+Kalkallo,Total_Total_pc,1.0,39.0
+Kew,Total_Total_pc,1.0,40.0
+Kororoit,Total_Total_pc,1.0,41.0
+Lara,Total_Total_pc,1.0,42.0
+Laverton,Total_Total_pc,1.0,43.0
+Lowan,Total_Total_pc,1.0,44.0
+Macedon,Total_Total_pc,1.0,45.0
+Malvern,Total_Total_pc,1.0,46.0
+Melbourne,Total_Total_pc,1.0,47.0
+Melton,Total_Total_pc,1.0,48.0
+Mildura,Total_Total_pc,1.0,49.0
+Mill Park,Total_Total_pc,1.0,50.0
+Monbulk,Total_Total_pc,1.0,51.0
+Mordialloc,Total_Total_pc,1.0,52.0
+Mornington,Total_Total_pc,1.0,53.0
+Morwell,Total_Total_pc,1.0,54.0
+Mulgrave,Total_Total_pc,1.0,55.0
+Murray Plains,Total_Total_pc,1.0,56.0
+Narracan,Total_Total_pc,1.0,57.0
+Narre Warren North,Total_Total_pc,1.0,58.0
+Narre Warren South,Total_Total_pc,1.0,59.0
+Nepean,Total_Total_pc,1.0,60.0
+Niddrie,Total_Total_pc,1.0,61.0
+Northcote,Total_Total_pc,1.0,62.0
+Oakleigh,Total_Total_pc,1.0,63.0
+Ovens Valley,Total_Total_pc,1.0,64.0
+Pakenham,Total_Total_pc,1.0,65.0
+Pascoe Vale,Total_Total_pc,1.0,66.0
+Point Cook,Total_Total_pc,1.0,67.0
+Polwarth,Total_Total_pc,1.0,68.0
+Prahran,Total_Total_pc,1.0,69.0
+Preston,Total_Total_pc,1.0,70.0
+Richmond,Total_Total_pc,1.0,71.0
+Ringwood,Total_Total_pc,1.0,72.0
+Ripon,Total_Total_pc,1.0,73.0
+Rowville,Total_Total_pc,1.0,74.0
+Sandringham,Total_Total_pc,1.0,75.0
+Shepparton,Total_Total_pc,1.0,76.0
+South Barwon,Total_Total_pc,1.0,77.0
+South-West Coast,Total_Total_pc,1.0,78.0
+St Albans,Total_Total_pc,1.0,79.0
+Sunbury,Total_Total_pc,1.0,80.0
+Sydenham,Total_Total_pc,1.0,81.0
+Tarneit,Total_Total_pc,1.0,82.0
+Thomastown,Total_Total_pc,1.0,83.0
+Warrandyte,Total_Total_pc,1.0,84.0
+Wendouree,Total_Total_pc,1.0,85.0
+Werribee,Total_Total_pc,1.0,86.0
+Williamstown,Total_Total_pc,1.0,87.0
+Yan Yean,Total_Total_pc,1.0,88.0
+Greenvale,Total_Total_total,22184.0,1.0
+Mill Park,Total_Total_total,22722.0,2.0
+Eltham,Total_Total_total,23126.0,3.0
+Monbulk,Total_Total_total,23309.0,4.0
+Yan Yean,Total_Total_total,23336.0,5.0
+Macedon,Total_Total_total,23340.0,6.0
+Sunbury,Total_Total_total,23342.0,7.0
+Sydenham,Total_Total_total,23912.0,8.0
+St Albans,Total_Total_total,23972.0,9.0
+Mornington,Total_Total_total,24138.0,10.0
+Evelyn,Total_Total_total,24141.0,11.0
+Rowville,Total_Total_total,24388.0,12.0
+Hastings,Total_Total_total,24451.0,13.0
+Eildon,Total_Total_total,24502.0,14.0
+Ovens Valley,Total_Total_total,24857.0,15.0
+Sandringham,Total_Total_total,24859.0,16.0
+Narracan,Total_Total_total,24893.0,17.0
+Bass,Total_Total_total,25014.0,18.0
+Warrandyte,Total_Total_total,25092.0,19.0
+Nepean,Total_Total_total,25098.0,20.0
+Murray Plains,Total_Total_total,25102.0,21.0
+Williamstown,Total_Total_total,25272.0,22.0
+Ivanhoe,Total_Total_total,25313.0,23.0
+Clarinda,Total_Total_total,25372.0,24.0
+Benambra,Total_Total_total,25400.0,25.0
+Berwick,Total_Total_total,25410.0,26.0
+Bendigo West,Total_Total_total,25431.0,27.0
+Niddrie,Total_Total_total,25477.0,28.0
+Bundoora,Total_Total_total,25517.0,29.0
+Gippsland East,Total_Total_total,25531.0,30.0
+Gippsland South,Total_Total_total,25560.0,31.0
+Narre Warren North,Total_Total_total,25583.0,32.0
+Thomastown,Total_Total_total,25777.0,33.0
+Kororoit,Total_Total_total,25780.0,34.0
+Pakenham,Total_Total_total,25841.0,35.0
+Mildura,Total_Total_total,25968.0,36.0
+South Barwon,Total_Total_total,26029.0,37.0
+Euroa,Total_Total_total,26067.0,38.0
+Mordialloc,Total_Total_total,26084.0,39.0
+Brighton,Total_Total_total,26133.0,40.0
+Lara,Total_Total_total,26160.0,41.0
+Narre Warren South,Total_Total_total,26214.0,42.0
+Polwarth,Total_Total_total,26271.0,43.0
+Malvern,Total_Total_total,26293.0,44.0
+Mulgrave,Total_Total_total,26512.0,45.0
+Kew,Total_Total_total,26541.0,46.0
+Ripon,Total_Total_total,26559.0,47.0
+Melton,Total_Total_total,26659.0,48.0
+Pascoe Vale,Total_Total_total,26910.0,49.0
+Bellarine,Total_Total_total,26978.0,50.0
+Bendigo East,Total_Total_total,26985.0,51.0
+Frankston,Total_Total_total,27190.0,52.0
+Cranbourne,Total_Total_total,27260.0,53.0
+South-West Coast,Total_Total_total,27297.0,54.0
+Broadmeadows,Total_Total_total,27312.0,55.0
+Shepparton,Total_Total_total,27320.0,56.0
+Bulleen,Total_Total_total,27380.0,57.0
+Bayswater,Total_Total_total,27396.0,58.0
+Carrum,Total_Total_total,27429.0,59.0
+Wendouree,Total_Total_total,27646.0,60.0
+Eureka,Total_Total_total,27658.0,61.0
+Northcote,Total_Total_total,27780.0,62.0
+Lowan,Total_Total_total,27932.0,63.0
+Tarneit,Total_Total_total,28016.0,64.0
+Kalkallo,Total_Total_total,28102.0,65.0
+Hawthorn,Total_Total_total,28173.0,66.0
+Werribee,Total_Total_total,28184.0,67.0
+Glen Waverley,Total_Total_total,28305.0,68.0
+Croydon,Total_Total_total,28355.0,69.0
+Bentleigh,Total_Total_total,28370.0,70.0
+Morwell,Total_Total_total,28561.0,71.0
+Essendon,Total_Total_total,28589.0,72.0
+Ashwood,Total_Total_total,28775.0,73.0
+Geelong,Total_Total_total,29086.0,74.0
+Footscray,Total_Total_total,29149.0,75.0
+Caulfield,Total_Total_total,29317.0,76.0
+Preston,Total_Total_total,29346.0,77.0
+Dandenong,Total_Total_total,29731.0,78.0
+Laverton,Total_Total_total,29743.0,79.0
+Point Cook,Total_Total_total,29916.0,80.0
+Brunswick,Total_Total_total,30195.0,81.0
+Ringwood,Total_Total_total,30367.0,82.0
+Richmond,Total_Total_total,31081.0,83.0
+Box Hill,Total_Total_total,32279.0,84.0
+Oakleigh,Total_Total_total,34198.0,85.0
+Albert Park,Total_Total_total,35474.0,86.0
+Prahran,Total_Total_total,37345.0,87.0
+Melbourne,Total_Total_total,54747.0,88.0

@@ -1,4 +1,4 @@
-district,Num_MVs_per_dweling_0_MVs_n,Num_MVs_per_dweling_1_MVs_n,Num_MVs_per_dweling_2_MVs_n,Num_MVs_per_dweling_3_MVs_n,Num_MVs_per_dweling_4mo_MVs_n,Num_MVs_per_dweling_Tot_n,Num_MVs_NS_n,Total_dwelings_n,Total_dwelings_total
+district,Num_MVs_per_dweling_0_MVs,Num_MVs_per_dweling_1_MVs,Num_MVs_per_dweling_2_MVs,Num_MVs_per_dweling_3_MVs,Num_MVs_per_dweling_4mo_MVs,Num_MVs_per_dweling_Tot,Num_MVs_NS,Total_dwelings,Total_dwelings_total
 Albert Park,8555.0,18304.0,6671.0,999.0,349.0,34982.0,428.0,35474.0,35474.0
 Ashwood,1601.0,10394.0,11734.0,3198.0,1447.0,28371.0,245.0,28775.0,28775.0
 Bass,799.0,7928.0,9973.0,3548.0,2222.0,24541.0,345.0,25014.0,25014.0

@@ -28,14 +28,7 @@ def copy_files(tableid, total_name):
     df = pd.read_csv(source)
     df.replace({'..': np.nan}, regex=True, inplace=True)
     path = get_destination_table(tableid, total_name)
-    print(df)
     df.to_csv(path, index=False, na_rep='Null')
-
-def clean_dots_from_table(df):
-    # some of the census dataframes contain '..'
-    # will check with abs but assume this means data not provided on small columns (e.g, M_Ptn_in_RM_0_14 in 27a)
-    # replacing with nan
-    return 
 
 # merge multiple tables
 def combine_tables(tableids, total_name):
@@ -169,10 +162,6 @@ total_name = 'Tot_Tot_P'
 for tableid in (['G07']):
     copy_files(tableid, total_name)
     print(f'output table {tableid}\r\n')
-
-# tables split across multiple files
-# we combine together so the weighter has the denominator column for all of them
-combine_tables(['G10A', 'G10B', 'G10C'], total_name)
 
 # tables with Total_dwelings as proportions
 total_name = 'Total_dwelings'
