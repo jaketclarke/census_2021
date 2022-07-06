@@ -98,6 +98,9 @@ for index, row in df.iterrows():
     else:
         worksheet.set_row(index, 15, percent_format)
         worksheet.write_row(needle, row)
+        # conditional formatting
+        range = f'D{index+1}:CM{index+1}'# i.e index=1 returns D2:CM2
+        worksheet.conditional_format(range, {'type': '3_color_scale'})
 
 # set column widths
 worksheet.set_column(0, 0, 10)

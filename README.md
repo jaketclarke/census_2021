@@ -61,6 +61,10 @@ rm 2021_GCP_all_for_AUS_short-header.zip
 
 ## Tools
 
-* used [pyenv](https://realpython.com/intro-to-pyenv/) to manage python versions
-    * `pyenv install 3.9.13 ` to install a version
-    * `pyenv global 3.9.13` to set system python version
+### Pyenv
+used [pyenv](https://realpython.com/intro-to-pyenv/) to manage python versions
+* `pyenv install 3.9.13 ` to install a version
+* `pyenv global 3.9.13` to set system python version
+
+### XlsxWriter
+documentation [here](https://xlsxwriter.readthedocs.io/), excellent tool for programmatically createing xlsx files.
