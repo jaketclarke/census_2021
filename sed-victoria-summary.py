@@ -79,26 +79,29 @@ writer = pd.ExcelWriter(pivot_districts_filepath_xlsx, engine='xlsxwriter')
 
 workbook = writer.book
 worksheet = workbook.add_worksheet(pivot_districts_filepath_xlsx_tab)
-percent_format = workbook.add_format({'num_format': '0.0%'})#.set_align('center')
-number_format = workbook.add_format({'num_format': '#,##0'})#.set_align('center')
-header_format = workbook.add_format().set_align('center')
+percent_format = workbook.add_format({'num_format': '0.0%', 'align': 'center'})
+number_format = workbook.add_format({'num_format': '#,##0', 'align': 'center'})
+header_format = workbook.add_format({'align': 'center'})
 
-worksheet.set_column(1, 100, 20)
 
 rows = len(df)
 for index, row in df.iterrows():
     needle = f'A{index+1}' # i.e index=0 returns A1
     if index == 0:
         cols = df.columns.tolist()
-        worksheet.write_row('A1', cols)
-        worksheet.set_row(index, 15, header_format)
+        worksheet.write_row('A1', cols, header_format)
+        worksheet.set_row(index, 15)
     elif index %2 == 0:
-        continue
-        # worksheet.set_row(index, 15, number_format)
-        # worksheet.write_row(needle, row)
+        worksheet.set_row(index, 15, number_format)
+        worksheet.write_row(needle, row)
     else:
-        continue
-        # worksheet.set_row(index, 15, percent_format)
-        # worksheet.write_row(needle, row)
-    
+        worksheet.set_row(index, 15, percent_format)
+        worksheet.write_row(needle, row)
+
+# set column widths
+worksheet.set_column(0, 0, 10)
+worksheet.set_column(1, 1, 35) # make census var column wider
+worksheet.set_column(2, 91, 20)
+workbook.read_only_recommended()
+
 writer.save()
