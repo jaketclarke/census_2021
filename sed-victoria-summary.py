@@ -127,7 +127,7 @@ for index, row in df.iterrows():
        
 # set column widths
 worksheet.set_column(0, 0, 10)
-worksheet.set_column(1, 1, 100, label_format) # make census var column wider
+worksheet.set_column(1, 1, 75, label_format) # make census var column wider
 worksheet.set_column(2, 91, 20)
 
 worksheet.freeze_panes(1, 3)
