@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "fd649fee67fa08b5967e1b92a8c7483b5af7dab60d2e809f6fcaaa6c640c7e27"
+            "sha256": "21a2184c1a2c392eb6d803478aabe328d5c6f41be058fe46d0463e45ce9703df"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -23,6 +23,13 @@
             ],
             "index": "pypi",
             "version": "==4.5"
+        },
+        "et-xmlfile": {
+            "hashes": [
+                "sha256:8eb9e2bc2f8c97e37a2dc85a09ecdcdec9d8a396530a6d5a33b30b9a92da0c5c",
+                "sha256:a2ba85d1d6a74ef63837eed693bcb89c3f752169b0e3e7ae5b16ca5e1b3deada"
+            ],
+            "version": "==1.1.0"
         },
         "numpy": {
             "hashes": [
@@ -52,6 +59,14 @@
             "index": "pypi",
             "markers": "platform_machine != 'aarch64' and platform_machine != 'arm64' and python_version < '3.10'",
             "version": "==1.23.0"
+        },
+        "openpyxl": {
+            "hashes": [
+                "sha256:0ab6d25d01799f97a9464630abacbb34aafecdcaa0ef3cba6d6b3499867d0355",
+                "sha256:e47805627aebcf860edb4edf7987b1309c1b3632f3750538ed962bbcc3bd7449"
+            ],
+            "index": "pypi",
+            "version": "==3.0.10"
         },
         "pandas": {
             "hashes": [

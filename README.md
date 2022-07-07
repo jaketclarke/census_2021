@@ -48,6 +48,9 @@ mkdir ../census-data
 mv * ../census-data
 cd ..
 rm -r 2021\ Census\ GCP\ All\ Geographies\ for\ AUS/
+cd Metadata
+mv Metadata_2021_GCP_DataPack_R1.xlsx ../census-data
+cd ..
 rm -r Metadata
 rm -r Readme
 rm 2021_GCP_all_for_AUS_short-header.zip

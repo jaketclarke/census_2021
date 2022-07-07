@@ -68,15 +68,36 @@ if not os.path.isfile(pivot_districts_filepath):
     df = df.sort_values(['table', 'census_variable', 'type'])
     df.to_csv(pivot_districts_filepath, na_rep='Null', index=False)
 
+# create metadata summary table
+metadata_input = f'census-data/Metadata_2021_GCP_DataPack_R1.xlsx'
+metadata_output = f'{dir}{os.sep}summary{os.sep}2021Census_Metadata.csv'
+if not os.path.isfile(metadata_output):
+    df = pd.read_excel(metadata_input,
+                       sheet_name = 'Cell Descriptors Information',
+                       usecols='A:F',
+                       skiprows=10)
+    df.to_csv(metadata_output, index=False)
 
 # format
 pivot_districts_filepath_xlsx = pivot_districts_filepath.replace('.csv','.xlsx')
 pivot_districts_filepath_xlsx_tab = 'data'
 df = pd.read_csv(pivot_districts_filepath, na_values=['Null','NaN','nan','Nan'])
-#xlsxwriter can't write nans
+# xlsxwriter can't write nans
 df = df.fillna('..')
+# add long census var names to sheet
+df_lookup = pd.read_csv(metadata_output)
+df_lookup['table'] = df_lookup['DataPackfile'].str[:3]
+df_lookup = df_lookup[['Short', 'Long', 'table']]
+# take _pc off proportions
+df['census_variable'] = df.census_variable.str.replace(r'_pc$', '', regex=True).str.strip()
+# join
+df = df.merge(df_lookup, how='left', left_on=['table', 'census_variable'], right_on=['table', 'Short'] )
+# where the long label doesn't exist use the short
+df['census_variable'] = df['Long'].fillna(df['census_variable'])
+# get rid of redundant columns
+df.drop(['Long','Short'], axis=1, inplace=True)
+
 writer = pd.ExcelWriter(pivot_districts_filepath_xlsx, engine='xlsxwriter')
-# df.to_excel(writer, sheet_name=pivot_districts_filepath_xlsx_tab, index=False)
 
 workbook = writer.book
 worksheet = workbook.add_worksheet(pivot_districts_filepath_xlsx_tab)
@@ -85,7 +106,7 @@ percent_format = workbook.add_format(global_format_options | {'num_format': '0.0
 number_format = workbook.add_format(global_format_options | {'num_format': '#,##0'})
 header_format = workbook.add_format(global_format_options | {'bold': True})
 global_format = workbook.add_format(global_format_options)
-# header_format.set_font_name('Tahoma')
+label_format = workbook.add_format({'align': 'right', 'font_name': 'Tahoma', 'font_size': 10})
 
 rows = len(df)
 for index, row in df.iterrows():
@@ -106,7 +127,7 @@ for index, row in df.iterrows():
        
 # set column widths
 worksheet.set_column(0, 0, 10)
-worksheet.set_column(1, 1, 35) # make census var column wider
+worksheet.set_column(1, 1, 100, label_format) # make census var column wider
 worksheet.set_column(2, 91, 20)
 
 worksheet.freeze_panes(1, 3)
@@ -118,8 +139,6 @@ now_formatted = now.strftime("%d/%m/%Y %H:%M:%S")
 
 worksheet_attribution = workbook.add_worksheet('about')
 attribution_format = workbook.add_format(global_format_options | {'align': 'right', 'font_name': 'Tahoma', 'font_size': 10} )
-worksheet_attribution.set_column(0, 0, 75, attribution_format)
-worksheet_attribution.set_column(1, 1, 150, global_format)
 
 worksheet_attribution.write_row('A1', ['Data assembled by Jake Clarke'])
 worksheet_attribution.write_row('A2', [f'Generated on {now_formatted}'])
@@ -132,6 +151,9 @@ worksheet_attribution.set_row(0, 15)
 worksheet_attribution.set_row(1, 15)
 worksheet_attribution.set_row(2, 15)
 worksheet_attribution.set_row(3, 15)
+
+worksheet_attribution.set_column(0, 0, 75, attribution_format)
+worksheet_attribution.set_column(1, 1, 150, global_format)
 
 workbook.read_only_recommended()
 writer.save()

@@ -11,6 +11,7 @@ pandas = "*"
 numpy = "*"
 xlsxwriter = "*"
 datetime = "*"
+openpyxl = "*"
 
 [dev-packages]
 
