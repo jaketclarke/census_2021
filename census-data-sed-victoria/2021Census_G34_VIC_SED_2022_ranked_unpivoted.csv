@@ -1,0 +1,1497 @@
+district,census_variable,value,rank
+Eltham,Num_MVs_NS,122.0,1.0
+Evelyn,Num_MVs_NS,135.0,2.0
+Rowville,Num_MVs_NS,151.0,3.0
+Warrandyte,Num_MVs_NS,161.0,4.0
+Monbulk,Num_MVs_NS,162.0,5.0
+Sandringham,Num_MVs_NS,166.0,6.0
+Mordialloc,Num_MVs_NS,167.0,7.0
+Northcote,Num_MVs_NS,172.0,8.0
+Kew,Num_MVs_NS,174.0,9.0
+South Barwon,Num_MVs_NS,198.0,10.0
+Brighton,Num_MVs_NS,199.0,11.0
+Mornington,Num_MVs_NS,205.0,12.0
+Bentleigh,Num_MVs_NS,206.0,13.0
+Berwick,Num_MVs_NS,206.0,14.0
+Hawthorn,Num_MVs_NS,211.0,15.0
+Sunbury,Num_MVs_NS,212.0,16.0
+Bulleen,Num_MVs_NS,220.0,17.0
+Yan Yean,Num_MVs_NS,223.0,18.0
+Bendigo East,Num_MVs_NS,226.0,19.0
+Glen Waverley,Num_MVs_NS,229.0,20.0
+Ivanhoe,Num_MVs_NS,230.0,21.0
+Hastings,Num_MVs_NS,236.0,22.0
+Mill Park,Num_MVs_NS,239.0,23.0
+Croydon,Num_MVs_NS,240.0,24.0
+Sydenham,Num_MVs_NS,240.0,25.0
+Bayswater,Num_MVs_NS,241.0,26.0
+Ashwood,Num_MVs_NS,245.0,27.0
+Malvern,Num_MVs_NS,257.0,28.0
+Williamstown,Num_MVs_NS,257.0,29.0
+Macedon,Num_MVs_NS,261.0,30.0
+Niddrie,Num_MVs_NS,261.0,31.0
+Pascoe Vale,Num_MVs_NS,269.0,32.0
+Bellarine,Num_MVs_NS,274.0,33.0
+Bundoora,Num_MVs_NS,276.0,34.0
+Brunswick,Num_MVs_NS,278.0,35.0
+Narre Warren South,Num_MVs_NS,283.0,36.0
+Narracan,Num_MVs_NS,289.0,37.0
+Narre Warren North,Num_MVs_NS,289.0,38.0
+Caulfield,Num_MVs_NS,296.0,39.0
+Pakenham,Num_MVs_NS,299.0,40.0
+Carrum,Num_MVs_NS,305.0,41.0
+Point Cook,Num_MVs_NS,308.0,42.0
+Eureka,Num_MVs_NS,315.0,43.0
+Cranbourne,Num_MVs_NS,316.0,44.0
+Geelong,Num_MVs_NS,319.0,45.0
+Eildon,Num_MVs_NS,320.0,46.0
+Box Hill,Num_MVs_NS,331.0,47.0
+Thomastown,Num_MVs_NS,331.0,48.0
+Greenvale,Num_MVs_NS,332.0,49.0
+Clarinda,Num_MVs_NS,337.0,50.0
+Bendigo West,Num_MVs_NS,342.0,51.0
+Bass,Num_MVs_NS,345.0,52.0
+Kororoit,Num_MVs_NS,350.0,53.0
+Essendon,Num_MVs_NS,351.0,54.0
+Footscray,Num_MVs_NS,352.0,55.0
+Werribee,Num_MVs_NS,359.0,56.0
+Ringwood,Num_MVs_NS,364.0,57.0
+Richmond,Num_MVs_NS,373.0,58.0
+Oakleigh,Num_MVs_NS,374.0,59.0
+Wendouree,Num_MVs_NS,379.0,60.0
+Nepean,Num_MVs_NS,386.0,61.0
+Mulgrave,Num_MVs_NS,391.0,62.0
+Polwarth,Num_MVs_NS,392.0,63.0
+Lara,Num_MVs_NS,396.0,64.0
+South-West Coast,Num_MVs_NS,396.0,65.0
+Tarneit,Num_MVs_NS,407.0,66.0
+Kalkallo,Num_MVs_NS,410.0,67.0
+Frankston,Num_MVs_NS,415.0,68.0
+Albert Park,Num_MVs_NS,428.0,69.0
+Gippsland South,Num_MVs_NS,431.0,70.0
+Prahran,Num_MVs_NS,452.0,71.0
+Ripon,Num_MVs_NS,452.0,72.0
+Melton,Num_MVs_NS,461.0,73.0
+Lowan,Num_MVs_NS,475.0,74.0
+St Albans,Num_MVs_NS,486.0,75.0
+Gippsland East,Num_MVs_NS,492.0,76.0
+Broadmeadows,Num_MVs_NS,493.0,77.0
+Morwell,Num_MVs_NS,496.0,78.0
+Preston,Num_MVs_NS,498.0,79.0
+Murray Plains,Num_MVs_NS,523.0,80.0
+Benambra,Num_MVs_NS,527.0,81.0
+Euroa,Num_MVs_NS,561.0,82.0
+Ovens Valley,Num_MVs_NS,572.0,83.0
+Shepparton,Num_MVs_NS,576.0,84.0
+Mildura,Num_MVs_NS,591.0,85.0
+Dandenong,Num_MVs_NS,596.0,86.0
+Laverton,Num_MVs_NS,624.0,87.0
+Melbourne,Num_MVs_NS,882.0,88.0
+Eltham,Num_MVs_NS_pc,0.0053,1.0
+Evelyn,Num_MVs_NS_pc,0.0056,2.0
+Northcote,Num_MVs_NS_pc,0.0062,3.0
+Rowville,Num_MVs_NS_pc,0.0062,4.0
+Mordialloc,Num_MVs_NS_pc,0.0064,5.0
+Warrandyte,Num_MVs_NS_pc,0.0064,6.0
+Kew,Num_MVs_NS_pc,0.0066,7.0
+Sandringham,Num_MVs_NS_pc,0.0067,8.0
+Monbulk,Num_MVs_NS_pc,0.007,9.0
+Bentleigh,Num_MVs_NS_pc,0.0073,10.0
+Hawthorn,Num_MVs_NS_pc,0.0075,11.0
+Brighton,Num_MVs_NS_pc,0.0076,12.0
+South Barwon,Num_MVs_NS_pc,0.0076,13.0
+Bulleen,Num_MVs_NS_pc,0.008,14.0
+Berwick,Num_MVs_NS_pc,0.0081,15.0
+Glen Waverley,Num_MVs_NS_pc,0.0081,16.0
+Bendigo East,Num_MVs_NS_pc,0.0084,17.0
+Ashwood,Num_MVs_NS_pc,0.0085,18.0
+Croydon,Num_MVs_NS_pc,0.0085,19.0
+Mornington,Num_MVs_NS_pc,0.0085,20.0
+Bayswater,Num_MVs_NS_pc,0.0088,21.0
+Ivanhoe,Num_MVs_NS_pc,0.0091,22.0
+Sunbury,Num_MVs_NS_pc,0.0091,23.0
+Brunswick,Num_MVs_NS_pc,0.0092,24.0
+Yan Yean,Num_MVs_NS_pc,0.0096,25.0
+Hastings,Num_MVs_NS_pc,0.0097,26.0
+Malvern,Num_MVs_NS_pc,0.0098,27.0
+Pascoe Vale,Num_MVs_NS_pc,0.01,28.0
+Sydenham,Num_MVs_NS_pc,0.01,29.0
+Caulfield,Num_MVs_NS_pc,0.0101,30.0
+Bellarine,Num_MVs_NS_pc,0.0102,31.0
+Niddrie,Num_MVs_NS_pc,0.0102,32.0
+Williamstown,Num_MVs_NS_pc,0.0102,33.0
+Box Hill,Num_MVs_NS_pc,0.0103,34.0
+Point Cook,Num_MVs_NS_pc,0.0103,35.0
+Mill Park,Num_MVs_NS_pc,0.0105,36.0
+Bundoora,Num_MVs_NS_pc,0.0108,37.0
+Narre Warren South,Num_MVs_NS_pc,0.0108,38.0
+Oakleigh,Num_MVs_NS_pc,0.0109,39.0
+Geelong,Num_MVs_NS_pc,0.011,40.0
+Carrum,Num_MVs_NS_pc,0.0111,41.0
+Macedon,Num_MVs_NS_pc,0.0112,42.0
+Narre Warren North,Num_MVs_NS_pc,0.0113,43.0
+Eureka,Num_MVs_NS_pc,0.0114,44.0
+Cranbourne,Num_MVs_NS_pc,0.0116,45.0
+Narracan,Num_MVs_NS_pc,0.0116,46.0
+Pakenham,Num_MVs_NS_pc,0.0116,47.0
+Richmond,Num_MVs_NS_pc,0.012,48.0
+Ringwood,Num_MVs_NS_pc,0.012,49.0
+Albert Park,Num_MVs_NS_pc,0.0121,50.0
+Footscray,Num_MVs_NS_pc,0.0121,51.0
+Prahran,Num_MVs_NS_pc,0.0121,52.0
+Essendon,Num_MVs_NS_pc,0.0123,53.0
+Werribee,Num_MVs_NS_pc,0.0127,54.0
+Thomastown,Num_MVs_NS_pc,0.0128,55.0
+Eildon,Num_MVs_NS_pc,0.0131,56.0
+Clarinda,Num_MVs_NS_pc,0.0133,57.0
+Bendigo West,Num_MVs_NS_pc,0.0134,58.0
+Kororoit,Num_MVs_NS_pc,0.0136,59.0
+Wendouree,Num_MVs_NS_pc,0.0137,60.0
+Bass,Num_MVs_NS_pc,0.0138,61.0
+South-West Coast,Num_MVs_NS_pc,0.0145,62.0
+Tarneit,Num_MVs_NS_pc,0.0145,63.0
+Kalkallo,Num_MVs_NS_pc,0.0146,64.0
+Mulgrave,Num_MVs_NS_pc,0.0147,65.0
+Polwarth,Num_MVs_NS_pc,0.0149,66.0
+Greenvale,Num_MVs_NS_pc,0.015,67.0
+Lara,Num_MVs_NS_pc,0.0151,68.0
+Frankston,Num_MVs_NS_pc,0.0153,69.0
+Nepean,Num_MVs_NS_pc,0.0154,70.0
+Melbourne,Num_MVs_NS_pc,0.0161,71.0
+Gippsland South,Num_MVs_NS_pc,0.0169,72.0
+Lowan,Num_MVs_NS_pc,0.017,73.0
+Preston,Num_MVs_NS_pc,0.017,74.0
+Ripon,Num_MVs_NS_pc,0.017,75.0
+Melton,Num_MVs_NS_pc,0.0173,76.0
+Morwell,Num_MVs_NS_pc,0.0174,77.0
+Broadmeadows,Num_MVs_NS_pc,0.0181,78.0
+Gippsland East,Num_MVs_NS_pc,0.0193,79.0
+Dandenong,Num_MVs_NS_pc,0.02,80.0
+St Albans,Num_MVs_NS_pc,0.0203,81.0
+Benambra,Num_MVs_NS_pc,0.0207,82.0
+Murray Plains,Num_MVs_NS_pc,0.0208,83.0
+Laverton,Num_MVs_NS_pc,0.021,84.0
+Shepparton,Num_MVs_NS_pc,0.0211,85.0
+Euroa,Num_MVs_NS_pc,0.0215,86.0
+Mildura,Num_MVs_NS_pc,0.0228,87.0
+Ovens Valley,Num_MVs_NS_pc,0.023,88.0
+Yan Yean,Num_MVs_per_dweling_0_MVs,352.0,1.0
+Berwick,Num_MVs_per_dweling_0_MVs,464.0,2.0
+Macedon,Num_MVs_per_dweling_0_MVs,482.0,3.0
+Eltham,Num_MVs_per_dweling_0_MVs,493.0,4.0
+Monbulk,Num_MVs_per_dweling_0_MVs,533.0,5.0
+Eildon,Num_MVs_per_dweling_0_MVs,604.0,6.0
+Evelyn,Num_MVs_per_dweling_0_MVs,612.0,7.0
+Sydenham,Num_MVs_per_dweling_0_MVs,623.0,8.0
+Bellarine,Num_MVs_per_dweling_0_MVs,630.0,9.0
+Narre Warren South,Num_MVs_per_dweling_0_MVs,661.0,10.0
+Mill Park,Num_MVs_per_dweling_0_MVs,662.0,11.0
+Rowville,Num_MVs_per_dweling_0_MVs,663.0,12.0
+Warrandyte,Num_MVs_per_dweling_0_MVs,675.0,13.0
+Kalkallo,Num_MVs_per_dweling_0_MVs,689.0,14.0
+Pakenham,Num_MVs_per_dweling_0_MVs,715.0,15.0
+Narracan,Num_MVs_per_dweling_0_MVs,749.0,16.0
+Hastings,Num_MVs_per_dweling_0_MVs,769.0,17.0
+Greenvale,Num_MVs_per_dweling_0_MVs,785.0,18.0
+Mornington,Num_MVs_per_dweling_0_MVs,794.0,19.0
+Cranbourne,Num_MVs_per_dweling_0_MVs,796.0,20.0
+Bass,Num_MVs_per_dweling_0_MVs,799.0,21.0
+Polwarth,Num_MVs_per_dweling_0_MVs,833.0,22.0
+South Barwon,Num_MVs_per_dweling_0_MVs,833.0,23.0
+Narre Warren North,Num_MVs_per_dweling_0_MVs,867.0,24.0
+Nepean,Num_MVs_per_dweling_0_MVs,907.0,25.0
+Point Cook,Num_MVs_per_dweling_0_MVs,922.0,26.0
+Sunbury,Num_MVs_per_dweling_0_MVs,944.0,27.0
+Gippsland East,Num_MVs_per_dweling_0_MVs,971.0,28.0
+Tarneit,Num_MVs_per_dweling_0_MVs,971.0,29.0
+Gippsland South,Num_MVs_per_dweling_0_MVs,991.0,30.0
+Kororoit,Num_MVs_per_dweling_0_MVs,992.0,31.0
+Benambra,Num_MVs_per_dweling_0_MVs,1003.0,32.0
+Ripon,Num_MVs_per_dweling_0_MVs,1012.0,33.0
+Eureka,Num_MVs_per_dweling_0_MVs,1041.0,34.0
+Euroa,Num_MVs_per_dweling_0_MVs,1046.0,35.0
+Melton,Num_MVs_per_dweling_0_MVs,1075.0,36.0
+Ovens Valley,Num_MVs_per_dweling_0_MVs,1090.0,37.0
+Bendigo East,Num_MVs_per_dweling_0_MVs,1132.0,38.0
+Bayswater,Num_MVs_per_dweling_0_MVs,1204.0,39.0
+Croydon,Num_MVs_per_dweling_0_MVs,1204.0,40.0
+Carrum,Num_MVs_per_dweling_0_MVs,1212.0,41.0
+Mordialloc,Num_MVs_per_dweling_0_MVs,1256.0,42.0
+Murray Plains,Num_MVs_per_dweling_0_MVs,1265.0,43.0
+South-West Coast,Num_MVs_per_dweling_0_MVs,1269.0,44.0
+Niddrie,Num_MVs_per_dweling_0_MVs,1290.0,45.0
+Lowan,Num_MVs_per_dweling_0_MVs,1327.0,46.0
+Shepparton,Num_MVs_per_dweling_0_MVs,1345.0,47.0
+Glen Waverley,Num_MVs_per_dweling_0_MVs,1363.0,48.0
+Bulleen,Num_MVs_per_dweling_0_MVs,1382.0,49.0
+Bendigo West,Num_MVs_per_dweling_0_MVs,1426.0,50.0
+Werribee,Num_MVs_per_dweling_0_MVs,1435.0,51.0
+Sandringham,Num_MVs_per_dweling_0_MVs,1443.0,52.0
+Clarinda,Num_MVs_per_dweling_0_MVs,1457.0,53.0
+Kew,Num_MVs_per_dweling_0_MVs,1473.0,54.0
+Mildura,Num_MVs_per_dweling_0_MVs,1518.0,55.0
+Bundoora,Num_MVs_per_dweling_0_MVs,1553.0,56.0
+Ashwood,Num_MVs_per_dweling_0_MVs,1601.0,57.0
+Thomastown,Num_MVs_per_dweling_0_MVs,1649.0,58.0
+Brighton,Num_MVs_per_dweling_0_MVs,1726.0,59.0
+Bentleigh,Num_MVs_per_dweling_0_MVs,1769.0,60.0
+Ivanhoe,Num_MVs_per_dweling_0_MVs,1798.0,61.0
+Lara,Num_MVs_per_dweling_0_MVs,1841.0,62.0
+Ringwood,Num_MVs_per_dweling_0_MVs,1903.0,63.0
+St Albans,Num_MVs_per_dweling_0_MVs,1918.0,64.0
+Wendouree,Num_MVs_per_dweling_0_MVs,1928.0,65.0
+Mulgrave,Num_MVs_per_dweling_0_MVs,1962.0,66.0
+Williamstown,Num_MVs_per_dweling_0_MVs,1967.0,67.0
+Morwell,Num_MVs_per_dweling_0_MVs,2068.0,68.0
+Geelong,Num_MVs_per_dweling_0_MVs,2113.0,69.0
+Frankston,Num_MVs_per_dweling_0_MVs,2141.0,70.0
+Laverton,Num_MVs_per_dweling_0_MVs,2158.0,71.0
+Malvern,Num_MVs_per_dweling_0_MVs,2402.0,72.0
+Hawthorn,Num_MVs_per_dweling_0_MVs,2727.0,73.0
+Dandenong,Num_MVs_per_dweling_0_MVs,2734.0,74.0
+Broadmeadows,Num_MVs_per_dweling_0_MVs,2741.0,75.0
+Pascoe Vale,Num_MVs_per_dweling_0_MVs,2833.0,76.0
+Box Hill,Num_MVs_per_dweling_0_MVs,3353.0,77.0
+Caulfield,Num_MVs_per_dweling_0_MVs,3363.0,78.0
+Preston,Num_MVs_per_dweling_0_MVs,3372.0,79.0
+Essendon,Num_MVs_per_dweling_0_MVs,3539.0,80.0
+Northcote,Num_MVs_per_dweling_0_MVs,3549.0,81.0
+Footscray,Num_MVs_per_dweling_0_MVs,3609.0,82.0
+Oakleigh,Num_MVs_per_dweling_0_MVs,3691.0,83.0
+Brunswick,Num_MVs_per_dweling_0_MVs,5709.0,84.0
+Richmond,Num_MVs_per_dweling_0_MVs,6587.0,85.0
+Albert Park,Num_MVs_per_dweling_0_MVs,8555.0,86.0
+Prahran,Num_MVs_per_dweling_0_MVs,9181.0,87.0
+Melbourne,Num_MVs_per_dweling_0_MVs,26624.0,88.0
+Yan Yean,Num_MVs_per_dweling_0_MVs_pc,0.0151,1.0
+Berwick,Num_MVs_per_dweling_0_MVs_pc,0.0183,2.0
+Macedon,Num_MVs_per_dweling_0_MVs_pc,0.0207,3.0
+Eltham,Num_MVs_per_dweling_0_MVs_pc,0.0213,4.0
+Monbulk,Num_MVs_per_dweling_0_MVs_pc,0.0229,5.0
+Bellarine,Num_MVs_per_dweling_0_MVs_pc,0.0234,6.0
+Kalkallo,Num_MVs_per_dweling_0_MVs_pc,0.0245,7.0
+Eildon,Num_MVs_per_dweling_0_MVs_pc,0.0247,8.0
+Narre Warren South,Num_MVs_per_dweling_0_MVs_pc,0.0252,9.0
+Evelyn,Num_MVs_per_dweling_0_MVs_pc,0.0254,10.0
+Sydenham,Num_MVs_per_dweling_0_MVs_pc,0.0261,11.0
+Warrandyte,Num_MVs_per_dweling_0_MVs_pc,0.0269,12.0
+Rowville,Num_MVs_per_dweling_0_MVs_pc,0.0272,13.0
+Pakenham,Num_MVs_per_dweling_0_MVs_pc,0.0277,14.0
+Mill Park,Num_MVs_per_dweling_0_MVs_pc,0.0291,15.0
+Cranbourne,Num_MVs_per_dweling_0_MVs_pc,0.0292,16.0
+Narracan,Num_MVs_per_dweling_0_MVs_pc,0.0301,17.0
+Point Cook,Num_MVs_per_dweling_0_MVs_pc,0.0308,18.0
+Hastings,Num_MVs_per_dweling_0_MVs_pc,0.0315,19.0
+Polwarth,Num_MVs_per_dweling_0_MVs_pc,0.0317,20.0
+Bass,Num_MVs_per_dweling_0_MVs_pc,0.0319,21.0
+South Barwon,Num_MVs_per_dweling_0_MVs_pc,0.032,22.0
+Mornington,Num_MVs_per_dweling_0_MVs_pc,0.0329,23.0
+Narre Warren North,Num_MVs_per_dweling_0_MVs_pc,0.0339,24.0
+Tarneit,Num_MVs_per_dweling_0_MVs_pc,0.0347,25.0
+Greenvale,Num_MVs_per_dweling_0_MVs_pc,0.0354,26.0
+Nepean,Num_MVs_per_dweling_0_MVs_pc,0.0361,27.0
+Eureka,Num_MVs_per_dweling_0_MVs_pc,0.0376,28.0
+Gippsland East,Num_MVs_per_dweling_0_MVs_pc,0.038,29.0
+Ripon,Num_MVs_per_dweling_0_MVs_pc,0.0381,30.0
+Kororoit,Num_MVs_per_dweling_0_MVs_pc,0.0385,31.0
+Gippsland South,Num_MVs_per_dweling_0_MVs_pc,0.0388,32.0
+Benambra,Num_MVs_per_dweling_0_MVs_pc,0.0395,33.0
+Euroa,Num_MVs_per_dweling_0_MVs_pc,0.0401,34.0
+Melton,Num_MVs_per_dweling_0_MVs_pc,0.0403,35.0
+Sunbury,Num_MVs_per_dweling_0_MVs_pc,0.0404,36.0
+Bendigo East,Num_MVs_per_dweling_0_MVs_pc,0.0419,37.0
+Croydon,Num_MVs_per_dweling_0_MVs_pc,0.0425,38.0
+Bayswater,Num_MVs_per_dweling_0_MVs_pc,0.0439,39.0
+Ovens Valley,Num_MVs_per_dweling_0_MVs_pc,0.0439,40.0
+Carrum,Num_MVs_per_dweling_0_MVs_pc,0.0442,41.0
+South-West Coast,Num_MVs_per_dweling_0_MVs_pc,0.0465,42.0
+Lowan,Num_MVs_per_dweling_0_MVs_pc,0.0475,43.0
+Glen Waverley,Num_MVs_per_dweling_0_MVs_pc,0.0482,44.0
+Mordialloc,Num_MVs_per_dweling_0_MVs_pc,0.0482,45.0
+Shepparton,Num_MVs_per_dweling_0_MVs_pc,0.0492,46.0
+Murray Plains,Num_MVs_per_dweling_0_MVs_pc,0.0504,47.0
+Bulleen,Num_MVs_per_dweling_0_MVs_pc,0.0505,48.0
+Niddrie,Num_MVs_per_dweling_0_MVs_pc,0.0506,49.0
+Werribee,Num_MVs_per_dweling_0_MVs_pc,0.0509,50.0
+Kew,Num_MVs_per_dweling_0_MVs_pc,0.0555,51.0
+Ashwood,Num_MVs_per_dweling_0_MVs_pc,0.0556,52.0
+Bendigo West,Num_MVs_per_dweling_0_MVs_pc,0.0561,53.0
+Clarinda,Num_MVs_per_dweling_0_MVs_pc,0.0574,54.0
+Sandringham,Num_MVs_per_dweling_0_MVs_pc,0.058,55.0
+Mildura,Num_MVs_per_dweling_0_MVs_pc,0.0585,56.0
+Bundoora,Num_MVs_per_dweling_0_MVs_pc,0.0609,57.0
+Bentleigh,Num_MVs_per_dweling_0_MVs_pc,0.0624,58.0
+Ringwood,Num_MVs_per_dweling_0_MVs_pc,0.0627,59.0
+Thomastown,Num_MVs_per_dweling_0_MVs_pc,0.064,60.0
+Brighton,Num_MVs_per_dweling_0_MVs_pc,0.066,61.0
+Wendouree,Num_MVs_per_dweling_0_MVs_pc,0.0697,62.0
+Lara,Num_MVs_per_dweling_0_MVs_pc,0.0704,63.0
+Ivanhoe,Num_MVs_per_dweling_0_MVs_pc,0.071,64.0
+Morwell,Num_MVs_per_dweling_0_MVs_pc,0.0724,65.0
+Geelong,Num_MVs_per_dweling_0_MVs_pc,0.0726,66.0
+Laverton,Num_MVs_per_dweling_0_MVs_pc,0.0726,67.0
+Mulgrave,Num_MVs_per_dweling_0_MVs_pc,0.074,68.0
+Williamstown,Num_MVs_per_dweling_0_MVs_pc,0.0778,69.0
+Frankston,Num_MVs_per_dweling_0_MVs_pc,0.0787,70.0
+St Albans,Num_MVs_per_dweling_0_MVs_pc,0.08,71.0
+Malvern,Num_MVs_per_dweling_0_MVs_pc,0.0914,72.0
+Dandenong,Num_MVs_per_dweling_0_MVs_pc,0.092,73.0
+Hawthorn,Num_MVs_per_dweling_0_MVs_pc,0.0968,74.0
+Broadmeadows,Num_MVs_per_dweling_0_MVs_pc,0.1004,75.0
+Box Hill,Num_MVs_per_dweling_0_MVs_pc,0.1039,76.0
+Pascoe Vale,Num_MVs_per_dweling_0_MVs_pc,0.1053,77.0
+Oakleigh,Num_MVs_per_dweling_0_MVs_pc,0.1079,78.0
+Caulfield,Num_MVs_per_dweling_0_MVs_pc,0.1147,79.0
+Preston,Num_MVs_per_dweling_0_MVs_pc,0.1149,80.0
+Essendon,Num_MVs_per_dweling_0_MVs_pc,0.1238,81.0
+Footscray,Num_MVs_per_dweling_0_MVs_pc,0.1238,82.0
+Northcote,Num_MVs_per_dweling_0_MVs_pc,0.1278,83.0
+Brunswick,Num_MVs_per_dweling_0_MVs_pc,0.1891,84.0
+Richmond,Num_MVs_per_dweling_0_MVs_pc,0.2119,85.0
+Albert Park,Num_MVs_per_dweling_0_MVs_pc,0.2412,86.0
+Prahran,Num_MVs_per_dweling_0_MVs_pc,0.2458,87.0
+Melbourne,Num_MVs_per_dweling_0_MVs_pc,0.4863,88.0
+Greenvale,Num_MVs_per_dweling_1_MVs,5727.0,1.0
+Sydenham,Num_MVs_per_dweling_1_MVs,5941.0,2.0
+Monbulk,Num_MVs_per_dweling_1_MVs,5975.0,3.0
+Eltham,Num_MVs_per_dweling_1_MVs,6016.0,4.0
+Macedon,Num_MVs_per_dweling_1_MVs,6051.0,5.0
+Evelyn,Num_MVs_per_dweling_1_MVs,6123.0,6.0
+Yan Yean,Num_MVs_per_dweling_1_MVs,6333.0,7.0
+Rowville,Num_MVs_per_dweling_1_MVs,6340.0,8.0
+Berwick,Num_MVs_per_dweling_1_MVs,6370.0,9.0
+Narre Warren South,Num_MVs_per_dweling_1_MVs,6556.0,10.0
+Eildon,Num_MVs_per_dweling_1_MVs,6801.0,11.0
+Mill Park,Num_MVs_per_dweling_1_MVs,6816.0,12.0
+Warrandyte,Num_MVs_per_dweling_1_MVs,6862.0,13.0
+Narre Warren North,Num_MVs_per_dweling_1_MVs,7054.0,14.0
+Narracan,Num_MVs_per_dweling_1_MVs,7247.0,15.0
+Sunbury,Num_MVs_per_dweling_1_MVs,7460.0,16.0
+Mornington,Num_MVs_per_dweling_1_MVs,7504.0,17.0
+Hastings,Num_MVs_per_dweling_1_MVs,7515.0,18.0
+Kororoit,Num_MVs_per_dweling_1_MVs,7675.0,19.0
+Murray Plains,Num_MVs_per_dweling_1_MVs,7804.0,20.0
+Polwarth,Num_MVs_per_dweling_1_MVs,7853.0,21.0
+Ripon,Num_MVs_per_dweling_1_MVs,7873.0,22.0
+Bass,Num_MVs_per_dweling_1_MVs,7928.0,23.0
+Benambra,Num_MVs_per_dweling_1_MVs,7948.0,24.0
+Euroa,Num_MVs_per_dweling_1_MVs,7990.0,25.0
+Kalkallo,Num_MVs_per_dweling_1_MVs,8025.0,26.0
+South Barwon,Num_MVs_per_dweling_1_MVs,8075.0,27.0
+Cranbourne,Num_MVs_per_dweling_1_MVs,8100.0,28.0
+Ovens Valley,Num_MVs_per_dweling_1_MVs,8101.0,29.0
+Gippsland South,Num_MVs_per_dweling_1_MVs,8125.0,30.0
+Gippsland East,Num_MVs_per_dweling_1_MVs,8256.0,31.0
+St Albans,Num_MVs_per_dweling_1_MVs,8308.0,32.0
+Mildura,Num_MVs_per_dweling_1_MVs,8442.0,33.0
+Niddrie,Num_MVs_per_dweling_1_MVs,8444.0,34.0
+Eureka,Num_MVs_per_dweling_1_MVs,8640.0,35.0
+Pakenham,Num_MVs_per_dweling_1_MVs,8642.0,36.0
+Clarinda,Num_MVs_per_dweling_1_MVs,8648.0,37.0
+Melton,Num_MVs_per_dweling_1_MVs,8747.0,38.0
+Bendigo East,Num_MVs_per_dweling_1_MVs,8770.0,39.0
+Mordialloc,Num_MVs_per_dweling_1_MVs,8786.0,40.0
+South-West Coast,Num_MVs_per_dweling_1_MVs,8888.0,41.0
+Lowan,Num_MVs_per_dweling_1_MVs,8923.0,42.0
+Shepparton,Num_MVs_per_dweling_1_MVs,8932.0,43.0
+Nepean,Num_MVs_per_dweling_1_MVs,8981.0,44.0
+Bellarine,Num_MVs_per_dweling_1_MVs,8995.0,45.0
+Bundoora,Num_MVs_per_dweling_1_MVs,9016.0,46.0
+Thomastown,Num_MVs_per_dweling_1_MVs,9083.0,47.0
+Mulgrave,Num_MVs_per_dweling_1_MVs,9154.0,48.0
+Carrum,Num_MVs_per_dweling_1_MVs,9287.0,49.0
+Bendigo West,Num_MVs_per_dweling_1_MVs,9315.0,50.0
+Tarneit,Num_MVs_per_dweling_1_MVs,9409.0,51.0
+Lara,Num_MVs_per_dweling_1_MVs,9413.0,52.0
+Glen Waverley,Num_MVs_per_dweling_1_MVs,9441.0,53.0
+Bayswater,Num_MVs_per_dweling_1_MVs,9442.0,54.0
+Bulleen,Num_MVs_per_dweling_1_MVs,9637.0,55.0
+Kew,Num_MVs_per_dweling_1_MVs,9699.0,56.0
+Sandringham,Num_MVs_per_dweling_1_MVs,9827.0,57.0
+Croydon,Num_MVs_per_dweling_1_MVs,10005.0,58.0
+Ivanhoe,Num_MVs_per_dweling_1_MVs,10097.0,59.0
+Williamstown,Num_MVs_per_dweling_1_MVs,10196.0,60.0
+Ashwood,Num_MVs_per_dweling_1_MVs,10394.0,61.0
+Point Cook,Num_MVs_per_dweling_1_MVs,10410.0,62.0
+Morwell,Num_MVs_per_dweling_1_MVs,10426.0,63.0
+Frankston,Num_MVs_per_dweling_1_MVs,10650.0,64.0
+Werribee,Num_MVs_per_dweling_1_MVs,10775.0,65.0
+Bentleigh,Num_MVs_per_dweling_1_MVs,10955.0,66.0
+Brighton,Num_MVs_per_dweling_1_MVs,10973.0,67.0
+Wendouree,Num_MVs_per_dweling_1_MVs,11004.0,68.0
+Laverton,Num_MVs_per_dweling_1_MVs,11328.0,69.0
+Broadmeadows,Num_MVs_per_dweling_1_MVs,11346.0,70.0
+Geelong,Num_MVs_per_dweling_1_MVs,11390.0,71.0
+Dandenong,Num_MVs_per_dweling_1_MVs,11436.0,72.0
+Malvern,Num_MVs_per_dweling_1_MVs,11509.0,73.0
+Pascoe Vale,Num_MVs_per_dweling_1_MVs,12253.0,74.0
+Ringwood,Num_MVs_per_dweling_1_MVs,12315.0,75.0
+Hawthorn,Num_MVs_per_dweling_1_MVs,12731.0,76.0
+Essendon,Num_MVs_per_dweling_1_MVs,12947.0,77.0
+Preston,Num_MVs_per_dweling_1_MVs,13156.0,78.0
+Box Hill,Num_MVs_per_dweling_1_MVs,13502.0,79.0
+Caulfield,Num_MVs_per_dweling_1_MVs,13559.0,80.0
+Northcote,Num_MVs_per_dweling_1_MVs,13567.0,81.0
+Footscray,Num_MVs_per_dweling_1_MVs,14327.0,82.0
+Oakleigh,Num_MVs_per_dweling_1_MVs,14992.0,83.0
+Brunswick,Num_MVs_per_dweling_1_MVs,15700.0,84.0
+Richmond,Num_MVs_per_dweling_1_MVs,16669.0,85.0
+Albert Park,Num_MVs_per_dweling_1_MVs,18304.0,86.0
+Prahran,Num_MVs_per_dweling_1_MVs,20691.0,87.0
+Melbourne,Num_MVs_per_dweling_1_MVs,21177.0,88.0
+Sydenham,Num_MVs_per_dweling_1_MVs_pc,0.2485,1.0
+Narre Warren South,Num_MVs_per_dweling_1_MVs_pc,0.2501,2.0
+Berwick,Num_MVs_per_dweling_1_MVs_pc,0.2507,3.0
+Evelyn,Num_MVs_per_dweling_1_MVs_pc,0.2536,4.0
+Monbulk,Num_MVs_per_dweling_1_MVs_pc,0.2563,5.0
+Greenvale,Num_MVs_per_dweling_1_MVs_pc,0.2582,6.0
+Macedon,Num_MVs_per_dweling_1_MVs_pc,0.2593,7.0
+Rowville,Num_MVs_per_dweling_1_MVs_pc,0.26,8.0
+Eltham,Num_MVs_per_dweling_1_MVs_pc,0.2601,9.0
+Yan Yean,Num_MVs_per_dweling_1_MVs_pc,0.2714,10.0
+Warrandyte,Num_MVs_per_dweling_1_MVs_pc,0.2735,11.0
+Narre Warren North,Num_MVs_per_dweling_1_MVs_pc,0.2757,12.0
+Eildon,Num_MVs_per_dweling_1_MVs_pc,0.2776,13.0
+Kalkallo,Num_MVs_per_dweling_1_MVs_pc,0.2856,14.0
+Narracan,Num_MVs_per_dweling_1_MVs_pc,0.2911,15.0
+Ripon,Num_MVs_per_dweling_1_MVs_pc,0.2964,16.0
+Cranbourne,Num_MVs_per_dweling_1_MVs_pc,0.2971,17.0
+Kororoit,Num_MVs_per_dweling_1_MVs_pc,0.2977,18.0
+Polwarth,Num_MVs_per_dweling_1_MVs_pc,0.2989,19.0
+Mill Park,Num_MVs_per_dweling_1_MVs_pc,0.3,20.0
+Euroa,Num_MVs_per_dweling_1_MVs_pc,0.3065,21.0
+Hastings,Num_MVs_per_dweling_1_MVs_pc,0.3073,22.0
+South Barwon,Num_MVs_per_dweling_1_MVs_pc,0.3102,23.0
+Mornington,Num_MVs_per_dweling_1_MVs_pc,0.3109,24.0
+Murray Plains,Num_MVs_per_dweling_1_MVs_pc,0.3109,25.0
+Eureka,Num_MVs_per_dweling_1_MVs_pc,0.3124,26.0
+Benambra,Num_MVs_per_dweling_1_MVs_pc,0.3129,27.0
+Bass,Num_MVs_per_dweling_1_MVs_pc,0.3169,28.0
+Gippsland South,Num_MVs_per_dweling_1_MVs_pc,0.3179,29.0
+Lowan,Num_MVs_per_dweling_1_MVs_pc,0.3195,30.0
+Sunbury,Num_MVs_per_dweling_1_MVs_pc,0.3196,31.0
+Gippsland East,Num_MVs_per_dweling_1_MVs_pc,0.3234,32.0
+Bendigo East,Num_MVs_per_dweling_1_MVs_pc,0.325,33.0
+Mildura,Num_MVs_per_dweling_1_MVs_pc,0.3251,34.0
+South-West Coast,Num_MVs_per_dweling_1_MVs_pc,0.3256,35.0
+Ovens Valley,Num_MVs_per_dweling_1_MVs_pc,0.3259,36.0
+Shepparton,Num_MVs_per_dweling_1_MVs_pc,0.3269,37.0
+Melton,Num_MVs_per_dweling_1_MVs_pc,0.3281,38.0
+Niddrie,Num_MVs_per_dweling_1_MVs_pc,0.3314,39.0
+Bellarine,Num_MVs_per_dweling_1_MVs_pc,0.3334,40.0
+Glen Waverley,Num_MVs_per_dweling_1_MVs_pc,0.3335,41.0
+Pakenham,Num_MVs_per_dweling_1_MVs_pc,0.3344,42.0
+Tarneit,Num_MVs_per_dweling_1_MVs_pc,0.3358,43.0
+Mordialloc,Num_MVs_per_dweling_1_MVs_pc,0.3368,44.0
+Carrum,Num_MVs_per_dweling_1_MVs_pc,0.3386,45.0
+Clarinda,Num_MVs_per_dweling_1_MVs_pc,0.3408,46.0
+Bayswater,Num_MVs_per_dweling_1_MVs_pc,0.3446,47.0
+Mulgrave,Num_MVs_per_dweling_1_MVs_pc,0.3453,48.0
+St Albans,Num_MVs_per_dweling_1_MVs_pc,0.3466,49.0
+Point Cook,Num_MVs_per_dweling_1_MVs_pc,0.348,50.0
+Bulleen,Num_MVs_per_dweling_1_MVs_pc,0.352,51.0
+Thomastown,Num_MVs_per_dweling_1_MVs_pc,0.3524,52.0
+Croydon,Num_MVs_per_dweling_1_MVs_pc,0.3528,53.0
+Bundoora,Num_MVs_per_dweling_1_MVs_pc,0.3533,54.0
+Nepean,Num_MVs_per_dweling_1_MVs_pc,0.3578,55.0
+Lara,Num_MVs_per_dweling_1_MVs_pc,0.3598,56.0
+Ashwood,Num_MVs_per_dweling_1_MVs_pc,0.3612,57.0
+Morwell,Num_MVs_per_dweling_1_MVs_pc,0.365,58.0
+Kew,Num_MVs_per_dweling_1_MVs_pc,0.3654,59.0
+Bendigo West,Num_MVs_per_dweling_1_MVs_pc,0.3663,60.0
+Laverton,Num_MVs_per_dweling_1_MVs_pc,0.3809,61.0
+Werribee,Num_MVs_per_dweling_1_MVs_pc,0.3823,62.0
+Dandenong,Num_MVs_per_dweling_1_MVs_pc,0.3846,63.0
+Bentleigh,Num_MVs_per_dweling_1_MVs_pc,0.3861,64.0
+Melbourne,Num_MVs_per_dweling_1_MVs_pc,0.3868,65.0
+Geelong,Num_MVs_per_dweling_1_MVs_pc,0.3916,66.0
+Frankston,Num_MVs_per_dweling_1_MVs_pc,0.3917,67.0
+Sandringham,Num_MVs_per_dweling_1_MVs_pc,0.3953,68.0
+Wendouree,Num_MVs_per_dweling_1_MVs_pc,0.398,69.0
+Ivanhoe,Num_MVs_per_dweling_1_MVs_pc,0.3989,70.0
+Williamstown,Num_MVs_per_dweling_1_MVs_pc,0.4035,71.0
+Ringwood,Num_MVs_per_dweling_1_MVs_pc,0.4055,72.0
+Broadmeadows,Num_MVs_per_dweling_1_MVs_pc,0.4154,73.0
+Box Hill,Num_MVs_per_dweling_1_MVs_pc,0.4183,74.0
+Brighton,Num_MVs_per_dweling_1_MVs_pc,0.4199,75.0
+Malvern,Num_MVs_per_dweling_1_MVs_pc,0.4377,76.0
+Oakleigh,Num_MVs_per_dweling_1_MVs_pc,0.4384,77.0
+Preston,Num_MVs_per_dweling_1_MVs_pc,0.4483,78.0
+Hawthorn,Num_MVs_per_dweling_1_MVs_pc,0.4519,79.0
+Essendon,Num_MVs_per_dweling_1_MVs_pc,0.4529,80.0
+Pascoe Vale,Num_MVs_per_dweling_1_MVs_pc,0.4553,81.0
+Caulfield,Num_MVs_per_dweling_1_MVs_pc,0.4625,82.0
+Northcote,Num_MVs_per_dweling_1_MVs_pc,0.4884,83.0
+Footscray,Num_MVs_per_dweling_1_MVs_pc,0.4915,84.0
+Albert Park,Num_MVs_per_dweling_1_MVs_pc,0.516,85.0
+Brunswick,Num_MVs_per_dweling_1_MVs_pc,0.52,86.0
+Richmond,Num_MVs_per_dweling_1_MVs_pc,0.5363,87.0
+Prahran,Num_MVs_per_dweling_1_MVs_pc,0.5541,88.0
+Melbourne,Num_MVs_per_dweling_2_MVs,4979.0,1.0
+Prahran,Num_MVs_per_dweling_2_MVs,5938.0,2.0
+Richmond,Num_MVs_per_dweling_2_MVs,6092.0,3.0
+Brunswick,Num_MVs_per_dweling_2_MVs,6459.0,4.0
+Albert Park,Num_MVs_per_dweling_2_MVs,6671.0,5.0
+Northcote,Num_MVs_per_dweling_2_MVs,7901.0,6.0
+St Albans,Num_MVs_per_dweling_2_MVs,8228.0,7.0
+Footscray,Num_MVs_per_dweling_2_MVs,8253.0,8.0
+Pascoe Vale,Num_MVs_per_dweling_2_MVs,8393.0,9.0
+Essendon,Num_MVs_per_dweling_2_MVs,8541.0,10.0
+Broadmeadows,Num_MVs_per_dweling_2_MVs,8707.0,11.0
+Malvern,Num_MVs_per_dweling_2_MVs,8764.0,12.0
+Preston,Num_MVs_per_dweling_2_MVs,8801.0,13.0
+Greenvale,Num_MVs_per_dweling_2_MVs,8948.0,14.0
+Bendigo West,Num_MVs_per_dweling_2_MVs,9055.0,15.0
+Hawthorn,Num_MVs_per_dweling_2_MVs,9098.0,16.0
+Murray Plains,Num_MVs_per_dweling_2_MVs,9228.0,17.0
+Eildon,Num_MVs_per_dweling_2_MVs,9282.0,18.0
+Caulfield,Num_MVs_per_dweling_2_MVs,9294.0,19.0
+Mill Park,Num_MVs_per_dweling_2_MVs,9350.0,20.0
+Ovens Valley,Num_MVs_per_dweling_2_MVs,9367.0,21.0
+Mildura,Num_MVs_per_dweling_2_MVs,9384.0,22.0
+Euroa,Num_MVs_per_dweling_2_MVs,9401.0,23.0
+Lara,Num_MVs_per_dweling_2_MVs,9439.0,24.0
+Sunbury,Num_MVs_per_dweling_2_MVs,9478.0,25.0
+Williamstown,Num_MVs_per_dweling_2_MVs,9567.0,26.0
+Gippsland South,Num_MVs_per_dweling_2_MVs,9585.0,27.0
+Ivanhoe,Num_MVs_per_dweling_2_MVs,9593.0,28.0
+Brighton,Num_MVs_per_dweling_2_MVs,9651.0,29.0
+Gippsland East,Num_MVs_per_dweling_2_MVs,9696.0,30.0
+Macedon,Num_MVs_per_dweling_2_MVs,9719.0,31.0
+Dandenong,Num_MVs_per_dweling_2_MVs,9721.0,32.0
+Hastings,Num_MVs_per_dweling_2_MVs,9742.0,33.0
+Narracan,Num_MVs_per_dweling_2_MVs,9743.0,34.0
+Ripon,Num_MVs_per_dweling_2_MVs,9797.0,35.0
+Sandringham,Num_MVs_per_dweling_2_MVs,9801.0,36.0
+Lowan,Num_MVs_per_dweling_2_MVs,9852.0,37.0
+Sydenham,Num_MVs_per_dweling_2_MVs,9887.0,38.0
+Frankston,Num_MVs_per_dweling_2_MVs,9891.0,39.0
+Clarinda,Num_MVs_per_dweling_2_MVs,9897.0,40.0
+Monbulk,Num_MVs_per_dweling_2_MVs,9939.0,41.0
+Morwell,Num_MVs_per_dweling_2_MVs,9940.0,42.0
+Bass,Num_MVs_per_dweling_2_MVs,9973.0,43.0
+Mulgrave,Num_MVs_per_dweling_2_MVs,10009.0,44.0
+Wendouree,Num_MVs_per_dweling_2_MVs,10011.0,45.0
+Shepparton,Num_MVs_per_dweling_2_MVs,10019.0,46.0
+Benambra,Num_MVs_per_dweling_2_MVs,10067.0,47.0
+Thomastown,Num_MVs_per_dweling_2_MVs,10109.0,48.0
+Bundoora,Num_MVs_per_dweling_2_MVs,10114.0,49.0
+Nepean,Num_MVs_per_dweling_2_MVs,10133.0,50.0
+Evelyn,Num_MVs_per_dweling_2_MVs,10253.0,51.0
+Mornington,Num_MVs_per_dweling_2_MVs,10395.0,52.0
+Eltham,Num_MVs_per_dweling_2_MVs,10427.0,53.0
+Niddrie,Num_MVs_per_dweling_2_MVs,10437.0,54.0
+Eureka,Num_MVs_per_dweling_2_MVs,10505.0,55.0
+South-West Coast,Num_MVs_per_dweling_2_MVs,10525.0,56.0
+Geelong,Num_MVs_per_dweling_2_MVs,10555.0,57.0
+Narre Warren North,Num_MVs_per_dweling_2_MVs,10574.0,58.0
+Kew,Num_MVs_per_dweling_2_MVs,10594.0,59.0
+Melton,Num_MVs_per_dweling_2_MVs,10687.0,60.0
+Bendigo East,Num_MVs_per_dweling_2_MVs,10689.0,61.0
+Rowville,Num_MVs_per_dweling_2_MVs,10716.0,62.0
+Yan Yean,Num_MVs_per_dweling_2_MVs,10721.0,63.0
+Werribee,Num_MVs_per_dweling_2_MVs,10751.0,64.0
+Polwarth,Num_MVs_per_dweling_2_MVs,10778.0,65.0
+Warrandyte,Num_MVs_per_dweling_2_MVs,10913.0,66.0
+Laverton,Num_MVs_per_dweling_2_MVs,11028.0,67.0
+Kororoit,Num_MVs_per_dweling_2_MVs,11052.0,68.0
+Oakleigh,Num_MVs_per_dweling_2_MVs,11095.0,69.0
+Pakenham,Num_MVs_per_dweling_2_MVs,11112.0,70.0
+Bulleen,Num_MVs_per_dweling_2_MVs,11152.0,71.0
+Box Hill,Num_MVs_per_dweling_2_MVs,11154.0,72.0
+Mordialloc,Num_MVs_per_dweling_2_MVs,11164.0,73.0
+Bayswater,Num_MVs_per_dweling_2_MVs,11349.0,74.0
+Narre Warren South,Num_MVs_per_dweling_2_MVs,11449.0,75.0
+Bentleigh,Num_MVs_per_dweling_2_MVs,11543.0,76.0
+Carrum,Num_MVs_per_dweling_2_MVs,11572.0,77.0
+Croydon,Num_MVs_per_dweling_2_MVs,11615.0,78.0
+Ringwood,Num_MVs_per_dweling_2_MVs,11644.0,79.0
+South Barwon,Num_MVs_per_dweling_2_MVs,11648.0,80.0
+Tarneit,Num_MVs_per_dweling_2_MVs,11656.0,81.0
+Bellarine,Num_MVs_per_dweling_2_MVs,11674.0,82.0
+Ashwood,Num_MVs_per_dweling_2_MVs,11734.0,83.0
+Berwick,Num_MVs_per_dweling_2_MVs,11971.0,84.0
+Glen Waverley,Num_MVs_per_dweling_2_MVs,12017.0,85.0
+Cranbourne,Num_MVs_per_dweling_2_MVs,12246.0,86.0
+Kalkallo,Num_MVs_per_dweling_2_MVs,12785.0,87.0
+Point Cook,Num_MVs_per_dweling_2_MVs,13035.0,88.0
+Melbourne,Num_MVs_per_dweling_2_MVs_pc,0.0909,1.0
+Prahran,Num_MVs_per_dweling_2_MVs_pc,0.159,2.0
+Albert Park,Num_MVs_per_dweling_2_MVs_pc,0.1881,3.0
+Richmond,Num_MVs_per_dweling_2_MVs_pc,0.196,4.0
+Brunswick,Num_MVs_per_dweling_2_MVs_pc,0.2139,5.0
+Footscray,Num_MVs_per_dweling_2_MVs_pc,0.2831,6.0
+Northcote,Num_MVs_per_dweling_2_MVs_pc,0.2844,7.0
+Essendon,Num_MVs_per_dweling_2_MVs_pc,0.2988,8.0
+Preston,Num_MVs_per_dweling_2_MVs_pc,0.2999,9.0
+Pascoe Vale,Num_MVs_per_dweling_2_MVs_pc,0.3119,10.0
+Caulfield,Num_MVs_per_dweling_2_MVs_pc,0.317,11.0
+Broadmeadows,Num_MVs_per_dweling_2_MVs_pc,0.3188,12.0
+Hawthorn,Num_MVs_per_dweling_2_MVs_pc,0.3229,13.0
+Oakleigh,Num_MVs_per_dweling_2_MVs_pc,0.3244,14.0
+Dandenong,Num_MVs_per_dweling_2_MVs_pc,0.327,15.0
+Malvern,Num_MVs_per_dweling_2_MVs_pc,0.3333,16.0
+St Albans,Num_MVs_per_dweling_2_MVs_pc,0.3432,17.0
+Box Hill,Num_MVs_per_dweling_2_MVs_pc,0.3455,18.0
+Morwell,Num_MVs_per_dweling_2_MVs_pc,0.348,19.0
+Lowan,Num_MVs_per_dweling_2_MVs_pc,0.3527,20.0
+Bendigo West,Num_MVs_per_dweling_2_MVs_pc,0.3561,21.0
+Euroa,Num_MVs_per_dweling_2_MVs_pc,0.3606,22.0
+Lara,Num_MVs_per_dweling_2_MVs_pc,0.3608,23.0
+Mildura,Num_MVs_per_dweling_2_MVs_pc,0.3614,24.0
+Wendouree,Num_MVs_per_dweling_2_MVs_pc,0.3621,25.0
+Geelong,Num_MVs_per_dweling_2_MVs_pc,0.3629,26.0
+Frankston,Num_MVs_per_dweling_2_MVs_pc,0.3638,27.0
+Shepparton,Num_MVs_per_dweling_2_MVs_pc,0.3667,28.0
+Murray Plains,Num_MVs_per_dweling_2_MVs_pc,0.3676,29.0
+Ripon,Num_MVs_per_dweling_2_MVs_pc,0.3689,30.0
+Brighton,Num_MVs_per_dweling_2_MVs_pc,0.3693,31.0
+Laverton,Num_MVs_per_dweling_2_MVs_pc,0.3708,32.0
+Gippsland South,Num_MVs_per_dweling_2_MVs_pc,0.375,33.0
+Ovens Valley,Num_MVs_per_dweling_2_MVs_pc,0.3768,34.0
+Mulgrave,Num_MVs_per_dweling_2_MVs_pc,0.3775,35.0
+Williamstown,Num_MVs_per_dweling_2_MVs_pc,0.3786,36.0
+Eildon,Num_MVs_per_dweling_2_MVs_pc,0.3788,37.0
+Ivanhoe,Num_MVs_per_dweling_2_MVs_pc,0.379,38.0
+Eureka,Num_MVs_per_dweling_2_MVs_pc,0.3798,39.0
+Gippsland East,Num_MVs_per_dweling_2_MVs_pc,0.3798,40.0
+Werribee,Num_MVs_per_dweling_2_MVs_pc,0.3815,41.0
+Ringwood,Num_MVs_per_dweling_2_MVs_pc,0.3834,42.0
+South-West Coast,Num_MVs_per_dweling_2_MVs_pc,0.3856,43.0
+Clarinda,Num_MVs_per_dweling_2_MVs_pc,0.3901,44.0
+Narracan,Num_MVs_per_dweling_2_MVs_pc,0.3914,45.0
+Thomastown,Num_MVs_per_dweling_2_MVs_pc,0.3922,46.0
+Sandringham,Num_MVs_per_dweling_2_MVs_pc,0.3943,47.0
+Bendigo East,Num_MVs_per_dweling_2_MVs_pc,0.3961,48.0
+Benambra,Num_MVs_per_dweling_2_MVs_pc,0.3963,49.0
+Bundoora,Num_MVs_per_dweling_2_MVs_pc,0.3964,50.0
+Hastings,Num_MVs_per_dweling_2_MVs_pc,0.3984,51.0
+Bass,Num_MVs_per_dweling_2_MVs_pc,0.3987,52.0
+Kew,Num_MVs_per_dweling_2_MVs_pc,0.3992,53.0
+Melton,Num_MVs_per_dweling_2_MVs_pc,0.4009,54.0
+Greenvale,Num_MVs_per_dweling_2_MVs_pc,0.4034,55.0
+Nepean,Num_MVs_per_dweling_2_MVs_pc,0.4037,56.0
+Sunbury,Num_MVs_per_dweling_2_MVs_pc,0.406,57.0
+Bentleigh,Num_MVs_per_dweling_2_MVs_pc,0.4069,58.0
+Bulleen,Num_MVs_per_dweling_2_MVs_pc,0.4073,59.0
+Ashwood,Num_MVs_per_dweling_2_MVs_pc,0.4078,60.0
+Croydon,Num_MVs_per_dweling_2_MVs_pc,0.4096,61.0
+Niddrie,Num_MVs_per_dweling_2_MVs_pc,0.4097,62.0
+Polwarth,Num_MVs_per_dweling_2_MVs_pc,0.4103,63.0
+Mill Park,Num_MVs_per_dweling_2_MVs_pc,0.4115,64.0
+Narre Warren North,Num_MVs_per_dweling_2_MVs_pc,0.4133,65.0
+Sydenham,Num_MVs_per_dweling_2_MVs_pc,0.4135,66.0
+Bayswater,Num_MVs_per_dweling_2_MVs_pc,0.4143,67.0
+Tarneit,Num_MVs_per_dweling_2_MVs_pc,0.416,68.0
+Macedon,Num_MVs_per_dweling_2_MVs_pc,0.4164,69.0
+Carrum,Num_MVs_per_dweling_2_MVs_pc,0.4219,70.0
+Glen Waverley,Num_MVs_per_dweling_2_MVs_pc,0.4246,71.0
+Evelyn,Num_MVs_per_dweling_2_MVs_pc,0.4247,72.0
+Monbulk,Num_MVs_per_dweling_2_MVs_pc,0.4264,73.0
+Mordialloc,Num_MVs_per_dweling_2_MVs_pc,0.428,74.0
+Kororoit,Num_MVs_per_dweling_2_MVs_pc,0.4287,75.0
+Pakenham,Num_MVs_per_dweling_2_MVs_pc,0.43,76.0
+Mornington,Num_MVs_per_dweling_2_MVs_pc,0.4306,77.0
+Bellarine,Num_MVs_per_dweling_2_MVs_pc,0.4327,78.0
+Warrandyte,Num_MVs_per_dweling_2_MVs_pc,0.4349,79.0
+Point Cook,Num_MVs_per_dweling_2_MVs_pc,0.4357,80.0
+Narre Warren South,Num_MVs_per_dweling_2_MVs_pc,0.4368,81.0
+Rowville,Num_MVs_per_dweling_2_MVs_pc,0.4394,82.0
+South Barwon,Num_MVs_per_dweling_2_MVs_pc,0.4475,83.0
+Cranbourne,Num_MVs_per_dweling_2_MVs_pc,0.4492,84.0
+Eltham,Num_MVs_per_dweling_2_MVs_pc,0.4509,85.0
+Kalkallo,Num_MVs_per_dweling_2_MVs_pc,0.4549,86.0
+Yan Yean,Num_MVs_per_dweling_2_MVs_pc,0.4594,87.0
+Berwick,Num_MVs_per_dweling_2_MVs_pc,0.4711,88.0
+Melbourne,Num_MVs_per_dweling_3_MVs,672.0,1.0
+Prahran,Num_MVs_per_dweling_3_MVs,841.0,2.0
+Albert Park,Num_MVs_per_dweling_3_MVs,999.0,3.0
+Richmond,Num_MVs_per_dweling_3_MVs,1075.0,4.0
+Brunswick,Num_MVs_per_dweling_3_MVs,1389.0,5.0
+Northcote,Num_MVs_per_dweling_3_MVs,1681.0,6.0
+Footscray,Num_MVs_per_dweling_3_MVs,1804.0,7.0
+Caulfield,Num_MVs_per_dweling_3_MVs,1827.0,8.0
+Pascoe Vale,Num_MVs_per_dweling_3_MVs,2122.0,9.0
+Essendon,Num_MVs_per_dweling_3_MVs,2132.0,10.0
+Malvern,Num_MVs_per_dweling_3_MVs,2201.0,11.0
+Williamstown,Num_MVs_per_dweling_3_MVs,2238.0,12.0
+Hawthorn,Num_MVs_per_dweling_3_MVs,2264.0,13.0
+Preston,Num_MVs_per_dweling_3_MVs,2318.0,14.0
+Sandringham,Num_MVs_per_dweling_3_MVs,2397.0,15.0
+Brighton,Num_MVs_per_dweling_3_MVs,2428.0,16.0
+Ivanhoe,Num_MVs_per_dweling_3_MVs,2450.0,17.0
+Broadmeadows,Num_MVs_per_dweling_3_MVs,2562.0,18.0
+Oakleigh,Num_MVs_per_dweling_3_MVs,2651.0,19.0
+Box Hill,Num_MVs_per_dweling_3_MVs,2715.0,20.0
+Bentleigh,Num_MVs_per_dweling_3_MVs,2717.0,21.0
+Frankston,Num_MVs_per_dweling_3_MVs,2758.0,22.0
+Ringwood,Num_MVs_per_dweling_3_MVs,2781.0,23.0
+Wendouree,Num_MVs_per_dweling_3_MVs,2907.0,24.0
+Geelong,Num_MVs_per_dweling_3_MVs,2937.0,25.0
+Bundoora,Num_MVs_per_dweling_3_MVs,2974.0,26.0
+Nepean,Num_MVs_per_dweling_3_MVs,2979.0,27.0
+Kew,Num_MVs_per_dweling_3_MVs,2988.0,28.0
+Thomastown,Num_MVs_per_dweling_3_MVs,3017.0,29.0
+Lara,Num_MVs_per_dweling_3_MVs,3121.0,30.0
+Werribee,Num_MVs_per_dweling_3_MVs,3133.0,31.0
+Niddrie,Num_MVs_per_dweling_3_MVs,3138.0,32.0
+Mordialloc,Num_MVs_per_dweling_3_MVs,3160.0,33.0
+Mulgrave,Num_MVs_per_dweling_3_MVs,3169.0,34.0
+Laverton,Num_MVs_per_dweling_3_MVs,3177.0,35.0
+Ashwood,Num_MVs_per_dweling_3_MVs,3198.0,36.0
+Bulleen,Num_MVs_per_dweling_3_MVs,3207.0,37.0
+Mornington,Num_MVs_per_dweling_3_MVs,3233.0,38.0
+Bendigo West,Num_MVs_per_dweling_3_MVs,3259.0,39.0
+Croydon,Num_MVs_per_dweling_3_MVs,3263.0,40.0
+Pakenham,Num_MVs_per_dweling_3_MVs,3301.0,41.0
+Sunbury,Num_MVs_per_dweling_3_MVs,3308.0,42.0
+Clarinda,Num_MVs_per_dweling_3_MVs,3311.0,43.0
+St Albans,Num_MVs_per_dweling_3_MVs,3323.0,44.0
+Dandenong,Num_MVs_per_dweling_3_MVs,3343.0,45.0
+South Barwon,Num_MVs_per_dweling_3_MVs,3354.0,46.0
+Bayswater,Num_MVs_per_dweling_3_MVs,3376.0,47.0
+Carrum,Num_MVs_per_dweling_3_MVs,3394.0,48.0
+Mill Park,Num_MVs_per_dweling_3_MVs,3401.0,49.0
+Ovens Valley,Num_MVs_per_dweling_3_MVs,3440.0,50.0
+Yan Yean,Num_MVs_per_dweling_3_MVs,3477.0,51.0
+Bellarine,Num_MVs_per_dweling_3_MVs,3491.0,52.0
+Point Cook,Num_MVs_per_dweling_3_MVs,3508.0,53.0
+Morwell,Num_MVs_per_dweling_3_MVs,3516.0,54.0
+Tarneit,Num_MVs_per_dweling_3_MVs,3542.0,55.0
+Bass,Num_MVs_per_dweling_3_MVs,3548.0,56.0
+Melton,Num_MVs_per_dweling_3_MVs,3575.0,57.0
+Glen Waverley,Num_MVs_per_dweling_3_MVs,3584.0,58.0
+Eltham,Num_MVs_per_dweling_3_MVs,3605.0,59.0
+Hastings,Num_MVs_per_dweling_3_MVs,3614.0,60.0
+Benambra,Num_MVs_per_dweling_3_MVs,3660.0,61.0
+Kororoit,Num_MVs_per_dweling_3_MVs,3755.0,62.0
+Gippsland East,Num_MVs_per_dweling_3_MVs,3766.0,63.0
+Murray Plains,Num_MVs_per_dweling_3_MVs,3789.0,64.0
+Bendigo East,Num_MVs_per_dweling_3_MVs,3792.0,65.0
+Mildura,Num_MVs_per_dweling_3_MVs,3803.0,66.0
+Polwarth,Num_MVs_per_dweling_3_MVs,3821.0,67.0
+South-West Coast,Num_MVs_per_dweling_3_MVs,3830.0,68.0
+Warrandyte,Num_MVs_per_dweling_3_MVs,3835.0,69.0
+Cranbourne,Num_MVs_per_dweling_3_MVs,3837.0,70.0
+Greenvale,Num_MVs_per_dweling_3_MVs,3837.0,71.0
+Monbulk,Num_MVs_per_dweling_3_MVs,3848.0,72.0
+Gippsland South,Num_MVs_per_dweling_3_MVs,3891.0,73.0
+Narracan,Num_MVs_per_dweling_3_MVs,3947.0,74.0
+Berwick,Num_MVs_per_dweling_3_MVs,3950.0,75.0
+Kalkallo,Num_MVs_per_dweling_3_MVs,3965.0,76.0
+Rowville,Num_MVs_per_dweling_3_MVs,3977.0,77.0
+Evelyn,Num_MVs_per_dweling_3_MVs,3996.0,78.0
+Macedon,Num_MVs_per_dweling_3_MVs,4026.0,79.0
+Shepparton,Num_MVs_per_dweling_3_MVs,4043.0,80.0
+Narre Warren North,Num_MVs_per_dweling_3_MVs,4121.0,81.0
+Euroa,Num_MVs_per_dweling_3_MVs,4140.0,82.0
+Eildon,Num_MVs_per_dweling_3_MVs,4177.0,83.0
+Eureka,Num_MVs_per_dweling_3_MVs,4219.0,84.0
+Sydenham,Num_MVs_per_dweling_3_MVs,4220.0,85.0
+Lowan,Num_MVs_per_dweling_3_MVs,4301.0,86.0
+Ripon,Num_MVs_per_dweling_3_MVs,4322.0,87.0
+Narre Warren South,Num_MVs_per_dweling_3_MVs,4495.0,88.0
+Melbourne,Num_MVs_per_dweling_3_MVs_pc,0.0123,1.0
+Prahran,Num_MVs_per_dweling_3_MVs_pc,0.0225,2.0
+Albert Park,Num_MVs_per_dweling_3_MVs_pc,0.0282,3.0
+Richmond,Num_MVs_per_dweling_3_MVs_pc,0.0346,4.0
+Brunswick,Num_MVs_per_dweling_3_MVs_pc,0.046,5.0
+Northcote,Num_MVs_per_dweling_3_MVs_pc,0.0605,6.0
+Footscray,Num_MVs_per_dweling_3_MVs_pc,0.0619,7.0
+Caulfield,Num_MVs_per_dweling_3_MVs_pc,0.0623,8.0
+Essendon,Num_MVs_per_dweling_3_MVs_pc,0.0746,9.0
+Oakleigh,Num_MVs_per_dweling_3_MVs_pc,0.0775,10.0
+Pascoe Vale,Num_MVs_per_dweling_3_MVs_pc,0.0789,11.0
+Preston,Num_MVs_per_dweling_3_MVs_pc,0.079,12.0
+Hawthorn,Num_MVs_per_dweling_3_MVs_pc,0.0804,13.0
+Malvern,Num_MVs_per_dweling_3_MVs_pc,0.0837,14.0
+Box Hill,Num_MVs_per_dweling_3_MVs_pc,0.0841,15.0
+Williamstown,Num_MVs_per_dweling_3_MVs_pc,0.0886,16.0
+Ringwood,Num_MVs_per_dweling_3_MVs_pc,0.0916,17.0
+Brighton,Num_MVs_per_dweling_3_MVs_pc,0.0929,18.0
+Broadmeadows,Num_MVs_per_dweling_3_MVs_pc,0.0938,19.0
+Bentleigh,Num_MVs_per_dweling_3_MVs_pc,0.0958,20.0
+Sandringham,Num_MVs_per_dweling_3_MVs_pc,0.0964,21.0
+Ivanhoe,Num_MVs_per_dweling_3_MVs_pc,0.0968,22.0
+Geelong,Num_MVs_per_dweling_3_MVs_pc,0.101,23.0
+Frankston,Num_MVs_per_dweling_3_MVs_pc,0.1014,24.0
+Wendouree,Num_MVs_per_dweling_3_MVs_pc,0.1052,25.0
+Laverton,Num_MVs_per_dweling_3_MVs_pc,0.1068,26.0
+Ashwood,Num_MVs_per_dweling_3_MVs_pc,0.1111,27.0
+Werribee,Num_MVs_per_dweling_3_MVs_pc,0.1112,28.0
+Dandenong,Num_MVs_per_dweling_3_MVs_pc,0.1124,29.0
+Kew,Num_MVs_per_dweling_3_MVs_pc,0.1126,30.0
+Croydon,Num_MVs_per_dweling_3_MVs_pc,0.1151,31.0
+Bundoora,Num_MVs_per_dweling_3_MVs_pc,0.1165,32.0
+Thomastown,Num_MVs_per_dweling_3_MVs_pc,0.117,33.0
+Bulleen,Num_MVs_per_dweling_3_MVs_pc,0.1171,34.0
+Point Cook,Num_MVs_per_dweling_3_MVs_pc,0.1173,35.0
+Nepean,Num_MVs_per_dweling_3_MVs_pc,0.1187,36.0
+Lara,Num_MVs_per_dweling_3_MVs_pc,0.1193,37.0
+Mulgrave,Num_MVs_per_dweling_3_MVs_pc,0.1195,38.0
+Mordialloc,Num_MVs_per_dweling_3_MVs_pc,0.1211,39.0
+Morwell,Num_MVs_per_dweling_3_MVs_pc,0.1231,40.0
+Bayswater,Num_MVs_per_dweling_3_MVs_pc,0.1232,41.0
+Niddrie,Num_MVs_per_dweling_3_MVs_pc,0.1232,42.0
+Carrum,Num_MVs_per_dweling_3_MVs_pc,0.1237,43.0
+Tarneit,Num_MVs_per_dweling_3_MVs_pc,0.1264,44.0
+Glen Waverley,Num_MVs_per_dweling_3_MVs_pc,0.1266,45.0
+Pakenham,Num_MVs_per_dweling_3_MVs_pc,0.1277,46.0
+Bendigo West,Num_MVs_per_dweling_3_MVs_pc,0.1282,47.0
+South Barwon,Num_MVs_per_dweling_3_MVs_pc,0.1289,48.0
+Bellarine,Num_MVs_per_dweling_3_MVs_pc,0.1294,49.0
+Clarinda,Num_MVs_per_dweling_3_MVs_pc,0.1305,50.0
+Mornington,Num_MVs_per_dweling_3_MVs_pc,0.1339,51.0
+Melton,Num_MVs_per_dweling_3_MVs_pc,0.1341,52.0
+Ovens Valley,Num_MVs_per_dweling_3_MVs_pc,0.1384,53.0
+St Albans,Num_MVs_per_dweling_3_MVs_pc,0.1386,54.0
+South-West Coast,Num_MVs_per_dweling_3_MVs_pc,0.1403,55.0
+Bendigo East,Num_MVs_per_dweling_3_MVs_pc,0.1405,56.0
+Cranbourne,Num_MVs_per_dweling_3_MVs_pc,0.1408,57.0
+Kalkallo,Num_MVs_per_dweling_3_MVs_pc,0.1411,58.0
+Sunbury,Num_MVs_per_dweling_3_MVs_pc,0.1417,59.0
+Bass,Num_MVs_per_dweling_3_MVs_pc,0.1418,60.0
+Benambra,Num_MVs_per_dweling_3_MVs_pc,0.1441,61.0
+Polwarth,Num_MVs_per_dweling_3_MVs_pc,0.1454,62.0
+Kororoit,Num_MVs_per_dweling_3_MVs_pc,0.1457,63.0
+Mildura,Num_MVs_per_dweling_3_MVs_pc,0.1464,64.0
+Gippsland East,Num_MVs_per_dweling_3_MVs_pc,0.1475,65.0
+Hastings,Num_MVs_per_dweling_3_MVs_pc,0.1478,66.0
+Shepparton,Num_MVs_per_dweling_3_MVs_pc,0.148,67.0
+Yan Yean,Num_MVs_per_dweling_3_MVs_pc,0.149,68.0
+Mill Park,Num_MVs_per_dweling_3_MVs_pc,0.1497,69.0
+Murray Plains,Num_MVs_per_dweling_3_MVs_pc,0.1509,70.0
+Gippsland South,Num_MVs_per_dweling_3_MVs_pc,0.1522,71.0
+Eureka,Num_MVs_per_dweling_3_MVs_pc,0.1525,72.0
+Warrandyte,Num_MVs_per_dweling_3_MVs_pc,0.1528,73.0
+Lowan,Num_MVs_per_dweling_3_MVs_pc,0.154,74.0
+Berwick,Num_MVs_per_dweling_3_MVs_pc,0.1555,75.0
+Eltham,Num_MVs_per_dweling_3_MVs_pc,0.1559,76.0
+Narracan,Num_MVs_per_dweling_3_MVs_pc,0.1586,77.0
+Euroa,Num_MVs_per_dweling_3_MVs_pc,0.1588,78.0
+Narre Warren North,Num_MVs_per_dweling_3_MVs_pc,0.1611,79.0
+Ripon,Num_MVs_per_dweling_3_MVs_pc,0.1627,80.0
+Rowville,Num_MVs_per_dweling_3_MVs_pc,0.1631,81.0
+Monbulk,Num_MVs_per_dweling_3_MVs_pc,0.1651,82.0
+Evelyn,Num_MVs_per_dweling_3_MVs_pc,0.1655,83.0
+Eildon,Num_MVs_per_dweling_3_MVs_pc,0.1705,84.0
+Narre Warren South,Num_MVs_per_dweling_3_MVs_pc,0.1715,85.0
+Macedon,Num_MVs_per_dweling_3_MVs_pc,0.1725,86.0
+Greenvale,Num_MVs_per_dweling_3_MVs_pc,0.173,87.0
+Sydenham,Num_MVs_per_dweling_3_MVs_pc,0.1765,88.0
+Melbourne,Num_MVs_per_dweling_4mo_MVs,244.0,1.0
+Richmond,Num_MVs_per_dweling_4mo_MVs,307.0,2.0
+Prahran,Num_MVs_per_dweling_4mo_MVs,322.0,3.0
+Albert Park,Num_MVs_per_dweling_4mo_MVs,349.0,4.0
+Brunswick,Num_MVs_per_dweling_4mo_MVs,540.0,5.0
+Footscray,Num_MVs_per_dweling_4mo_MVs,676.0,6.0
+Northcote,Num_MVs_per_dweling_4mo_MVs,722.0,7.0
+Caulfield,Num_MVs_per_dweling_4mo_MVs,839.0,8.0
+Williamstown,Num_MVs_per_dweling_4mo_MVs,1025.0,9.0
+Pascoe Vale,Num_MVs_per_dweling_4mo_MVs,1036.0,10.0
+Hawthorn,Num_MVs_per_dweling_4mo_MVs,1052.0,11.0
+Essendon,Num_MVs_per_dweling_4mo_MVs,1071.0,12.0
+Malvern,Num_MVs_per_dweling_4mo_MVs,1090.0,13.0
+Ivanhoe,Num_MVs_per_dweling_4mo_MVs,1107.0,14.0
+Sandringham,Num_MVs_per_dweling_4mo_MVs,1118.0,15.0
+Preston,Num_MVs_per_dweling_4mo_MVs,1153.0,16.0
+Brighton,Num_MVs_per_dweling_4mo_MVs,1166.0,17.0
+Bentleigh,Num_MVs_per_dweling_4mo_MVs,1192.0,18.0
+Oakleigh,Num_MVs_per_dweling_4mo_MVs,1271.0,19.0
+Frankston,Num_MVs_per_dweling_4mo_MVs,1290.0,20.0
+Box Hill,Num_MVs_per_dweling_4mo_MVs,1309.0,21.0
+Wendouree,Num_MVs_per_dweling_4mo_MVs,1368.0,22.0
+Thomastown,Num_MVs_per_dweling_4mo_MVs,1415.0,23.0
+Ringwood,Num_MVs_per_dweling_4mo_MVs,1416.0,24.0
+Broadmeadows,Num_MVs_per_dweling_4mo_MVs,1423.0,25.0
+Ashwood,Num_MVs_per_dweling_4mo_MVs,1447.0,26.0
+Laverton,Num_MVs_per_dweling_4mo_MVs,1456.0,27.0
+Kew,Num_MVs_per_dweling_4mo_MVs,1504.0,28.0
+Nepean,Num_MVs_per_dweling_4mo_MVs,1558.0,29.0
+Werribee,Num_MVs_per_dweling_4mo_MVs,1585.0,30.0
+Carrum,Num_MVs_per_dweling_4mo_MVs,1590.0,31.0
+Bundoora,Num_MVs_per_dweling_4mo_MVs,1592.0,32.0
+Point Cook,Num_MVs_per_dweling_4mo_MVs,1594.0,33.0
+Mordialloc,Num_MVs_per_dweling_4mo_MVs,1600.0,34.0
+Glen Waverley,Num_MVs_per_dweling_4mo_MVs,1611.0,35.0
+Clarinda,Num_MVs_per_dweling_4mo_MVs,1612.0,36.0
+Bayswater,Num_MVs_per_dweling_4mo_MVs,1626.0,37.0
+Bulleen,Num_MVs_per_dweling_4mo_MVs,1652.0,38.0
+St Albans,Num_MVs_per_dweling_4mo_MVs,1660.0,39.0
+Geelong,Num_MVs_per_dweling_4mo_MVs,1675.0,40.0
+Mulgrave,Num_MVs_per_dweling_4mo_MVs,1716.0,41.0
+Niddrie,Num_MVs_per_dweling_4mo_MVs,1775.0,42.0
+Cranbourne,Num_MVs_per_dweling_4mo_MVs,1788.0,43.0
+Pakenham,Num_MVs_per_dweling_4mo_MVs,1800.0,44.0
+Dandenong,Num_MVs_per_dweling_4mo_MVs,1806.0,45.0
+Lara,Num_MVs_per_dweling_4mo_MVs,1809.0,46.0
+Bellarine,Num_MVs_per_dweling_4mo_MVs,1836.0,47.0
+South Barwon,Num_MVs_per_dweling_4mo_MVs,1838.0,48.0
+Kororoit,Num_MVs_per_dweling_4mo_MVs,1848.0,49.0
+Croydon,Num_MVs_per_dweling_4mo_MVs,1910.0,50.0
+Tarneit,Num_MVs_per_dweling_4mo_MVs,1918.0,51.0
+Sunbury,Num_MVs_per_dweling_4mo_MVs,1933.0,52.0
+Mornington,Num_MVs_per_dweling_4mo_MVs,1937.0,53.0
+Bendigo West,Num_MVs_per_dweling_4mo_MVs,1970.0,54.0
+Morwell,Num_MVs_per_dweling_4mo_MVs,1974.0,55.0
+Mill Park,Num_MVs_per_dweling_4mo_MVs,1997.0,56.0
+Melton,Num_MVs_per_dweling_4mo_MVs,2058.0,57.0
+Yan Yean,Num_MVs_per_dweling_4mo_MVs,2105.0,58.0
+Kalkallo,Num_MVs_per_dweling_4mo_MVs,2138.0,59.0
+Benambra,Num_MVs_per_dweling_4mo_MVs,2184.0,60.0
+Berwick,Num_MVs_per_dweling_4mo_MVs,2202.0,61.0
+Gippsland East,Num_MVs_per_dweling_4mo_MVs,2207.0,62.0
+Bass,Num_MVs_per_dweling_4mo_MVs,2222.0,63.0
+Ovens Valley,Num_MVs_per_dweling_4mo_MVs,2261.0,64.0
+Bendigo East,Num_MVs_per_dweling_4mo_MVs,2279.0,65.0
+Mildura,Num_MVs_per_dweling_4mo_MVs,2347.0,66.0
+South-West Coast,Num_MVs_per_dweling_4mo_MVs,2369.0,67.0
+Rowville,Num_MVs_per_dweling_4mo_MVs,2385.0,68.0
+Eltham,Num_MVs_per_dweling_4mo_MVs,2415.0,69.0
+Polwarth,Num_MVs_per_dweling_4mo_MVs,2433.0,70.0
+Shepparton,Num_MVs_per_dweling_4mo_MVs,2437.0,71.0
+Murray Plains,Num_MVs_per_dweling_4mo_MVs,2440.0,72.0
+Hastings,Num_MVs_per_dweling_4mo_MVs,2451.0,73.0
+Greenvale,Num_MVs_per_dweling_4mo_MVs,2506.0,74.0
+Gippsland South,Num_MVs_per_dweling_4mo_MVs,2560.0,75.0
+Narre Warren North,Num_MVs_per_dweling_4mo_MVs,2588.0,76.0
+Warrandyte,Num_MVs_per_dweling_4mo_MVs,2625.0,77.0
+Narre Warren South,Num_MVs_per_dweling_4mo_MVs,2657.0,78.0
+Macedon,Num_MVs_per_dweling_4mo_MVs,2767.0,79.0
+Sydenham,Num_MVs_per_dweling_4mo_MVs,2795.0,80.0
+Narracan,Num_MVs_per_dweling_4mo_MVs,2804.0,81.0
+Monbulk,Num_MVs_per_dweling_4mo_MVs,2826.0,82.0
+Evelyn,Num_MVs_per_dweling_4mo_MVs,2848.0,83.0
+Eureka,Num_MVs_per_dweling_4mo_MVs,2858.0,84.0
+Euroa,Num_MVs_per_dweling_4mo_MVs,2897.0,85.0
+Lowan,Num_MVs_per_dweling_4mo_MVs,3040.0,86.0
+Ripon,Num_MVs_per_dweling_4mo_MVs,3129.0,87.0
+Eildon,Num_MVs_per_dweling_4mo_MVs,3199.0,88.0
+Melbourne,Num_MVs_per_dweling_4mo_MVs_pc,0.0045,1.0
+Prahran,Num_MVs_per_dweling_4mo_MVs_pc,0.0086,2.0
+Albert Park,Num_MVs_per_dweling_4mo_MVs_pc,0.0098,3.0
+Richmond,Num_MVs_per_dweling_4mo_MVs_pc,0.0099,4.0
+Brunswick,Num_MVs_per_dweling_4mo_MVs_pc,0.0179,5.0
+Footscray,Num_MVs_per_dweling_4mo_MVs_pc,0.0232,6.0
+Northcote,Num_MVs_per_dweling_4mo_MVs_pc,0.026,7.0
+Caulfield,Num_MVs_per_dweling_4mo_MVs_pc,0.0286,8.0
+Oakleigh,Num_MVs_per_dweling_4mo_MVs_pc,0.0372,9.0
+Hawthorn,Num_MVs_per_dweling_4mo_MVs_pc,0.0373,10.0
+Essendon,Num_MVs_per_dweling_4mo_MVs_pc,0.0375,11.0
+Pascoe Vale,Num_MVs_per_dweling_4mo_MVs_pc,0.0385,12.0
+Preston,Num_MVs_per_dweling_4mo_MVs_pc,0.0393,13.0
+Box Hill,Num_MVs_per_dweling_4mo_MVs_pc,0.0406,14.0
+Williamstown,Num_MVs_per_dweling_4mo_MVs_pc,0.0406,15.0
+Malvern,Num_MVs_per_dweling_4mo_MVs_pc,0.0415,16.0
+Bentleigh,Num_MVs_per_dweling_4mo_MVs_pc,0.042,17.0
+Ivanhoe,Num_MVs_per_dweling_4mo_MVs_pc,0.0437,18.0
+Brighton,Num_MVs_per_dweling_4mo_MVs_pc,0.0446,19.0
+Sandringham,Num_MVs_per_dweling_4mo_MVs_pc,0.045,20.0
+Ringwood,Num_MVs_per_dweling_4mo_MVs_pc,0.0466,21.0
+Frankston,Num_MVs_per_dweling_4mo_MVs_pc,0.0474,22.0
+Laverton,Num_MVs_per_dweling_4mo_MVs_pc,0.049,23.0
+Wendouree,Num_MVs_per_dweling_4mo_MVs_pc,0.0495,24.0
+Ashwood,Num_MVs_per_dweling_4mo_MVs_pc,0.0503,25.0
+Broadmeadows,Num_MVs_per_dweling_4mo_MVs_pc,0.0521,26.0
+Point Cook,Num_MVs_per_dweling_4mo_MVs_pc,0.0533,27.0
+Thomastown,Num_MVs_per_dweling_4mo_MVs_pc,0.0549,28.0
+Werribee,Num_MVs_per_dweling_4mo_MVs_pc,0.0562,29.0
+Kew,Num_MVs_per_dweling_4mo_MVs_pc,0.0567,30.0
+Glen Waverley,Num_MVs_per_dweling_4mo_MVs_pc,0.0569,31.0
+Geelong,Num_MVs_per_dweling_4mo_MVs_pc,0.0576,32.0
+Carrum,Num_MVs_per_dweling_4mo_MVs_pc,0.058,33.0
+Bayswater,Num_MVs_per_dweling_4mo_MVs_pc,0.0594,34.0
+Bulleen,Num_MVs_per_dweling_4mo_MVs_pc,0.0603,35.0
+Dandenong,Num_MVs_per_dweling_4mo_MVs_pc,0.0607,36.0
+Mordialloc,Num_MVs_per_dweling_4mo_MVs_pc,0.0613,37.0
+Nepean,Num_MVs_per_dweling_4mo_MVs_pc,0.0621,38.0
+Bundoora,Num_MVs_per_dweling_4mo_MVs_pc,0.0624,39.0
+Clarinda,Num_MVs_per_dweling_4mo_MVs_pc,0.0635,40.0
+Mulgrave,Num_MVs_per_dweling_4mo_MVs_pc,0.0647,41.0
+Cranbourne,Num_MVs_per_dweling_4mo_MVs_pc,0.0656,42.0
+Croydon,Num_MVs_per_dweling_4mo_MVs_pc,0.0674,43.0
+Bellarine,Num_MVs_per_dweling_4mo_MVs_pc,0.0681,44.0
+Tarneit,Num_MVs_per_dweling_4mo_MVs_pc,0.0685,45.0
+Morwell,Num_MVs_per_dweling_4mo_MVs_pc,0.0691,46.0
+Lara,Num_MVs_per_dweling_4mo_MVs_pc,0.0692,47.0
+St Albans,Num_MVs_per_dweling_4mo_MVs_pc,0.0692,48.0
+Niddrie,Num_MVs_per_dweling_4mo_MVs_pc,0.0697,49.0
+Pakenham,Num_MVs_per_dweling_4mo_MVs_pc,0.0697,50.0
+South Barwon,Num_MVs_per_dweling_4mo_MVs_pc,0.0706,51.0
+Kororoit,Num_MVs_per_dweling_4mo_MVs_pc,0.0717,52.0
+Kalkallo,Num_MVs_per_dweling_4mo_MVs_pc,0.0761,53.0
+Melton,Num_MVs_per_dweling_4mo_MVs_pc,0.0772,54.0
+Bendigo West,Num_MVs_per_dweling_4mo_MVs_pc,0.0775,55.0
+Mornington,Num_MVs_per_dweling_4mo_MVs_pc,0.0802,56.0
+Sunbury,Num_MVs_per_dweling_4mo_MVs_pc,0.0828,57.0
+Bendigo East,Num_MVs_per_dweling_4mo_MVs_pc,0.0845,58.0
+Benambra,Num_MVs_per_dweling_4mo_MVs_pc,0.086,59.0
+Gippsland East,Num_MVs_per_dweling_4mo_MVs_pc,0.0864,60.0
+Berwick,Num_MVs_per_dweling_4mo_MVs_pc,0.0867,61.0
+South-West Coast,Num_MVs_per_dweling_4mo_MVs_pc,0.0868,62.0
+Mill Park,Num_MVs_per_dweling_4mo_MVs_pc,0.0879,63.0
+Bass,Num_MVs_per_dweling_4mo_MVs_pc,0.0888,64.0
+Shepparton,Num_MVs_per_dweling_4mo_MVs_pc,0.0892,65.0
+Yan Yean,Num_MVs_per_dweling_4mo_MVs_pc,0.0902,66.0
+Mildura,Num_MVs_per_dweling_4mo_MVs_pc,0.0904,67.0
+Ovens Valley,Num_MVs_per_dweling_4mo_MVs_pc,0.091,68.0
+Polwarth,Num_MVs_per_dweling_4mo_MVs_pc,0.0926,69.0
+Murray Plains,Num_MVs_per_dweling_4mo_MVs_pc,0.0972,70.0
+Rowville,Num_MVs_per_dweling_4mo_MVs_pc,0.0978,71.0
+Gippsland South,Num_MVs_per_dweling_4mo_MVs_pc,0.1002,72.0
+Hastings,Num_MVs_per_dweling_4mo_MVs_pc,0.1002,73.0
+Narre Warren North,Num_MVs_per_dweling_4mo_MVs_pc,0.1012,74.0
+Narre Warren South,Num_MVs_per_dweling_4mo_MVs_pc,0.1014,75.0
+Eureka,Num_MVs_per_dweling_4mo_MVs_pc,0.1033,76.0
+Eltham,Num_MVs_per_dweling_4mo_MVs_pc,0.1044,77.0
+Warrandyte,Num_MVs_per_dweling_4mo_MVs_pc,0.1046,78.0
+Lowan,Num_MVs_per_dweling_4mo_MVs_pc,0.1088,79.0
+Euroa,Num_MVs_per_dweling_4mo_MVs_pc,0.1111,80.0
+Narracan,Num_MVs_per_dweling_4mo_MVs_pc,0.1126,81.0
+Greenvale,Num_MVs_per_dweling_4mo_MVs_pc,0.113,82.0
+Sydenham,Num_MVs_per_dweling_4mo_MVs_pc,0.1169,83.0
+Ripon,Num_MVs_per_dweling_4mo_MVs_pc,0.1178,84.0
+Evelyn,Num_MVs_per_dweling_4mo_MVs_pc,0.118,85.0
+Macedon,Num_MVs_per_dweling_4mo_MVs_pc,0.1186,86.0
+Monbulk,Num_MVs_per_dweling_4mo_MVs_pc,0.1212,87.0
+Eildon,Num_MVs_per_dweling_4mo_MVs_pc,0.1306,88.0
+Greenvale,Num_MVs_per_dweling_Tot,21772.0,1.0
+Mill Park,Num_MVs_per_dweling_Tot,22390.0,2.0
+Eltham,Num_MVs_per_dweling_Tot,22985.0,3.0
+Yan Yean,Num_MVs_per_dweling_Tot,23050.0,4.0
+Macedon,Num_MVs_per_dweling_Tot,23057.0,5.0
+Sunbury,Num_MVs_per_dweling_Tot,23082.0,6.0
+Monbulk,Num_MVs_per_dweling_Tot,23112.0,7.0
+St Albans,Num_MVs_per_dweling_Tot,23414.0,8.0
+Sydenham,Num_MVs_per_dweling_Tot,23624.0,9.0
+Evelyn,Num_MVs_per_dweling_Tot,23878.0,10.0
+Mornington,Num_MVs_per_dweling_Tot,23939.0,11.0
+Eildon,Num_MVs_per_dweling_Tot,24129.0,12.0
+Hastings,Num_MVs_per_dweling_Tot,24151.0,13.0
+Rowville,Num_MVs_per_dweling_Tot,24175.0,14.0
+Ovens Valley,Num_MVs_per_dweling_Tot,24254.0,15.0
+Narracan,Num_MVs_per_dweling_Tot,24515.0,16.0
+Bass,Num_MVs_per_dweling_Tot,24541.0,17.0
+Murray Plains,Num_MVs_per_dweling_Tot,24587.0,18.0
+Sandringham,Num_MVs_per_dweling_Tot,24617.0,19.0
+Nepean,Num_MVs_per_dweling_Tot,24685.0,20.0
+Warrandyte,Num_MVs_per_dweling_Tot,24813.0,21.0
+Benambra,Num_MVs_per_dweling_Tot,24865.0,22.0
+Clarinda,Num_MVs_per_dweling_Tot,24976.0,23.0
+Williamstown,Num_MVs_per_dweling_Tot,24990.0,24.0
+Gippsland East,Num_MVs_per_dweling_Tot,25034.0,25.0
+Ivanhoe,Num_MVs_per_dweling_Tot,25057.0,26.0
+Bendigo West,Num_MVs_per_dweling_Tot,25083.0,27.0
+Gippsland South,Num_MVs_per_dweling_Tot,25129.0,28.0
+Narre Warren North,Num_MVs_per_dweling_Tot,25190.0,29.0
+Berwick,Num_MVs_per_dweling_Tot,25197.0,30.0
+Niddrie,Num_MVs_per_dweling_Tot,25200.0,31.0
+Bundoora,Num_MVs_per_dweling_Tot,25215.0,32.0
+Thomastown,Num_MVs_per_dweling_Tot,25336.0,33.0
+Mildura,Num_MVs_per_dweling_Tot,25410.0,34.0
+Kororoit,Num_MVs_per_dweling_Tot,25428.0,35.0
+Euroa,Num_MVs_per_dweling_Tot,25495.0,36.0
+Pakenham,Num_MVs_per_dweling_Tot,25557.0,37.0
+Lara,Num_MVs_per_dweling_Tot,25747.0,38.0
+South Barwon,Num_MVs_per_dweling_Tot,25781.0,39.0
+Polwarth,Num_MVs_per_dweling_Tot,25859.0,40.0
+Mordialloc,Num_MVs_per_dweling_Tot,25869.0,41.0
+Brighton,Num_MVs_per_dweling_Tot,25879.0,42.0
+Malvern,Num_MVs_per_dweling_Tot,25935.0,43.0
+Narre Warren South,Num_MVs_per_dweling_Tot,25939.0,44.0
+Mulgrave,Num_MVs_per_dweling_Tot,26021.0,45.0
+Ripon,Num_MVs_per_dweling_Tot,26152.0,46.0
+Melton,Num_MVs_per_dweling_Tot,26173.0,47.0
+Kew,Num_MVs_per_dweling_Tot,26263.0,48.0
+Pascoe Vale,Num_MVs_per_dweling_Tot,26567.0,49.0
+Bendigo East,Num_MVs_per_dweling_Tot,26646.0,50.0
+Bellarine,Num_MVs_per_dweling_Tot,26687.0,51.0
+Shepparton,Num_MVs_per_dweling_Tot,26719.0,52.0
+Frankston,Num_MVs_per_dweling_Tot,26799.0,53.0
+Broadmeadows,Num_MVs_per_dweling_Tot,26810.0,54.0
+South-West Coast,Num_MVs_per_dweling_Tot,26843.0,55.0
+Cranbourne,Num_MVs_per_dweling_Tot,26857.0,56.0
+Bayswater,Num_MVs_per_dweling_Tot,27069.0,57.0
+Carrum,Num_MVs_per_dweling_Tot,27099.0,58.0
+Bulleen,Num_MVs_per_dweling_Tot,27155.0,59.0
+Wendouree,Num_MVs_per_dweling_Tot,27277.0,60.0
+Eureka,Num_MVs_per_dweling_Tot,27306.0,61.0
+Lowan,Num_MVs_per_dweling_Tot,27318.0,62.0
+Northcote,Num_MVs_per_dweling_Tot,27537.0,63.0
+Tarneit,Num_MVs_per_dweling_Tot,27575.0,64.0
+Kalkallo,Num_MVs_per_dweling_Tot,27682.0,65.0
+Werribee,Num_MVs_per_dweling_Tot,27784.0,66.0
+Hawthorn,Num_MVs_per_dweling_Tot,27914.0,67.0
+Morwell,Num_MVs_per_dweling_Tot,28014.0,68.0
+Bentleigh,Num_MVs_per_dweling_Tot,28067.0,69.0
+Glen Waverley,Num_MVs_per_dweling_Tot,28072.0,70.0
+Croydon,Num_MVs_per_dweling_Tot,28138.0,71.0
+Essendon,Num_MVs_per_dweling_Tot,28246.0,72.0
+Ashwood,Num_MVs_per_dweling_Tot,28371.0,73.0
+Geelong,Num_MVs_per_dweling_Tot,28713.0,74.0
+Footscray,Num_MVs_per_dweling_Tot,28737.0,75.0
+Preston,Num_MVs_per_dweling_Tot,28818.0,76.0
+Caulfield,Num_MVs_per_dweling_Tot,28891.0,77.0
+Dandenong,Num_MVs_per_dweling_Tot,29032.0,78.0
+Laverton,Num_MVs_per_dweling_Tot,29103.0,79.0
+Point Cook,Num_MVs_per_dweling_Tot,29508.0,80.0
+Brunswick,Num_MVs_per_dweling_Tot,29830.0,81.0
+Ringwood,Num_MVs_per_dweling_Tot,30010.0,82.0
+Richmond,Num_MVs_per_dweling_Tot,30693.0,83.0
+Box Hill,Num_MVs_per_dweling_Tot,31884.0,84.0
+Oakleigh,Num_MVs_per_dweling_Tot,33793.0,85.0
+Albert Park,Num_MVs_per_dweling_Tot,34982.0,86.0
+Prahran,Num_MVs_per_dweling_Tot,36931.0,87.0
+Melbourne,Num_MVs_per_dweling_Tot,53771.0,88.0
+Ovens Valley,Num_MVs_per_dweling_Tot_pc,0.9757,1.0
+Dandenong,Num_MVs_per_dweling_Tot_pc,0.9765,2.0
+St Albans,Num_MVs_per_dweling_Tot_pc,0.9767,3.0
+Lowan,Num_MVs_per_dweling_Tot_pc,0.978,4.0
+Shepparton,Num_MVs_per_dweling_Tot_pc,0.978,5.0
+Euroa,Num_MVs_per_dweling_Tot_pc,0.9781,6.0
+Laverton,Num_MVs_per_dweling_Tot_pc,0.9785,7.0
+Mildura,Num_MVs_per_dweling_Tot_pc,0.9785,8.0
+Benambra,Num_MVs_per_dweling_Tot_pc,0.9789,9.0
+Murray Plains,Num_MVs_per_dweling_Tot_pc,0.9795,10.0
+Gippsland East,Num_MVs_per_dweling_Tot_pc,0.9805,11.0
+Morwell,Num_MVs_per_dweling_Tot_pc,0.9808,12.0
+Bass,Num_MVs_per_dweling_Tot_pc,0.9811,13.0
+Greenvale,Num_MVs_per_dweling_Tot_pc,0.9814,14.0
+Mulgrave,Num_MVs_per_dweling_Tot_pc,0.9815,15.0
+Broadmeadows,Num_MVs_per_dweling_Tot_pc,0.9816,16.0
+Melton,Num_MVs_per_dweling_Tot_pc,0.9818,17.0
+Preston,Num_MVs_per_dweling_Tot_pc,0.982,18.0
+Melbourne,Num_MVs_per_dweling_Tot_pc,0.9822,19.0
+Thomastown,Num_MVs_per_dweling_Tot_pc,0.9829,20.0
+Gippsland South,Num_MVs_per_dweling_Tot_pc,0.9831,21.0
+South-West Coast,Num_MVs_per_dweling_Tot_pc,0.9834,22.0
+Nepean,Num_MVs_per_dweling_Tot_pc,0.9835,23.0
+Lara,Num_MVs_per_dweling_Tot_pc,0.9842,24.0
+Polwarth,Num_MVs_per_dweling_Tot_pc,0.9843,25.0
+Tarneit,Num_MVs_per_dweling_Tot_pc,0.9843,26.0
+Clarinda,Num_MVs_per_dweling_Tot_pc,0.9844,27.0
+Narre Warren North,Num_MVs_per_dweling_Tot_pc,0.9846,28.0
+Ripon,Num_MVs_per_dweling_Tot_pc,0.9847,29.0
+Eildon,Num_MVs_per_dweling_Tot_pc,0.9848,30.0
+Narracan,Num_MVs_per_dweling_Tot_pc,0.9848,31.0
+Kalkallo,Num_MVs_per_dweling_Tot_pc,0.9851,32.0
+Cranbourne,Num_MVs_per_dweling_Tot_pc,0.9852,33.0
+Mill Park,Num_MVs_per_dweling_Tot_pc,0.9854,34.0
+Caulfield,Num_MVs_per_dweling_Tot_pc,0.9855,35.0
+Frankston,Num_MVs_per_dweling_Tot_pc,0.9856,36.0
+Werribee,Num_MVs_per_dweling_Tot_pc,0.9858,37.0
+Footscray,Num_MVs_per_dweling_Tot_pc,0.9859,38.0
+Ashwood,Num_MVs_per_dweling_Tot_pc,0.986,39.0
+Albert Park,Num_MVs_per_dweling_Tot_pc,0.9861,40.0
+Bendigo West,Num_MVs_per_dweling_Tot_pc,0.9863,41.0
+Kororoit,Num_MVs_per_dweling_Tot_pc,0.9863,42.0
+Malvern,Num_MVs_per_dweling_Tot_pc,0.9864,43.0
+Point Cook,Num_MVs_per_dweling_Tot_pc,0.9864,44.0
+Wendouree,Num_MVs_per_dweling_Tot_pc,0.9867,45.0
+Geelong,Num_MVs_per_dweling_Tot_pc,0.9872,46.0
+Eureka,Num_MVs_per_dweling_Tot_pc,0.9873,47.0
+Pascoe Vale,Num_MVs_per_dweling_Tot_pc,0.9873,48.0
+Bendigo East,Num_MVs_per_dweling_Tot_pc,0.9874,49.0
+Richmond,Num_MVs_per_dweling_Tot_pc,0.9875,50.0
+Hastings,Num_MVs_per_dweling_Tot_pc,0.9877,51.0
+Yan Yean,Num_MVs_per_dweling_Tot_pc,0.9877,52.0
+Box Hill,Num_MVs_per_dweling_Tot_pc,0.9878,53.0
+Brunswick,Num_MVs_per_dweling_Tot_pc,0.9879,54.0
+Macedon,Num_MVs_per_dweling_Tot_pc,0.9879,55.0
+Carrum,Num_MVs_per_dweling_Tot_pc,0.988,56.0
+Essendon,Num_MVs_per_dweling_Tot_pc,0.988,57.0
+Sydenham,Num_MVs_per_dweling_Tot_pc,0.988,58.0
+Bayswater,Num_MVs_per_dweling_Tot_pc,0.9881,59.0
+Bundoora,Num_MVs_per_dweling_Tot_pc,0.9882,60.0
+Oakleigh,Num_MVs_per_dweling_Tot_pc,0.9882,61.0
+Ringwood,Num_MVs_per_dweling_Tot_pc,0.9882,62.0
+Williamstown,Num_MVs_per_dweling_Tot_pc,0.9888,63.0
+Prahran,Num_MVs_per_dweling_Tot_pc,0.9889,64.0
+Sunbury,Num_MVs_per_dweling_Tot_pc,0.9889,65.0
+Warrandyte,Num_MVs_per_dweling_Tot_pc,0.9889,66.0
+Pakenham,Num_MVs_per_dweling_Tot_pc,0.989,67.0
+Evelyn,Num_MVs_per_dweling_Tot_pc,0.9891,68.0
+Niddrie,Num_MVs_per_dweling_Tot_pc,0.9891,69.0
+Bellarine,Num_MVs_per_dweling_Tot_pc,0.9892,70.0
+Bentleigh,Num_MVs_per_dweling_Tot_pc,0.9893,71.0
+Kew,Num_MVs_per_dweling_Tot_pc,0.9895,72.0
+Narre Warren South,Num_MVs_per_dweling_Tot_pc,0.9895,73.0
+Ivanhoe,Num_MVs_per_dweling_Tot_pc,0.9899,74.0
+Brighton,Num_MVs_per_dweling_Tot_pc,0.9903,75.0
+Sandringham,Num_MVs_per_dweling_Tot_pc,0.9903,76.0
+South Barwon,Num_MVs_per_dweling_Tot_pc,0.9905,77.0
+Hawthorn,Num_MVs_per_dweling_Tot_pc,0.9908,78.0
+Northcote,Num_MVs_per_dweling_Tot_pc,0.9913,79.0
+Rowville,Num_MVs_per_dweling_Tot_pc,0.9913,80.0
+Monbulk,Num_MVs_per_dweling_Tot_pc,0.9915,81.0
+Berwick,Num_MVs_per_dweling_Tot_pc,0.9916,82.0
+Bulleen,Num_MVs_per_dweling_Tot_pc,0.9918,83.0
+Glen Waverley,Num_MVs_per_dweling_Tot_pc,0.9918,84.0
+Mordialloc,Num_MVs_per_dweling_Tot_pc,0.9918,85.0
+Mornington,Num_MVs_per_dweling_Tot_pc,0.9918,86.0
+Croydon,Num_MVs_per_dweling_Tot_pc,0.9923,87.0
+Eltham,Num_MVs_per_dweling_Tot_pc,0.9939,88.0
+Greenvale,Total_dwelings,22184.0,1.0
+Mill Park,Total_dwelings,22722.0,2.0
+Eltham,Total_dwelings,23126.0,3.0
+Monbulk,Total_dwelings,23309.0,4.0
+Yan Yean,Total_dwelings,23336.0,5.0
+Macedon,Total_dwelings,23340.0,6.0
+Sunbury,Total_dwelings,23342.0,7.0
+Sydenham,Total_dwelings,23912.0,8.0
+St Albans,Total_dwelings,23972.0,9.0
+Mornington,Total_dwelings,24138.0,10.0
+Evelyn,Total_dwelings,24141.0,11.0
+Rowville,Total_dwelings,24388.0,12.0
+Hastings,Total_dwelings,24451.0,13.0
+Eildon,Total_dwelings,24502.0,14.0
+Ovens Valley,Total_dwelings,24857.0,15.0
+Sandringham,Total_dwelings,24859.0,16.0
+Narracan,Total_dwelings,24893.0,17.0
+Bass,Total_dwelings,25014.0,18.0
+Warrandyte,Total_dwelings,25092.0,19.0
+Nepean,Total_dwelings,25098.0,20.0
+Murray Plains,Total_dwelings,25102.0,21.0
+Williamstown,Total_dwelings,25272.0,22.0
+Ivanhoe,Total_dwelings,25313.0,23.0
+Clarinda,Total_dwelings,25372.0,24.0
+Benambra,Total_dwelings,25400.0,25.0
+Berwick,Total_dwelings,25410.0,26.0
+Bendigo West,Total_dwelings,25431.0,27.0
+Niddrie,Total_dwelings,25477.0,28.0
+Bundoora,Total_dwelings,25517.0,29.0
+Gippsland East,Total_dwelings,25531.0,30.0
+Gippsland South,Total_dwelings,25560.0,31.0
+Narre Warren North,Total_dwelings,25583.0,32.0
+Thomastown,Total_dwelings,25777.0,33.0
+Kororoit,Total_dwelings,25780.0,34.0
+Pakenham,Total_dwelings,25841.0,35.0
+Mildura,Total_dwelings,25968.0,36.0
+South Barwon,Total_dwelings,26029.0,37.0
+Euroa,Total_dwelings,26067.0,38.0
+Mordialloc,Total_dwelings,26084.0,39.0
+Brighton,Total_dwelings,26133.0,40.0
+Lara,Total_dwelings,26160.0,41.0
+Narre Warren South,Total_dwelings,26214.0,42.0
+Polwarth,Total_dwelings,26271.0,43.0
+Malvern,Total_dwelings,26293.0,44.0
+Mulgrave,Total_dwelings,26512.0,45.0
+Kew,Total_dwelings,26541.0,46.0
+Ripon,Total_dwelings,26559.0,47.0
+Melton,Total_dwelings,26659.0,48.0
+Pascoe Vale,Total_dwelings,26910.0,49.0
+Bellarine,Total_dwelings,26978.0,50.0
+Bendigo East,Total_dwelings,26985.0,51.0
+Frankston,Total_dwelings,27190.0,52.0
+Cranbourne,Total_dwelings,27260.0,53.0
+South-West Coast,Total_dwelings,27297.0,54.0
+Broadmeadows,Total_dwelings,27312.0,55.0
+Shepparton,Total_dwelings,27320.0,56.0
+Bulleen,Total_dwelings,27380.0,57.0
+Bayswater,Total_dwelings,27396.0,58.0
+Carrum,Total_dwelings,27429.0,59.0
+Wendouree,Total_dwelings,27646.0,60.0
+Eureka,Total_dwelings,27658.0,61.0
+Northcote,Total_dwelings,27780.0,62.0
+Lowan,Total_dwelings,27932.0,63.0
+Tarneit,Total_dwelings,28016.0,64.0
+Kalkallo,Total_dwelings,28102.0,65.0
+Hawthorn,Total_dwelings,28173.0,66.0
+Werribee,Total_dwelings,28184.0,67.0
+Glen Waverley,Total_dwelings,28305.0,68.0
+Croydon,Total_dwelings,28355.0,69.0
+Bentleigh,Total_dwelings,28370.0,70.0
+Morwell,Total_dwelings,28561.0,71.0
+Essendon,Total_dwelings,28589.0,72.0
+Ashwood,Total_dwelings,28775.0,73.0
+Geelong,Total_dwelings,29086.0,74.0
+Footscray,Total_dwelings,29149.0,75.0
+Caulfield,Total_dwelings,29317.0,76.0
+Preston,Total_dwelings,29346.0,77.0
+Dandenong,Total_dwelings,29731.0,78.0
+Laverton,Total_dwelings,29743.0,79.0
+Point Cook,Total_dwelings,29916.0,80.0
+Brunswick,Total_dwelings,30195.0,81.0
+Ringwood,Total_dwelings,30367.0,82.0
+Richmond,Total_dwelings,31081.0,83.0
+Box Hill,Total_dwelings,32279.0,84.0
+Oakleigh,Total_dwelings,34198.0,85.0
+Albert Park,Total_dwelings,35474.0,86.0
+Prahran,Total_dwelings,37345.0,87.0
+Melbourne,Total_dwelings,54747.0,88.0
+Albert Park,Total_dwelings_pc,1.0,1.0
+Ashwood,Total_dwelings_pc,1.0,2.0
+Bass,Total_dwelings_pc,1.0,3.0
+Bayswater,Total_dwelings_pc,1.0,4.0
+Bellarine,Total_dwelings_pc,1.0,5.0
+Benambra,Total_dwelings_pc,1.0,6.0
+Bendigo East,Total_dwelings_pc,1.0,7.0
+Bendigo West,Total_dwelings_pc,1.0,8.0
+Bentleigh,Total_dwelings_pc,1.0,9.0
+Berwick,Total_dwelings_pc,1.0,10.0
+Box Hill,Total_dwelings_pc,1.0,11.0
+Brighton,Total_dwelings_pc,1.0,12.0
+Broadmeadows,Total_dwelings_pc,1.0,13.0
+Brunswick,Total_dwelings_pc,1.0,14.0
+Bulleen,Total_dwelings_pc,1.0,15.0
+Bundoora,Total_dwelings_pc,1.0,16.0
+Carrum,Total_dwelings_pc,1.0,17.0
+Caulfield,Total_dwelings_pc,1.0,18.0
+Clarinda,Total_dwelings_pc,1.0,19.0
+Cranbourne,Total_dwelings_pc,1.0,20.0
+Croydon,Total_dwelings_pc,1.0,21.0
+Dandenong,Total_dwelings_pc,1.0,22.0
+Eildon,Total_dwelings_pc,1.0,23.0
+Eltham,Total_dwelings_pc,1.0,24.0
+Essendon,Total_dwelings_pc,1.0,25.0
+Eureka,Total_dwelings_pc,1.0,26.0
+Euroa,Total_dwelings_pc,1.0,27.0
+Evelyn,Total_dwelings_pc,1.0,28.0
+Footscray,Total_dwelings_pc,1.0,29.0
+Frankston,Total_dwelings_pc,1.0,30.0
+Geelong,Total_dwelings_pc,1.0,31.0
+Gippsland East,Total_dwelings_pc,1.0,32.0
+Gippsland South,Total_dwelings_pc,1.0,33.0
+Glen Waverley,Total_dwelings_pc,1.0,34.0
+Greenvale,Total_dwelings_pc,1.0,35.0
+Hastings,Total_dwelings_pc,1.0,36.0
+Hawthorn,Total_dwelings_pc,1.0,37.0
+Ivanhoe,Total_dwelings_pc,1.0,38.0
+Kalkallo,Total_dwelings_pc,1.0,39.0
+Kew,Total_dwelings_pc,1.0,40.0
+Kororoit,Total_dwelings_pc,1.0,41.0
+Lara,Total_dwelings_pc,1.0,42.0
+Laverton,Total_dwelings_pc,1.0,43.0
+Lowan,Total_dwelings_pc,1.0,44.0
+Macedon,Total_dwelings_pc,1.0,45.0
+Malvern,Total_dwelings_pc,1.0,46.0
+Melbourne,Total_dwelings_pc,1.0,47.0
+Melton,Total_dwelings_pc,1.0,48.0
+Mildura,Total_dwelings_pc,1.0,49.0
+Mill Park,Total_dwelings_pc,1.0,50.0
+Monbulk,Total_dwelings_pc,1.0,51.0
+Mordialloc,Total_dwelings_pc,1.0,52.0
+Mornington,Total_dwelings_pc,1.0,53.0
+Morwell,Total_dwelings_pc,1.0,54.0
+Mulgrave,Total_dwelings_pc,1.0,55.0
+Murray Plains,Total_dwelings_pc,1.0,56.0
+Narracan,Total_dwelings_pc,1.0,57.0
+Narre Warren North,Total_dwelings_pc,1.0,58.0
+Narre Warren South,Total_dwelings_pc,1.0,59.0
+Nepean,Total_dwelings_pc,1.0,60.0
+Niddrie,Total_dwelings_pc,1.0,61.0
+Northcote,Total_dwelings_pc,1.0,62.0
+Oakleigh,Total_dwelings_pc,1.0,63.0
+Ovens Valley,Total_dwelings_pc,1.0,64.0
+Pakenham,Total_dwelings_pc,1.0,65.0
+Pascoe Vale,Total_dwelings_pc,1.0,66.0
+Point Cook,Total_dwelings_pc,1.0,67.0
+Polwarth,Total_dwelings_pc,1.0,68.0
+Prahran,Total_dwelings_pc,1.0,69.0
+Preston,Total_dwelings_pc,1.0,70.0
+Richmond,Total_dwelings_pc,1.0,71.0
+Ringwood,Total_dwelings_pc,1.0,72.0
+Ripon,Total_dwelings_pc,1.0,73.0
+Rowville,Total_dwelings_pc,1.0,74.0
+Sandringham,Total_dwelings_pc,1.0,75.0
+Shepparton,Total_dwelings_pc,1.0,76.0
+South Barwon,Total_dwelings_pc,1.0,77.0
+South-West Coast,Total_dwelings_pc,1.0,78.0
+St Albans,Total_dwelings_pc,1.0,79.0
+Sunbury,Total_dwelings_pc,1.0,80.0
+Sydenham,Total_dwelings_pc,1.0,81.0
+Tarneit,Total_dwelings_pc,1.0,82.0
+Thomastown,Total_dwelings_pc,1.0,83.0
+Warrandyte,Total_dwelings_pc,1.0,84.0
+Wendouree,Total_dwelings_pc,1.0,85.0
+Werribee,Total_dwelings_pc,1.0,86.0
+Williamstown,Total_dwelings_pc,1.0,87.0
+Yan Yean,Total_dwelings_pc,1.0,88.0
+Greenvale,Total_dwelings_total,22184.0,1.0
+Mill Park,Total_dwelings_total,22722.0,2.0
+Eltham,Total_dwelings_total,23126.0,3.0
+Monbulk,Total_dwelings_total,23309.0,4.0
+Yan Yean,Total_dwelings_total,23336.0,5.0
+Macedon,Total_dwelings_total,23340.0,6.0
+Sunbury,Total_dwelings_total,23342.0,7.0
+Sydenham,Total_dwelings_total,23912.0,8.0
+St Albans,Total_dwelings_total,23972.0,9.0
+Mornington,Total_dwelings_total,24138.0,10.0
+Evelyn,Total_dwelings_total,24141.0,11.0
+Rowville,Total_dwelings_total,24388.0,12.0
+Hastings,Total_dwelings_total,24451.0,13.0
+Eildon,Total_dwelings_total,24502.0,14.0
+Ovens Valley,Total_dwelings_total,24857.0,15.0
+Sandringham,Total_dwelings_total,24859.0,16.0
+Narracan,Total_dwelings_total,24893.0,17.0
+Bass,Total_dwelings_total,25014.0,18.0
+Warrandyte,Total_dwelings_total,25092.0,19.0
+Nepean,Total_dwelings_total,25098.0,20.0
+Murray Plains,Total_dwelings_total,25102.0,21.0
+Williamstown,Total_dwelings_total,25272.0,22.0
+Ivanhoe,Total_dwelings_total,25313.0,23.0
+Clarinda,Total_dwelings_total,25372.0,24.0
+Benambra,Total_dwelings_total,25400.0,25.0
+Berwick,Total_dwelings_total,25410.0,26.0
+Bendigo West,Total_dwelings_total,25431.0,27.0
+Niddrie,Total_dwelings_total,25477.0,28.0
+Bundoora,Total_dwelings_total,25517.0,29.0
+Gippsland East,Total_dwelings_total,25531.0,30.0
+Gippsland South,Total_dwelings_total,25560.0,31.0
+Narre Warren North,Total_dwelings_total,25583.0,32.0
+Thomastown,Total_dwelings_total,25777.0,33.0
+Kororoit,Total_dwelings_total,25780.0,34.0
+Pakenham,Total_dwelings_total,25841.0,35.0
+Mildura,Total_dwelings_total,25968.0,36.0
+South Barwon,Total_dwelings_total,26029.0,37.0
+Euroa,Total_dwelings_total,26067.0,38.0
+Mordialloc,Total_dwelings_total,26084.0,39.0
+Brighton,Total_dwelings_total,26133.0,40.0
+Lara,Total_dwelings_total,26160.0,41.0
+Narre Warren South,Total_dwelings_total,26214.0,42.0
+Polwarth,Total_dwelings_total,26271.0,43.0
+Malvern,Total_dwelings_total,26293.0,44.0
+Mulgrave,Total_dwelings_total,26512.0,45.0
+Kew,Total_dwelings_total,26541.0,46.0
+Ripon,Total_dwelings_total,26559.0,47.0
+Melton,Total_dwelings_total,26659.0,48.0
+Pascoe Vale,Total_dwelings_total,26910.0,49.0
+Bellarine,Total_dwelings_total,26978.0,50.0
+Bendigo East,Total_dwelings_total,26985.0,51.0
+Frankston,Total_dwelings_total,27190.0,52.0
+Cranbourne,Total_dwelings_total,27260.0,53.0
+South-West Coast,Total_dwelings_total,27297.0,54.0
+Broadmeadows,Total_dwelings_total,27312.0,55.0
+Shepparton,Total_dwelings_total,27320.0,56.0
+Bulleen,Total_dwelings_total,27380.0,57.0
+Bayswater,Total_dwelings_total,27396.0,58.0
+Carrum,Total_dwelings_total,27429.0,59.0
+Wendouree,Total_dwelings_total,27646.0,60.0
+Eureka,Total_dwelings_total,27658.0,61.0
+Northcote,Total_dwelings_total,27780.0,62.0
+Lowan,Total_dwelings_total,27932.0,63.0
+Tarneit,Total_dwelings_total,28016.0,64.0
+Kalkallo,Total_dwelings_total,28102.0,65.0
+Hawthorn,Total_dwelings_total,28173.0,66.0
+Werribee,Total_dwelings_total,28184.0,67.0
+Glen Waverley,Total_dwelings_total,28305.0,68.0
+Croydon,Total_dwelings_total,28355.0,69.0
+Bentleigh,Total_dwelings_total,28370.0,70.0
+Morwell,Total_dwelings_total,28561.0,71.0
+Essendon,Total_dwelings_total,28589.0,72.0
+Ashwood,Total_dwelings_total,28775.0,73.0
+Geelong,Total_dwelings_total,29086.0,74.0
+Footscray,Total_dwelings_total,29149.0,75.0
+Caulfield,Total_dwelings_total,29317.0,76.0
+Preston,Total_dwelings_total,29346.0,77.0
+Dandenong,Total_dwelings_total,29731.0,78.0
+Laverton,Total_dwelings_total,29743.0,79.0
+Point Cook,Total_dwelings_total,29916.0,80.0
+Brunswick,Total_dwelings_total,30195.0,81.0
+Ringwood,Total_dwelings_total,30367.0,82.0
+Richmond,Total_dwelings_total,31081.0,83.0
+Box Hill,Total_dwelings_total,32279.0,84.0
+Oakleigh,Total_dwelings_total,34198.0,85.0
+Albert Park,Total_dwelings_total,35474.0,86.0
+Prahran,Total_dwelings_total,37345.0,87.0
+Melbourne,Total_dwelings_total,54747.0,88.0
