@@ -98,10 +98,17 @@ for index, row in df.iterrows():
         worksheet.set_row(index, 15, number_format)
         worksheet.write_row(needle, row)
         range = f'D{index+1}:CM{index+1}'# i.e index=1 returns D2:CM2
-        worksheet.conditional_format(range, {'type': '2_color_scale',
+        worksheet.conditional_format(range, {'type': '3_color_scale',
                                              'min_color': "red",
+                                             'mid_color': "white",
                                              'max_color': "blue",
-                                             'mid_type': "num"
+                                             'mid_type': "num",
+                                             'min_type': 'num',
+                                             'min_value': 1,
+                                             'mid_type': 'num',
+                                             'mid_value': 44,
+                                             'max_type': 'num',
+                                             'max_value': 88
                                             })
        
 # set column widths
@@ -109,7 +116,7 @@ worksheet.set_column(0, 0, 10)
 worksheet.set_column(1, 1, 75, label_format) # make census var column wider
 worksheet.set_column(2, 91, 20)
 
-worksheet.freeze_panes(1, 3)
+worksheet.freeze_panes(1, 2)
 
 worksheet.autofilter('A1:CM18063')
 
