@@ -97,7 +97,7 @@ for index, row in df.iterrows():
     else:
         worksheet.set_row(index, 15, number_format)
         worksheet.write_row(needle, row)
-        range = f'D{index+1}:CM{index+1}'# i.e index=1 returns D2:CM2
+        range = f'C{index+1}:CM{index+1}'# i.e index=1 returns C2:CM2
         worksheet.conditional_format(range, {'type': '3_color_scale',
                                              'min_color': "red",
                                              'mid_color': "white",
