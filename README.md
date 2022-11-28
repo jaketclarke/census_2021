@@ -9,7 +9,9 @@ This project makes use of code to transform data between different geographies w
 
 ## Just give me the data
 
-If you are looking for census data by 2022 Victorian Districts, click [here](https://github.com/jaketclarke/census-2021/tree/main/census-data-sed-victoria?raw=true)
+If you are looking for census data by 2022 Victorian Districts, click [here](https://github.com/jaketclarke/census-2021/tree/main/census-data-sed-victoria?raw=true).
+
+For formatted spreadsheets, [ranked data](https://github.com/jaketclarke/census-2021/blob/main/census-data-sed-victoria/summary/2021Census_VIC_SED_2022_ranks_long.xlsx?raw=true) and [numeric and proportion data](https://github.com/jaketclarke/census-2021/blob/main/census-data-sed-victoria/summary/2021Census_VIC_SED_2022_long.xlsx?raw=true)
 
 If you want to know more about it and or repeat the calculation, read below.
 
